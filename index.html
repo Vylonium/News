@@ -473,7 +473,7 @@ function renderArticle(countryId, articleId) {
         var d=s.url.replace(/https?:\/\//,'').split('/')[0];
         h+='<a href="'+s.url+'" target="_blank" rel="noopener" class="block p-4 border border-gray-200 rounded-lg bg-gray-50 hover:bg-gray-100 transition-colors">'
           +'<div class="flex items-start gap-3">'
-          +'<img src="https://www.google.com/s2/favicons?domain='+d+'&sz=64" class="w-10 h-10 rounded border flex-shrink-0 bg-white mt-0.5" onerror="this.style.display=\'none\'">'
+          +'<span style="position:relative;display:inline-block;width:2.5rem;height:2.5rem;flex-shrink:0;margin-top:0.125rem">'+'<img src="https://www.google.com/s2/favicons?domain='+d+'&sz=64" style="width:2.5rem;height:2.5rem;border-radius:0.25rem;border:1px solid #e5e7eb;background:#fff;position:absolute;top:0;left:0" onerror="this.style.opacity=\'0\';this.nextElementSibling.style.display=\'flex\'">'+'<span style="display:none;width:2.5rem;height:2.5rem;border-radius:0.25rem;border:1px solid #e5e7eb;background:#dbeafe;color:#2563eb;font-weight:700;font-size:0.875rem;align-items:center;justify-content:center;position:absolute;top:0;left:0">'+(s.name||d).charAt(0).toUpperCase()+'</span></span>'
           +'<div class="min-w-0"><div class="font-bold text-gray-900 text-sm">'+(s.name||d)+'</div>'
           +'<div class="text-xs text-blue-500 truncate mt-0.5">'+d+'</div>'
           +(s.snip?'<div class="text-xs text-gray-500 mt-1 leading-relaxed">'+s.snip+'</div>':'')
