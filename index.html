@@ -172,6 +172,7 @@
 <script src="data_jerman.js"></script>
 <script src="data_spanyol.js"></script>
 <script src="data_portugal.js"></script>
+  <script src="data_india.js"></script>
 <script>
 // Merge semua file data per negara ke dalam satu object 'countries'
 (function() {
@@ -458,12 +459,30 @@ function renderArticle(countryId, articleId) {
     '<span class="ml-3 font-medium text-sm group-hover:text-gray-900 transition-colors">' + u.source + '</span>' +
     '<svg id="sourceIconArrow" class="w-5 h-5 ml-auto text-gray-400 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>' +
     '</div>' +
-    '<div id="sourceDetails" class="hidden mt-4">' +
-    '<div class="p-4 border border-gray-200 rounded-[0.5rem] bg-gray-50 flex items-start sm:items-center flex-col sm:flex-row gap-4">' +
-    '<img src="https://www.google.com/s2/favicons?domain=' + item.sourceDomain + '&sz=64" class="w-12 h-12 rounded border border-gray-200 flex-shrink-0 bg-white" onerror="this.style.display=\'none\'">' +
-    '<div><div class="font-bold text-gray-900 text-sm">' + item.sourceDomain + '</div>' +
-    '<div class="text-xs text-gray-500 mt-1.5 leading-relaxed">' + item.sourceSnippet + '</div></div>' +
-    '</div></div></div>';
+    (function(){
+      var srcs=[
+        {url:item.sourceUrl, name:item.source, snip:item.sourceSnippet},
+        {url:item.sourceUrl2,name:item.source2,snip:item.sourceSnippet2},
+        {url:item.sourceUrl3,name:item.source3,snip:item.sourceSnippet3},
+        {url:item.sourceUrl4,name:item.source4,snip:item.sourceSnippet4},
+        {url:item.sourceUrl5,name:item.source5,snip:item.sourceSnippet5}
+      ];
+      var h='<div id="sourceDetails" class="hidden mt-4 space-y-3">';
+      srcs.forEach(function(s){
+        if(!s.url)return;
+        var d=s.url.replace(/https?:\/\//,'').split('/')[0];
+        h+='<a href="'+s.url+'" target="_blank" rel="noopener" class="block p-4 border border-gray-200 rounded-lg bg-gray-50 hover:bg-gray-100 transition-colors">'
+          +'<div class="flex items-start gap-3">'
+          +'<img src="https://www.google.com/s2/favicons?domain='+d+'&sz=64" class="w-10 h-10 rounded border flex-shrink-0 bg-white mt-0.5" onerror="this.style.display=\'none\'">'
+          +'<div class="min-w-0"><div class="font-bold text-gray-900 text-sm">'+(s.name||d)+'</div>'
+          +'<div class="text-xs text-blue-500 truncate mt-0.5">'+d+'</div>'
+          +(s.snip?'<div class="text-xs text-gray-500 mt-1 leading-relaxed">'+s.snip+'</div>':'')
+          +'</div></div></a>';
+      });
+      h+='</div>';
+      return h;
+    })()+
+    '</div></div>';
 
   window.scrollTo(0, 0);
 }
