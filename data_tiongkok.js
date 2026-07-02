@@ -339,6 +339,39 @@
             sourceSnippet2: '中欧就电动车最低价格机制达成一致 — 路透社，2026年7月2日'
           }
         }
+      },
+      {
+        id: 'tiongkok-cr-new-energy-ipo-shenzhen-2juli2026',
+        langs: {
+          id: {
+            title: 'China Resources New Energy Melantai di Shenzhen, IPO Terbesar Asia Tahun Ini',
+            desc: 'China Resources New Energy resmi mulai diperdagangkan di Bursa Shenzhen pada 2 Juli 2026 setelah IPO yang berpotensi meraup hingga 24,5 miliar yuan.',
+            content: '<p>Perusahaan energi terbarukan China Resources New Energy resmi memulai perdagangan sahamnya di Bursa Efek Shenzhen pada Kamis, 2 Juli 2026, menandai penawaran umum perdana (IPO) terbesar di Asia sepanjang tahun ini. Perusahaan pengembang energi angin dan surya tersebut menjual 2,11 miliar saham dengan harga 10,11 yuan per lembar, dengan potensi total perolehan dana mencapai 24,5 miliar yuan atau sekitar 3,4 miliar dolar AS.</p><p>Menurut laporan Reuters, IPO ini sempat menarik minat luar biasa dari investor ritel, dengan total permintaan mencapai 6,4 triliun yuan atau setara 943 miliar dolar AS — salah satu angka permintaan ritel tertinggi untuk IPO di Bursa Shenzhen. Antusiasme pasar ini mencerminkan besarnya kepercayaan investor terhadap sektor energi hijau China di tengah dorongan pemerintah untuk memperkuat ketahanan energi domestik.</p><p>Dana hasil IPO akan digunakan untuk mendanai pengembangan proyek energi angin dan surya berkapasitas 7,18 gigawatt di berbagai wilayah China, sesuai laporan PV Magazine. Langkah ini sejalan dengan strategi perusahaan induk, China Resources Power, untuk memperluas portofolio energi bersih di tengah upaya China mengurangi ketergantungan pada energi fosil dan mengisolasi diri dari gejolak harga minyak global.</p><p>Nikkei Asia mencatat bahwa status IPO ini sebagai "red-chip listing" — mengacu pada perusahaan China yang terdaftar melalui entitas luar negeri namun mencatatkan sahamnya di bursa domestik China — menjadikannya tonggak penting bagi pasar modal Shenzhen yang terus bersaing dengan Shanghai dan Hong Kong dalam menarik perusahaan-perusahaan besar milik negara.</p><p>Analis pasar menilai suksesnya IPO ini sebagai sinyal positif bagi sentimen investor terhadap sektor energi terbarukan China, meski beberapa pihak tetap mewaspadai risiko volatilitas pasar saham China secara keseluruhan di paruh kedua 2026.</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/business/energy/china-resources-new-energy-asias-biggest-ipo-this-year-debut-july-2-2026-06-30/',
+            sourceSnippet: 'China Resources New Energy, Asia\'s biggest IPO this year, to debut July 2 — Reuters',
+            source2: 'Finimize',
+            sourceUrl2: 'https://finimize.com/content/china-resources-new-energy-set-for-shenzhens-biggest-ipo',
+            sourceSnippet2: 'China Resources New Energy Set For Shenzhen\'s Biggest IPO — Finimize',
+            source3: 'Nikkei Asia',
+            sourceUrl3: 'https://asia.nikkei.com/business/markets/ipo/state-backed-china-resources-power-s-unit-to-raise-3.6bn-in-record-ipo',
+            sourceSnippet3: 'State-backed China Resources Power\'s unit to raise $3.6bn in record IPO — Nikkei Asia'
+          },
+          en: {
+            title: 'China Resources New Energy Debuts in Shenzhen, Asia\'s Biggest IPO This Year',
+            desc: 'China Resources New Energy began trading on the Shenzhen exchange on July 2, 2026, after an IPO that could raise up to 24.5 billion yuan.',
+            content: '<p>Renewable energy company China Resources New Energy officially began trading on the Shenzhen Stock Exchange on Thursday, July 2, 2026, marking Asia\'s biggest initial public offering this year. The wind and solar developer sold 2.11 billion shares at 10.11 yuan each, with total proceeds potentially reaching 24.5 billion yuan, or roughly $3.4 billion.</p><p>According to Reuters, the IPO drew extraordinary retail investor interest, with total bids reaching 6.4 trillion yuan (about $943 billion) — one of the highest retail demand figures for a Shenzhen listing. The market enthusiasm reflects strong investor confidence in China\'s green energy sector amid government efforts to strengthen domestic energy security.</p><p>Proceeds from the IPO will fund the development of 7.18 gigawatts of wind and solar projects across China, according to PV Magazine. This aligns with parent company China Resources Power\'s strategy to expand its clean energy portfolio as China works to reduce fossil fuel dependence and insulate itself from global oil price shocks.</p><p>Nikkei Asia noted that the listing\'s status as a "red-chip listing" — referring to Chinese companies listed through offshore entities but trading on domestic Chinese exchanges — makes it a significant milestone for the Shenzhen market as it competes with Shanghai and Hong Kong to attract major state-owned enterprises.</p><p>Market analysts view the IPO\'s success as a positive signal for investor sentiment toward China\'s renewable energy sector, though some remain cautious about broader Chinese stock market volatility risks in the second half of 2026.</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/business/energy/china-resources-new-energy-asias-biggest-ipo-this-year-debut-july-2-2026-06-30/',
+            sourceSnippet: 'China Resources New Energy, Asia\'s biggest IPO this year, to debut July 2 — Reuters',
+            source2: 'Finimize',
+            sourceUrl2: 'https://finimize.com/content/china-resources-new-energy-set-for-shenzhens-biggest-ipo',
+            sourceSnippet2: 'China Resources New Energy Set For Shenzhen\'s Biggest IPO — Finimize',
+            source3: 'Nikkei Asia',
+            sourceUrl3: 'https://asia.nikkei.com/business/markets/ipo/state-backed-china-resources-power-s-unit-to-raise-3.6bn-in-record-ipo',
+            sourceSnippet3: 'State-backed China Resources Power\'s unit to raise $3.6bn in record IPO — Nikkei Asia'
+          }
+        }
       }
     ]
   };
