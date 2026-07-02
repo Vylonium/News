@@ -352,9 +352,15 @@ function makeHeader(backFn, backLabel) {
 }
 
 // BERANDA — semua artikel campur
-function renderHome(searchQuery) {
+function renderHome(searchQuery, skipPush) {
   currentView = 'home';
   searchQuery = searchQuery || '';
+  if (!skipPush) {
+    const url = searchQuery ? ('/?q=' + encodeURIComponent(searchQuery)) : '/';
+    if (location.pathname + location.search !== url) {
+      history.pushState({view:'home', q: searchQuery}, '', url);
+    }
+  }
   const u = ui();
   let all = getAllArticles();
 
@@ -396,9 +402,15 @@ function renderHome(searchQuery) {
 }
 
 // HALAMAN NEGARA — daftar artikel negara itu
-function renderCountry(countryId) {
+function renderCountry(countryId, skipPush) {
   currentView = 'country';
   currentCountryId = countryId;
+  if (!skipPush) {
+    const url = '/' + countryId;
+    if (location.pathname !== url) {
+      history.pushState({view:'country', countryId: countryId}, '', url);
+    }
+  }
   const c = countries[countryId];
   if (!c) { renderHome(); return; }
   const u = ui();
@@ -432,10 +444,16 @@ function renderCountry(countryId) {
 }
 
 // HALAMAN ARTIKEL — isi artikel lengkap
-function renderArticle(countryId, articleId) {
+function renderArticle(countryId, articleId, skipPush) {
   currentView = 'article';
   currentCountryId = countryId;
   currentArticleId = articleId;
+  if (!skipPush) {
+    const url = '/' + countryId + '/' + articleId;
+    if (location.pathname !== url) {
+      history.pushState({view:'article', countryId: countryId, articleId: articleId}, '', url);
+    }
+  }
 
   const c = countries[countryId];
   if (!c) { renderHome(); return; }
@@ -488,8 +506,13 @@ function renderArticle(countryId, articleId) {
 }
 
 // TENTANG
-function renderAbout() {
+function renderAbout(skipPush) {
   currentView = 'about';
+  if (!skipPush) {
+    if (location.pathname !== '/about') {
+      history.pushState({view:'about'}, '', '/about');
+    }
+  }
   const u = ui();
   
   // Konten panjang 5 Paragraf mengenai visi misi global & sharing
@@ -560,11 +583,45 @@ function toggleSourceInfo() {
 }
 
 // =============================================
+// ROUTER — parse URL saat load & popstate
+// =============================================
+function parseAndRender(skipPush) {
+  const path = location.pathname.replace(/\/+$/, '') || '/';
+  const parts = path.split('/').filter(Boolean);
+  const search = new URLSearchParams(location.search);
+  const q = search.get('q') || '';
+
+  if (parts.length === 0 || path === '/') {
+    renderHome(q, skipPush || true);
+  } else if (parts.length === 1) {
+    if (parts[0] === 'about') {
+      renderAbout(skipPush || true);
+    } else {
+      renderCountry(parts[0], skipPush || true);
+    }
+  } else if (parts.length >= 2) {
+    renderArticle(parts[0], parts[1], skipPush || true);
+  } else {
+    renderHome('', true);
+  }
+}
+
+window.addEventListener('popstate', function(e) {
+  parseAndRender(true);
+});
+
+// =============================================
 // INIT
 // =============================================
 function init() {
   updateSidebarUI();
-  renderHome();
+  // Handle GitHub Pages SPA redirect
+  var redirect = sessionStorage.getItem('spa_redirect');
+  if (redirect && redirect !== '/') {
+    sessionStorage.removeItem('spa_redirect');
+    history.replaceState(null, '', redirect);
+  }
+  parseAndRender(false);
 }
 
 init();
