@@ -339,6 +339,39 @@
             sourceSnippet2: '德国可再生能源纪录带来负电价现象 — Clean Energy Wire，2026年'
           }
         }
+      },
+      {
+        id: 'jerman-koalisi-sepakat-paket-reformasi-2juli2026',
+        langs: {
+          id: {
+            title: 'Koalisi Pemerintahan Merz Sepakati Paket Reformasi Besar Setelah Negosiasi 7 Jam',
+            desc: 'Koalisi pemerintahan Kanselir Friedrich Merz mencapai kesepakatan paket reformasi pensiun, pasar kerja, dan pajak penghasilan setelah perundingan maraton.',
+            content: '<p>Koalisi pemerintahan Kanselir Jerman Friedrich Merz mencapai kesepakatan atas paket reformasi besar yang mencakup sistem pensiun, pasar tenaga kerja, dan pajak penghasilan, setelah negosiasi maraton yang berlangsung lebih dari tujuh jam pada Selasa (30/6) malam. Kesepakatan ini diumumkan melalui kantor berita Jerman DPA pada Kamis, 2 Juli 2026, dengan rincian lengkap akan dipresentasikan pada hari yang sama.</p><p>Blok konservatif Merz dan mitra koalisinya, Partai Sosial Demokrat (SPD) yang berhaluan tengah-kiri, telah menghabiskan waktu berbulan-bulan untuk merumuskan paket yang bertujuan memperkuat sistem jaminan sosial Jerman. Perdebatan mengenai berbagai isu sensitif, mulai dari pajak hingga kenaikan usia pensiun, sempat menghambat upaya menghidupkan kembali perekonomian Jerman yang stagnan selama beberapa tahun terakhir.</p><p>Anggota parlemen senior SPD, Dirk Wiese, menyampaikan kepada penyiar publik ARD bahwa tekanan waktu menjadi faktor pendorong utama tercapainya kesepakatan. "Meski kami harus saling bergulat, pada akhirnya kami harus mencapai hasil dan menyelesaikannya minggu ini," ujar Wiese, merujuk pada tenggat waktu sebelum masa reses musim panas parlemen berakhir pekan ini.</p><p>Menurut Bloomberg, kesepakatan ini menandai "lompatan besar" dalam agenda reformasi Merz, yang sebelumnya menyatakan optimisme pemerintahannya akan mampu merampungkan reformasi komprehensif ini dalam pekan ini. Paket tersebut diharapkan dapat mengatasi tekanan fiskal jangka panjang sekaligus mendorong pertumbuhan ekonomi Jerman yang tertekan sejak beberapa tahun terakhir.</p><p>Kesepakatan reformasi ini muncul di tengah pemberitaan lain terkait Jerman, termasuk penggerebekan kantor Asosiasi Sepak Bola Jerman (DFB) oleh polisi terkait dugaan penyalahgunaan tiket Euro 2024, yang turut menyita perhatian publik pekan ini.</p>',
+            source: 'DW (Deutsche Welle)',
+            sourceUrl: 'https://www.dw.com/en/germany-news-dfb-raids-austria-border-checks/live-77779894',
+            sourceSnippet: 'Germany news: Raids on DFB, host cities over Euro 2024 perks — DW, 2 Juli 2026',
+            source2: 'Bloomberg',
+            sourceUrl2: 'https://www.bloomberg.com/news/articles/2026-07-01/merz-s-coalition-reaches-agreement-on-german-reform-package',
+            sourceSnippet2: 'Merz\'s Coalition Reaches Agreement on German Reform Package — Bloomberg',
+            source3: 'Yahoo News',
+            sourceUrl3: 'https://www.yahoo.com/news/politics/articles/germanys-coalition-agrees-reform-package-230429346.html',
+            sourceSnippet3: 'Germany\'s coalition agrees reform package after 7-hour negotiations — Yahoo News'
+          },
+          en: {
+            title: 'Merz\'s Coalition Reaches Agreement on German Reform Package After 7-Hour Talks',
+            desc: 'German Chancellor Friedrich Merz\'s ruling coalition agreed on a reform package covering pensions, the labor market, and income tax after marathon negotiations.',
+            content: '<p>German Chancellor Friedrich Merz\'s ruling coalition reached agreement on a broad reform package covering the pension system, labor market, and income tax, following marathon negotiations lasting more than seven hours on Tuesday night. The agreement was reported by German news agency DPA on Thursday, July 2, 2026, with full details to be presented the same day.</p><p>Merz\'s conservative bloc and his center-left Social Democrat (SPD) coalition partners had spent months working on the package aimed at strengthening Germany\'s social security system. Debates over thorny issues from taxes to raising the retirement age had slowed efforts to revive an economy that has stagnated for several years.</p><p>Senior SPD lawmaker Dirk Wiese told public broadcaster ARD that time pressure was a key factor in reaching the deal. "While we have to grapple with one another, in the end we have to reach results and get things across the finish line this week," Wiese said, referring to the deadline before parliament\'s summer recess.</p><p>According to Bloomberg, the agreement marks a "giant leap" in Merz\'s reform agenda, after he had earlier expressed confidence his government would deliver on the comprehensive package this week. The package is expected to address long-term fiscal pressures while boosting Germany\'s economic growth, which has stagnated in recent years.</p><p>The reform agreement comes amid other Germany-related news this week, including police raids on the German Football Association (DFB) headquarters over alleged misappropriation of Euro 2024 tickets, which has also drawn public attention.</p>',
+            source: 'DW (Deutsche Welle)',
+            sourceUrl: 'https://www.dw.com/en/germany-news-dfb-raids-austria-border-checks/live-77779894',
+            sourceSnippet: 'Germany news: Raids on DFB, host cities over Euro 2024 perks — DW, July 2, 2026',
+            source2: 'Bloomberg',
+            sourceUrl2: 'https://www.bloomberg.com/news/articles/2026-07-01/merz-s-coalition-reaches-agreement-on-german-reform-package',
+            sourceSnippet2: 'Merz\'s Coalition Reaches Agreement on German Reform Package — Bloomberg',
+            source3: 'Yahoo News',
+            sourceUrl3: 'https://www.yahoo.com/news/politics/articles/germanys-coalition-agrees-reform-package-230429346.html',
+            sourceSnippet3: 'Germany\'s coalition agrees reform package after 7-hour negotiations — Yahoo News'
+          }
+        }
       }
     ]
   };
