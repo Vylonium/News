@@ -307,6 +307,269 @@
           }
         }
       }
+      ,{
+        id: 'jepang-yen-terendah-40tahun-intervensi-2juli2026',
+        langs: {
+          id: {
+            title: 'Yen Jepang Anjlok ke Level Terendah dalam 40 Tahun, Tokyo Siapkan Intervensi Kejutan',
+            desc: 'Yen jatuh ke level 162,27 per dolar AS, terendah sejak 1986, mendorong pemerintah Jepang menyiapkan taktik intervensi baru yang lebih mendadak.',
+            content: '<p>Mata uang yen Jepang merosot ke level terendah dalam 40 tahun terakhir, menyentuh 162,27 per dolar AS pada awal Juli 2026, menurut laporan CNN dan Reuters. Ini merupakan level terlemah yen sejak tahun 1986.</p><p>Pelemahan yen dipicu oleh pergeseran ekspektasi suku bunga The Federal Reserve AS yang diperkirakan tetap tinggi akibat lonjakan harga minyak dari perang AS-Israel melawan Iran, serta penguatan dolar AS yang naik 3% sepanjang tahun ini setelah anjlok 9% pada 2025.</p><p>Bank of Japan (BOJ) sebelumnya menaikkan suku bunga acuan ke 1% pada 16 Juni 2026, level tertinggi sejak era 1990-an, namun kesenjangan suku bunga dengan The Fed yang berada di kisaran 3,5%-3,75% tetap mendorong dana mengalir keluar dari Jepang menuju aset dolar AS.</p><p>Menurut sumber Reuters, para pejabat Jepang kini beralih dari taktik memberi sinyal risiko intervensi menjadi pendekatan "ambush" atau serangan mendadak untuk menekan para spekulan short-seller yen, tanpa memberi peringatan dini seperti kebiasaan sebelumnya.</p><p>Jepang sempat menjual sekitar 70 miliar dolar AS aset dalam bentuk dolar pada akhir April hingga awal Mei 2026 untuk menopang yen, namun intervensi tersebut gagal menghentikan pelemahan berkelanjutan, memicu kekhawatiran baru soal dampak lanjutan pada pasar keuangan global termasuk potensi pembalikan carry trade yen-dolar.</p>',
+            source: 'CNN', sourceUrl: 'https://www.cnn.com/2026/07/01/economy/japanese-yen-low', sourceSnippet: "The Japanese yen is at a 40-year low. Here's why that matters — CNN, 1 Juli 2026",
+            source2: 'Reuters', sourceUrl2: 'https://www.reuters.com/world/asia-pacific/japan-shifts-ambush-intervention-tactics-against-yen-short-sellers-sources-say-2026-07-02/', sourceSnippet2: 'Japan shifts to ambush intervention tactics against yen short-sellers — Reuters, 2 Juli 2026',
+            source3: 'Euronews', sourceUrl3: 'https://www.euronews.com/business/2026/06/30/japanese-yen-sinks-to-40-year-low-against-the-us-dollar-as-intervention-looms', sourceSnippet3: 'Japanese yen sinks to 40-year low against the US dollar as intervention looms — Euronews'
+          },
+          en: {
+            title: "Japan's Yen Sinks to 40-Year Low, Tokyo Preps Ambush Intervention",
+            desc: 'The yen fell to 162.27 per US dollar, its weakest since 1986, prompting Japan to prepare a new, more sudden intervention approach.',
+            content: "<p>Japan's yen currency dropped to its lowest level in 40 years, hitting 162.27 per US dollar in early July 2026, CNN and Reuters reported. This marks the yen's weakest level since 1986.</p><p>The yen's decline was fueled by a shift in expectations that the US Federal Reserve will hold rates steady or higher amid an oil price shock from the US-Israeli war with Iran, alongside a rebounding dollar that is up 3% this year after tumbling 9% in 2025.</p><p>The Bank of Japan (BOJ) had previously raised its benchmark rate to 1% on June 16, 2026, its highest since the 1990s, but the rate gap with the Fed, held at 3.5%-3.75%, continues pushing funds out of Japan toward dollar assets.</p><p>According to Reuters sources, Japanese officials are shifting from telegraphing intervention risks to an 'ambush' approach to squeeze yen short-sellers, abandoning their previous habit of early warnings.</p><p>Japan sold around $70 billion in dollar-denominated assets in late April to early May 2026 to prop up the yen, but the intervention failed to halt the ongoing slide, raising fresh concerns about knock-on effects on global financial markets, including a potential unwind of the yen-dollar carry trade.</p>",
+            source: 'CNN', sourceUrl: 'https://www.cnn.com/2026/07/01/economy/japanese-yen-low', sourceSnippet: "The Japanese yen is at a 40-year low. Here's why that matters — CNN, July 1, 2026",
+            source2: 'Reuters', sourceUrl2: 'https://www.reuters.com/world/asia-pacific/japan-shifts-ambush-intervention-tactics-against-yen-short-sellers-sources-say-2026-07-02/', sourceSnippet2: 'Japan shifts to ambush intervention tactics against yen short-sellers — Reuters, July 2, 2026',
+            source3: 'Euronews', sourceUrl3: 'https://www.euronews.com/business/2026/06/30/japanese-yen-sinks-to-40-year-low-against-the-us-dollar-as-intervention-looms', sourceSnippet3: 'Japanese yen sinks to 40-year low against the US dollar as intervention looms — Euronews'
+          },
+          ja: {
+            title: '円、40年ぶり安値に急落　東京は奇襲的介入を準備',
+            desc: '円は対ドル162.27円まで下落し1986年以来の安値を記録、日本政府はより唐突な新たな介入戦術を準備している。',
+            content: '<p>日本円は2026年7月初旬、対米ドルで162.27円まで下落し、40年ぶりの安値を記録したと、CNNとロイターが報じました。これは1986年以来の円安水準です。</p><p>円安はイランとの米イスラエル戦争による原油高を背景に米連邦準備制度理事会（FRB）の金利高止まり観測が強まったことと、2025年に9%下落した反動でドルが年初来3%上昇していることが要因です。</p><p>日本銀行（BOJ）は2026年6月16日に政策金利を1990年代以来の高水準となる1%に引き上げましたが、3.5～3.75%のFRBとの金利差は依然として資金を日本からドル資産へ流出させています。</p><p>ロイターの情報筋によると、日本当局は円売り筋への警告を事前に行う従来の手法から、不意打ち的な「奇襲」介入戦術へと転換しつつあります。</p>',
+            source: 'CNN', sourceUrl: 'https://www.cnn.com/2026/07/01/economy/japanese-yen-low', sourceSnippet: '円40年ぶり安値 — CNN',
+            source2: 'Reuters', sourceUrl2: 'https://www.reuters.com/world/asia-pacific/japan-shifts-ambush-intervention-tactics-against-yen-short-sellers-sources-say-2026-07-02/', sourceSnippet2: '奇襲的介入戦術 — Reuters'
+          },
+          ko: {
+            title: '엔화, 40년 만의 최저치로 급락... 일본, 기습 개입 준비',
+            desc: '엔화가 달러당 162.27엔까지 떨어져 1986년 이후 최저치를 기록하며 일본이 더 갑작스러운 새 개입 방식을 준비하고 있다.',
+            content: '<p>일본 엔화가 2026년 7월 초 달러당 162.27엔까지 하락하며 40년 만의 최저치를 기록했다고 CNN과 로이터가 보도했다. 이는 1986년 이후 가장 낮은 수준이다.</p><p>엔화 약세는 이란과의 미-이스라엘 전쟁으로 인한 유가 급등 속에 미 연준 금리가 높게 유지될 것이라는 전망 변화와, 2025년 9% 하락 후 올해 3% 반등한 달러 강세가 원인이다.</p><p>일본은행(BOJ)은 2026년 6월 16일 기준금리를 1990년대 이후 최고 수준인 1%로 인상했지만, 3.5~3.75%인 연준과의 금리 격차는 여전히 자금을 일본에서 달러 자산으로 유출시키고 있다.</p><p>로이터 소식통에 따르면 일본 당국은 개입 위험을 사전에 알리던 방식에서 벗어나 엔화 공매도 세력을 압박하는 "기습" 개입 방식으로 전환하고 있다.</p>',
+            source: 'CNN', sourceUrl: 'https://www.cnn.com/2026/07/01/economy/japanese-yen-low', sourceSnippet: '엔화 40년 만의 최저치 — CNN',
+            source2: 'Reuters', sourceUrl2: 'https://www.reuters.com/world/asia-pacific/japan-shifts-ambush-intervention-tactics-against-yen-short-sellers-sources-say-2026-07-02/', sourceSnippet2: '기습 개입 전술 — Reuters'
+          },
+          zh: {
+            title: '日元跌至40年低点，东京准备"伏击式"干预',
+            desc: '日元兑美元跌至162.27，为1986年以来最低水平，促使日本准备更具突发性的新干预策略。',
+            content: '<p>据CNN和路透社报道，日元在2026年7月初跌至兑美元162.27的水平，创40年来新低，为1986年以来最弱水平。</p><p>日元走软的原因是市场预期美联储将因美以伊朗战争引发的油价冲击而维持高利率，加上美元今年反弹3%（此前2025年曾下跌9%）。</p><p>日本央行此前已于2026年6月16日将基准利率上调至1990年代以来最高的1%，但与维持在3.5%至3.75%的美联储之间的利差，仍在持续推动资金从日本流向美元资产。</p><p>据路透社消息人士透露，日本官员正从提前预告干预风险的做法，转向"伏击式"干预策略，以打击日元空头。</p>',
+            source: 'CNN', sourceUrl: 'https://www.cnn.com/2026/07/01/economy/japanese-yen-low', sourceSnippet: '日元跌至40年低点 — CNN',
+            source2: 'Reuters', sourceUrl2: 'https://www.reuters.com/world/asia-pacific/japan-shifts-ambush-intervention-tactics-against-yen-short-sellers-sources-say-2026-07-02/', sourceSnippet2: '伏击式干预策略 — Reuters'
+          }
+        }
+      }
+      ,{
+        id: 'jepang-takaichi-target-pdb-2040-1juli2026',
+        langs: {
+          id: {
+            title: 'Takaichi Tetapkan Target PDB Nominal 6,8 Triliun Dolar pada 2040',
+            desc: 'PM Sanae Takaichi merilis cetak biru kebijakan pertamanya, menjanjikan perombakan proses anggaran untuk mendorong investasi di sektor pertumbuhan.',
+            content: '<p>Perdana Menteri Jepang Sanae Takaichi menetapkan target Produk Domestik Bruto (PDB) nominal negara mencapai 6,8 triliun dolar AS pada tahun 2040, menurut laporan Japan Times pada 1 Juli 2026.</p><p>Proyeksi ini sejalan dengan estimasi Kantor Kabinet Jepang, dengan asumsi strategi pertumbuhan pemerintah berjalan sukses. Target ini menjadi bagian dari cetak biru kebijakan ekonomi pertama Takaichi sejak menjabat sebagai perdana menteri.</p><p>Dalam cetak biru tersebut, pemerintah Jepang berjanji merombak proses penyusunan anggaran negara agar lebih fleksibel dalam mendorong investasi di sektor-sektor pertumbuhan serta merespons krisis dengan lebih cepat, menurut laporan Reuters pada 30 Juni 2026.</p><p>Namun ambisi fiskal Takaichi menghadapi tantangan tersendiri, termasuk tekanan politik terhadap Bank of Japan untuk memperlambat laju kenaikan suku bunga di tengah upaya menstabilkan mata uang yen yang tengah anjlok ke level terendah dalam puluhan tahun.</p><p>Ketegangan turut muncul di dalam negeri terkait kunjungan Takaichi ke Okinawa yang menyoroti hubungan renggang antara Tokyo dan pemerintah daerah Okinawa, menambah kompleksitas tantangan politik domestik yang dihadapi pemerintahannya.</p>',
+            source: 'Japan Times', sourceUrl: 'https://www.japantimes.co.jp/news/2026/07/01/japan/japan-nominal-gdp-target/', sourceSnippet: 'Takaichi sets target for nominal GDP of $6.8 trillion in 2040 — Japan Times, 1 Juli 2026',
+            source2: 'Reuters', sourceUrl2: 'https://www.reuters.com/world/asia-pacific/japan-vows-boost-investment-takaichis-first-policy-blueprint-2026-06-30/', sourceSnippet2: "Japan vows to boost investment in Takaichi's first policy blueprint — Reuters, 30 Juni 2026",
+            source3: 'Asahi Shimbun', sourceUrl3: 'https://www.asahi.com/ajw/articles/16670141', sourceSnippet3: 'Takaichi visit underscores Okinawa-Tokyo tensions — Asahi Shimbun'
+          },
+          en: {
+            title: "Takaichi Sets Target for Nominal GDP of $6.8 Trillion by 2040",
+            desc: "PM Sanae Takaichi released her first policy blueprint, vowing to overhaul the budget process to boost investment in growth sectors.",
+            content: "<p>Japanese Prime Minister Sanae Takaichi set a target for the country's nominal Gross Domestic Product (GDP) to reach $6.8 trillion by 2040, the Japan Times reported on July 1, 2026.</p><p>The projection aligns with Cabinet Office estimates, assuming the government's growth strategy succeeds. The target forms part of Takaichi's first economic policy blueprint since taking office as prime minister.</p><p>In the blueprint, Japan's government pledged to overhaul its budget process to more flexibly boost investment in growth areas and respond to crises more swiftly, Reuters reported on June 30, 2026.</p><p>However, Takaichi's fiscal ambitions face challenges, including political pressure on the Bank of Japan to slow its pace of interest rate hikes amid efforts to stabilise the yen, which is sinking to multi-decade lows.</p><p>Domestic tensions have also surfaced around Takaichi's visit to Okinawa, which underscored strained relations between Tokyo and the Okinawa prefectural government, adding to the complexity of domestic political challenges facing her administration.</p>",
+            source: 'Japan Times', sourceUrl: 'https://www.japantimes.co.jp/news/2026/07/01/japan/japan-nominal-gdp-target/', sourceSnippet: 'Takaichi sets target for nominal GDP of $6.8 trillion in 2040 — Japan Times, July 1, 2026',
+            source2: 'Reuters', sourceUrl2: 'https://www.reuters.com/world/asia-pacific/japan-vows-boost-investment-takaichis-first-policy-blueprint-2026-06-30/', sourceSnippet2: "Japan vows to boost investment in Takaichi's first policy blueprint — Reuters, June 30, 2026",
+            source3: 'Asahi Shimbun', sourceUrl3: 'https://www.asahi.com/ajw/articles/16670141', sourceSnippet3: 'Takaichi visit underscores Okinawa-Tokyo tensions — Asahi Shimbun'
+          },
+          ja: {
+            title: '高市首相、2040年に名目GDP6.8兆ドルの目標を設定',
+            desc: '高市早苗首相は初の政策ブループリントを発表し、成長分野への投資拡大に向け予算編成プロセスの見直しを約束した。',
+            content: '<p>高市早苗首相は日本の名目GDPが2040年までに6.8兆ドルに達するとの目標を設定したと、ジャパンタイムズが2026年7月1日に報じました。</p><p>この予測は内閣府の試算と一致しており、政府の成長戦略が成功することを前提としています。この目標は首相就任後初となる高市氏の経済政策ブループリントの一部です。</p><p>ブループリントの中で日本政府は、成長分野への投資拡大と危機対応の迅速化のため予算編成プロセスを見直すと約束したと、ロイターが2026年6月30日に報じました。</p>',
+            source: 'Japan Times', sourceUrl: 'https://www.japantimes.co.jp/news/2026/07/01/japan/japan-nominal-gdp-target/', sourceSnippet: '名目GDP6.8兆ドル目標 — Japan Times',
+            source2: 'Reuters', sourceUrl2: 'https://www.reuters.com/world/asia-pacific/japan-vows-boost-investment-takaichis-first-policy-blueprint-2026-06-30/', sourceSnippet2: '投資拡大の政策ブループリント — Reuters'
+          },
+          ko: {
+            title: '다카이치, 2040년까지 명목 GDP 6.8조 달러 목표 설정',
+            desc: '다카이치 사나에 총리가 첫 정책 청사진을 발표하며 성장 부문 투자 확대를 위한 예산 편성 절차 개편을 약속했다.',
+            content: '<p>다카이치 사나에 일본 총리가 2040년까지 명목 GDP 6.8조 달러 달성을 목표로 설정했다고 재팬타임스가 2026년 7월 1일 보도했다.</p><p>이 전망치는 내각부 추산과 일치하며, 정부의 성장 전략이 성공한다는 전제하에 나온 것이다. 이 목표는 총리 취임 후 첫 경제 정책 청사진의 일부다.</p><p>청사진에서 일본 정부는 성장 분야 투자 확대와 위기 대응 신속화를 위해 예산 편성 절차를 개편하겠다고 약속했다고 로이터가 2026년 6월 30일 보도했다.</p>',
+            source: 'Japan Times', sourceUrl: 'https://www.japantimes.co.jp/news/2026/07/01/japan/japan-nominal-gdp-target/', sourceSnippet: '명목 GDP 6.8조 달러 목표 — Japan Times',
+            source2: 'Reuters', sourceUrl2: 'https://www.reuters.com/world/asia-pacific/japan-vows-boost-investment-takaichis-first-policy-blueprint-2026-06-30/', sourceSnippet2: '투자 확대 정책 청사진 — Reuters'
+          },
+          zh: {
+            title: '高市首相设定2040年名义GDP达6.8万亿美元目标',
+            desc: '高市早苗首相发布首份政策蓝图，承诺改革预算编制流程以促进增长领域投资。',
+            content: '<p>据《日本时报》2026年7月1日报道，日本首相高市早苗设定该国名义GDP到2040年达到6.8万亿美元的目标。</p><p>这一预测与内阁府的估算一致，前提是政府的增长战略取得成功。该目标是高市早苗就任首相以来首份经济政策蓝图的一部分。</p><p>据路透社2026年6月30日报道，在该蓝图中，日本政府承诺改革预算编制流程，以更灵活地促进增长领域投资并更快应对危机。</p>',
+            source: 'Japan Times', sourceUrl: 'https://www.japantimes.co.jp/news/2026/07/01/japan/japan-nominal-gdp-target/', sourceSnippet: '名义GDP 6.8万亿美元目标 — Japan Times',
+            source2: 'Reuters', sourceUrl2: 'https://www.reuters.com/world/asia-pacific/japan-vows-boost-investment-takaichis-first-policy-blueprint-2026-06-30/', sourceSnippet2: '投资扩张政策蓝图 — Reuters'
+          }
+        }
+      }
+      ,{
+        id: 'jepang-samurai-blue-pulang-tersingkir-piala-dunia-2026',
+        langs: {
+          id: {
+            title: 'Samurai Blue Kembali ke Jepang Usai Tersingkir dari Piala Dunia 2026',
+            desc: 'Pelatih Hajime Moriyasu dan skuad Jepang tiba kembali di tanah air setelah tersingkir dari Piala Dunia 2026, tanpa kepastian soal masa depannya.',
+            content: '<p>Tim nasional Jepang, Samurai Blue, dan pelatih Hajime Moriyasu kembali ke tanah air setelah tersingkir dari Piala Dunia 2026, menurut laporan Kyodo News. Moriyasu berterima kasih kepada para pendukung namun belum memberikan kejelasan mengenai masa depannya sebagai pelatih.</p><p>Kepulangan skuad disambut oleh sejumlah suporter setia di bandara meski suasana diliputi kekecewaan usai perjalanan Jepang di turnamen berakhir lebih cepat dari harapan publik.</p><p>Federasi Sepak Bola Jepang (JFA) diperkirakan akan segera mengevaluasi performa tim serta membahas arah masa depan kepelatihan skuad nasional menjelang siklus kompetisi internasional berikutnya.</p><p>Meski tersingkir, sejumlah pemain muda Jepang tetap mencuri perhatian pengamat sepak bola internasional atas penampilan individu yang menjanjikan sepanjang turnamen, memberikan optimisme bagi regenerasi tim nasional ke depan.</p>',
+            source: 'Kyodo News', sourceUrl: 'https://english.kyodonews.net/articles/-/79118', sourceSnippet: 'Football: Moriyasu, Japan players return following World Cup exit — Kyodo News'
+          },
+          en: {
+            title: "Samurai Blue Return Home After World Cup 2026 Exit",
+            desc: "Coach Hajime Moriyasu and Japan's squad arrived back home after being eliminated from the World Cup 2026, with no clarity on his future.",
+            content: "<p>Japan's national team, the Samurai Blue, and coach Hajime Moriyasu returned home after their elimination from the World Cup 2026, Kyodo News reported. Moriyasu thanked supporters but gave no indication about his future plans as coach.</p><p>The squad's return was greeted by loyal fans at the airport, though the mood was tinged with disappointment after Japan's tournament run ended sooner than the public had hoped.</p><p>The Japan Football Association (JFA) is expected to soon evaluate the team's performance and discuss the future direction of the national squad's coaching setup ahead of the next international competition cycle.</p><p>Despite the elimination, several young Japanese players still caught the attention of international football observers for their promising individual performances throughout the tournament, offering optimism for the national team's future regeneration.</p>",
+            source: 'Kyodo News', sourceUrl: 'https://english.kyodonews.net/articles/-/79118', sourceSnippet: 'Football: Moriyasu, Japan players return following World Cup exit — Kyodo News'
+          },
+          ja: {
+            title: 'サムライブルー、W杯敗退後に帰国',
+            desc: '森保一監督と日本代表選手団がW杯2026敗退後に帰国、監督の去就は明らかにされていない。',
+            content: '<p>日本代表「サムライブルー」と森保一監督がW杯2026敗退後に帰国したと共同通信が報じました。森保監督はサポーターに感謝を述べたものの、今後の進退については明言を避けました。</p><p>空港には熱心なファンが集まり選手団を出迎えましたが、期待より早い大会敗退に落胆の空気も漂いました。</p>',
+            source: 'Kyodo News', sourceUrl: 'https://english.kyodonews.net/articles/-/79118', sourceSnippet: 'サムライブルー帰国 — 共同通信'
+          },
+          ko: {
+            title: '사무라이 블루, 월드컵 탈락 후 귀국',
+            desc: '모리야스 하지메 감독과 일본 대표팀이 2026 월드컵 탈락 후 귀국했으며, 감독의 거취는 불투명하다.',
+            content: '<p>일본 대표팀 "사무라이 블루"와 모리야스 하지메 감독이 2026 월드컵 탈락 후 귀국했다고 교도통신이 보도했다. 모리야스 감독은 팬들에게 감사를 전했지만 향후 거취에 대해서는 언급하지 않았다.</p><p>공항에는 열성 팬들이 모여 대표팀을 맞이했지만, 기대보다 이른 대회 탈락으로 아쉬운 분위기도 감돌았다.</p>',
+            source: 'Kyodo News', sourceUrl: 'https://english.kyodonews.net/articles/-/79118', sourceSnippet: '사무라이 블루 귀국 — 교도통신'
+          },
+          zh: {
+            title: '武士蓝世界杯出局后返回日本',
+            desc: '森保一教练和日本队在2026年世界杯出局后回国，其未来去向尚不明朗。',
+            content: '<p>据共同社报道，日本国家队"武士蓝"和主教练森保一在2026年世界杯出局后返回日本。森保一感谢了球迷，但未透露其未来去留计划。</p><p>机场有众多忠实球迷迎接球队归来，但由于本届世界杯之旅比公众预期更早结束，现场也弥漫着失落情绪。</p>',
+            source: 'Kyodo News', sourceUrl: 'https://english.kyodonews.net/articles/-/79118', sourceSnippet: '武士蓝返回日本 — 共同社'
+          }
+        }
+      }
+
+      ,{
+        id: 'jepang-ruu-larangan-penodaan-bendera-1juli2026',
+        langs: {
+          id: {
+            title: 'Majelis Rendah Jepang Sahkan RUU Larangan Penodaan Bendera Nasional',
+            desc: 'RUU yang mengkriminalisasi penodaan bendera Jepang disahkan majelis rendah tanpa kehadiran seluruh partai oposisi.',
+            content: '<p>Majelis Rendah Parlemen Jepang mengesahkan rancangan undang-undang yang melarang penodaan bendera nasional pada Selasa, 30 Juni-1 Juli 2026, menurut laporan Japan Today.</p><p>RUU ini disahkan tanpa kehadiran seluruh partai oposisi di sidang tersebut, mencerminkan adanya perbedaan pandangan politik terkait substansi maupun proses legislasi rancangan undang-undang ini.</p><p>Pendukung RUU menyebut aturan ini penting untuk melindungi simbol kenegaraan dari tindakan yang dianggap tidak menghormati identitas nasional, sejalan dengan sejumlah kebijakan nasionalis lain yang didorong pemerintahan PM Sanae Takaichi.</p><p>RUU kini akan dibawa ke majelis tinggi untuk pembahasan lebih lanjut sebelum dapat disahkan secara penuh menjadi undang-undang yang mengikat secara hukum di seluruh Jepang.</p>',
+            source: 'Japan Today', sourceUrl: 'https://japantoday.com/category/politics/lower-house-oks-bill-outlawing-japanese-flag-desecration', sourceSnippet: 'Lower house OKs bill outlawing Japanese flag desecration — Japan Today'
+          },
+          en: {
+            title: "Japan's Lower House Passes Bill Outlawing National Flag Desecration",
+            desc: "The bill criminalizing desecration of Japan's flag passed the lower house without all opposition parties present.",
+            content: "<p>Japan's House of Representatives passed a bill to outlaw desecration of the national flag on Tuesday, around June 30-July 1, 2026, Japan Today reported.</p><p>The bill passed without all opposition parties present in the session, reflecting differing political views on both the substance and the legislative process behind the bill.</p><p>Supporters of the bill say the measure is important to protect national symbols from acts deemed disrespectful to national identity, in line with several other nationalist-leaning policies pushed by PM Sanae Takaichi's government.</p><p>The bill will now go to the upper house for further deliberation before it can be fully enacted into law binding across Japan.</p>",
+            source: 'Japan Today', sourceUrl: 'https://japantoday.com/category/politics/lower-house-oks-bill-outlawing-japanese-flag-desecration', sourceSnippet: 'Lower house OKs bill outlawing Japanese flag desecration — Japan Today'
+          },
+          ja: {
+            title: '衆議院、国旗損壊禁止法案を可決',
+            desc: '日本の国旗を損壊する行為を禁止する法案が、一部野党欠席のまま衆議院で可決された。',
+            content: '<p>日本の衆議院は2026年6月30日から7月1日にかけて、国旗の損壊を禁止する法案を可決したと、ジャパントゥデイが報じました。</p><p>この法案は一部野党が欠席したまま可決され、法案の内容と立法プロセスの両面で政治的な意見の相違があることを反映しています。</p>',
+            source: 'Japan Today', sourceUrl: 'https://japantoday.com/category/politics/lower-house-oks-bill-outlawing-japanese-flag-desecration', sourceSnippet: '国旗損壊禁止法案可決 — Japan Today'
+          },
+          ko: {
+            title: '일본 하원, 국기 훼손 금지 법안 가결',
+            desc: '일본 국기 훼손을 범죄화하는 법안이 일부 야당 불참 속에 하원을 통과했다.',
+            content: '<p>일본 중의원이 2026년 6월 30일부터 7월 1일 사이 국기 훼손을 금지하는 법안을 가결했다고 재팬투데이가 보도했다.</p><p>이 법안은 일부 야당이 불참한 가운데 통과됐으며, 법안 내용과 입법 절차 모두에서 정치적 견해차를 반영하고 있다.</p>',
+            source: 'Japan Today', sourceUrl: 'https://japantoday.com/category/politics/lower-house-oks-bill-outlawing-japanese-flag-desecration', sourceSnippet: '국기 훼손 금지 법안 가결 — Japan Today'
+          },
+          zh: {
+            title: '日本众议院通过禁止亵渎国旗法案',
+            desc: '禁止亵渎日本国旗的法案在部分反对党缺席的情况下于众议院通过。',
+            content: '<p>据Japan Today报道，日本众议院于2026年6月30日至7月1日期间通过了一项禁止亵渎国旗的法案。</p><p>该法案在部分反对党缺席的情况下获得通过，反映出各方在法案内容和立法程序上存在政治分歧。</p>',
+            source: 'Japan Today', sourceUrl: 'https://japantoday.com/category/politics/lower-house-oks-bill-outlawing-japanese-flag-desecration', sourceSnippet: '禁止亵渎国旗法案通过 — Japan Today'
+          }
+        }
+      }
+      ,{
+        id: 'jepang-bonus-musim-panas-1juta-yen-2juli2026',
+        langs: {
+          id: {
+            title: 'Bonus Musim Panas Perusahaan Besar Jepang Tembus 1 Juta Yen untuk Pertama Kalinya',
+            desc: 'Rata-rata bonus musim panas di perusahaan besar Jepang mencatatkan rekor baru, melampaui 1 juta yen untuk pertama kalinya.',
+            content: '<p>Bonus musim panas di perusahaan-perusahaan besar Jepang tahun ini melampaui 1 juta yen untuk pertama kalinya, menurut laporan kantor berita Jiji Press yang dikutip Nippon.com pada 2 Juli 2026.</p><p>Kenaikan ini mencerminkan performa keuangan korporasi besar Jepang yang membaik, di tengah upaya perusahaan mempertahankan tenaga kerja terampil dalam pasar tenaga kerja yang semakin kompetitif akibat penuaan populasi domestik.</p><p>Kenaikan bonus ini juga dipandang sebagai bagian dari respons perusahaan terhadap tekanan inflasi domestik serta dorongan pemerintah untuk meningkatkan daya beli pekerja Jepang di tengah pelemahan tajam nilai tukar yen.</p><p>Meski demikian, sejumlah ekonom mengingatkan bahwa kenaikan bonus di perusahaan besar belum tentu tercermin merata di perusahaan kecil dan menengah yang menghadapi tekanan biaya operasional lebih berat.</p>',
+            source: 'Nippon.com (Jiji Press)', sourceUrl: 'https://www.nippon.com/en/news/yjj2026070200940/', sourceSnippet: 'Summer Bonuses at Major Japan Firms Top 1 M. Yen for 1st Time — Nippon.com, 2 Juli 2026'
+          },
+          en: {
+            title: "Summer Bonuses at Major Japan Firms Top 1 Million Yen for First Time",
+            desc: "Average summer bonuses at major Japanese companies hit a new record, exceeding 1 million yen for the first time.",
+            content: "<p>Summer bonuses at major Japanese companies topped 1 million yen for the first time this year, Jiji Press reported via Nippon.com on July 2, 2026.</p><p>The increase reflects improving financial performance at major Japanese corporations, amid efforts to retain skilled workers in an increasingly competitive labour market driven by the aging domestic population.</p><p>The bonus rise is also seen as part of companies' response to domestic inflationary pressure and government calls to boost workers' purchasing power amid the yen's sharp depreciation.</p><p>Still, some economists caution that the bonus increase at major firms may not be evenly reflected at small and medium enterprises facing heavier operational cost pressures.</p>",
+            source: 'Nippon.com (Jiji Press)', sourceUrl: 'https://www.nippon.com/en/news/yjj2026070200940/', sourceSnippet: 'Summer Bonuses at Major Japan Firms Top 1 M. Yen for 1st Time — Nippon.com, July 2, 2026'
+          },
+          ja: {
+            title: '大手企業の夏のボーナス、初めて100万円突破',
+            desc: '日本の大手企業における夏のボーナス平均額が過去最高を更新し、初めて100万円を突破した。',
+            content: '<p>今年の大手企業の夏のボーナスが初めて100万円を突破したと、時事通信がNippon.comを通じて2026年7月2日に報じました。</p><p>この増加は、高齢化する国内労働市場で競争が激化する中、熟練労働者を確保しようとする大手企業の業績改善を反映しています。</p>',
+            source: 'Nippon.com (Jiji Press)', sourceUrl: 'https://www.nippon.com/en/news/yjj2026070200940/', sourceSnippet: '夏のボーナス100万円突破 — Nippon.com'
+          },
+          ko: {
+            title: '일본 대기업 여름 보너스, 사상 첫 100만 엔 돌파',
+            desc: '일본 대기업의 평균 여름 보너스가 사상 처음으로 100만 엔을 넘어서며 신기록을 세웠다.',
+            content: '<p>올해 일본 대기업들의 여름 보너스가 사상 처음으로 100만 엔을 넘어섰다고 지지통신이 Nippon.com을 통해 2026년 7월 2일 보도했다.</p><p>이 같은 증가는 고령화하는 국내 노동시장에서 경쟁이 치열해지는 가운데, 숙련 인력을 확보하려는 대기업들의 실적 개선을 반영한다.</p>',
+            source: 'Nippon.com (Jiji Press)', sourceUrl: 'https://www.nippon.com/en/news/yjj2026070200940/', sourceSnippet: '여름 보너스 100만엔 돌파 — Nippon.com'
+          },
+          zh: {
+            title: '日本大企业夏季奖金首次突破100万日元',
+            desc: '日本大企业夏季奖金平均金额创下新纪录，首次突破100万日元。',
+            content: '<p>据时事通信社通过Nippon.com于2026年7月2日报道，今年日本大企业夏季奖金首次突破100万日元。</p><p>这一增长反映出在国内劳动力老龄化、市场竞争日益激烈的背景下，大型企业为留住熟练员工而改善的财务表现。</p>',
+            source: 'Nippon.com (Jiji Press)', sourceUrl: 'https://www.nippon.com/en/news/yjj2026070200940/', sourceSnippet: '夏季奖金突破100万日元 — Nippon.com'
+          }
+        }
+      }
+      ,{
+        id: 'jepang-aturan-visa-tekan-warga-asing-2juli2026',
+        langs: {
+          id: {
+            title: 'Aturan Visa Baru Jepang Bikin Warga Asing Kesulitan Bertahan',
+            desc: 'Sejumlah warga asing di Jepang menghadapi tekanan berat akibat pengetatan aturan visa yang mengancam kelangsungan usaha dan tempat tinggal mereka.',
+            content: '<p>Aturan visa baru di Jepang menekan kehidupan warga asing yang telah membangun kehidupan dan usaha di negara tersebut, menurut laporan Japan Today pada 2 Juli 2026.</p><p>Salah satu kasus yang disorot adalah pemilik restoran asal Nepal, Budhathoki Samjhana, yang membangun usahanya dari nol di sebuah restoran kecil di Tokyo, namun kini terancam akibat pengetatan persyaratan visa tinggal dan kerja.</p><p>Laporan tersebut menyoroti dilema yang dihadapi banyak warga asing yang selama bertahun-tahun berkontribusi pada perekonomian lokal Jepang namun kini menghadapi ketidakpastian akibat kebijakan imigrasi yang lebih ketat.</p><p>Pengetatan ini terjadi di tengah kebutuhan Jepang akan tenaga kerja asing untuk mengisi kekosongan akibat populasi domestik yang menua dan terus menyusut, menciptakan ketegangan antara kebijakan keamanan perbatasan dan kebutuhan ekonomi riil di lapangan.</p>',
+            source: 'Japan Today', sourceUrl: "https://japantoday.com/category/national/'my-dream-is-broken'-japan-visa-rules-push-out-foreign-residents", sourceSnippet: "'My dream is broken': Japan visa rules push out foreign residents — Japan Today, 2 Juli 2026"
+          },
+          en: {
+            title: "Japan's New Visa Rules Squeeze Foreign Residents",
+            desc: "Foreign residents in Japan face heavy pressure from tightened visa rules threatening their businesses and livelihoods.",
+            content: "<p>Japan's tightened visa rules are squeezing foreign residents who have built lives and businesses in the country, Japan Today reported on July 2, 2026.</p><p>One highlighted case is Nepalese restaurant owner Budhathoki Samjhana, who built her business from scratch in a small Tokyo restaurant, now at risk due to stricter residency and work visa requirements.</p><p>The report highlights the dilemma faced by many foreign residents who have contributed to Japan's local economy for years but now face uncertainty amid tighter immigration policy.</p><p>The tightening comes as Japan needs foreign labour to fill gaps left by its aging and shrinking domestic population, creating tension between border security policy and real economic needs on the ground.</p>",
+            source: 'Japan Today', sourceUrl: "https://japantoday.com/category/national/'my-dream-is-broken'-japan-visa-rules-push-out-foreign-residents", sourceSnippet: "'My dream is broken': Japan visa rules push out foreign residents — Japan Today, July 2, 2026"
+          },
+          ja: {
+            title: '新たな査証規則、日本の外国人居住者を圧迫',
+            desc: '日本の外国人居住者は査証規則の厳格化により、事業や生活基盤を脅かされる大きな圧力に直面している。',
+            content: '<p>日本の査証規則の厳格化が、同国で生活と事業を築いてきた外国人居住者を圧迫していると、ジャパントゥデイが2026年7月2日に報じました。</p><p>報道で取り上げられた事例の一つは、東京の小さなレストランをゼロから築き上げたネパール出身の経営者、ブダトキ・サムジャナ氏で、在留・就労査証要件の厳格化により事業存続の危機に直面しています。</p>',
+            source: 'Japan Today', sourceUrl: "https://japantoday.com/category/national/'my-dream-is-broken'-japan-visa-rules-push-out-foreign-residents", sourceSnippet: '査証規則厳格化 — Japan Today'
+          },
+          ko: {
+            title: '일본 새 비자 규정, 외국인 거주자 압박',
+            desc: '일본 내 외국인 거주자들이 비자 규정 강화로 사업과 생계에 위협을 받으며 큰 압박에 직면하고 있다.',
+            content: '<p>일본의 강화된 비자 규정이 현지에서 삶과 사업을 일궈온 외국인 거주자들을 압박하고 있다고 재팬투데이가 2026년 7월 2일 보도했다.</p><p>보도에서 소개된 사례 중 하나는 도쿄의 작은 식당을 처음부터 일군 네팔 출신 사업주 부다토키 삼자나로, 거주 및 취업 비자 요건 강화로 사업 존속 위기에 처해 있다.</p>',
+            source: 'Japan Today', sourceUrl: "https://japantoday.com/category/national/'my-dream-is-broken'-japan-visa-rules-push-out-foreign-residents", sourceSnippet: '비자 규정 강화 — Japan Today'
+          },
+          zh: {
+            title: '日本新签证规定令外国居民压力倍增',
+            desc: '日本外国居民因签证规定收紧而面临巨大压力，其生意和生计受到威胁。',
+            content: '<p>据Japan Today于2026年7月2日报道，日本收紧的签证规定正给那些在该国建立生活和事业的外国居民带来压力。</p><p>报道重点提及的案例之一是尼泊尔籍餐厅老板布达托基·萨姆贾纳，她在东京从零开始经营一家小餐馆，如今却因居留和工作签证要求收紧而面临经营危机。</p>',
+            source: 'Japan Today', sourceUrl: "https://japantoday.com/category/national/'my-dream-is-broken'-japan-visa-rules-push-out-foreign-residents", sourceSnippet: '签证规定收紧 — Japan Today'
+          }
+        }
+      }
+      ,{
+        id: 'jepang-luxembourg-akor-komunikasi-antariksa-juni2026',
+        langs: {
+          id: {
+            title: 'Jepang dan Luxembourg Teken Kerja Sama Komunikasi Satelit dan Antariksa',
+            desc: 'Jepang dan Luxembourg menandatangani kesepakatan pengembangan teknologi jaringan antariksa dan komunikasi satelit yang berpotensi memperluas kerja sama internasional Tokyo.',
+            content: '<p>Jepang dan Luxembourg menandatangani kesepakatan kerja sama pengembangan teknologi jaringan antariksa dan komunikasi satelit, menurut laporan Asian Military Review akhir Juni 2026.</p><p>Kesepakatan ini dipandang sebagai langkah strategis yang berpotensi membuka pintu bagi partisipasi Jepang dalam inisiatif-inisiatif antariksa yang dipimpin negara-negara NATO, memperkuat posisi Tokyo dalam kerja sama keamanan antariksa internasional.</p><p>Kerja sama ini turut melengkapi rangkaian aktivitas antariksa Jepang lainnya, termasuk peluncuran satelit kubus (cubesat) buatan Jepang menggunakan roket Electron pada awal tahun ini.</p><p>Analis menilai kemitraan dengan Luxembourg, yang dikenal sebagai salah satu pusat regulasi dan investasi antariksa komersial Eropa, dapat membantu Jepang memperluas akses ke ekosistem teknologi antariksa global sekaligus memperkuat kemampuan komunikasi satelit domestiknya.</p>',
+            source: 'Asian Military Review', sourceUrl: 'https://www.asianmilitaryreview.com/2026/06/japan-luxembourg-space-communications-accord-could-it-be-a-gateway-for-tokyos-participation-in-nato-led-initiatives-nsbt/', sourceSnippet: "Japan-Luxembourg Space Communications Accord — Asian Military Review, Juni 2026",
+            source2: 'SpaceNews', sourceUrl2: 'https://spacenews.com/electron-launches-japanese-cubesats/', sourceSnippet2: 'Electron launches Japanese cubesats — SpaceNews'
+          },
+          en: {
+            title: "Japan and Luxembourg Sign Space and Satellite Communications Accord",
+            desc: "Japan and Luxembourg signed an agreement to develop space network technology and satellite communications, potentially expanding Tokyo's international cooperation.",
+            content: "<p>Japan and Luxembourg signed an agreement to develop space network technology and satellite communications, the Asian Military Review reported in late June 2026.</p><p>The accord is seen as a strategic move that could open doors for Japan's participation in NATO-led space initiatives, strengthening Tokyo's position in international space security cooperation.</p><p>The partnership complements other recent Japanese space activities, including the launch of Japanese-made cubesats aboard an Electron rocket earlier this year.</p><p>Analysts say the partnership with Luxembourg, known as a hub for European commercial space regulation and investment, could help Japan expand its access to the global space technology ecosystem while strengthening its domestic satellite communication capabilities.</p>",
+            source: 'Asian Military Review', sourceUrl: 'https://www.asianmilitaryreview.com/2026/06/japan-luxembourg-space-communications-accord-could-it-be-a-gateway-for-tokyos-participation-in-nato-led-initiatives-nsbt/', sourceSnippet: "Japan-Luxembourg Space Communications Accord — Asian Military Review, June 2026",
+            source2: 'SpaceNews', sourceUrl2: 'https://spacenews.com/electron-launches-japanese-cubesats/', sourceSnippet2: 'Electron launches Japanese cubesats — SpaceNews'
+          },
+          ja: {
+            title: '日本とルクセンブルク、宇宙・衛星通信協定に署名',
+            desc: '日本とルクセンブルクが宇宙ネットワーク技術と衛星通信の開発協定に署名、東京の国際協力拡大につながる可能性がある。',
+            content: '<p>日本とルクセンブルクが宇宙ネットワーク技術と衛星通信の開発協定に署名したと、アジアン・ミリタリー・レビューが2026年6月下旬に報じました。</p><p>この協定は、NATO主導の宇宙関連イニシアチブへの日本の参加への道を開く可能性がある戦略的な動きとみなされています。</p>',
+            source: 'Asian Military Review', sourceUrl: 'https://www.asianmilitaryreview.com/2026/06/japan-luxembourg-space-communications-accord-could-it-be-a-gateway-for-tokyos-participation-in-nato-led-initiatives-nsbt/', sourceSnippet: '日本・ルクセンブルク宇宙協定 — Asian Military Review'
+          },
+          ko: {
+            title: '일본-룩셈부르크, 우주·위성통신 협정 체결',
+            desc: '일본과 룩셈부르크가 우주 네트워크 기술 및 위성통신 개발 협정을 체결하며 도쿄의 국제 협력 확대 가능성을 열었다.',
+            content: '<p>일본과 룩셈부르크가 우주 네트워크 기술 및 위성통신 개발 협정을 체결했다고 아시안 밀리터리 리뷰가 2026년 6월 하순 보도했다.</p><p>이 협정은 나토 주도 우주 이니셔티브에 일본이 참여할 수 있는 문을 열 수 있는 전략적 움직임으로 평가된다.</p>',
+            source: 'Asian Military Review', sourceUrl: 'https://www.asianmilitaryreview.com/2026/06/japan-luxembourg-space-communications-accord-could-it-be-a-gateway-for-tokyos-participation-in-nato-led-initiatives-nsbt/', sourceSnippet: '일본-룩셈부르크 우주 협정 — Asian Military Review'
+          },
+          zh: {
+            title: '日本与卢森堡签署太空及卫星通信协议',
+            desc: '日本与卢森堡签署开发太空网络技术和卫星通信的协议，可能扩大东京的国际合作。',
+            content: '<p>据《亚洲军事评论》2026年6月下旬报道，日本与卢森堡签署了开发太空网络技术和卫星通信的协议。</p><p>该协议被视为一项战略举措，可能为日本参与北约主导的太空倡议打开大门，加强东京在国际太空安全合作中的地位。</p>',
+            source: 'Asian Military Review', sourceUrl: 'https://www.asianmilitaryreview.com/2026/06/japan-luxembourg-space-communications-accord-could-it-be-a-gateway-for-tokyos-participation-in-nato-led-initiatives-nsbt/', sourceSnippet: '日本卢森堡太空协议 — Asian Military Review'
+          }
+        }
+      }
+
     ]
   };
   window.countries = window.countryDataFiles;
