@@ -373,6 +373,193 @@
           }
         }
       }
+      ,{
+        id: 'jerman-merz-paket-reformasi-10-miliar-euro-2juli2026',
+        langs: {
+          id: {
+            title: 'Koalisi Merz Setujui Paket Reformasi Besar: Pemotongan Pajak 10 Miliar Euro & Perubahan Pensiun',
+            desc: 'Setelah 7 jam negosiasi, koalisi CDU/CSU-SPD Kanselir Friedrich Merz mengumumkan "Program Kebangkitan dan Lapangan Kerja" dengan 34 langkah reformasi untuk merevitalisasi ekonomi Jerman.',
+            content: '<p>Kanselir Friedrich Merz dan koalisi pemerintah pusat-kiri CDU/CSU-SPD mengumumkan paket reformasi komprehensif pada 2 Juli 2026, mencakup sekitar 10 miliar euro ($11,4 miliar) dalam keringanan pajak penghasilan tahunan yang ditargetkan untuk pelaku usaha kecil dan menengah serta pekerja berpenghasilan rendah dan menengah, mulai berlaku 1 Januari 2027, menurut Al Jazeera dan Euronews.</p><p>"Program Kebangkitan dan Lapangan Kerja" terdiri dari 34 langkah reformasi yang dirancang untuk mengatasi kelemahan struktural Jerman dalam hal pertumbuhan ekonomi. Paket ini mencakup perombakan sistem pensiun yang sudah usang, aturan lebih ketat untuk cuti sakit karyawan, dan pengurangan birokrasi yang membebani.</p><p>Untuk membiayai keringanan pajak, pemerintah merancang restrukturisasi beban pajak dengan menaikkan tarif untuk penghasilan tertinggi. "Para penerima penghasilan tertinggi di negara ini akan menanggung beban pajak yang lebih besar," kata Menteri Keuangan Lars Klingbeil.</p><p>Pada aspek cuti sakit, paket reformasi menghapuskan kebijakan era pandemi yang memungkinkan karyawan mendapatkan surat sakit melalui telepon, menggantinya dengan persyaratan sertifikat dokter sejak hari pertama sakit alih-alih hari keempat. Koalisi juga melonggarkan aturan tenaga kerja dengan menggandakan durasi maksimal kontrak kerja tetap tanpa alasan menjadi 48 bulan.</p><p>Analis ekonom Deutsche Bank Marion Muehlberger menilai paket ini sebagai "salah satu paket reformasi terbesar Jerman dalam dekade" yang menunjukkan kemampuan pemerintah menyetujui reformasi struktural penting. Meskipun demikian, paket masih memerlukan persetujuan dari Bundestag dan Bundesrat yang sebelumnya sudah memberikan peringatan soal penurunan pendapatan negara.</p>',
+            source: 'Al Jazeera', sourceUrl: 'https://www.aljazeera.com/news/2026/7/2/german-coalition-agrees-on-sweeping-reform-package-in-key-breakthrough', sourceSnippet: 'German coalition agrees on sweeping reform package — Al Jazeera, 2 Juli 2026',
+            source2: 'DW', sourceUrl2: 'https://www.dw.com/en/germany-news-coalition-agrees-package-to-boost-growth/live-77795988', sourceSnippet2: 'Coalition agrees package to boost growth — DW'
+          },
+          en: {
+            title: "Merz Coalition Approves Major Reform Package: €10 Billion Tax Cuts & Pension Overhaul",
+            desc: "After 7 hours of talks, Chancellor Friedrich Merz's CDU/CSU-SPD coalition unveiled the 'Revival and Employment Programme' featuring 34 reform steps.",
+            content: "<p>Chancellor Friedrich Merz and his centre-right CDU/CSU-left SPD coalition announced a comprehensive reform package on July 2, 2026, including around €10 billion ($11.4 billion) in annual income tax relief targeted at small businesses, lower and middle-income earners, effective January 1, 2027, according to Al Jazeera and Euronews.</p><p>The 'Programme for Revival and Employment' comprises 34 reform measures designed to tackle Germany's structural economic weaknesses. It includes an overhaul of the creaking pension system, tougher sick-leave rules for employees, and reduction of stifling bureaucracy.</p><p>To finance the tax relief, the government plans a restructuring of the tax burden with higher rates for the highest earners. 'The highest earners in this country will therefore take on a larger share' of the tax burden, Finance Minister Lars Klingbeil said.</p><p>On sick leave, the reform package abolishes the pandemic-era policy allowing employees to obtain sick notes by phone, replacing it with a requirement for a doctor's certificate from day one instead of day four. The coalition also relaxes labour rules by doubling the maximum duration of fixed-term contracts to 48 months.</p><p>Deutsche Bank economist Marion Muehlberger called the package 'one of Germany's biggest reform packages in decades,' showing the government's ability to agree on important structural reforms, though it still requires Bundestag and Bundesrat approval.</p>",
+            source: 'Al Jazeera', sourceUrl: 'https://www.aljazeera.com/news/2026/7/2/german-coalition-agrees-on-sweeping-reform-package-in-key-breakthrough', sourceSnippet: 'German coalition agrees on sweeping reform package — Al Jazeera, July 2, 2026',
+            source2: 'DW', sourceUrl2: 'https://www.dw.com/en/germany-news-coalition-agrees-package-to-boost-growth/live-77795988', sourceSnippet2: 'Coalition agrees package to boost growth — DW'
+          },
+          ja: {
+            title: 'メルツ連立政権、大型改革パッケージを承認：100億ユーロの減税と年金改革',
+            desc: '7時間の交渉後、メルツ首相のCDU/CSU-SPD連立政権は「景気回復と雇用プログラム」を発表した。',
+            content: '<p>フリードリヒ・メルツ首相とその中道右派CDU/CSU-左派SPD連立政権は、2026年7月2日に包括的な改革パッケージを発表しました。これは小企業と低中所得者向けに年間約100億ユーロ（114億ドル）の所得税減税を含み、2027年1月1日から発効します。</p><p>「景気回復と雇用プログラム」は、ドイツの構造的経済的弱点に対処することを目的とした34の改革措置で構成されています。老朽化した年金制度の改革、従業員の病気休暇に関するより厳しい規則、および窒息させるような官僚制度の削減が含まれます。</p>',
+            source: 'Al Jazeera', sourceUrl: 'https://www.aljazeera.com/news/2026/7/2/german-coalition-agrees-on-sweeping-reform-package-in-key-breakthrough', sourceSnippet: 'ドイツ連立政権、改革パッケージに合意 — Al Jazeera'
+          },
+          ko: {
+            title: '메르츠 연립정부, 대규모 개혁 패키지 승인: 100억 유로 감세 및 연금 개혁',
+            desc: '7시간의 협상 끝에 메르츠 총리의 CDU/CSU-SPD 연립정부가 "경기회복 및 고용 프로그램"을 발표했다.',
+            content: '<p>프리드리히 메르츠 총리와 그의 중도우파 CDU/CSU-좌파 SPD 연립정부가 2026년 7월 2일 포괄적인 개혁 패키지를 발표했습니다. 이는 소규모 사업과 저중소득 근로자를 대상으로 연간 약 100억 유로(114억 달러)의 소득세 감감을 포함하며, 2027년 1월 1일부터 시행됩니다.</p>',
+            source: 'Al Jazeera', sourceUrl: 'https://www.aljazeera.com/news/2026/7/2/german-coalition-agrees-on-sweeping-reform-package-in-key-breakthrough', sourceSnippet: '독일 연립정부, 개혁 패키지 합의 — Al Jazeera'
+          },
+          zh: {
+            title: '默茨联合政府批准大规模改革方案：100亿欧元减税和养老金改革',
+            desc: '经过7小时谈判，默茨总理的CDU/CSU-SPD联合政府发布了"复苏和就业计划"。',
+            content: '<p>2026年7月2日，德国总理弗里德里希·默茨及其中右翼CDU/CSU-左翼SPD联合政府公布了一揽子综合改革方案。该方案包括针对小企业和低中收入人群的年度约100亿欧元（114亿美元）所得税减免，将于2027年1月1日生效。</p>',
+            source: 'Al Jazeera', sourceUrl: 'https://www.aljazeera.com/news/2026/7/2/german-coalition-agrees-on-sweeping-reform-package-in-key-breakthrough', sourceSnippet: '德国联合政府同意改革方案 — Al Jazeera'
+          }
+        }
+      }
+      ,{
+        id: 'jerman-dfb-penyelidikan-euro-2024-tiket-1juli2026',
+        langs: {
+          id: {
+            title: 'Penyidik Jerman Geledah Kantor DFB dalam Penyelidikan Penjualan Tiket Euro 2024',
+            desc: 'Otoritas investigasi Jerman melakukan penggeledahan skala nasional termasuk di kantor pusat asosiasi sepak bola DFB terkait kasus penyelewengan tiket Euro 2024.',
+            content: '<p>Penyidik Jerman melakukan penggeledahan skala nasional, termasuk di kantor pusat asosiasi sepak bola DFB (Deutscher Fußball-Bund), pada 1 Juli 2026 sebagai bagian dari penyelidikan kasus penyelewengan penjualan tiket Euro 2024, menurut Reuters dan media massa Jerman Bild.</p><p>Penggeledahan ini merupakan bagian dari penyelidikan yang lebih luas terhadap kemungkinan penyalahgunaan dana dan penyelewengan dalam manajemen penjualan tiket Euro 2024, turnamen sepak bola terbesar yang diadakan di Jerman beberapa bulan lalu.</p><p>DFB, yang merupakan induk organisasi sepak bola profesional Jerman, telah menjadi sorotan sebelumnya dalam beberapa tahun terakhir atas berbagai isu manajemen dan transparansi. Penggeledahan ini menambah tekanan pada organisasi yang juga menghadapi kritik terkait manajemen tim nasional Jerman.</p><p>Belum ada keterangan resmi dari DFB maupun otoritas investigasi terkait hasil awal penggeledahan atau kemungkinan pelanggaran yang ditemukan, namun penyelidikan ini diperkirakan akan berlanjut dalam beberapa bulan ke depan dan dapat menghasilkan implikasi hukum yang signifikan bagi pejabat DFB terkait.</p>',
+            source: 'Reuters', sourceUrl: 'https://www.reuters.com/sports/soccer/german-investigators-search-dfb-soccer-association-hq-over-2024-euros-bild-says-2026-07-01/', sourceSnippet: "Germany's DFB soccer association HQ searched — Reuters, 1 Juli 2026",
+            source2: 'Bild', sourceUrl2: 'https://www.bild.de', sourceSnippet2: 'Penggeledahan DFB atas tiket Euro 2024 — Bild'
+          },
+          en: {
+            title: "German Investigators Search DFB HQ in Euro 2024 Ticket Probe",
+            desc: "German authorities conducted nationwide searches including at the DFB soccer association headquarters in connection with a Euro 2024 ticket sales misappropriation investigation.",
+            content: "<p>German investigators conducted nationwide searches, including at the headquarters of the DFB (Deutscher Fußball-Bund) football association, on July 1, 2026, as part of an investigation into alleged misappropriation of Euro 2024 ticket sales, Reuters and German media Bild reported.</p><p>The search is part of a broader investigation into possible fund abuse and mismanagement in the handling of Euro 2024 ticket sales, the continent's largest football tournament held in Germany months earlier.</p><p>The DFB, Germany's professional football governing body, has come under scrutiny in recent years over various management and transparency issues. The search adds pressure on the organisation, which also faces criticism over the management of Germany's national team.</p><p>No official statement has yet been issued by the DFB or authorities regarding initial search results or suspected violations, though the investigation is expected to continue over coming months and could result in significant legal implications for DFB officials involved.</p>",
+            source: 'Reuters', sourceUrl: 'https://www.reuters.com/sports/soccer/german-investigators-search-dfb-soccer-association-hq-over-2024-euros-bild-says-2026-07-01/', sourceSnippet: "Germany's DFB soccer association HQ searched — Reuters, July 1, 2026",
+            source2: 'Bild', sourceUrl2: 'https://www.bild.de', sourceSnippet2: 'DFB searched over Euro 2024 tickets — Bild'
+          },
+          ja: {
+            title: 'ドイツ調査官、ユーロ2024チケット問題でDFB本部を捜索',
+            desc: 'ドイツ当局はユーロ2024のチケット販売不正疑惑に関連して、DFBサッカー協会本部を含む全国一斉捜索を実施した。',
+            content: '<p>ドイツの調査官は2026年7月1日、ユーロ2024チケット販売の不正疑惑に関連して、DFB（ドイツフットボール連盟）本部を含む全国的な捜索を実施したと、ロイターおよびドイツメディアBildが報じました。</p>',
+            source: 'Reuters', sourceUrl: 'https://www.reuters.com/sports/soccer/german-investigators-search-dfb-soccer-association-hq-over-2024-euros-bild-says-2026-07-01/', sourceSnippet: 'ドイツ調査官、DFB本部を捜索 — Reuters'
+          },
+          ko: {
+            title: '독일 수사기관, 유로 2024 티켓 의혹으로 DFB 본부 수색',
+            desc: '독일 당국이 유로 2024 티켓 판매 비리 의혹과 관련해 DFB 축구협회 본부를 포함한 전국 일제수색을 실시했다.',
+            content: '<p>독일 수사기관이 2026년 7월 1일 유로 2024 티켓 판매 비리 의혹과 관련해 DFB(독일축구연맹) 본부를 포함한 전국 일제수색을 실시했다고 로이터와 독일 언론 빌드가 보도했다.</p>',
+            source: 'Reuters', sourceUrl: 'https://www.reuters.com/sports/soccer/german-investigators-search-dfb-soccer-association-hq-over-2024-euros-bild-says-2026-07-01/', sourceSnippet: '독일 수사기관 DFB 본부 수색 — Reuters'
+          },
+          zh: {
+            title: '德国调查人员搜查欧洲杯2024门票舞弊案中的德足协总部',
+            desc: '德国当局就欧洲杯2024门票销售挪用案进行全国搜查，包括德足协总部。',
+            content: '<p>据路透社和德国媒体《图片报》报道，德国调查人员于2026年7月1日就欧洲杯2024门票销售挪用案进行了全国搜查，包括德国足球协会（DFB）总部。</p>',
+            source: 'Reuters', sourceUrl: 'https://www.reuters.com/sports/soccer/german-investigators-search-dfb-soccer-association-hq-over-2024-euros-bild-says-2026-07-01/', sourceSnippet: '德国调查人员搜查德足协 — Reuters'
+          }
+        }
+      }
+      ,{
+        id: 'jerman-gelombang-panas-41-derajat-rekor-juni2026',
+        langs: {
+          id: {
+            title: 'Jerman Catat Rekor Suhu Tertinggi 41,3 Derajat Celcius Saat Gelombang Panas Ekstrem',
+            desc: 'Jerman mengalami gelombang panas mematikan dengan suhu tertinggi sepanjang sejarah 41,3°C, menyebabkan rel kereta mencair dan jalan retak.',
+            content: '<p>Jerman mencatat suhu tertinggi sepanjang sejarah 41,3°C (106,3°F) pada akhir Juni 2026 saat gelombang panas ekstrem melanda Eropa, menurut laporan Euronews dan World Meteorological Organization, dengan dampak luas pada transportasi, kesehatan publik, dan infrastruktur.</p><p>Gelombang panas yang luar biasa menyebabkan rel kereta api mencair dan jalan aspal retak di berbagai bagian Jerman, memaksa otoritas transportasi menutup sejumlah jalur demi keselamatan publik. Rumah sakit di seluruh Jepang melaporkan peningkatan drastis pasien dengan penyakit terkait panas, sementara unit perawatan intensif berjuang mengatasi beban tambahan.</p><p>Laporan PBB mengungkapkan bahwa infrastruktur transportasi Eropa secara keseluruhan tidak cukup siap menghadapi suhu ekstrem tersebut. Analis mencatat bahwa sementara sebagian besar unit perawatan intensif di Jerman telah dilengkapi pendingin udara, persiapan sistem infrastruktur masih jauh dari memadai untuk menghadapi kondisi cuaca ekstrem yang semakin sering terjadi.</p><p>Gelombang panas ini merupakan bagian dari tren perubahan iklim global yang lebih luas, dengan lebih dari 191 juta orang di Eropa mengalami suhu 35°C atau lebih tinggi. Para ahli perikanan memperingatkan bahwa peningkatan frekuensi gelombang panas ekstrem akan menjadi tantangan berkelanjutan bagi sistem kesehatan dan infrastruktur Eropa dalam dekade mendatang.</p>',
+            source: 'Euronews', sourceUrl: 'https://www.euronews.com/2026/06/30/germany-insufficiently-prepared-for-extreme-heat-as-transport-and-roads-closed-by-41c-temp', sourceSnippet: "Germany 'insufficiently prepared' for extreme heat — Euronews",
+            source2: 'WMO', sourceUrl2: 'https://wmo.int/media/news/record-breaking-heat-spreads-through-europe', sourceSnippet2: 'Record-breaking heat spreads through Europe — World Meteorological Organization',
+            source3: 'Reuters', sourceUrl3: 'https://www.reuters.com/business/environment/germany-poland-poised-soaring-temperatures-heatwave-moves-east-2026-06-27/', sourceSnippet3: 'Temperature records shattered in Europe — Reuters'
+          },
+          en: {
+            title: "Germany Records All-Time Temperature High of 41.3°C Amid Extreme Heatwave",
+            desc: "Germany saw its highest ever recorded temperature of 41.3°C as an extreme heatwave swept across Europe, causing train tracks to melt and roads to crack.",
+            content: "<p>Germany recorded its all-time highest temperature of 41.3°C (106.3°F) in late June 2026 as an extreme heatwave swept across Europe, according to Euronews and the World Meteorological Organization, with widespread impacts on transport, public health, and infrastructure.</p><p>The extraordinary heatwave caused railway tracks to melt and asphalt roads to crack in various parts of Germany, forcing transport authorities to close numerous routes for public safety. Hospitals across Germany reported dramatic increases in heat-related illnesses, while intensive care units struggled with the additional strain.</p><p>A UN report revealed that European transport infrastructure as a whole is insufficiently prepared for such extreme temperatures. Analysts noted that while most intensive care units in Germany have been equipped with air conditioning, infrastructure system preparedness remains far from adequate to handle increasingly frequent extreme weather conditions.</p><p>The heatwave is part of a broader global climate change trend, with over 191 million people across Europe experiencing temperatures of 35°C or higher. Experts warn that increased frequency of extreme heatwaves will be an ongoing challenge for Europe's health and infrastructure systems in coming decades.</p>",
+            source: 'Euronews', sourceUrl: 'https://www.euronews.com/2026/06/30/germany-insufficiently-prepared-for-extreme-heat-as-transport-and-roads-closed-by-41c-temp', sourceSnippet: "Germany 'insufficiently prepared' for extreme heat — Euronews",
+            source2: 'WMO', sourceUrl2: 'https://wmo.int/media/news/record-breaking-heat-spreads-through-europe', sourceSnippet2: 'Record-breaking heat spreads through Europe — World Meteorological Organization',
+            source3: 'Reuters', sourceUrl3: 'https://www.reuters.com/business/environment/germany-poland-poised-soaring-temperatures-heatwave-moves-east-2026-06-27/', sourceSnippet3: 'Temperature records shattered in Europe — Reuters'
+          },
+          ja: {
+            title: 'ドイツ、極端な熱波で過去最高気温41.3℃を記録',
+            desc: 'ドイツは極端な熱波の中、過去最高気温41.3℃を記録し、鉄道レールが溶け、道路が裂けた。',
+            content: '<p>ドイツは2026年6月下旬、極端な熱波がヨーロッパを襲う中、過去最高気温41.3℃（106.3°F）を記録しました。これはユーロニュースと世界気象機関が報じたもので、運輸、公衆衛生、インフラに広範な影響を及ぼしました。</p>',
+            source: 'Euronews', sourceUrl: 'https://www.euronews.com/2026/06/30/germany-insufficiently-prepared-for-extreme-heat-as-transport-and-roads-closed-by-41c-temp', sourceSnippet: 'ドイツ、極端な熱波で対応不十分 — Euronews'
+          },
+          ko: {
+            title: '독일, 극한 열파로 사상 최고 기온 41.3℃ 기록',
+            desc: '독일은 극한 열파 속에서 사상 최고 기온 41.3℃를 기록했으며, 철도 선로가 녹고 도로가 갈라졌다.',
+            content: '<p>유로뉴스와 세계기상기구에 따르면 독일은 2026년 6월 하순 극한 열파가 유럽을 덮치는 가운데 사상 최고 기온 41.3℃(106.3°F)를 기록했습니다. 이는 수송, 공중보건, 인프라에 광범위한 영향을 미쳤습니다.</p>',
+            source: 'Euronews', sourceUrl: 'https://www.euronews.com/2026/06/30/germany-insufficiently-prepared-for-extreme-heat-as-transport-and-roads-closed-by-41c-temp', sourceSnippet: '독일, 극한 열파로 대응 부족 — Euronews'
+          },
+          zh: {
+            title: '德国在极端热浪中创造历史最高气温41.3℃纪录',
+            desc: '德国在极端热浪中创造史上最高气温41.3℃，导致铁路融化、道路开裂。',
+            content: '<p>据欧洲新闻台和世界气象组织报道，德国在2026年6月下旬极端热浪席卷欧洲期间创造了史上最高气温41.3℃（106.3°F）的纪录，对运输、公共卫生和基础设施造成了广泛影响。</p>',
+            source: 'Euronews', sourceUrl: 'https://www.euronews.com/2026/06/30/germany-insufficiently-prepared-for-extreme-heat-as-transport-and-roads-closed-by-41c-temp', sourceSnippet: '德国在极端热浪中应对不足 — Euronews'
+          }
+        }
+      }
+
+      ,{
+        id: 'jerman-inflasi-melambat-25-persen-juni-2026',
+        langs: {
+          id: {
+            title: 'Inflasi Jerman Melambat ke 2,3% di Juni 2026, Di Bawah Target Forecast',
+            desc: 'Data inflasi Juni menunjukkan penyejukan tajam dengan CPI naik 2,3% year-on-year, lebih rendah dari proyeksi 2,5% dan inflasi energi melambat signifikan.',
+            content: '<p>Inflasi Jerman melambat lebih cepat dari perkiraan dengan Indeks Harga Konsumen (CPI) Juni 2026 naik 2,3% year-on-year, jauh di bawah perkiraan pasar sebesar 2,5% dan menurun dari 2,4% bulan Mei, menurut laporan Reuters dan cryptorank.io pada 30 Juni 2026.</p><p>Komponen inflasi energi menunjukkan penyejukan signifikan, turun menjadi 1,2% dari 2,6% sebulan sebelumnya, mengindikasikan bahwa shock energi dari perang Iran mulai mereda dan pasokan minyak global mengalami normalisasi bertahap.</p><p>Data penyejukan inflasi ini memberikan ruang gerak kepada Bank Sentral Eropa (ECB) dan otoritas moneter Jerman untuk mempertahankan posisi bunga, meskipun ancaman persisten dari faktor-faktor eksogen seperti geopolitik masih ada.</p><p>Analis pasar menilai penurunan inflasi ini sebagai tanda positif bagi kemungkinan pertumbuhan ekonomi Jerman di paruh kedua 2026, terutama dengan paket reformasi struktural yang baru saja disepakati oleh koalisi Merz yang dirancang untuk merevitalisasi pertumbuhan ekonomi jangka panjang.</p>',
+            source: 'Reuters', sourceUrl: 'https://www.reuters.com/business/inflation-cools-biggest-euro-economies-easing-rate-hike-urgency-2026-06-30/', sourceSnippet: 'Inflation cools in biggest euro economies — Reuters, 30 Juni 2026',
+            source2: 'Cryptorank', sourceUrl2: 'https://cryptorank.io/news/feed/d1156-germany-cpi-june-2024-inflation-misses-forecast', sourceSnippet2: 'Germany Inflation Misses Forecasts as June CPI Rises 2.3% — Cryptorank'
+          },
+          en: {
+            title: "Germany Inflation Cools to 2.3% in June 2026, Below Forecast",
+            desc: "June inflation data shows sharp cooling with CPI rising 2.3% year-on-year, below market forecast of 2.5%, as energy inflation slowed significantly.",
+            content: "<p>German inflation cooled faster than expected with June 2026 Consumer Price Index (CPI) rising 2.3% year-on-year, well below market forecast of 2.5% and down from May's 2.4%, Reuters and cryptorank.io reported on June 30, 2026.</p><p>The energy inflation component showed significant cooling, falling to 1.2% from 2.6% the previous month, indicating the energy shock from the Iran war is abating and global oil supplies are gradually normalizing.</p><p>The inflation cooling provides room for the European Central Bank (ECB) and German monetary authorities to maintain their interest rate stance, though persistent risks from external factors like geopolitics remain.</p><p>Market analysts view the inflation decline as a positive sign for possible German economic growth in the second half of 2026, especially with the structural reform package just agreed by the Merz coalition designed to revitalise long-term economic growth.</p>",
+            source: 'Reuters', sourceUrl: 'https://www.reuters.com/business/inflation-cools-biggest-euro-economies-easing-rate-hike-urgency-2026-06-30/', sourceSnippet: 'Inflation cools in biggest euro economies — Reuters, June 30, 2026',
+            source2: 'Cryptorank', sourceUrl2: 'https://cryptorank.io/news/feed/d1156-germany-cpi-june-2024-inflation-misses-forecast', sourceSnippet2: 'Germany Inflation Misses Forecasts as June CPI Rises 2.3% — Cryptorank'
+          },
+          ja: {
+            title: 'ドイツのインフレが2026年6月に2.3%に減速、予想下回る',
+            desc: '6月インフレデータはCPIが前年比2.3%上昇と大きく減速、予想の2.5%を下回り、エネルギーインフレが大幅に減速。',
+            content: '<p>ドイツのインフレは予想より速く減速し、2026年6月の消費者物価指数（CPI）は前年比2.3%上昇となり、市場予想の2.5%をはるかに下回り、5月の2.4%から低下したと、ロイターとクリプトランクが2026年6月30日に報じました。</p>',
+            source: 'Reuters', sourceUrl: 'https://www.reuters.com/business/inflation-cools-biggest-euro-economies-easing-rate-hike-urgency-2026-06-30/', sourceSnippet: 'インフレが主要ユーロ圏経済で減速 — Reuters'
+          },
+          ko: {
+            title: '독일 인플레이션, 2026년 6월 2.3%로 둔화... 예상 하회',
+            desc: '6월 인플레이션 데이터는 CPI 전년 대비 2.3% 상승으로 크게 둔화, 시장 예상 2.5% 하회, 에너지 인플레이션 큰 폭 둔화.',
+            content: '<p>독일 인플레이션이 예상보다 빠르게 둔화했으며, 2026년 6월 소비자물가지수(CPI)는 전년 대비 2.3% 상승으로 시장 예상 2.5%를 크게 하회했으며 5월의 2.4%에서 하락했다고 로이터와 크립토랭크가 2026년 6월 30일 보도했다.</p>',
+            source: 'Reuters', sourceUrl: 'https://www.reuters.com/business/inflation-cools-biggest-euro-economies-easing-rate-hike-urgency-2026-06-30/', sourceSnippet: '주요 유로존 경제에서 인플레이션 둔화 — Reuters'
+          },
+          zh: {
+            title: '德国2026年6月通胀降至2.3%，低于预期',
+            desc: '6月通胀数据显示CPI同比上升2.3%大幅放缓，低于市场预期的2.5%，能源通胀显著放缓。',
+            content: '<p>据路透社和Cryptorank 2026年6月30日报道，德国通胀速度快于预期地放缓，2026年6月消费者物价指数（CPI）同比上升2.3%，远低于市场预期的2.5%，并低于5月的2.4%。</p>',
+            source: 'Reuters', sourceUrl: 'https://www.reuters.com/business/inflation-cools-biggest-euro-economies-easing-rate-hike-urgency-2026-06-30/', sourceSnippet: '主要欧元区经济体通胀放缓 — Reuters'
+          }
+        }
+      }
+      ,{
+        id: 'jerman-inovasi-pertahanan-aerospace-startup-juni2026',
+        langs: {
+          id: {
+            title: 'Jerman Bangkit Sebagai Modal Pertahanan Eropa dengan Investasi Tech Defense & Aerospace',
+            desc: 'Jerman menjadi pusat inovasi sektor pertahanan dengan startup aerospace Isar Aerospace dan perusahaan defense lain menarik investasi sovereign capital signifikan.',
+            content: '<p>Jerman berkembang menjadi pusat inovasi teknologi pertahanan dan aerospace Eropa, dengan startup aerospace Isar Aerospace dan sejumlah perusahaan pertahanan menarik investasi sovereign capital yang signifikan dari investor strategis, menurut laporan Startup Rad pertengahan Juni 2026.</p><p>Ekosistem pertahanan Jerman diperkuat oleh kehadiran produsen pertahanan besar seperti Rheinmetall (KNDS) dan perusahaan aerospace yang bermitra dengan lembaga penelitian universitas terkemuka, menciptakan kolaborasi industri-akademik yang kuat.</p><p>Meningkatnya investasi dalam sektor pertahanan dan aerospace Jerman tercermin dari strategi keamanan nasional yang lebih assertif di bawah pemerintahan Merz, sejalan dengan tekanan geopolitik dari konflik di Timur Tengah dan risiko keamanan regional yang meningkat.</p><p>Para analis industri menilai Jerman akan terus menjadi pemimpin regional dalam pengembangan teknologi pertahanan canggih, terutama dalam drone, sistem rudal precision-guided, dan komunikasi satelit defense, didorong oleh kebutuhan peningkatan kapabilitas militer NATO dan aliansi pertahanan Eropa yang lebih kuat.</p>',
+            source: 'Startup Rad', sourceUrl: 'https://www.startuprad.io/post/startup-news-germany-austria-switzerland-for-june-2026-the-defence-capital-supercycle', sourceSnippet: "Startup News Germany, Austria, Switzerland for June 2026 — Startup Rad, Juni 2026"
+          },
+          en: {
+            title: "Germany Emerges as Europe's Defense Capital with Tech & Aerospace Innovation",
+            desc: "Germany is becoming a hub for defense technology and aerospace innovation, with startups like Isar Aerospace attracting major sovereign capital investments.",
+            content: "<p>Germany is emerging as a centre for European defense technology and aerospace innovation, with aerospace startup Isar Aerospace and several defence companies attracting significant sovereign capital investments from strategic investors, Startup Rad reported in mid-June 2026.</p><p>Germany's defense ecosystem is strengthened by the presence of major defence manufacturers like Rheinmetall (KNDS) and aerospace companies partnering with leading university research institutes, creating a strong industry-academia collaboration.</p><p>Rising investment in Germany's defence and aerospace sector is reflected in a more assertive national security strategy under the Merz government, in line with geopolitical pressures from Middle East conflicts and rising regional security risks.</p><p>Industry analysts believe Germany will continue to lead the region in advanced defence technology development, particularly in drones, precision-guided missile systems, and defence satellite communications, driven by the need to enhance NATO military capabilities and stronger European defence alliances.</p>",
+            source: 'Startup Rad', sourceUrl: 'https://www.startuprad.io/post/startup-news-germany-austria-switzerland-for-june-2026-the-defence-capital-supercycle', sourceSnippet: "Startup News Germany, Austria, Switzerland for June 2026 — Startup Rad, June 2026"
+          },
+          ja: {
+            title: 'ドイツ、防衛技術とエアロスペース革新の中心地へ',
+            desc: 'ドイツは防衛技術とエアロスペース革新の中心地として浮上し、Isar Aerospaceなどのスタートアップが大規模なソブリン・キャピタル投資を集めている。',
+            content: '<p>ドイツはヨーロッパの防衛技術とエアロスペース革新の中心地として浮上しており、エアロスペース・スタートアップのIsar Aerospaceと複数の防衛会社が戦略的投資家から大規模なソブリン・キャピタル投資を集めていると、Startup Radが2026年6月中旬に報じました。</p>',
+            source: 'Startup Rad', sourceUrl: 'https://www.startuprad.io/post/startup-news-germany-austria-switzerland-for-june-2026-the-defence-capital-supercycle', sourceSnippet: 'スタートアップニュース ドイツ、オーストリア、スイス — Startup Rad'
+          },
+          ko: {
+            title: '독일, 유럽 방위 기술과 항공우주 혁신 중심지로 부상',
+            desc: '독일은 방위 기술과 항공우주 혁신의 중심지로 부상하고 있으며, Isar Aerospace 같은 스타트업이 대규모 주권자본 투자를 유치하고 있다.',
+            content: '<p>독일은 유럽 방위 기술과 항공우주 혁신의 중심지로 부상하고 있으며, 항공우주 스타트업 Isar Aerospace와 여러 방위산업체가 전략적 투자자로부터 대규모 주권자본 투자를 유치하고 있다고 Startup Rad가 2026년 6월 중순 보도했다.</p>',
+            source: 'Startup Rad', sourceUrl: 'https://www.startuprad.io/post/startup-news-germany-austria-switzerland-for-june-2026-the-defence-capital-supercycle', sourceSnippet: 'Startup News Germany, Austria, Switzerland — Startup Rad'
+          },
+          zh: {
+            title: '德国崭露头角成为欧洲防卫技术和航空航天创新中心',
+            desc: '德国成为防卫技术和航空航天创新中心，Isar Aerospace等初创企业正吸引大规模主权资本投资。',
+            content: '<p>据Startup Rad 2026年6月中旬报道，德国正成为欧洲防卫技术和航空航天创新中心，航空航天初创企业Isar Aerospace和多家防卫公司正吸引来自战略投资者的大规模主权资本投资。</p>',
+            source: 'Startup Rad', sourceUrl: 'https://www.startuprad.io/post/startup-news-germany-austria-switzerland-for-june-2026-the-defence-capital-supercycle', sourceSnippet: '2026年6月德国、奥地利、瑞士创业新闻 — Startup Rad'
+          }
+        }
+      }
+
     ]
   };
   window.countries = window.countryDataFiles;
