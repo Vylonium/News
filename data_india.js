@@ -217,6 +217,261 @@
           zh: { title: 'IMD警告2026年7月季风降水量将低于正常水平，厄尔尼诺加强掌控', desc: '2026年6月成为印度自1901年以来第五个最干燥的6月后，印度气象局（IMD）警告2026年7月西南季风降水量将低于正常水平，由厄尔尼诺持续加强驱动。', content: '<p>印度气象局（IMD）于2026年6月30日（周一）正式警告，2026年7月印度西南季风降雨量可能低于正常水平。此警告的背景是2026年6月成为印度自1901年有记录以来第五个最干燥的6月，全国降雨量赤字达到长期平均值的40%以下。这是十年来最糟糕的情况，立即在农民、地方政府和农业商品市场参与者中引发严重担忧。</p><p>这一严重降雨赤字的主要原因是赤道太平洋上方厄尔尼诺的加强，这在历史上与印度季风强度呈负相关。此外，不利的马登-朱利安振荡（MJO）模式阻碍了为印度大陆带来降雨所需的对流活动。</p><p>这一季风赤字的直接影响已在实地感受到。马哈拉施特拉邦、中央邦和卡纳塔克邦等地的卡里夫作物（水稻、玉米、大豆）生长显著推迟。为灌溉供水的主要水库6月底报告仅存正常容量的45-55%，远低于往年。近几周，主要印度市场的蔬菜和谷物价格开始上涨。</p><p>印度政府已在多个地区启动干旱应对协议，并加快向农民分发耐旱种子品种。农业部还指示农业银行放宽农业信贷要求以帮助受影响农民。IMD表示将每两周继续更新季风预测，如果7月中旬大气条件向更有利方向转变，不排除正向修正的可能性。</p>', source: 'Reuters', sourceUrl: 'https://www.reuters.com/business/environment/india-warns-below-average-july-monsoon-rains-after-particularly-dry-june-2026-06-30/', sourceSnippet: '特别干燥的6月之后，印度警告7月季风降雨量低于平均水平 — Reuters', source2: 'India Today', sourceUrl2: 'https://www.indiatoday.in/science/story/imd-forecasts-below-normal-rainfall-in-july-el-nino-to-tighten-grip-on-monsoon-2937576-2026-06-30', sourceSnippet2: 'IMD预测7月降水量低于正常，厄尔尼诺加紧对季风的掌控 — India Today', source3: 'Down to Earth', sourceUrl3: 'https://www.downtoearth.org.in/climate-change/imprint-of-el-nino-other-weather-patterns-on-indias-deficit-june-2026-rainfall', sourceSnippet3: '厄尔尼诺等天气模式对印度2026年6月降水赤字的印记 — Down to Earth' }
         }
       }
+      ,{
+        id: 'india-rbi-suku-bunga-525-pertumbuhan-66persen-5juni2026',
+        langs: {
+          id: {
+            title: 'RBI Pertahankan Suku Bunga 5,25%, Pangkas Proyeksi Pertumbuhan FY27 ke 6,6%',
+            desc: 'Bank sentral India menahan suku bunga acuan untuk kedua kalinya berturut-turut sambil merevisi turun perkiraan pertumbuhan ekonomi dan menaikkan proyeksi inflasi akibat dampak perang Iran.',
+            content: '<p>Reserve Bank of India (RBI) mempertahankan suku bunga acuan (repo rate) di level 5,25% dalam pertemuan Komite Kebijakan Moneter yang berlangsung 3-5 Juni 2026, menandai kali kedua berturut-turut bank sentral menahan suku bunga setelah rangkaian pemangkasan agresif sebesar total 100 basis poin sejak Februari 2025.</p><p>Gubernur RBI Sanjay Malhotra mengumumkan revisi turun proyeksi pertumbuhan Produk Domestik Bruto tahun fiskal 2026-2027 menjadi 6,6%, dari perkiraan sebelumnya 6,9%, sekaligus menaikkan proyeksi inflasi sebesar 50 basis poin menjadi 5,1%.</p><p>RBI menyebut ketegangan geopolitik akibat perang Iran turut memicu kekhawatiran inflasi lewat lonjakan harga energi global, meski bank sentral menegaskan fundamental ekonomi domestik India tetap kuat didukung konsumsi rumah tangga dan investasi infrastruktur.</p><p>Dalam risalah rapat yang dirilis pekan berikutnya, Gubernur Malhotra menekankan perlunya tetap waspada terhadap tekanan inflasi meski suku bunga dipertahankan, sembari memantau perkembangan harga minyak dunia yang masih bergejolak akibat konflik di Timur Tengah.</p>',
+            source: 'The Hindu', sourceUrl: 'https://www.thehindu.com/business/Economy/rbi-mpc-policy-repo-rate-unchanged-june-5-2026/article71064055.ece', sourceSnippet: 'RBI MPC holds Repo rate at 5.25%, lowers growth forecast to 6.6% — The Hindu, 5 Juni 2026',
+            source2: 'Indian Express', sourceUrl2: 'https://indianexpress.com/article/india/rbi-monetary-policy-meeting-mpc-june-2026-live-updates-sanjay-malhotra-repo-rate-inflation-10724578/', sourceSnippet2: 'RBI keeps repo rate unchanged, revises GDP growth forecast to 6.6% — Indian Express',
+            source3: 'Business Standard', sourceUrl3: 'https://www.business-standard.com/economy/news/mpc-minutes-need-to-stay-watchful-on-inflation-says-rbi-governor-126061901020_1.html', sourceSnippet3: 'MPC Minutes: Need to stay watchful on inflation, says RBI governor — Business Standard'
+          },
+          en: {
+            title: 'RBI Holds Repo Rate at 5.25%, Cuts FY27 Growth Forecast to 6.6%',
+            desc: "India's central bank held its benchmark rate steady for a second straight meeting while revising down growth projections and raising inflation forecasts amid the Iran war fallout.",
+            content: "<p>The Reserve Bank of India (RBI) held its benchmark repo rate at 5.25% at its Monetary Policy Committee meeting held June 3-5, 2026, marking the second consecutive hold after a series of aggressive cuts totalling 100 basis points since February 2025.</p><p>RBI Governor Sanjay Malhotra announced a downward revision of the FY27 GDP growth forecast to 6.6%, from a previous estimate of 6.9%, while raising the inflation projection by 50 basis points to 5.1%.</p><p>The RBI said geopolitical tensions from the Iran war have fuelled inflation concerns via a surge in global energy prices, though the central bank stressed India's domestic economic fundamentals remain strong, supported by household consumption and infrastructure investment.</p><p>In minutes released the following week, Governor Malhotra emphasised the need to stay watchful on inflation pressures despite the rate hold, while monitoring volatile global oil prices amid the ongoing Middle East conflict.</p>",
+            source: 'The Hindu', sourceUrl: 'https://www.thehindu.com/business/Economy/rbi-mpc-policy-repo-rate-unchanged-june-5-2026/article71064055.ece', sourceSnippet: 'RBI MPC holds Repo rate at 5.25%, lowers growth forecast to 6.6% — The Hindu, June 5, 2026',
+            source2: 'Indian Express', sourceUrl2: 'https://indianexpress.com/article/india/rbi-monetary-policy-meeting-mpc-june-2026-live-updates-sanjay-malhotra-repo-rate-inflation-10724578/', sourceSnippet2: 'RBI keeps repo rate unchanged, revises GDP growth forecast to 6.6% — Indian Express',
+            source3: 'Business Standard', sourceUrl3: 'https://www.business-standard.com/economy/news/mpc-minutes-need-to-stay-watchful-on-inflation-says-rbi-governor-126061901020_1.html', sourceSnippet3: 'MPC Minutes: Need to stay watchful on inflation, says RBI governor — Business Standard'
+          },
+          ja: {
+            title: 'インド準備銀行、政策金利を5.25%に据え置き、FY27成長見通しを6.6%に引き下げ',
+            desc: 'インド中央銀行はイラン戦争の影響でインフレ見通しを引き上げつつ、2会合連続で政策金利を据え置いた。',
+            content: '<p>インド準備銀行（RBI）は2026年6月3日から5日に開催された金融政策委員会で、政策金利（レポレート）を5.25%に据え置きました。これは2025年2月以降合計100ベーシスポイントの積極的な利下げを経て、2会合連続の据え置きとなります。</p><p>サンジャイ・マルホトラ総裁は2026-27年度のGDP成長率見通しを従来の6.9%から6.6%に下方修正すると同時に、インフレ見通しを50ベーシスポイント引き上げ5.1%としました。</p><p>RBIは、イラン戦争による地政学的緊張が世界的なエネルギー価格高騰を通じてインフレ懸念を煽っていると指摘しつつも、家計消費とインフラ投資に支えられた国内経済のファンダメンタルズは引き続き強固であると強調しました。</p>',
+            source: 'The Hindu', sourceUrl: 'https://www.thehindu.com/business/Economy/rbi-mpc-policy-repo-rate-unchanged-june-5-2026/article71064055.ece', sourceSnippet: 'RBI政策金利5.25%据え置き — The Hindu',
+            source2: 'Indian Express', sourceUrl2: 'https://indianexpress.com/article/india/rbi-monetary-policy-meeting-mpc-june-2026-live-updates-sanjay-malhotra-repo-rate-inflation-10724578/', sourceSnippet2: 'RBI、GDP成長見通しを6.6%に修正 — Indian Express'
+          },
+          ko: {
+            title: 'RBI, 기준금리 5.25% 동결... FY27 성장 전망 6.6%로 하향',
+            desc: '인도 중앙은행이 이란 전쟁 여파로 인플레이션 전망을 높이면서도 2회 연속 기준금리를 동결했다.',
+            content: '<p>인도준비은행(RBI)은 2026년 6월 3일부터 5일까지 열린 통화정책위원회에서 기준금리(레포금리)를 5.25%로 동결했다. 이는 2025년 2월 이후 총 100bp에 달하는 공격적 금리 인하 이후 2회 연속 동결이다.</p><p>산제이 말호트라 총재는 FY27 GDP 성장률 전망치를 기존 6.9%에서 6.6%로 하향 조정하는 동시에 물가상승률 전망은 50bp 인상한 5.1%로 발표했다.</p><p>RBI는 이란 전쟁으로 인한 지정학적 긴장이 세계 에너지 가격 급등을 통해 인플레이션 우려를 부추기고 있다고 밝히면서도, 가계 소비와 인프라 투자에 힘입어 인도의 국내 경제 펀더멘털은 여전히 견고하다고 강조했다.</p>',
+            source: 'The Hindu', sourceUrl: 'https://www.thehindu.com/business/Economy/rbi-mpc-policy-repo-rate-unchanged-june-5-2026/article71064055.ece', sourceSnippet: 'RBI 기준금리 5.25% 동결 — The Hindu',
+            source2: 'Indian Express', sourceUrl2: 'https://indianexpress.com/article/india/rbi-monetary-policy-meeting-mpc-june-2026-live-updates-sanjay-malhotra-repo-rate-inflation-10724578/', sourceSnippet2: 'RBI, GDP 성장 전망 6.6%로 수정 — Indian Express'
+          },
+          zh: {
+            title: '印度央行维持基准利率5.25%不变，FY27增长预期下调至6.6%',
+            desc: '印度央行在伊朗战争影响下上调通胀预期，同时连续第二次维持基准利率不变。',
+            content: '<p>印度储备银行（RBI）在2026年6月3日至5日举行的货币政策委员会会议上，将基准回购利率维持在5.25%，这是自2025年2月以来累计降息100个基点后连续第二次维持利率不变。</p><p>RBI行长桑贾伊·马尔霍特拉宣布将2026-27财年GDP增长预期从此前的6.9%下调至6.6%，同时将通胀预期上调50个基点至5.1%。</p><p>RBI表示，伊朗战争引发的地缘政治紧张局势通过全球能源价格飙升加剧了通胀担忧，但央行强调，在家庭消费和基础设施投资的支撑下，印度国内经济基本面依然强劲。</p>',
+            source: 'The Hindu', sourceUrl: 'https://www.thehindu.com/business/Economy/rbi-mpc-policy-repo-rate-unchanged-june-5-2026/article71064055.ece', sourceSnippet: 'RBI维持基准利率5.25%不变 — The Hindu',
+            source2: 'Indian Express', sourceUrl2: 'https://indianexpress.com/article/india/rbi-monetary-policy-meeting-mpc-june-2026-live-updates-sanjay-malhotra-repo-rate-inflation-10724578/', sourceSnippet2: 'RBI将GDP增长预期修正为6.6% — Indian Express'
+          }
+        }
+      }
+
+      ,{
+        id: 'india-modi-takaichi-jepang-kunjungan-3juli2026',
+        langs: {
+          id: {
+            title: 'Modi Sambut PM Jepang Sanae Takaichi, Bahas Penguatan Hubungan Bilateral',
+            desc: 'Kunjungan pertama PM Jepang Sanae Takaichi ke India sejak menjabat menghasilkan pembicaraan penguatan kemitraan strategis kedua negara.',
+            content: '<p>Perdana Menteri India Narendra Modi menyambut Perdana Menteri Jepang Sanae Takaichi dalam kunjungan kenegaraan pertamanya ke India sejak menjabat, menurut laporan DW pada 3 Juli 2026. Pertemuan ini berlangsung di New Delhi dan menjadi tonggak penting hubungan bilateral kedua negara.</p><p>Kedua pemimpin membahas berbagai isu strategis termasuk kerja sama keamanan kawasan Indo-Pasifik, investasi infrastruktur, serta perluasan kemitraan ekonomi di sektor teknologi dan energi bersih.</p><p>Takaichi, yang dikenal dengan kebijakan luar negeri yang tegas, menegaskan komitmen Jepang untuk memperdalam kerja sama dengan India sebagai mitra penting dalam menjaga stabilitas kawasan di tengah dinamika geopolitik global yang terus berubah.</p><p>Modi menyambut baik kunjungan tersebut dan menyebut hubungan India-Jepang sebagai salah satu kemitraan strategis terpenting bagi kedua negara, dengan rencana peningkatan investasi Jepang di sektor manufaktur dan infrastruktur India dalam beberapa tahun mendatang.</p>',
+            source: 'DW', sourceUrl: 'https://www.dw.com/en/india-news-narendra-modi-hosts-japans-sanae-takaichi/live-77796319', sourceSnippet: "India news: Narendra Modi hosts Japan's Sanae Takaichi — DW, 3 Juli 2026"
+          },
+          en: {
+            title: "Modi Hosts Japan's PM Sanae Takaichi, Discusses Strengthening Bilateral Ties",
+            desc: "Japanese PM Sanae Takaichi's first visit to India since taking office resulted in talks to strengthen the two countries' strategic partnership.",
+            content: "<p>Indian Prime Minister Narendra Modi welcomed Japanese Prime Minister Sanae Takaichi on her first state visit to India since taking office, DW reported on July 3, 2026. The meeting took place in New Delhi and marks a significant milestone in bilateral relations.</p><p>The two leaders discussed several strategic issues including Indo-Pacific regional security cooperation, infrastructure investment, and expanding economic partnership in clean energy and technology sectors.</p><p>Takaichi, known for her assertive foreign policy stance, reaffirmed Japan's commitment to deepening cooperation with India as a key partner in maintaining regional stability amid shifting global geopolitical dynamics.</p><p>Modi welcomed the visit, describing India-Japan relations as one of the most important strategic partnerships for both nations, with plans for increased Japanese investment in India's manufacturing and infrastructure sectors in the coming years.</p>",
+            source: 'DW', sourceUrl: 'https://www.dw.com/en/india-news-narendra-modi-hosts-japans-sanae-takaichi/live-77796319', sourceSnippet: "India news: Narendra Modi hosts Japan's Sanae Takaichi — DW, July 3, 2026"
+          },
+          ja: {
+            title: 'モディ首相、日本の高市早苗首相を歓迎、二国間関係強化を協議',
+            desc: '高市早苗首相の就任後初のインド訪問で、両国の戦略的パートナーシップ強化に向けた協議が行われた。',
+            content: '<p>インドのナレンドラ・モディ首相は、高市早苗首相の就任後初となるインド訪問を歓迎したと、DWが2026年7月3日に報じました。会談はニューデリーで行われ、両国関係の重要な節目となりました。</p><p>両首脳はインド太平洋地域の安全保障協力、インフラ投資、クリーンエネルギーおよび技術分野での経済パートナーシップ拡大など、複数の戦略的課題について協議しました。</p><p>高市首相は、変化し続ける地政学的情勢の中で地域の安定を維持する重要なパートナーとして、インドとの協力深化への日本の決意を再確認しました。</p>',
+            source: 'DW', sourceUrl: 'https://www.dw.com/en/india-news-narendra-modi-hosts-japans-sanae-takaichi/live-77796319', sourceSnippet: 'モディ首相、高市首相を歓迎 — DW'
+          },
+          ko: {
+            title: '모디, 일본 다카이치 총리 맞이... 양국 관계 강화 논의',
+            desc: '다카이치 사나에 일본 총리의 취임 후 첫 인도 방문에서 양국 전략적 동반자 관계 강화 논의가 이뤄졌다.',
+            content: '<p>나렌드라 모디 인도 총리가 다카이치 사나에 일본 총리의 취임 후 첫 인도 국빈 방문을 환영했다고 DW가 2026년 7월 3일 보도했다. 회담은 뉴델리에서 열렸으며 양국 관계의 중요한 이정표가 됐다.</p><p>양 정상은 인도태평양 지역 안보 협력, 인프라 투자, 청정에너지 및 기술 분야 경제 협력 확대 등 여러 전략적 사안을 논의했다.</p><p>다카이치 총리는 변화하는 지정학적 역학 속에서 지역 안정을 유지하는 핵심 파트너로서 인도와의 협력을 심화하겠다는 일본의 의지를 재확인했다.</p>',
+            source: 'DW', sourceUrl: 'https://www.dw.com/en/india-news-narendra-modi-hosts-japans-sanae-takaichi/live-77796319', sourceSnippet: '모디, 다카이치 총리 맞이 — DW'
+          },
+          zh: {
+            title: '莫迪接待日本首相高市早苗，商讨深化双边关系',
+            desc: '日本首相高市早苗就任以来首次访印，双方就深化战略伙伴关系举行会谈。',
+            content: '<p>据DW报道，印度总理莫迪于2026年7月3日接待了日本首相高市早苗就任以来的首次国事访问。会谈在新德里举行，是两国关系的重要里程碑。</p><p>两国领导人讨论了印太地区安全合作、基础设施投资以及清洁能源和技术领域经济伙伴关系扩大等多项战略议题。</p><p>高市早苗重申了日本深化与印度合作的决心，将印度视为在不断变化的地缘政治格局中维护地区稳定的重要伙伴。</p>',
+            source: 'DW', sourceUrl: 'https://www.dw.com/en/india-news-narendra-modi-hosts-japans-sanae-takaichi/live-77796319', sourceSnippet: '莫迪接待高市早苗首相 — DW'
+          }
+        }
+      }
+      ,{
+        id: 'india-kuil-ram-skandal-korupsi-29juni2026',
+        langs: {
+          id: {
+            title: 'Skandal Korupsi Guncang Kuil Ram Ayodhya Jelang Pemilu Uttar Pradesh',
+            desc: 'Tuduhan penggelapan dana donasi senilai jutaan dolar di Kuil Ram Ayodhya memicu penangkapan dan kegemparan politik jelang pemilu negara bagian.',
+            content: '<p>Kuil Ram di Ayodhya, salah satu situs keagamaan paling penting di India, diguncang skandal korupsi setelah tuduhan penggelapan dana donasi senilai jutaan dolar oleh pihak pengelola, menurut laporan Al Jazeera pada 29 Juni 2026.</p><p>Tuduhan ini pertama kali mencuat setelah mantan pengawas tim akuntansi Shri Ram Janmabhoomi Teerth Kshetra Trust, Mahipal Singh, mengungkap sejumlah kejanggalan keuangan. Kepolisian negara bagian Uttar Pradesh yang dipimpin Yogi Adityanath telah menahan sedikitnya delapan orang terkait kasus ini.</p><p>Sekretaris Jenderal Trust, Champat Rai, yang menjadi figur sentral gerakan pembangunan kuil, mengundurkan diri bersama sejumlah pengurus senior lainnya menyusul tekanan publik yang terus meningkat.</p><p>Pemimpin oposisi dari Samajwadi Party, Akhilesh Yadav, menuduh pemerintah negara bagian hanya menahan staf junior sementara melindungi dalang utama penggelapan. Analis politik menilai skandal ini berpotensi merugikan citra Partai BJP pimpinan PM Modi jelang pemilu Uttar Pradesh awal tahun depan.</p><p>Ribuan umat yang merasa dikhianati menuntut transparansi penuh atas hasil investigasi, sementara sejumlah tokoh agama Hindu menyebut pemerintah menggunakan staf junior sebagai kambing hitam untuk melindungi pihak yang lebih berkuasa.</p>',
+            source: 'Al Jazeera', sourceUrl: 'https://www.aljazeera.com/features/2026/6/29/stealing-from-the-gods-indias-ram-temple-hit-by-corruption-scandal', sourceSnippet: "Stealing from the gods: India's Ram Temple hit by corruption scandal — Al Jazeera, 29 Juni 2026"
+          },
+          en: {
+            title: "Corruption Scandal Rocks Ayodhya's Ram Temple Ahead of Uttar Pradesh Election",
+            desc: "Allegations of millions of dollars in embezzled donations at Ayodhya's Ram Temple have triggered arrests and political uproar ahead of the state election.",
+            content: "<p>The Ram Temple in Ayodhya, one of India's most important religious sites, has been rocked by a corruption scandal following allegations that management embezzled donations worth millions of dollars, Al Jazeera reported on June 29, 2026.</p><p>The allegations first surfaced after Mahipal Singh, a former supervisor of the Shri Ram Janmabhoomi Teerth Kshetra Trust's accounting team, exposed financial irregularities. Uttar Pradesh state police, led by Yogi Adityanath's government, have arrested at least eight people in connection with the case.</p><p>The trust's general secretary, Champat Rai, a central figure in the temple movement, stepped down along with several other senior trustees amid mounting public pressure.</p><p>Opposition leader Akhilesh Yadav of the Samajwadi Party accused the state government of arresting junior staff while shielding the masterminds behind the alleged misappropriation. Political analysts say the scandal could damage the image of PM Modi's BJP ahead of the Uttar Pradesh election early next year.</p><p>Thousands of devotees who feel betrayed are demanding full transparency in the investigation, while some Hindu religious figures say the government is using junior staff as scapegoats to shield more powerful figures.</p>",
+            source: 'Al Jazeera', sourceUrl: 'https://www.aljazeera.com/features/2026/6/29/stealing-from-the-gods-indias-ram-temple-hit-by-corruption-scandal', sourceSnippet: "Stealing from the gods: India's Ram Temple hit by corruption scandal — Al Jazeera, June 29, 2026"
+          },
+          ja: {
+            title: 'アヨーディヤーのラーム寺院、汚職スキャンダルに揺れる ウッタル・プラデーシュ州選挙控え',
+            desc: 'アヨーディヤーのラーム寺院で数百万ドル規模の寄付金横領疑惑が浮上し、逮捕者と政治的騒動を引き起こしている。',
+            content: '<p>インドで最も重要な宗教施設の一つであるアヨーディヤーのラーム寺院が、管理者による数百万ドル規模の寄付金横領疑惑を受け汚職スキャンダルに揺れていると、アルジャジーラが2026年6月29日に報じました。</p><p>この疑惑は、信託の会計チーム元監督者マヒパル・シンが財務上の不正を告発したことで初めて表面化しました。ヨギ・アディティヤナート州政府警察はこの件に関連して少なくとも8人を逮捕しています。</p><p>寺院運動の中心人物である信託事務局長チャンパット・ライ氏は、高まる世論の圧力を受け他の幹部とともに辞任しました。</p>',
+            source: 'Al Jazeera', sourceUrl: 'https://www.aljazeera.com/features/2026/6/29/stealing-from-the-gods-indias-ram-temple-hit-by-corruption-scandal', sourceSnippet: 'ラーム寺院汚職スキャンダル — Al Jazeera'
+          },
+          ko: {
+            title: '아요디아 람 사원, 부패 스캔들에 휩싸여... 우타르프라데시 선거 앞두고',
+            desc: '아요디아 람 사원에서 수백만 달러 규모의 기부금 횡령 의혹이 제기되며 체포와 정치적 파문이 일고 있다.',
+            content: '<p>인도에서 가장 중요한 종교 성지 중 하나인 아요디아의 람 사원이 관리자들의 수백만 달러 규모 기부금 횡령 의혹으로 부패 스캔들에 휩싸였다고 알자지라가 2026년 6월 29일 보도했다.</p><p>이 의혹은 신탁 회계팀 전 감독관 마히팔 싱이 재정적 부정을 폭로하면서 처음 불거졌다. 요기 아디티야나트 주정부 경찰은 이 사건과 관련해 최소 8명을 체포했다.</p><p>사원 운동의 핵심 인물인 신탁 사무총장 참파트 라이는 여론 압박이 거세지자 다른 고위 이사들과 함께 사임했다.</p>',
+            source: 'Al Jazeera', sourceUrl: 'https://www.aljazeera.com/features/2026/6/29/stealing-from-the-gods-indias-ram-temple-hit-by-corruption-scandal', sourceSnippet: '람 사원 부패 스캔들 — Al Jazeera'
+          },
+          zh: {
+            title: '阿约提亚罗摩神庙爆发腐败丑闻，北方邦选举在即',
+            desc: '阿约提亚罗摩神庙被指控挪用数百万美元捐款，引发逮捕行动和政治轩然大波。',
+            content: '<p>据半岛电视台2026年6月29日报道，印度最重要的宗教场所之一——阿约提亚罗摩神庙因管理层被指挪用数百万美元捐款而卷入腐败丑闻。</p><p>该指控最早由信托会计团队前主管马希帕尔·辛格曝光财务违规行为后浮出水面。由约吉·阿迪蒂亚纳特领导的北方邦警方已就此案逮捕至少8人。</p><p>神庙运动的核心人物、信托总秘书长昌帕特·拉伊在舆论压力不断升级之际，与其他多名高级理事一同辞职。</p>',
+            source: 'Al Jazeera', sourceUrl: 'https://www.aljazeera.com/features/2026/6/29/stealing-from-the-gods-indias-ram-temple-hit-by-corruption-scandal', sourceSnippet: '罗摩神庙腐败丑闻 — Al Jazeera'
+          }
+        }
+      }
+
+      ,{
+        id: 'india-telegram-diblokir-frankenstein-juni2026',
+        langs: {
+          id: {
+            title: 'Pemerintah India Sebut Telegram "Seperti Frankenstein", Aplikasi Sempat Diblokir',
+            desc: 'Pejabat India menyebut platform pesan Telegram telah berkembang menjadi "monster" yang sulit dikendalikan, memicu pemblokiran sementara di negara tersebut.',
+            content: '<p>Pemerintah India menyebut aplikasi pesan Telegram "seperti Frankenstein" setelah platform tersebut sempat diblokir sementara di dalam negeri, menurut laporan DW pertengahan Juni 2026.</p><p>Pejabat pemerintah menyatakan Telegram telah tumbuh menjadi "monster" yang sulit dikendalikan otoritas, dengan kekhawatiran utama terkait penyalahgunaan platform untuk aktivitas ilegal, penyebaran konten terlarang, serta minimnya kerja sama penegakan hukum dari pihak pengembang aplikasi.</p><p>Pemblokiran sementara ini menambah daftar tindakan tegas pemerintah India terhadap platform digital asing yang dianggap tidak patuh terhadap regulasi domestik terkait moderasi konten dan keamanan siber.</p><p>Keputusan ini memicu perdebatan publik antara kelompok yang mendukung langkah tegas pemerintah demi keamanan nasional, dengan kelompok lain yang mengkhawatirkan dampaknya terhadap kebebasan berkomunikasi jutaan pengguna Telegram di India.</p>',
+            source: 'DW', sourceUrl: 'https://www.dw.com/en/india-news-telegram-is-like-frankenstein-government-says/live-77597035', sourceSnippet: "India news: Telegram is 'like Frankenstein,' government says — DW"
+          },
+          en: {
+            title: "India Government Calls Telegram 'Like Frankenstein,' App Briefly Blocked",
+            desc: "Indian officials say the messaging platform Telegram has grown into an uncontrollable 'monster,' triggering a temporary ban in the country.",
+            content: "<p>The Indian government described the messaging app Telegram as 'like Frankenstein' after the platform was temporarily blocked domestically, DW reported in mid-June 2026.</p><p>Government officials said Telegram has grown into a 'monster' that authorities struggle to control, with primary concerns centred on the platform's misuse for illegal activity, spread of banned content, and insufficient law enforcement cooperation from the app's developers.</p><p>The temporary block adds to a growing list of stringent actions by the Indian government against foreign digital platforms deemed non-compliant with domestic content moderation and cybersecurity regulations.</p><p>The decision sparked public debate between those supporting the government's firm stance for national security and others concerned about the impact on the communication freedom of millions of Telegram users in India.</p>",
+            source: 'DW', sourceUrl: 'https://www.dw.com/en/india-news-telegram-is-like-frankenstein-government-says/live-77597035', sourceSnippet: "India news: Telegram is 'like Frankenstein,' government says — DW"
+          },
+          ja: {
+            title: 'インド政府、テレグラムを「フランケンシュタインのよう」と非難、一時ブロック',
+            desc: 'インド当局はメッセージアプリのテレグラムが制御不能な「怪物」に成長したと述べ、国内で一時的にブロックした。',
+            content: '<p>インド政府はメッセージアプリ「テレグラム」を「フランケンシュタインのようだ」と表現したと、DWが2026年6月中旬に報じました。プラットフォームは国内で一時的にブロックされました。</p><p>政府当局者は、テレグラムが当局にとって制御困難な「怪物」に成長したと述べ、違法行為への悪用や禁止コンテンツの拡散、開発元の法執行協力不足への懸念を主な理由として挙げました。</p>',
+            source: 'DW', sourceUrl: 'https://www.dw.com/en/india-news-telegram-is-like-frankenstein-government-says/live-77597035', sourceSnippet: 'テレグラム一時ブロック — DW'
+          },
+          ko: {
+            title: '인도 정부, 텔레그램 "프랑켄슈타인 같다"... 앱 일시 차단',
+            desc: '인도 당국은 메신저 플랫폼 텔레그램이 통제 불가능한 "괴물"로 성장했다며 국내에서 일시 차단했다고 밝혔다.',
+            content: '<p>인도 정부가 메신저 앱 텔레그램을 "프랑켄슈타인 같다"고 표현했다고 DW가 2026년 6월 중순 보도했다. 해당 플랫폼은 국내에서 일시적으로 차단됐다.</p><p>정부 관계자들은 텔레그램이 당국이 통제하기 어려운 "괴물"로 성장했다며, 불법 활동 악용과 금지 콘텐츠 확산, 개발사의 법 집행 협조 부족을 주요 우려 사항으로 꼽았다.</p>',
+            source: 'DW', sourceUrl: 'https://www.dw.com/en/india-news-telegram-is-like-frankenstein-government-says/live-77597035', sourceSnippet: '텔레그램 일시 차단 — DW'
+          },
+          zh: {
+            title: '印度政府称电报"像科学怪人"，应用一度被封锁',
+            desc: '印度官员表示，即时通讯平台电报已经发展成难以控制的"怪物"，导致该应用在印度一度被封锁。',
+            content: '<p>据DW报道，印度政府在2026年6月中旬将即时通讯应用电报（Telegram）形容为"像科学怪人一样"，该平台在印度国内一度被封锁。</p><p>政府官员表示，电报已发展成当局难以控制的"怪物"，主要担忧集中在该平台被滥用于非法活动、传播禁止内容，以及开发商在执法合作方面的不足。</p>',
+            source: 'DW', sourceUrl: 'https://www.dw.com/en/india-news-telegram-is-like-frankenstein-government-says/live-77597035', sourceSnippet: '电报应用一度被封锁 — DW'
+          }
+        }
+      }
+      ,{
+        id: 'india-indeks-ekonomi-informal-rbi-30juni2026',
+        langs: {
+          id: {
+            title: 'India Rancang Indeks Ekonomi Informal Frekuensi Tinggi untuk RBI',
+            desc: 'Pemerintah India berencana membuat indeks baru guna memantau sektor ekonomi informal yang mencakup jutaan usaha tak berbadan hukum.',
+            content: '<p>Pemerintah India tengah merancang indeks frekuensi tinggi untuk melacak sektor ekonomi informal negara yang mencakup jutaan perusahaan tak berbadan hukum, menurut laporan Economic Times pada 30 Juni 2026.</p><p>Inisiatif ini disebut sebagai langkah "game-changer" bagi Reserve Bank of India (RBI), perbankan, korporasi, dan investor karena selama ini data mengenai sektor informal India yang menyumbang porsi besar terhadap PDB sulit dipantau secara real-time.</p><p>Dengan indeks baru ini, otoritas moneter diharapkan dapat mengambil kebijakan yang lebih presisi karena memiliki gambaran lebih akurat mengenai aktivitas ekonomi riil di lapangan, termasuk pergerakan tenaga kerja informal dan usaha mikro kecil menengah.</p><p>Langkah ini sejalan dengan upaya berkelanjutan India memformalkan ekonominya, termasuk melalui program digitalisasi pembayaran dan perluasan basis pajak, guna mendukung target pertumbuhan ekonomi jangka panjang negara tersebut.</p>',
+            source: 'Economic Times', sourceUrl: 'https://economictimes.com/news/economy/indicators/india-informal-economy-index-unincorporated-enterprises-govt-is-plotting-a-game-changer-for-rbi-banks-corporates-investors/articleshow/132067600.cms', sourceSnippet: 'India is plotting a game-changer for RBI, banks, corporates, investors — Economic Times, 30 Juni 2026'
+          },
+          en: {
+            title: "India Plans High-Frequency Informal Economy Index for RBI",
+            desc: "India's government is planning a new index to track the vast informal economy sector covering millions of unincorporated enterprises.",
+            content: "<p>India's government is designing a high-frequency index to track the country's informal economy sector, which covers millions of unincorporated enterprises, the Economic Times reported on June 30, 2026.</p><p>The initiative is described as a potential 'game-changer' for the Reserve Bank of India (RBI), banks, corporates, and investors, as data on India's informal sector — which contributes a significant share of GDP — has long been difficult to track in real time.</p><p>With the new index, monetary authorities are expected to make more precise policy decisions by having a more accurate picture of real economic activity on the ground, including informal labour movements and micro, small and medium enterprises.</p><p>The move aligns with India's ongoing efforts to formalise its economy, including through digital payment initiatives and expanding the tax base, to support the country's long-term growth targets.</p>",
+            source: 'Economic Times', sourceUrl: 'https://economictimes.com/news/economy/indicators/india-informal-economy-index-unincorporated-enterprises-govt-is-plotting-a-game-changer-for-rbi-banks-corporates-investors/articleshow/132067600.cms', sourceSnippet: 'India is plotting a game-changer for RBI, banks, corporates, investors — Economic Times, June 30, 2026'
+          },
+          ja: {
+            title: 'インド、RBI向け高頻度インフォーマル経済指数を計画',
+            desc: 'インド政府は数百万の非法人企業を含むインフォーマル経済部門を追跡する新指数を計画している。',
+            content: '<p>インド政府は、数百万の非法人企業を含む同国のインフォーマル経済部門を追跡するための高頻度指数を設計していると、エコノミック・タイムズが2026年6月30日に報じました。</p><p>この取り組みは、GDPの大きな割合を占めるインドのインフォーマル部門のデータがこれまでリアルタイムで追跡困難だったため、インド準備銀行（RBI）、銀行、企業、投資家にとって「ゲームチェンジャー」になり得ると評されています。</p>',
+            source: 'Economic Times', sourceUrl: 'https://economictimes.com/news/economy/indicators/india-informal-economy-index-unincorporated-enterprises-govt-is-plotting-a-game-changer-for-rbi-banks-corporates-investors/articleshow/132067600.cms', sourceSnippet: 'インフォーマル経済指数計画 — Economic Times'
+          },
+          ko: {
+            title: '인도, RBI 위한 고빈도 비공식 경제 지수 계획',
+            desc: '인도 정부가 수백만 개의 비법인 기업을 포함하는 비공식 경제 부문을 추적하는 새로운 지수를 계획하고 있다.',
+            content: '<p>인도 정부가 수백만 개의 비법인 기업을 포함하는 국가 비공식 경제 부문을 추적하기 위한 고빈도 지수를 설계하고 있다고 이코노믹 타임스가 2026년 6월 30일 보도했다.</p><p>이 계획은 GDP의 상당 부분을 차지하는 인도 비공식 부문 데이터를 실시간으로 추적하기 어려웠던 만큼, 인도준비은행(RBI)과 은행, 기업, 투자자에게 "게임 체인저"가 될 수 있다고 평가된다.</p>',
+            source: 'Economic Times', sourceUrl: 'https://economictimes.com/news/economy/indicators/india-informal-economy-index-unincorporated-enterprises-govt-is-plotting-a-game-changer-for-rbi-banks-corporates-investors/articleshow/132067600.cms', sourceSnippet: '비공식 경제 지수 계획 — Economic Times'
+          },
+          zh: {
+            title: '印度计划为央行制定高频非正规经济指数',
+            desc: '印度政府计划推出新指数，以追踪涵盖数百万家非法人企业的庞大非正规经济部门。',
+            content: '<p>据《经济时报》2026年6月30日报道，印度政府正在设计一项高频指数，以追踪该国涵盖数百万家非法人企业的非正规经济部门。</p><p>该举措被认为可能成为印度储备银行（RBI）、银行、企业和投资者的"游戏规则改变者"，因为长期以来占印度GDP相当比例的非正规部门数据一直难以实时追踪。</p>',
+            source: 'Economic Times', sourceUrl: 'https://economictimes.com/news/economy/indicators/india-informal-economy-index-unincorporated-enterprises-govt-is-plotting-a-game-changer-for-rbi-banks-corporates-investors/articleshow/132067600.cms', sourceSnippet: '非正规经济指数计划 — Economic Times'
+          }
+        }
+      }
+      ,{
+        id: 'india-modi-brain-drain-peneliti-global-juni2026',
+        langs: {
+          id: {
+            title: 'Pemerintah Modi Luncurkan Inisiatif Balikkan Fenomena Brain Drain India',
+            desc: 'India berupaya menarik kembali ilmuwan dan profesional terbaiknya yang bekerja di luar negeri lewat program insentif riset dan akademik.',
+            content: '<p>Pemerintah Perdana Menteri Narendra Modi tengah menggencarkan upaya untuk membalikkan fenomena brain drain India dengan menarik kembali pelajar dan profesional terbaik yang bekerja di luar negeri, menurut laporan NDTV pertengahan Juni 2026.</p><p>Inisiatif ini mencakup program insentif riset, dana hibah akademik, serta kemudahan birokrasi bagi ilmuwan dan periset diaspora India yang ingin kembali berkontribusi membangun ekosistem riset dan inovasi domestik.</p><p>Langkah ini merupakan bagian dari strategi jangka panjang pemerintah untuk memperkuat kapasitas sumber daya manusia India di bidang sains dan teknologi, seiring persaingan global yang semakin ketat dalam menarik talenta unggul.</p><p>Sejumlah universitas dan lembaga riset terkemuka India turut dilibatkan dalam program ini untuk menciptakan lingkungan akademik yang lebih kompetitif dan menarik bagi para peneliti kelas dunia asal India.</p>',
+            source: 'NDTV', sourceUrl: 'https://www.ndtv.com/india-news/modi-government-initiative-to-reverse-india-brain-drain-by-attracting-global-researchers-11660596', sourceSnippet: "The Modi Government Wants To Reverse India's Brain Drain — NDTV"
+          },
+          en: {
+            title: "Modi Government Launches Initiative to Reverse India's Brain Drain",
+            desc: "India is working to attract back its top scientists and professionals working abroad through research and academic incentive programmes.",
+            content: "<p>Prime Minister Narendra Modi's government is ramping up efforts to reverse India's brain drain by attracting back top students and professionals working overseas, NDTV reported in mid-June 2026.</p><p>The initiative includes research incentive programmes, academic grants, and bureaucratic simplifications for Indian diaspora scientists and researchers wishing to return and contribute to the domestic research and innovation ecosystem.</p><p>The move is part of the government's long-term strategy to strengthen India's human capital in science and technology, amid intensifying global competition to attract top talent.</p><p>Several leading Indian universities and research institutions are being involved in the programme to create a more competitive academic environment appealing to world-class Indian researchers.</p>",
+            source: 'NDTV', sourceUrl: 'https://www.ndtv.com/india-news/modi-government-initiative-to-reverse-india-brain-drain-by-attracting-global-researchers-11660596', sourceSnippet: "The Modi Government Wants To Reverse India's Brain Drain — NDTV"
+          },
+          ja: {
+            title: 'モディ政権、頭脳流出逆転へ新たな取り組みを開始',
+            desc: 'インドは研究・学術インセンティブプログラムを通じ、海外で活躍する優秀な科学者や専門家の呼び戻しを図っている。',
+            content: '<p>ナレンドラ・モディ首相政権は、海外で働く優秀な学生や専門家を呼び戻すことでインドの頭脳流出を逆転させる取り組みを強化していると、NDTVが2026年6月中旬に報じました。</p><p>この取り組みには、研究インセンティブプログラム、学術助成金、そして帰国を希望するインド系海外在住の科学者・研究者向けの行政手続き簡素化が含まれます。</p>',
+            source: 'NDTV', sourceUrl: 'https://www.ndtv.com/india-news/modi-government-initiative-to-reverse-india-brain-drain-by-attracting-global-researchers-11660596', sourceSnippet: '頭脳流出逆転の取り組み — NDTV'
+          },
+          ko: {
+            title: '모디 정부, 두뇌 유출 반전 위한 새 이니셔티브 착수',
+            desc: '인도가 연구 및 학술 인센티브 프로그램을 통해 해외에서 활동 중인 우수 과학자와 전문가들을 다시 유치하고 있다.',
+            content: '<p>나렌드라 모디 총리 정부가 해외에서 일하는 우수 학생과 전문가들을 다시 유치해 인도의 두뇌 유출을 반전시키려는 노력을 강화하고 있다고 NDTV가 2026년 6월 중순 보도했다.</p><p>이 이니셔티브에는 연구 인센티브 프로그램, 학술 보조금, 그리고 귀국을 희망하는 인도계 해외 과학자·연구자를 위한 행정 절차 간소화가 포함된다.</p>',
+            source: 'NDTV', sourceUrl: 'https://www.ndtv.com/india-news/modi-government-initiative-to-reverse-india-brain-drain-by-attracting-global-researchers-11660596', sourceSnippet: '두뇌 유출 반전 이니셔티브 — NDTV'
+          },
+          zh: {
+            title: '莫迪政府启动新举措，扭转印度人才外流',
+            desc: '印度正通过研究和学术激励计划，努力吸引在海外工作的顶尖科学家和专业人才回国。',
+            content: '<p>据NDTV 2026年6月中旬报道，纳伦德拉·莫迪总理政府正加大力度扭转印度人才外流现象，吸引在海外工作的顶尖学生和专业人才回国。</p><p>该举措包括研究激励计划、学术资助，以及为希望回国贡献力量的印度侨民科学家和研究人员简化行政手续。</p>',
+            source: 'NDTV', sourceUrl: 'https://www.ndtv.com/india-news/modi-government-initiative-to-reverse-india-brain-drain-by-attracting-global-researchers-11660596', sourceSnippet: '扭转人才外流举措 — NDTV'
+          }
+        }
+      }
+      ,{
+        id: 'india-eksportir-tarif-trump-juli2026',
+        langs: {
+          id: {
+            title: 'Ketidakpastian Tarif Trump: Eksportir India Terima Banyak Pertanyaan, Minim Pesanan',
+            desc: 'Eksportir India mencatat lonjakan pertanyaan dari pembeli AS di tengah ketidakpastian kebijakan tarif Trump, namun belum diikuti pesanan nyata.',
+            content: '<p>Eksportir India mengalami lonjakan jumlah pertanyaan dari pembeli Amerika Serikat di tengah ketidakpastian kebijakan tarif yang diterapkan pemerintahan Trump, namun lonjakan ini belum banyak diterjemahkan menjadi pesanan nyata, menurut laporan Times of India pada 2 Juli 2026.</p><p>Para pelaku usaha menyebut pembeli AS cenderung menunggu kejelasan lebih lanjut mengenai struktur tarif final sebelum berkomitmen pada kontrak pembelian jangka panjang, menciptakan ketidakpastian bagi eksportir tekstil, elektronik, dan produk manufaktur India.</p><p>Sejumlah asosiasi eksportir berharap pemerintah India dapat mempercepat negosiasi dagang bilateral dengan AS guna memberikan kepastian tarif yang lebih baik bagi pelaku usaha di kedua negara.</p><p>Ketidakpastian ini turut berdampak pada perencanaan produksi sejumlah perusahaan yang mengandalkan pasar ekspor AS sebagai salah satu tujuan utama, memaksa mereka mencari alternatif pasar ekspor lain sebagai langkah mitigasi risiko.</p>',
+            source: 'Times of India', sourceUrl: 'https://timesofindia.indiatimes.com/business/india-business/trump-tariffs-uncertainty-indian-exporters-see-more-enquiries-from-us-but-not-many-orders-heres-why/articleshow/132130033.cms', sourceSnippet: 'Trump tariffs uncertainty: Indian exporters see more enquiries from US, but not many orders — Times of India, 2 Juli 2026'
+          },
+          en: {
+            title: "Trump Tariff Uncertainty: Indian Exporters See More Enquiries, Few Orders",
+            desc: "Indian exporters report a surge in enquiries from US buyers amid Trump tariff policy uncertainty, but the surge has yet to translate into actual orders.",
+            content: "<p>Indian exporters have seen a surge in enquiries from US buyers amid uncertainty over the Trump administration's tariff policy, though the surge has not translated into many actual orders, the Times of India reported on July 2, 2026.</p><p>Business operators say US buyers tend to wait for further clarity on the final tariff structure before committing to long-term purchase contracts, creating uncertainty for Indian textile, electronics, and manufacturing exporters.</p><p>Several exporter associations hope the Indian government can accelerate bilateral trade negotiations with the US to provide better tariff certainty for businesses in both countries.</p><p>The uncertainty has also affected production planning for companies relying on the US export market as a key destination, forcing them to seek alternative export markets as a risk mitigation measure.</p>",
+            source: 'Times of India', sourceUrl: 'https://timesofindia.indiatimes.com/business/india-business/trump-tariffs-uncertainty-indian-exporters-see-more-enquiries-from-us-but-not-many-orders-heres-why/articleshow/132130033.cms', sourceSnippet: 'Trump tariffs uncertainty: Indian exporters see more enquiries from US, but not many orders — Times of India, July 2, 2026'
+          },
+          ja: {
+            title: 'トランプ関税の不透明感：インド輸出業者への問い合わせ増も受注は伸びず',
+            desc: 'トランプ政権の関税政策への不透明感の中、インド輸出業者は米国からの問い合わせ増加を経験しているが、実際の受注には至っていない。',
+            content: '<p>トランプ政権の関税政策への不透明感の中、インドの輸出業者は米国バイヤーからの問い合わせ急増を経験しているものの、実際の受注にはあまり結びついていないと、タイムズ・オブ・インディアが2026年7月2日に報じました。</p><p>業界関係者は、米国バイヤーが長期購入契約を確約する前に最終的な関税構造の明確化を待つ傾向にあり、インドの繊維・電子機器・製造業輸出業者にとって不透明感を生んでいると述べています。</p>',
+            source: 'Times of India', sourceUrl: 'https://timesofindia.indiatimes.com/business/india-business/trump-tariffs-uncertainty-indian-exporters-see-more-enquiries-from-us-but-not-many-orders-heres-why/articleshow/132130033.cms', sourceSnippet: 'トランプ関税の不透明感 — Times of India'
+          },
+          ko: {
+            title: '트럼프 관세 불확실성... 인도 수출업체 문의 증가에도 주문은 저조',
+            desc: '트럼프 행정부의 관세 정책 불확실성 속에 인도 수출업체들이 미국 바이어로부터 문의 급증을 겪고 있지만 실제 주문으로는 이어지지 않고 있다.',
+            content: '<p>트럼프 행정부의 관세 정책 불확실성 속에서 인도 수출업체들이 미국 바이어로부터 문의 급증을 경험하고 있지만, 이것이 실제 주문 증가로는 이어지지 않고 있다고 타임스 오브 인디아가 2026년 7월 2일 보도했다.</p><p>업계 관계자들은 미국 바이어들이 장기 구매 계약을 확정하기 전에 최종 관세 구조에 대한 명확성을 기다리는 경향이 있어, 인도 섬유·전자·제조업 수출업체들에게 불확실성을 만들고 있다고 밝혔다.</p>',
+            source: 'Times of India', sourceUrl: 'https://timesofindia.indiatimes.com/business/india-business/trump-tariffs-uncertainty-indian-exporters-see-more-enquiries-from-us-but-not-many-orders-heres-why/articleshow/132130033.cms', sourceSnippet: '트럼프 관세 불확실성 — Times of India'
+          },
+          zh: {
+            title: '特朗普关税不确定性：印度出口商询价增多但订单稀少',
+            desc: '在特朗普政府关税政策不确定的背景下，印度出口商收到的美国买家询价激增，但尚未转化为实际订单。',
+            content: '<p>据《印度时报》2026年7月2日报道，在特朗普政府关税政策不确定的背景下，印度出口商收到的美国买家询价大幅增加，但这一增长尚未转化为实际订单。</p><p>业内人士表示，美国买家往往会在最终关税结构明朗之前，等待观望而不愿签订长期采购合同，这给印度纺织、电子和制造业出口商带来了不确定性。</p>',
+            source: 'Times of India', sourceUrl: 'https://timesofindia.indiatimes.com/business/india-business/trump-tariffs-uncertainty-indian-exporters-see-more-enquiries-from-us-but-not-many-orders-heres-why/articleshow/132130033.cms', sourceSnippet: '特朗普关税不确定性 — Times of India'
+          }
+        }
+      }
+
     ]
   };
 })();
