@@ -373,6 +373,272 @@
           }
         }
       }
+      ,{
+        id: 'tiongkok-as-tarif-pertanian-3juli2026',
+        langs: {
+          id: {
+            title: 'Tiongkok dan AS Capai Kemajuan Menuju Pemangkasan Tarif Produk Pertanian',
+            desc: 'Tiongkok dan Amerika Serikat menyepakati target panduan untuk memperluas perdagangan pertanian dua arah dan sepakat memasukkan produk pertanian ke dalam kerangka pemangkasan tarif resiprokal.',
+            content: '<p>Tiongkok dan Amerika Serikat mencapai kemajuan menuju pemangkasan tarif produk pertanian setelah konsultasi ekonomi dan perdagangan terbaru, menurut laporan Caixin Global pada 3 Juli 2026.</p><p>Kementerian Perdagangan Tiongkok menyatakan bahwa kedua negara telah menetapkan target panduan untuk memperluas perdagangan pertanian dua arah dan sepakat secara prinsip untuk memasukkan produk-produk pertanian terkait ke dalam kerangka pemangkasan tarif resiprokal.</p><p>Kesepakatan ini menyusul pertemuan puncak antara Presiden AS Donald Trump dan pemimpin Tiongkok Xi Jinping pada Mei 2026, yang membuka jalan bagi Kantor Perwakilan Dagang AS (USTR) meminta masukan industri terkait hingga 30 miliar dolar AS keringanan tarif impor dari Tiongkok serta akses pasar bagi eksportir AS.</p><p>Perkembangan ini terjadi di tengah babak baru negosiasi dagang antara kedua kekuatan ekonomi terbesar dunia, yang sebelumnya diwarnai serangkaian kenaikan tarif balasan sejak awal masa jabatan kedua Trump.</p><p>Analis pasar menilai langkah pemangkasan tarif pertanian ini sebagai sinyal positif bagi petani dan eksportir di kedua negara, meski rincian teknis kerangka resiprokal tersebut masih dalam pembahasan lebih lanjut oleh kedua pemerintah.</p>',
+            source: 'Caixin Global', sourceUrl: 'https://www.caixinglobal.com/2026-07-03/business-brief-july-3-china-us-step-toward-farm-tariff-cuts-102460464.html', sourceSnippet: 'Business Brief (July 3): China, U.S. Step Toward Farm Tariff Cuts — Caixin Global, 3 Juli 2026',
+            source2: 'JD Supra', sourceUrl2: 'https://www.jdsupra.com/legalnews/a-rare-opportunity-ustr-solicits-1804572/', sourceSnippet2: 'USTR Solicits Industry Input on Up to $30 Billion in China Import Tariff Relief — JD Supra'
+          },
+          en: {
+            title: "China, U.S. Step Toward Farm Tariff Cuts",
+            desc: "China and the U.S. have set guiding targets to expand two-way agricultural trade and agreed in principle to include agricultural products in a reciprocal tariff-reduction framework.",
+            content: "<p>China and the United States have made progress toward cutting tariffs on agricultural products following recent economic and trade consultations, Caixin Global reported on July 3, 2026.</p><p>China's Ministry of Commerce said the two countries have set guiding targets to expand two-way agricultural trade and agreed in principle to include relevant agricultural products in a reciprocal tariff-reduction framework.</p><p>The agreement follows a summit between U.S. President Donald Trump and Chinese leader Xi Jinping in May 2026, which paved the way for the U.S. Trade Representative (USTR) to solicit industry input on up to $30 billion in China import tariff relief and market access for U.S. exporters.</p><p>The development comes amid a new round of trade negotiations between the world's two largest economies, following a series of retaliatory tariff hikes since the start of Trump's second term.</p><p>Market analysts view the agricultural tariff cuts as a positive signal for farmers and exporters in both countries, though technical details of the reciprocal framework remain under further discussion by both governments.</p>",
+            source: 'Caixin Global', sourceUrl: 'https://www.caixinglobal.com/2026-07-03/business-brief-july-3-china-us-step-toward-farm-tariff-cuts-102460464.html', sourceSnippet: 'Business Brief (July 3): China, U.S. Step Toward Farm Tariff Cuts — Caixin Global, July 3, 2026',
+            source2: 'JD Supra', sourceUrl2: 'https://www.jdsupra.com/legalnews/a-rare-opportunity-ustr-solicits-1804572/', sourceSnippet2: 'USTR Solicits Industry Input on Up to $30 Billion in China Import Tariff Relief — JD Supra'
+          },
+          ja: {
+            title: '中国と米国、農産品関税引き下げに向け前進',
+            desc: '中国と米国は双方向の農産品貿易拡大に向けた指針目標を設定し、相互関税引き下げの枠組みに農産品を含めることで原則合意した。',
+            content: '<p>中国と米国は最近の経済貿易協議を経て、農産品関税の引き下げに向けて前進したと、財新（カイシン）グローバルが2026年7月3日に報じました。</p><p>中国商務部は、両国が双方向の農産品貿易拡大に向けた指針目標を設定し、関連農産品を相互関税引き下げの枠組みに含めることで原則合意したと発表しました。</p><p>この合意は2026年5月のトランプ米大統領と習近平中国指導者の首脳会談を受けたもので、米通商代表部（USTR）が中国からの輸入関税最大300億ドル分の緩和と米輸出業者の市場アクセスについて業界の意見を募る道を開きました。</p>',
+            source: 'Caixin Global', sourceUrl: 'https://www.caixinglobal.com/2026-07-03/business-brief-july-3-china-us-step-toward-farm-tariff-cuts-102460464.html', sourceSnippet: '農産品関税引き下げ — Caixin Global'
+          },
+          ko: {
+            title: '중국-미국, 농산물 관세 인하 향해 진전',
+            desc: '중국과 미국은 양방향 농산물 무역 확대를 위한 지침 목표를 설정하고 상호 관세 인하 체계에 농산물을 포함하기로 원칙적으로 합의했다.',
+            content: '<p>중국과 미국이 최근 경제·무역 협의를 거쳐 농산물 관세 인하를 향해 진전을 이뤘다고 차이신 글로벌이 2026년 7월 3일 보도했다.</p><p>중국 상무부는 양국이 양방향 농산물 무역 확대를 위한 지침 목표를 설정하고 관련 농산물을 상호 관세 인하 체계에 포함하기로 원칙적으로 합의했다고 밝혔다.</p><p>이번 합의는 2026년 5월 도널드 트럼프 미국 대통령과 시진핑 중국 지도자의 정상회담에 따른 것으로, 미 무역대표부(USTR)가 중국산 수입품 관세 최대 300억 달러 완화 및 미국 수출업체의 시장 접근에 대한 업계 의견을 구하는 계기가 됐다.</p>',
+            source: 'Caixin Global', sourceUrl: 'https://www.caixinglobal.com/2026-07-03/business-brief-july-3-china-us-step-toward-farm-tariff-cuts-102460464.html', sourceSnippet: '농산물 관세 인하 진전 — 차이신 글로벌'
+          },
+          zh: {
+            title: '中美就农产品关税削减取得进展',
+            desc: '中国和美国已就扩大双向农产品贸易设定指导性目标，并原则上同意将农产品纳入互惠关税削减框架。',
+            content: '<p>据财新全球2026年7月3日报道，经过近期经济贸易磋商，中美两国在削减农产品关税方面取得进展。</p><p>中国商务部表示，两国已就扩大双向农产品贸易设定指导性目标，并原则上同意将相关农产品纳入互惠关税削减框架。</p><p>此协议是继2026年5月美国总统特朗普与中国领导人习近平举行峰会之后达成的，该峰会为美国贸易代表办公室（USTR）就最高300亿美元的中国进口关税减免及美国出口商市场准入征询业界意见铺平了道路。</p>',
+            source: 'Caixin Global', sourceUrl: 'https://www.caixinglobal.com/2026-07-03/business-brief-july-3-china-us-step-toward-farm-tariff-cuts-102460464.html', sourceSnippet: '中美农产品关税削减 — 财新全球'
+          }
+        }
+      }
+
+      ,{
+        id: 'tiongkok-nvidia-huawei-chip-ai-29juni2026',
+        langs: {
+          id: {
+            title: 'Penjualan Chip AI Nvidia Macet di Tiongkok, Huawei Ambil Alih Kepemimpinan Pasar',
+            desc: 'Nvidia kehilangan pangsa pasar chip AI canggih di Tiongkok setelah kontrol ekspor AS, dengan Huawei diperkirakan menguasai sekitar 50% pasar tahun ini dibanding 8% milik Nvidia.',
+            content: '<p>Persaingan antara Amerika Serikat dan Tiongkok dalam pengembangan kecerdasan buatan kian memanas seiring perusahaan chip Tiongkok seperti Huawei menyalip raksasa industri global seperti Nvidia di pasar domestik mereka sendiri, menurut laporan Associated Press pada 29 Juni 2026.</p><p>CEO Nvidia Jensen Huang sempat dikerumuni warga saat mencicipi mi zhajiangmian di Beijing ketika mengunjungi Tiongkok bersamaan dengan KTT Presiden AS Donald Trump dan pemimpin Tiongkok Xi Jinping pada Mei lalu. Namun popularitasnya itu tak berbanding lurus dengan kesuksesan penjualan chip canggih Nvidia di Tiongkok.</p><p>Kontrol ekspor yang diberlakukan Washington atas alasan keamanan nasional sempat menghentikan penjualan chip AI canggih H200 milik Nvidia di Tiongkok. Pada saat Huang akhirnya mendapat keringanan setelah Trump menyetujui penjualannya kembali, Beijing telanjur mendorong penggunaan chip buatan dalam negeri yang dipimpin oleh Huawei.</p><p>Huang mengakui bahwa AS telah kehilangan keunggulannya di pasar chip AI canggih Tiongkok karena para pesaing Tiongkok kini telah menjadi "raksasa". "Kami sempat 30 tahun di Tiongkok, dan sebelum kontrol ekspor memblokir Nvidia, kami menguasai sekitar 95% pangsa pasar," ujarnya kepada AP.</p><p>Menurut estimasi firma riset Bernstein, pangsa pasar Nvidia di Tiongkok diperkirakan menyusut menjadi sekitar 8% tahun ini, sementara Huawei diproyeksikan tumbuh hingga sekitar 50%. Chip komersial tercanggih Huawei, seri Ascend 950, dinilai analis industri sebanding dengan chip H200 milik Nvidia.</p>',
+            source: 'Associated Press / ABC News', sourceUrl: 'https://abcnews.com/Technology/wireStory/nvidias-ai-chip-sales-china-stall-local-chipmakers-134299960', sourceSnippet: "Nvidia's AI chip sales in China stall, as local chipmakers like Huawei take the lead — AP/ABC News, 29 Juni 2026",
+            source2: 'CNBC', sourceUrl2: 'https://www.cnbc.com/2026/06/30/china-factory-activity-june-tech-export-demand-pmi-nbs.html', sourceSnippet2: 'China factory activity grows faster than expected in June on tech export demand — CNBC'
+          },
+          en: {
+            title: "Nvidia's AI Chip Sales in China Stall as Huawei Takes the Lead",
+            desc: "Nvidia has lost significant advanced AI chip market share in China after U.S. export controls, with Huawei projected to control about 50% of the market this year versus Nvidia's 8%.",
+            content: "<p>The battle between the U.S. and China over artificial intelligence hardware is heating up as Chinese chipmakers like Huawei overtake global leaders such as Nvidia in their home market, the Associated Press reported on June 29, 2026.</p><p>Nvidia CEO Jensen Huang was mobbed by onlookers while sampling zhajiangmian noodles in Beijing during a visit coinciding with President Trump's May summit with Chinese leader Xi Jinping. But his celebrity status has not translated into sales success for Nvidia's advanced chips in China.</p><p>Export controls imposed by Washington over national security concerns initially stalled sales of Nvidia's advanced H200 AI chips in China. By the time Huang won a reprieve, with Trump agreeing to allow their sale, Beijing had already shifted to encouraging use of domestically designed chips led by Huawei.</p><p>Huang acknowledged the U.S. has lost its edge in China's advanced AI chip market as Chinese rivals have become 'giants.' 'We were in China for 30 years, and before the export control banned Nvidia, we had about 95% market share,' he told AP.</p><p>According to estimates from research firm Bernstein, Nvidia's China market share is expected to shrink to around 8% this year, while Huawei's is projected to grow to about 50%. Huawei's most advanced commercial chip, the Ascend 950 series, is seen by industry analysts as roughly comparable to Nvidia's H200.</p>",
+            source: 'Associated Press / ABC News', sourceUrl: 'https://abcnews.com/Technology/wireStory/nvidias-ai-chip-sales-china-stall-local-chipmakers-134299960', sourceSnippet: "Nvidia's AI chip sales in China stall, as local chipmakers like Huawei take the lead — AP/ABC News, June 29, 2026",
+            source2: 'CNBC', sourceUrl2: 'https://www.cnbc.com/2026/06/30/china-factory-activity-june-tech-export-demand-pmi-nbs.html', sourceSnippet2: 'China factory activity grows faster than expected in June on tech export demand — CNBC'
+          },
+          ja: {
+            title: 'NvidiaのAIチップ販売が中国で停滞、ファーウェイが市場首位に',
+            desc: '米国の輸出規制後、Nvidiaは中国の先端AIチップ市場シェアを大きく失い、今年はファーウェイが約50%、Nvidiaが約8%になると予測されている。',
+            content: '<p>人工知能ハードウェアをめぐる米中対立が激化しており、ファーウェイなど中国のチップメーカーが自国市場でNvidiaなど世界的リーダーを追い抜いていると、AP通信が2026年6月29日に報じました。</p><p>NvidiaのジェンスンフアンCEOは5月のトランプ大統領と習近平国家主席の首脳会談に合わせて北京を訪問した際、ジャージャー麺を味わい群衆に囲まれるほどの人気を見せましたが、その人気は中国での先端チップ販売の成功には結びついていません。</p><p>ベルンシュタインの推計によると、Nvidiaの中国市場シェアは今年約8%まで縮小する見通しである一方、ファーウェイは約50%まで成長すると予測されています。</p>',
+            source: 'Associated Press / ABC News', sourceUrl: 'https://abcnews.com/Technology/wireStory/nvidias-ai-chip-sales-china-stall-local-chipmakers-134299960', sourceSnippet: 'AIチップ販売停滞 — AP通信'
+          },
+          ko: {
+            title: '엔비디아 AI 칩 판매, 중국서 정체...화웨이가 시장 주도권 장악',
+            desc: '미국의 수출 통제 이후 엔비디아는 중국 첨단 AI 칩 시장 점유율을 크게 잃었으며, 올해 화웨이는 약 50%, 엔비디아는 약 8%를 차지할 것으로 전망된다.',
+            content: '<p>인공지능 하드웨어를 둘러싼 미중 경쟁이 치열해지는 가운데, 화웨이 등 중국 칩 제조사들이 자국 시장에서 엔비디아 등 글로벌 선두주자를 추월하고 있다고 AP통신이 2026년 6월 29일 보도했다.</p><p>엔비디아의 젠슨 황 CEO는 5월 트럼프 대통령과 시진핑 중국 지도자의 정상회담에 맞춰 베이징을 방문해 자장면을 맛보다 인파에 둘러싸일 정도로 인기를 끌었지만, 이러한 인기가 중국 내 첨단 칩 판매 성공으로 이어지지는 않았다.</p><p>번스타인 추정에 따르면 엔비디아의 중국 시장 점유율은 올해 약 8%까지 줄어들 것으로 예상되는 반면, 화웨이는 약 50%까지 성장할 것으로 전망된다.</p>',
+            source: 'Associated Press / ABC News', sourceUrl: 'https://abcnews.com/Technology/wireStory/nvidias-ai-chip-sales-china-stall-local-chipmakers-134299960', sourceSnippet: 'AI 칩 판매 정체 — AP통신'
+          },
+          zh: {
+            title: '英伟达AI芯片在华销售受阻，华为夺得市场主导地位',
+            desc: '美国出口管制后，英伟达在中国先进AI芯片市场份额大幅流失，预计今年华为将占据约50%份额，而英伟达仅约8%。',
+            content: '<p>据美联社2026年6月29日报道，围绕人工智能硬件的中美之争日趋激烈，华为等中国芯片制造商在本土市场上正超越英伟达等全球领先企业。</p><p>英伟达首席执行官黄仁勋今年5月随特朗普总统与中国领导人习近平峰会访问北京时，因品尝炸酱面而被围观民众簇拥，但这种人气并未转化为英伟达先进芯片在华销售的成功。</p><p>据研究机构伯恩斯坦估计，英伟达在中国的市场份额预计今年将萎缩至约8%，而华为的份额预计将增长至约50%左右。</p>',
+            source: 'Associated Press / ABC News', sourceUrl: 'https://abcnews.com/Technology/wireStory/nvidias-ai-chip-sales-china-stall-local-chipmakers-134299960', sourceSnippet: 'AI芯片销售受阻 — 美联社'
+          }
+        }
+      }
+
+      ,{
+        id: 'tiongkok-ac-ekspor-eropa-heatwave-2juli2026',
+        langs: {
+          id: {
+            title: 'Gelombang Panas Landa Eropa, Warga Berbondong-bondong Beli AC Buatan Tiongkok',
+            desc: 'Di tengah negosiasi dagang yang tegang dengan Uni Eropa, warga Eropa justru berebut membeli pendingin ruangan buatan Tiongkok seperti Midea, Haier, dan Gree akibat gelombang panas ekstrem.',
+            content: '<p>Negosiator dagang Eropa menuding Tiongkok membanjiri benua tersebut dengan barang murah, namun komentator media pemerintah Tiongkok justru menyoroti satu produk yang justru makin diminati warga Eropa: pendingin udara (AC), menurut laporan The Wall Street Journal pada 2 Juli 2026.</p><p>"Jika Tiongkok berhenti menjual AC, apakah tuan-tuan Eropa masih akan bersemangat soal \'kelebihan kapasitas\'?" tulis komentar yang dipublikasikan Yuyuantantian, akun media sosial yang terafiliasi dengan penyiar negara CCTV.</p><p>Tiongkok menguasai sekitar 40% ekspor AC global, menurut data International Trade Center, sementara hanya sekitar seperlima rumah tangga Eropa yang memiliki AC — masalah besar di tengah gelombang panas yang melanda benua tersebut belakangan ini.</p><p>Data bea cukai Tiongkok menunjukkan ekspor mesin pendingin udara ke Prancis melonjak 57% pada Mei dibanding tahun sebelumnya menjadi sekitar 26 juta dolar AS, sementara ekspor ke Spanyol melonjak 41% menjadi sekitar 71 juta dolar AS — bahkan sebelum suhu di Juni rutin melampaui 37,8 derajat Celsius.</p><p>Merek Midea, Haier, dan Gree asal Tiongkok kebanjiran permintaan di Eropa. AC model PortaSplit milik Midea, yang dirancang khusus agar mudah dipasang sendiri dan sesuai regulasi bangunan ketat Eropa, bahkan sampai kehabisan stok di banyak toko di Jerman.</p><p>Sementara itu, Uni Eropa dan Tiongkok tengah menggelar perundingan dagang, dengan Brussels mengancam menerapkan langkah proteksi baru atas tudingan subsidi tak adil dari Beijing terhadap industrinya, sementara Tiongkok membantah tudingan tersebut.</p>',
+            source: 'The Wall Street Journal (via To Vima)', sourceUrl: 'https://www.tovima.com/wsj/europe-learns-its-hard-to-start-a-trade-war-with-china-during-a-heat-wave/', sourceSnippet: "Europe Learns It's Hard to Start a Trade War With China During a Heat Wave — WSJ, 2 Juli 2026",
+            source2: 'Caixin Global', sourceUrl2: 'https://www.caixinglobal.com/2026-07-03/business-brief-july-3-china-us-step-toward-farm-tariff-cuts-102460464.html', sourceSnippet2: "Europeans Snap Up Chinese AC as Record Heat Scorches the Continent — dirujuk dalam Caixin Business Brief"
+          },
+          en: {
+            title: "As Heat Wave Grips Europe, Residents Rush to Buy Chinese-Made Air Conditioners",
+            desc: "Amid tense trade negotiations with the EU, Europeans are scrambling to buy Chinese air conditioners from brands like Midea, Haier and Gree as an extreme heat wave hits the continent.",
+            content: "<p>European trade negotiators have accused China of flooding the continent with cheap goods, but Chinese state-media commentators are pointing out one product Europeans are eager to import more of: air conditioners, The Wall Street Journal reported on July 2, 2026.</p><p>'If China stops selling air conditioners, will European gentlemen still be so passionate about overcapacity?' read a commentary published by Yuyuantantian, a social-media account linked to state broadcaster CCTV.</p><p>China accounts for roughly 40% of global air-conditioner exports, according to International Trade Center data, while only about one-fifth of European households own an air conditioner — a major problem amid the region's recent heat waves.</p><p>Chinese customs data show air-conditioner exports to France jumped 57% in May year-on-year to about $26 million, while exports to Spain surged 41% to about $71 million — even before June temperatures regularly topped 100°F (37.8°C).</p><p>Chinese brands Midea, Haier and Gree have seen surging demand across Europe. Midea's PortaSplit unit, designed for easy self-installation under strict European building codes, sold out at many stores in Germany.</p><p>Meanwhile, the EU and China are holding trade talks, with Brussels threatening new protective measures over allegations of unfair Chinese subsidies, which Beijing denies.</p>",
+            source: 'The Wall Street Journal (via To Vima)', sourceUrl: 'https://www.tovima.com/wsj/europe-learns-its-hard-to-start-a-trade-war-with-china-during-a-heat-wave/', sourceSnippet: "Europe Learns It's Hard to Start a Trade War With China During a Heat Wave — WSJ, July 2, 2026",
+            source2: 'Caixin Global', sourceUrl2: 'https://www.caixinglobal.com/2026-07-03/business-brief-july-3-china-us-step-toward-farm-tariff-cuts-102460464.html', sourceSnippet2: 'Europeans Snap Up Chinese AC as Record Heat Scorches the Continent — cited in Caixin Business Brief'
+          },
+          ja: {
+            title: '欧州で熱波、住民が中国製エアコンに殺到',
+            desc: 'EUとの緊迫した貿易交渉のさなか、記録的な熱波に見舞われた欧州の住民らが美的（Midea）やハイアール、グリーなど中国製エアコンの購入に殺到している。',
+            content: '<p>欧州の貿易交渉担当者は中国が安価な製品で大陸を氾濫させていると非難していますが、中国国営メディアの評論家は欧州人がもっと輸入したがっている製品、エアコンを指摘していると、ウォール・ストリート・ジャーナルが2026年7月2日に報じました。</p><p>中国は世界のエアコン輸出の約40%を占める一方、欧州の家庭でエアコンを保有しているのはわずか約5分の1にとどまり、最近の熱波の中で大きな問題となっています。</p><p>中国の美的（Midea）、ハイアール、グリーなどのブランドは欧州で需要が急増しており、美的のポータブル分離型エアコン「PortaSplit」はドイツの多くの店舗で品切れとなりました。</p>',
+            source: 'The Wall Street Journal (via To Vima)', sourceUrl: 'https://www.tovima.com/wsj/europe-learns-its-hard-to-start-a-trade-war-with-china-during-a-heat-wave/', sourceSnippet: '中国製エアコンに殺到 — WSJ' 
+          },
+          ko: {
+            title: '유럽 폭염 속, 주민들 중국산 에어컨 구매 쇄도',
+            desc: 'EU와의 긴장된 무역 협상 속에서, 극심한 폭염이 대륙을 덮치자 유럽인들이 메이디, 하이얼, 그리 등 중국산 에어컨 구매에 나서고 있다.',
+            content: '<p>유럽 무역 협상가들은 중국이 값싼 제품으로 대륙을 뒤덮고 있다고 비난해왔지만, 중국 국영매체 평론가들은 유럽인들이 더 수입하고 싶어하는 한 가지 제품, 바로 에어컨을 지적하고 있다고 월스트리트저널이 2026년 7월 2일 보도했다.</p><p>국제무역센터 자료에 따르면 중국은 전 세계 에어컨 수출의 약 40%를 차지하는 반면, 유럽 가정의 에어컨 보유율은 약 5분의 1에 불과해 최근 폭염 속에서 큰 문제가 되고 있다.</p><p>중국 브랜드 메이디, 하이얼, 그리는 유럽 전역에서 수요가 급증했으며, 메이디의 셀프 설치형 에어컨 \'PortaSplit\'은 독일 내 많은 매장에서 품절됐다.</p>',
+            source: 'The Wall Street Journal (via To Vima)', sourceUrl: 'https://www.tovima.com/wsj/europe-learns-its-hard-to-start-a-trade-war-with-china-during-a-heat-wave/', sourceSnippet: '중국산 에어컨 구매 쇄도 — WSJ'
+          },
+          zh: {
+            title: '欧洲热浪来袭，居民抢购中国制造空调',
+            desc: '在与欧盟贸易谈判紧张之际，极端热浪席卷欧洲大陆，欧洲人正争相购买美的、海尔、格力等中国品牌空调。',
+            content: '<p>据《华尔街日报》2026年7月2日报道，欧洲贸易谈判代表指责中国以廉价商品冲击欧洲大陆，但中国官方媒体评论员却指出，有一种产品欧洲人反而希望进口更多——空调。</p><p>据国际贸易中心数据，中国占全球空调出口约40%，而欧洲家庭中仅约五分之一拥有空调——在近期热浪中这已成为一大问题。</p><p>中国品牌美的、海尔和格力在欧洲需求激增，美的专为自行安装设计、符合欧洲严格建筑规范的"PortaSplit"分体空调，在德国许多门店已售罄。</p>',
+            source: 'The Wall Street Journal (via To Vima)', sourceUrl: 'https://www.tovima.com/wsj/europe-learns-its-hard-to-start-a-trade-war-with-china-during-a-heat-wave/', sourceSnippet: '中国空调抢购 — 华尔街日报'
+          }
+        }
+      }
+
+      ,{
+        id: 'tiongkok-haiyang2e-satelit-2juli2026',
+        langs: {
+          id: {
+            title: 'Tiongkok Luncurkan Satelit Kelautan Haiyang-2E untuk Perkuat Pemantauan Laut',
+            desc: 'Roket Long March 4B membawa satelit oseanografi Haiyang-2E meluncur dari Pusat Peluncuran Satelit Jiuquan, memperkuat kemampuan pemantauan laut Tiongkok.',
+            content: '<p>Tiongkok berhasil meluncurkan satelit kelautan Haiyang-2E ke orbit menggunakan roket Long March 4B dari Pusat Peluncuran Satelit Jiuquan di China Daratan bagian barat laut pada 2 Juli 2026, menurut laporan China Daily Hong Kong.</p><p>Satelit ini dirancang untuk memperluas kemampuan pengamatan kelautan Tiongkok, termasuk pemantauan arus laut, tinggi gelombang, suhu permukaan laut, dan angin di atas permukaan samudra guna mendukung riset iklim dan keselamatan pelayaran.</p><p>Peluncuran Haiyang-2E menambah armada satelit observasi bumi Tiongkok yang terus berkembang, di tengah ambisi negara tersebut memperkuat kapabilitas pemantauan lingkungan dan sumber daya laut secara mandiri.</p><p>Program antariksa Tiongkok tahun ini juga tengah bersiap untuk sejumlah peluncuran penting lainnya, termasuk uji penerbangan perdana roket Long March 10B yang akan mencoba pemulihan tahap pertama roket di laut.</p><p>Data dari satelit-satelit seperti Haiyang-2E turut mendukung upaya Tiongkok dalam pemantauan perubahan iklim, prediksi cuaca ekstrem, dan pengelolaan sumber daya perikanan di perairan yang menjadi kepentingan strategis negara tersebut.</p>',
+            source: 'China Daily Hong Kong', sourceUrl: 'https://www.chinadailyhk.com/hk/article/635818', sourceSnippet: 'China launches oceanographic satellite for enhanced marine monitoring — China Daily HK, 2 Juli 2026',
+            source2: 'Anews', sourceUrl2: 'https://www.anews.com.tr/asia/2026/07/02/china-launches-haiyang-2e-marine-satellite-into-space/amp', sourceSnippet2: 'China launches Haiyang-2E marine satellite into space — Anews',
+            source3: 'SpaceNews', sourceUrl3: 'https://spacenews.com/china-schedules-long-march-10b-rocket-launch-and-recovery-attempt/', sourceSnippet3: 'China schedules Long March 10B rocket launch and recovery attempt — SpaceNews'
+          },
+          en: {
+            title: "China Launches Haiyang-2E Marine Satellite to Boost Ocean Monitoring",
+            desc: "A Long March 4B rocket carrying the oceanographic satellite Haiyang-2E blasted off from Jiuquan Satellite Launch Center, expanding China's marine observation capabilities.",
+            content: "<p>China successfully launched the Haiyang-2E marine satellite into orbit aboard a Long March 4B rocket from the Jiuquan Satellite Launch Center in northwest China on July 2, 2026, China Daily Hong Kong reported.</p><p>The satellite is designed to expand China's ocean observation capabilities, including monitoring ocean currents, wave height, sea surface temperature, and sea-surface winds to support climate research and maritime safety.</p><p>The Haiyang-2E launch adds to China's growing fleet of Earth observation satellites, as the country pursues ambitions to independently strengthen its environmental and marine resource monitoring capabilities.</p><p>China's space program is also preparing for several other major launches this year, including the debut flight of the Long March 10B rocket, which will attempt to recover its first stage at sea.</p><p>Data from satellites like Haiyang-2E supports China's efforts in climate change monitoring, extreme weather forecasting, and fisheries resource management in waters of strategic importance to the country.</p>",
+            source: 'China Daily Hong Kong', sourceUrl: 'https://www.chinadailyhk.com/hk/article/635818', sourceSnippet: 'China launches oceanographic satellite for enhanced marine monitoring — China Daily HK, July 2, 2026',
+            source2: 'Anews', sourceUrl2: 'https://www.anews.com.tr/asia/2026/07/02/china-launches-haiyang-2e-marine-satellite-into-space/amp', sourceSnippet2: 'China launches Haiyang-2E marine satellite into space — Anews',
+            source3: 'SpaceNews', sourceUrl3: 'https://spacenews.com/china-schedules-long-march-10b-rocket-launch-and-recovery-attempt/', sourceSnippet3: 'China schedules Long March 10B rocket launch and recovery attempt — SpaceNews'
+          },
+          ja: {
+            title: '中国、海洋観測衛星「海洋2E号」を打ち上げ、海洋監視を強化',
+            desc: '長征4B型ロケットが海洋観測衛星「海洋2E号」を搭載し酒泉衛星発射センターから打ち上げられ、中国の海洋観測能力を拡大した。',
+            content: '<p>中国は2026年7月2日、酒泉衛星発射センターから長征4B型ロケットで海洋観測衛星「海洋2E号」を軌道に打ち上げることに成功したと、チャイナデイリー香港が報じました。</p><p>この衛星は海流、波高、海面水温、海上風の観測など、中国の海洋観測能力を拡大するために設計されており、気候研究や海上安全の支援を目的としています。</p><p>「海洋2E号」の打ち上げは、中国が独自に環境・海洋資源の監視能力を強化する野心を追求する中、増加を続ける地球観測衛星群に加わるものです。</p>',
+            source: 'China Daily Hong Kong', sourceUrl: 'https://www.chinadailyhk.com/hk/article/635818', sourceSnippet: '海洋2E号打ち上げ — チャイナデイリー香港'
+          },
+          ko: {
+            title: '중국, 해양감시위성 하이양-2E 발사...해양 모니터링 강화',
+            desc: '창정 4B 로켓이 해양관측위성 하이양-2E를 탑재하고 주취안 위성발사센터에서 발사되어 중국의 해양 관측 능력을 확대했다.',
+            content: '<p>중국이 2026년 7월 2일 주취안 위성발사센터에서 창정 4B 로켓으로 해양관측위성 하이양-2E를 궤도에 성공적으로 발사했다고 차이나데일리 홍콩이 보도했다.</p><p>이 위성은 해류, 파고, 해수면 온도, 해상풍 관측 등 중국의 해양 관측 능력을 확대하기 위해 설계되었으며 기후 연구와 해상 안전 지원을 목적으로 한다.</p><p>하이양-2E 발사는 중국이 독자적으로 환경 및 해양 자원 모니터링 능력을 강화하려는 야심을 추구하는 가운데, 계속 늘어나는 지구관측위성 군단에 추가되는 것이다.</p>',
+            source: 'China Daily Hong Kong', sourceUrl: 'https://www.chinadailyhk.com/hk/article/635818', sourceSnippet: '하이양-2E 발사 — 차이나데일리 홍콩'
+          },
+          zh: {
+            title: '中国发射海洋二号E星，加强海洋监测能力',
+            desc: '搭载海洋观测卫星海洋二号E星的长征四号乙运载火箭从酒泉卫星发射中心升空，扩展了中国的海洋观测能力。',
+            content: '<p>据香港《中国日报》报道，中国于2026年7月2日在酒泉卫星发射中心用长征四号乙运载火箭成功将海洋二号E星送入轨道。</p><p>该卫星旨在扩展中国的海洋观测能力，包括监测洋流、波高、海面温度和海面风场，以支持气候研究和海上安全。</p><p>海洋二号E星的发射为中国不断壮大的对地观测卫星家族再添一员，体现了中国独立加强环境与海洋资源监测能力的雄心。</p>',
+            source: 'China Daily Hong Kong', sourceUrl: 'https://www.chinadailyhk.com/hk/article/635818', sourceSnippet: '海洋二号E星发射 — 中国日报香港'
+          }
+        }
+      }
+
+      ,{
+        id: 'tiongkok-guangdong-banjir-evakuasi-2026',
+        langs: {
+          id: {
+            title: 'Hujan Deras Guyur Guangdong, Hampir 40.000 Warga Dievakuasi',
+            desc: 'Hujan lebat yang melanda Provinsi Guangdong di selatan Tiongkok memaksa evakuasi hampir 40.000 warga dari wilayah berisiko tinggi banjir dan longsor.',
+            content: '<p>Hampir 40.000 warga yang tinggal di wilayah berisiko tinggi di Provinsi Guangdong, Tiongkok selatan, dievakuasi setelah hujan lebat mengguyur berbagai wilayah di provinsi tersebut, menurut laporan media lokal yang dikutip Nepal News.</p><p>Sebanyak 37.601 warga direlokasi ke tempat yang lebih aman setelah hujan deras memicu kekhawatiran banjir bandang dan tanah longsor di kawasan-kawasan rawan bencana Guangdong.</p><p>Otoritas setempat mengaktifkan tanggap darurat dan mengerahkan tim penyelamat untuk memantau sungai-sungai utama serta wilayah pegunungan yang rentan longsor akibat curah hujan tinggi yang berkepanjangan.</p><p>Guangdong, sebagai salah satu provinsi berpenduduk dan berekonomi terpadat di Tiongkok, kerap menghadapi risiko banjir musiman selama musim hujan monsun yang berlangsung dari pertengahan hingga akhir tahun.</p><p>Pemerintah provinsi mengimbau warga di zona rawan untuk tetap waspada terhadap peringatan cuaca lanjutan, sembari mempercepat perbaikan infrastruktur pengendali banjir di sejumlah titik yang terdampak paling parah.</p>',
+            source: 'Nepal News (English)', sourceUrl: 'https://english.nepalnews.com/s/international/china-nearly-40000-people-evacuated-amid-heavy-rains-in-guangdong/', sourceSnippet: 'China: Nearly 40,000 people evacuated amid heavy rains in Guangdong — Nepal News'
+          },
+          en: {
+            title: "Heavy Rains Lash Guangdong, Nearly 40,000 Residents Evacuated",
+            desc: "Heavy rainfall across China's southern Guangdong province forced the evacuation of nearly 40,000 residents from high-risk flood and landslide areas.",
+            content: "<p>Nearly 40,000 residents living in high-risk areas of Guangdong province in southern China were evacuated after heavy rains lashed multiple parts of the province, according to local media reports cited by Nepal News.</p><p>A total of 37,601 residents were relocated to safer locations after the downpours raised concerns of flash floods and landslides in disaster-prone areas of Guangdong.</p><p>Local authorities activated emergency response measures and deployed rescue teams to monitor major rivers and mountainous regions vulnerable to landslides amid the prolonged heavy rainfall.</p><p>Guangdong, one of China's most populous and economically significant provinces, frequently faces seasonal flood risks during the monsoon season, which runs from mid-year through late in the year.</p><p>The provincial government urged residents in vulnerable zones to remain alert to further weather warnings while accelerating repairs to flood-control infrastructure in the hardest-hit areas.</p>",
+            source: 'Nepal News (English)', sourceUrl: 'https://english.nepalnews.com/s/international/china-nearly-40000-people-evacuated-amid-heavy-rains-in-guangdong/', sourceSnippet: 'China: Nearly 40,000 people evacuated amid heavy rains in Guangdong — Nepal News'
+          },
+          ja: {
+            title: '広東省で豪雨、住民約4万人が避難',
+            desc: '中国南部の広東省全域で豪雨が降り、洪水や土砂崩れの危険地域から約4万人の住民が避難した。',
+            content: '<p>中国南部の広東省の危険地域に住む約4万人の住民が、省内各地を襲った豪雨の後に避難したと、ネパールニュースが引用した地元メディアが報じました。</p><p>合計3万7601人の住民が、豪雨により鉄砲水や土砂崩れの懸念が高まった広東省の被災リスクの高い地域からより安全な場所へ移送されました。</p><p>地元当局は緊急対応を発動し、長引く豪雨の中で土砂崩れの危険がある主要河川や山岳地帯を監視するため救助隊を派遣しました。</p>',
+            source: 'Nepal News (English)', sourceUrl: 'https://english.nepalnews.com/s/international/china-nearly-40000-people-evacuated-amid-heavy-rains-in-guangdong/', sourceSnippet: '広東省で約4万人避難 — ネパールニュース'
+          },
+          ko: {
+            title: '광둥성 폭우, 주민 약 4만 명 대피',
+            desc: '중국 남부 광둥성 전역에 내린 폭우로 홍수 및 산사태 고위험 지역에서 주민 약 4만 명이 대피했다.',
+            content: '<p>중국 남부 광둥성의 고위험 지역에 거주하는 주민 약 4만 명이 성 전역을 강타한 폭우 이후 대피했다고 네팔뉴스가 인용한 현지 매체가 보도했다.</p><p>총 3만7601명의 주민이 폭우로 인한 돌발 홍수와 산사태 우려가 커지면서 광둥성의 재해 취약 지역에서 더 안전한 곳으로 이주했다.</p><p>현지 당국은 비상 대응 체계를 가동하고 장기간 이어진 폭우 속에서 산사태 위험이 있는 주요 하천과 산악 지역을 감시하기 위해 구조팀을 배치했다.</p>',
+            source: 'Nepal News (English)', sourceUrl: 'https://english.nepalnews.com/s/international/china-nearly-40000-people-evacuated-amid-heavy-rains-in-guangdong/', sourceSnippet: '광둥성 약 4만 명 대피 — 네팔뉴스'
+          },
+          zh: {
+            title: '广东暴雨袭击，近4万居民紧急撤离',
+            desc: '中国南部广东省多地遭遇暴雨袭击，导致洪水和山体滑坡高风险地区近4万名居民被迫撤离。',
+            content: '<p>据尼泊尔新闻引述当地媒体报道，中国南部广东省高风险地区近4万名居民在该省多地遭遇暴雨袭击后被撤离。</p><p>共有37601名居民被转移至更安全的地点，此前暴雨引发了广东省灾害易发地区山洪暴发和山体滑坡的担忧。</p><p>当地政府启动应急响应措施，并部署救援队伍监测主要河流和易发生山体滑坡的山区，应对持续的强降雨。</p>',
+            source: 'Nepal News (English)', sourceUrl: 'https://english.nepalnews.com/s/international/china-nearly-40000-people-evacuated-amid-heavy-rains-in-guangdong/', sourceSnippet: '广东近4万人撤离 — 尼泊尔新闻'
+          }
+        }
+      }
+
+      ,{
+        id: 'tiongkok-kontrol-ekspor-jepang-30juni2026',
+        langs: {
+          id: {
+            title: 'Tiongkok Kenakan Kontrol Ekspor terhadap 40 Entitas Jepang di Tengah Meningkatnya Ketegangan dengan Tokyo',
+            desc: 'Tiongkok memberlakukan kontrol ekspor baru terhadap 40 entitas Jepang yang dituding berkontribusi pada "remiliterisasi" negara tersebut, seiring memanasnya hubungan Beijing-Tokyo.',
+            content: '<p>Tiongkok memberlakukan kontrol ekspor baru terhadap 40 entitas Jepang yang disebutnya berkontribusi terhadap "remiliterisasi" negara tersebut, seiring meningkatnya ketegangan dengan Tokyo, menurut laporan Macau Daily Times.</p><p>Langkah ini menambah rangkaian aksi balasan Beijing terhadap Tokyo di tengah sengketa diplomatik yang telah membebani sejumlah sektor, termasuk pariwisata dan penerbangan antara kedua negara.</p><p>Sebelumnya dilaporkan bahwa sengketa Jepang-Tiongkok terkait keamanan Taiwan telah membebani perekonomian Jepang yang sangat bergantung pada sektor pariwisata dari wisatawan Tiongkok.</p><p>Data pelacak penerbangan turut menunjukkan sebanyak 25 rute penerbangan antara Tiongkok dan Jepang dihentikan sepanjang Juni, dengan 1.488 pembatalan penerbangan domestik menuju Jepang — mencatat tingkat pembatalan sebesar 37,5%.</p><p>Ketegangan bilateral ini menambah tekanan pada hubungan ekonomi kedua negara yang sebelumnya saling bergantung erat dalam perdagangan dan investasi, di tengah kekhawatiran meluasnya sengketa keamanan regional di Asia Timur.</p>',
+            source: 'Macau Daily Times', sourceUrl: 'https://macaudailytimes.com.mo/china-imposes-export-controls-on-40-japanese-entities-as-tensions-with-tokyo-rise.html', sourceSnippet: 'China imposes export controls on 40 Japanese entities as tensions with Tokyo rise — Macau Daily Times',
+            source2: 'Caixin Global', sourceUrl2: 'https://www.caixinglobal.com/2026-07-03/business-brief-july-3-china-us-step-toward-farm-tariff-cuts-102460464.html', sourceSnippet2: 'China-Japan flight suspensions: 25 routes suspended, 1,488 cancellations in June — dirujuk dalam Caixin Business Brief'
+          },
+          en: {
+            title: "China Imposes Export Controls on 40 Japanese Entities as Tensions With Tokyo Rise",
+            desc: "China has imposed new export controls on 40 Japanese entities it says are contributing to the country's 'remilitarization,' amid rising tensions with Tokyo.",
+            content: "<p>China has imposed new export controls on 40 Japanese entities it says are contributing to the country's 'remilitarization,' as tensions with Tokyo rise, Macau Daily Times reported.</p><p>The move adds to a series of retaliatory actions by Beijing against Tokyo amid a diplomatic dispute that has weighed on several sectors, including tourism and aviation between the two countries.</p><p>It was previously reported that the Japan-China dispute over Taiwan's security has weighed on Japan's economy, which is heavily dependent on tourism from Chinese visitors.</p><p>Flight tracker data also showed that 25 air routes between China and Japan were suspended in June, with 1,488 domestic flight cancellations to Japan — a cancellation rate of 37.5%.</p><p>The bilateral tensions add further pressure on the two countries' economic relationship, which had previously been closely interdependent in trade and investment, amid concerns of a widening regional security dispute in East Asia.</p>",
+            source: 'Macau Daily Times', sourceUrl: 'https://macaudailytimes.com.mo/china-imposes-export-controls-on-40-japanese-entities-as-tensions-with-tokyo-rise.html', sourceSnippet: 'China imposes export controls on 40 Japanese entities as tensions with Tokyo rise — Macau Daily Times',
+            source2: 'Caixin Global', sourceUrl2: 'https://www.caixinglobal.com/2026-07-03/business-brief-july-3-china-us-step-toward-farm-tariff-cuts-102460464.html', sourceSnippet2: 'China-Japan flight suspensions: 25 routes suspended, 1,488 cancellations in June — cited in Caixin Business Brief'
+          },
+          ja: {
+            title: '中国、対日輸出規制を40団体に拡大、東京との緊張が高まる',
+            desc: '中国は「再軍備化」に寄与しているとする日本の40団体に対し新たな輸出規制を課し、東京との緊張が高まっている。',
+            content: '<p>中国は日本の「再軍備化」に寄与しているとする40の団体に対し新たな輸出規制を課したと、マカオ・デイリー・タイムズが報じました。東京との緊張が高まる中での措置です。</p><p>この措置は、観光や航空を含む複数分野に影響を及ぼしている外交紛争の中で、北京による東京への一連の対抗措置に加わるものです。</p><p>フライト追跡データによると、6月には中国と日本を結ぶ25路線が運休となり、日本行きの国内便のキャンセルは1,488件、キャンセル率は37.5％に達しました。</p>',
+            source: 'Macau Daily Times', sourceUrl: 'https://macaudailytimes.com.mo/china-imposes-export-controls-on-40-japanese-entities-as-tensions-with-tokyo-rise.html', sourceSnippet: '対日輸出規制40団体 — マカオ・デイリー・タイムズ'
+          },
+          ko: {
+            title: '중국, 대일 수출통제 40개 단체로 확대...도쿄와 긴장 고조',
+            desc: '중국이 "재군사화"에 기여하고 있다고 주장하는 일본 40개 단체에 새로운 수출통제를 부과하며 도쿄와의 긴장이 고조되고 있다.',
+            content: '<p>중국이 일본의 "재군사화"에 기여하고 있다고 주장하는 40개 단체에 새로운 수출통제를 부과했다고 마카오데일리타임스가 보도했다. 도쿄와의 긴장이 고조되는 가운데 나온 조치다.</p><p>이번 조치는 관광 및 항공 등 여러 분야에 영향을 미치고 있는 외교 분쟁 속에서 베이징의 대(對)도쿄 보복 조치의 연장선상에 있다.</p><p>항공편 추적 데이터에 따르면 6월 한 달간 중일 간 25개 항공노선이 중단됐으며, 일본행 국내선 취소는 1,488건으로 취소율이 37.5%에 달했다.</p>',
+            source: 'Macau Daily Times', sourceUrl: 'https://macaudailytimes.com.mo/china-imposes-export-controls-on-40-japanese-entities-as-tensions-with-tokyo-rise.html', sourceSnippet: '대일 수출통제 40개 단체 — 마카오데일리타임스'
+          },
+          zh: {
+            title: '中国对40家日本实体实施出口管制，中日紧张关系升温',
+            desc: '中国以"军事化复苏"为由，对40家日本实体实施新的出口管制，此举正值中日关系紧张升级之际。',
+            content: '<p>据《澳门每日时报》报道，中国对其认定为助长日本"军事化复苏"的40家日本实体实施了新的出口管制，此举正值中日紧张关系升级之际。</p><p>这是北京对东京一系列反制措施的延续，此前的外交争端已影响到包括旅游和航空在内的多个行业。</p><p>此前有报道称，中日围绕台湾安全问题的争端已拖累严重依赖中国游客旅游业的日本经济。</p><p>航班追踪数据还显示，6月份中日间25条航线暂停运营，飞往日本的国内航班取消达1488架次，取消率高达37.5%。</p>',
+            source: 'Macau Daily Times', sourceUrl: 'https://macaudailytimes.com.mo/china-imposes-export-controls-on-40-japanese-entities-as-tensions-with-tokyo-rise.html', sourceSnippet: '对日出口管制40实体 — 澳门每日时报'
+          }
+        }
+      }
+
+      ,{
+        id: 'tiongkok-pmi-manufaktur-ai-30juni2026',
+        langs: {
+          id: {
+            title: 'Aktivitas Pabrik Tiongkok Kembali Ekspansi di Juni, Didorong Ledakan Permintaan Teknologi AI',
+            desc: 'Aktivitas manufaktur Tiongkok kembali berekspansi pada Juni 2026, didorong permintaan kuat terhadap chip, komputer, dan produk terkait kecerdasan buatan lainnya.',
+            content: '<p>Aktivitas pabrik di Tiongkok kembali memasuki fase ekspansi pada Juni 2026, didorong oleh permintaan produk terkait kecerdasan buatan (AI) global yang kian melonjak, menurut laporan Reuters dan CNBC pada 30 Juni 2026.</p><p>Mesin manufaktur Tiongkok bertahan kuat sepanjang tahun ini, dengan lonjakan permintaan teknologi AI membantu mengimbangi tekanan yang berasal dari ketegangan dagang di kawasan Timur Tengah dan kebijakan tarif global yang masih berfluktuasi.</p><p>Data resmi indeks manajer pembelian (PMI) dari Biro Statistik Nasional Tiongkok (NBS) menunjukkan sektor manufaktur tumbuh lebih cepat dari perkiraan analis, dengan permintaan ekspor produk berteknologi tinggi menjadi salah satu pendorong utama.</p><p>Peningkatan ini sejalan dengan lonjakan permintaan chip dan komputer performa tinggi di tengah persaingan sengit antara Tiongkok dan Amerika Serikat dalam pengembangan infrastruktur kecerdasan buatan, termasuk investasi besar-besaran perusahaan lokal seperti Huawei dan SMIC dalam kapasitas produksi semikonduktor.</p><p>Para ekonom menilai data PMI positif ini sebagai sinyal bahwa perekonomian Tiongkok mampu bertahan di tengah tekanan eksternal, meski tantangan struktural jangka panjang seperti populasi yang menyusut dan sektor properti yang masih lesu tetap menjadi perhatian utama pembuat kebijakan.</p>',
+            source: 'CNBC', sourceUrl: 'https://www.cnbc.com/2026/06/30/china-factory-activity-june-tech-export-demand-pmi-nbs.html', sourceSnippet: 'China factory activity grows faster than expected in June on tech export demand — CNBC, 30 Juni 2026',
+            source2: 'Reuters', sourceUrl2: 'https://www.reuters.com/world/asia-pacific/chinas-factory-activity-expands-june-high-tech-exports-2026-06-30/', sourceSnippet2: 'China factory activity returns to expansion riding AI global boom — Reuters'
+          },
+          en: {
+            title: "China Factory Activity Returns to Expansion in June, Fueled by AI Tech Boom",
+            desc: "China's manufacturing activity expanded again in June 2026, driven by strong demand for chips, computers, and other AI-related products.",
+            content: "<p>China's factory activity returned to expansion in June 2026, driven by surging global demand for artificial intelligence-related products, Reuters and CNBC reported on June 30, 2026.</p><p>China's manufacturing engine held up strongly this year, with a surge in AI technology demand helping offset drag from Middle East trade tensions and still-fluctuating global tariff policies.</p><p>Official purchasing managers' index (PMI) data from China's National Bureau of Statistics (NBS) showed the manufacturing sector grew faster than analysts expected, with high-tech export demand serving as a key driver.</p><p>The increase aligns with surging demand for chips and high-performance computers amid fierce competition between China and the United States over AI infrastructure development, including massive investments by local companies like Huawei and SMIC in semiconductor production capacity.</p><p>Economists view the positive PMI data as a signal that China's economy can withstand external pressure, though long-term structural challenges such as a shrinking population and a still-sluggish property sector remain key concerns for policymakers.</p>",
+            source: 'CNBC', sourceUrl: 'https://www.cnbc.com/2026/06/30/china-factory-activity-june-tech-export-demand-pmi-nbs.html', sourceSnippet: 'China factory activity grows faster than expected in June on tech export demand — CNBC, June 30, 2026',
+            source2: 'Reuters', sourceUrl2: 'https://www.reuters.com/world/asia-pacific/chinas-factory-activity-expands-june-high-tech-exports-2026-06-30/', sourceSnippet2: 'China factory activity returns to expansion riding AI global boom — Reuters'
+          },
+          ja: {
+            title: '中国の工場活動、6月に拡大へ転換、AI技術ブームが牽引',
+            desc: '中国の製造業活動は2026年6月に再び拡大し、チップやコンピューターなどAI関連製品への強い需要が牽引した。',
+            content: '<p>中国の工場活動は2026年6月に拡大へと転じ、人工知能関連製品への世界的な需要急増が牽引したと、ロイターとCNBCが2026年6月30日に報じました。</p><p>中国の製造業エンジンは今年、堅調を維持しており、AI技術需要の急増が中東の貿易緊張やなお変動する世界の関税政策からの重荷を相殺する助けとなりました。</p><p>中国国家統計局（NBS）の公式購買担当者景気指数（PMI）データによると、製造業はアナリストの予想を上回るペースで成長し、ハイテク製品の輸出需要が主要な牽引役となりました。</p>',
+            source: 'CNBC', sourceUrl: 'https://www.cnbc.com/2026/06/30/china-factory-activity-june-tech-export-demand-pmi-nbs.html', sourceSnippet: '製造業活動拡大 — CNBC'
+          },
+          ko: {
+            title: '중국 공장 가동률, 6월 다시 확장세로...AI 기술 붐이 견인',
+            desc: '중국의 제조업 활동이 2026년 6월 다시 확장세로 돌아섰으며, 반도체·컴퓨터 등 AI 관련 제품에 대한 강한 수요가 견인했다.',
+            content: '<p>중국의 공장 가동률이 2026년 6월 다시 확장세로 돌아섰으며, 인공지능 관련 제품에 대한 세계적 수요 급증이 이를 견인했다고 로이터와 CNBC가 2026년 6월 30일 보도했다.</p><p>중국의 제조업 엔진은 올해 견조한 흐름을 유지했으며, AI 기술 수요 급증이 중동發 무역 긴장과 여전히 변동성이 큰 글로벌 관세 정책으로 인한 부담을 상쇄하는 데 도움이 됐다.</p><p>중국 국가통계국(NBS)의 공식 구매관리자지수(PMI) 데이터에 따르면 제조업 부문은 애널리스트 예상보다 빠르게 성장했으며, 첨단기술 제품에 대한 수출 수요가 핵심 동력으로 작용했다.</p><p>이러한 증가세는 화웨이, SMIC 등 현지 기업들이 반도체 생산 능력에 막대한 투자를 하는 등 중국과 미국 간 AI 인프라 개발을 둘러싼 치열한 경쟁 속에서 반도체 및 고성능 컴퓨터에 대한 수요 급증과 맞물려 있다.</p>',
+            source: 'CNBC', sourceUrl: 'https://www.cnbc.com/2026/06/30/china-factory-activity-june-tech-export-demand-pmi-nbs.html', sourceSnippet: '제조업 활동 확장 — CNBC'
+          },
+          zh: {
+            title: '中国工厂活动6月重返扩张，AI科技热潮成推动力',
+            desc: '受芯片、电脑等人工智能相关产品需求强劲带动，中国制造业活动在2026年6月重返扩张区间。',
+            content: '<p>据路透社和CNBC 2026年6月30日报道，受人工智能相关产品全球需求激增带动，中国工厂活动在2026年6月重返扩张区间。</p><p>今年以来中国制造业引擎表现稳健，AI技术需求的激增帮助抵消了中东贸易紧张局势及仍在波动的全球关税政策带来的拖累。</p><p>中国国家统计局（NBS）官方采购经理人指数（PMI）数据显示，制造业增速快于分析师预期，高科技产品出口需求成为主要推动力。</p><p>这一增长与芯片和高性能计算机需求激增相吻合，此前中美两国在人工智能基础设施建设上展开激烈竞争，华为、中芯国际等本土企业也在半导体产能上进行了大规模投资。</p>',
+            source: 'CNBC', sourceUrl: 'https://www.cnbc.com/2026/06/30/china-factory-activity-june-tech-export-demand-pmi-nbs.html', sourceSnippet: '制造业活动扩张 — CNBC'
+          }
+        }
+      }
+
     ]
   };
   window.countries = window.countryDataFiles;
