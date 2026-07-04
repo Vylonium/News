@@ -442,6 +442,261 @@
           }
         }
       }
+      ,{
+        id: 'portugal-macron-seguro-paris-1juli2026',
+        langs: {
+          id: {
+            title: 'Presiden Portugal António José Seguro Bertemu Macron di Istana Elysee Paris',
+            desc: 'Presiden Portugal António José Seguro melakukan kunjungan kenegaraan ke Paris, disambut Presiden Prancis Emmanuel Macron di Istana Elysee pada 1 Juli 2026.',
+            content: '<p>Presiden Portugal António José Seguro melakukan kunjungan kenegaraan ke Paris pada 1 Juli 2026, di mana ia disambut oleh Presiden Prancis Emmanuel Macron di Istana Elysee, menurut foto dan laporan yang dipublikasikan Reuters Connect.</p><p>Pertemuan bilateral ini menandai salah satu kunjungan luar negeri awal Seguro sejak memenangkan pemilu presiden Portugal pada Februari 2026, di mana kandidat Partai Sosialis tersebut meraih kemenangan telak atas kandidat populis sayap kanan André Ventura dari Chega.</p><p>Kunjungan ini turut menegaskan hubungan erat historis antara Portugal dan Prancis, dua negara anggota Uni Eropa dan NATO yang memiliki kepentingan strategis bersama di kawasan Eropa maupun Atlantik.</p><p>Meski detail lengkap agenda pembicaraan kedua pemimpin belum banyak diungkap ke publik, kunjungan ini terjadi di tengah dinamika geopolitik Eropa yang kompleks, termasuk tekanan AS terhadap sekutu-sekutu NATO untuk menaikkan belanja pertahanan menjelang KTT Ankara.</p><p>Sebagai presiden baru Portugal, Seguro diperkirakan akan terus memperkuat hubungan diplomatik dengan mitra-mitra Uni Eropa utama, termasuk Prancis, di tengah tantangan ekonomi dan sosial domestik yang dihadapi pemerintahan koalisi Perdana Menteri Luís Montenegro.</p>',
+            source: 'Reuters Connect', sourceUrl: 'https://www.reutersconnect.com/item/france-politics-diplomacy-macron-portugal-president-elysee-paris-july-1-2026/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUhOU0xDUzAwMDlUOFNDMg', sourceSnippet: 'FRANCE-POLITICS-DIPLOMACY-MACRON-PORTUGAL-PRESIDENT-ELYSEE-PARIS-JULY-1-2026 — Reuters Connect'
+          },
+          en: {
+            title: "Portugal's President António José Seguro Meets Macron at the Élysée Palace in Paris",
+            desc: "Portugal's President António José Seguro made a state visit to Paris, welcomed by French President Emmanuel Macron at the Élysée Palace on July 1, 2026.",
+            content: "<p>Portugal's President António José Seguro made a state visit to Paris on July 1, 2026, where he was welcomed by French President Emmanuel Macron at the Élysée Palace, according to photos and reports published by Reuters Connect.</p><p>The bilateral meeting marks one of Seguro's early foreign visits since winning Portugal's presidential election in February 2026, when the Socialist Party candidate secured a resounding victory over hard-right populist André Ventura of Chega.</p><p>The visit also underscores the historically close ties between Portugal and France, two European Union and NATO member states with shared strategic interests across Europe and the Atlantic.</p><p>While full details of the two leaders' agenda have not been widely disclosed, the visit comes amid complex European geopolitical dynamics, including U.S. pressure on NATO allies to raise defense spending ahead of the Ankara summit.</p><p>As Portugal's new president, Seguro is expected to continue strengthening diplomatic ties with major EU partners, including France, amid the domestic economic and social challenges facing Prime Minister Luís Montenegro's coalition government.</p>",
+            source: 'Reuters Connect', sourceUrl: 'https://www.reutersconnect.com/item/france-politics-diplomacy-macron-portugal-president-elysee-paris-july-1-2026/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUhOU0xDUzAwMDlUOFNDMg', sourceSnippet: 'FRANCE-POLITICS-DIPLOMACY-MACRON-PORTUGAL-PRESIDENT-ELYSEE-PARIS-JULY-1-2026 — Reuters Connect'
+          },
+          ja: {
+            title: 'ポルトガルのセグロ大統領、パリのエリゼ宮でマクロン大統領と会談',
+            desc: 'ポルトガルのアントニオ・ジョゼ・セグロ大統領が2026年7月1日、パリを公式訪問し、エリゼ宮でフランスのマクロン大統領の歓迎を受けた。',
+            content: '<p>ポルトガルのアントニオ・ジョゼ・セグロ大統領は2026年7月1日、パリを公式訪問し、エリゼ宮でフランスのエマニュエル・マクロン大統領の歓迎を受けたと、ロイター・コネクトが公開した写真と報道で伝えられました。</p><p>この二国間会談は、セグロ氏が2026年2月のポルトガル大統領選挙で勝利して以来の初期の外遊の一つであり、社会党候補である同氏はシェガ党の右派ポピュリスト、アンドレ・ヴェントゥーラ氏に対して圧倒的勝利を収めていました。</p><p>この訪問はまた、欧州連合とNATOの加盟国であるポルトガルとフランスの歴史的に緊密な関係を改めて示すものです。</p>',
+            source: 'Reuters Connect', sourceUrl: 'https://www.reutersconnect.com/item/france-politics-diplomacy-macron-portugal-president-elysee-paris-july-1-2026/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUhOU0xDUzAwMDlUOFNDMg', sourceSnippet: 'マクロン・セグロ会談 — ロイター・コネクト'
+          },
+          ko: {
+            title: '포르투갈 세구루 대통령, 파리 엘리제궁에서 마크롱 대통령과 회담',
+            desc: '포르투갈의 안토니우 조제 세구루 대통령이 2026년 7월 1일 파리를 국빈 방문해 엘리제궁에서 프랑스 마크롱 대통령의 환영을 받았다.',
+            content: '<p>포르투갈의 안토니우 조제 세구루 대통령이 2026년 7월 1일 파리를 국빈 방문해 엘리제궁에서 프랑스 에마뉘엘 마크롱 대통령의 환영을 받았다고 로이터 커넥트가 공개한 사진과 보도를 통해 전했다.</p><p>이번 양자 회담은 세구루 대통령이 2026년 2월 포르투갈 대통령 선거에서 승리한 이후 초기 해외 순방 중 하나로, 사회당 후보였던 그는 극우 포퓰리스트 셰가당의 안드레 벤투라를 상대로 압승을 거둔 바 있다.</p><p>이번 방문은 유럽연합과 나토 회원국인 포르투갈과 프랑스 간의 역사적으로 긴밀한 관계를 재확인하는 것이기도 하다.</p>',
+            source: 'Reuters Connect', sourceUrl: 'https://www.reutersconnect.com/item/france-politics-diplomacy-macron-portugal-president-elysee-paris-july-1-2026/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUhOU0xDUzAwMDlUOFNDMg', sourceSnippet: '마크롱-세구루 회담 — 로이터 커넥트'
+          },
+          zh: {
+            title: '葡萄牙总统塞古罗在巴黎爱丽舍宫会见马克龙',
+            desc: '葡萄牙总统安东尼奥·若泽·塞古罗于2026年7月1日对巴黎进行国事访问，在爱丽舍宫受到法国总统马克龙的欢迎。',
+            content: '<p>据路透连线发布的照片和报道，葡萄牙总统安东尼奥·若泽·塞古罗于2026年7月1日对巴黎进行国事访问，在爱丽舍宫受到法国总统埃马纽埃尔·马克龙的欢迎。</p><p>此次双边会晤是塞古罗自2026年2月赢得葡萄牙总统选举以来最早的外访之一，这位社会党候选人当时以压倒性优势击败了极右翼民粹主义者、社会党候选人安德烈·文图拉（Chega党）。</p><p>此次访问也彰显了葡萄牙与法国这两个欧盟及北约成员国之间历史悠久的密切关系。</p>',
+            source: 'Reuters Connect', sourceUrl: 'https://www.reutersconnect.com/item/france-politics-diplomacy-macron-portugal-president-elysee-paris-july-1-2026/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUhOU0xDUzAwMDlUOFNDMg', sourceSnippet: '马克龙-塞古罗会晤 — 路透连线'
+          }
+        }
+      }
+
+      ,{
+        id: 'portugal-pasir-pantai-algarve-restorasi-2-2juta-ton-juni2026',
+        langs: {
+          id: {
+            title: 'Portugal Pindahkan 2,2 Juta Ton Pasir untuk Restorasi Pantai Algarve Menghadapi Musim Panas',
+            desc: 'Proyek restorasi pantai terbesar di Eropa: Portugal memindahkan 2,2 juta ton pasir untuk menyelamatkan pantai-pantai Algarve yang terancam erosi.',
+            content: '<p>Portugal telah memulai salah satu proyek restorasi pantai terbesar di Eropa, memindahkan 2,2 juta ton pasir untuk memperkuat beberapa pantai paling rentan di Algarve menghadapi musim panas 2026, menurut laporan Travel and Tour World yang dikutip berbagai media.</p><p>Proyek ini bagian dari rencana perlindungan pesisir senilai €111 juta yang dirancang untuk mengatasi erosi pantai yang mengancam infrastruktur dan pariwisata di wilayah paling selatan Algarve, setelah badai musim dingin menyebabkan garis pantai mundur hingga 20 meter di beberapa lokasi.</p><p>Perusahaan dredging Belanda Van Oord, melalui anak usahanya Dravo S.A., telah menandatangani kontrak dengan Badan Lingkungan Portugis (APA) untuk melaksanakan pekerjaan nourishment pantai antara Garrão dan Praia do Forte Novo di Quarteira.</p><p>Restorasi pasir dimulai pada Maret 2026 dengan pekerjaan darurat senilai €15 juta untuk menstabilkan tebing, mengembalikan pasir, dan mempersiapkan pantai untuk musim panas, diikuti dengan fase restorasi yang lebih besar sepanjang tahun.</p><p>Pemerintah Portugis menekankan bahwa proyek ini penting untuk melindungi aset pariwisata dan ekonomi lokal, sementara juga mengatasi kerentanan lingkungan pantai yang semakin meningkat akibat kenaikan permukaan air laut dan kondisi cuaca ekstrem.</p>',
+            source: 'Travel and Tour World', sourceUrl: 'https://www.travelandtourworld.com/news/article/07nmx2w7xw5y/', sourceSnippet: 'Portugal Moves Millions of Tonnes of Sand to Save Algarve Beaches — Travel and Tour World',
+            source2: 'Euronews', sourceUrl2: 'https://www.euronews.com/2026/04/09/the-sand-has-gone-portugals-111m-plan-as-winter-storms-see-beaches-retreat-up-to-20-metres', sourceSnippet2: "Inside Portugal's €111m battle to stop its beaches from vanishing — Euronews",
+            source3: 'The Portugal News', sourceUrl3: 'https://www.theportugalnews.com/news/2026-06-22/sand-replenishment-restores-algarve-beaches-ahead-of-summer/1044050', sourceSnippet3: 'Sand replenishment restores Algarve beaches ahead of summer — The Portugal News'
+          },
+          en: {
+            title: "Portugal Moves 2.2 Million Tonnes of Sand to Restore Algarve Beaches for Summer",
+            desc: "In Europe's largest beach restoration project, Portugal has relocated 2.2 million tonnes of sand to protect vulnerable Algarve beaches facing erosion.",
+            content: "<p>Portugal has launched one of Europe's largest beach restoration projects, relocating 2.2 million tonnes of sand to strengthen vulnerable beaches in the Algarve ahead of the summer 2026 season, Travel and Tour World and other sources reported.</p><p>The project is part of a €111 million coastal protection plan designed to combat beach erosion threatening infrastructure and tourism in the southern Algarve region, following winter storms that caused the coastline to retreat by up to 20 metres in some locations.</p><p>Dutch dredging company Van Oord, through its subsidiary Dravo S.A., has signed a contract with Portugal's Environmental Agency (APA) to carry out beach nourishment work between Garrão and Praia do Forte Novo in Quarteira.</p><p>Sand replenishment work began in March 2026 with €15 million in emergency works to stabilise cliffs, restore sand and prepare beaches for summer, followed by larger restoration phases throughout the year.</p><p>The Portuguese government emphasised the project's importance in protecting tourism and local economic assets, while also addressing growing environmental vulnerability of coastal areas due to rising sea levels and extreme weather conditions.</p>",
+            source: 'Travel and Tour World', sourceUrl: 'https://www.travelandtourworld.com/news/article/07nmx2w7xw5y/', sourceSnippet: 'Portugal Moves Millions of Tonnes of Sand to Save Algarve Beaches — Travel and Tour World',
+            source2: 'Euronews', sourceUrl2: 'https://www.euronews.com/2026/04/09/the-sand-has-gone-portugals-111m-plan-as-winter-storms-see-beaches-retreat-up-to-20-metres', sourceSnippet2: "Inside Portugal's €111m battle to stop its beaches from vanishing — Euronews",
+            source3: 'The Portugal News', sourceUrl3: 'https://www.theportugalnews.com/news/2026-06-22/sand-replenishment-restores-algarve-beaches-ahead-of-summer/1044050', sourceSnippet3: 'Sand replenishment restores Algarve beaches ahead of summer — The Portugal News'
+          },
+          ja: {
+            title: 'ポルトガル、220万トンの砂をアルガルヴェ海岸復旧に投入、欧州最大規模',
+            desc: 'ポルトガルがヨーロッパ最大規模のビーチ復旧プロジェクトの一環として、220万トンの砂を移動させてアルガルヴェの脆弱な海岸を保護。',
+            content: '<p>ポルトガルは欧州最大規模の海岸復旧プロジェクトを開始し、220万トンの砂を移動させてアルガルヴェの脆弱な海岸を強化しています。トラベル・アンド・ツアー・ワールドおよび他のメディアが報じました。</p><p>このプロジェクトは1億1100万ユーロの海岸保護計画の一部で、冬の嵐により一部地域で海岸線が最大20メートル後退した後、南アルガルヴェ地域のインフラと観光を脅かす海岸侵食に対抗することを目的としています。</p>',
+            source: 'Travel and Tour World', sourceUrl: 'https://www.travelandtourworld.com/news/article/07nmx2w7xw5y/', sourceSnippet: '海岸復旧プロジェクト — トラベル・アンド・ツアー・ワールド'
+          },
+          ko: {
+            title: '포르투갈, 알가르브 해변 복구 위해 220만 톤 모래 이동... 유럽 최대 규모',
+            desc: '포르투갈이 유럽 최대 규모의 해변 복구 프로젝트 일환으로 220만 톤의 모래를 이동시켜 알가르브의 취약한 해변을 보호.',
+            content: '<p>포르투갈이 유럽 최대 규모의 해변 복구 프로젝트를 시작했으며 2026년 여름을 앞두고 220만 톤의 모래를 이동시켜 알가르브의 취약한 해변을 강화하고 있다고 트래블앤투어월드 등이 보도했다.</p><p>이 프로젝트는 겨울 폭풍이 일부 지역에서 해안선을 최대 20미터 후퇴시킨 후 남부 알가르브 지역의 인프라와 관광을 위협하는 해변 침식에 대처하기 위한 1억 1100만 유로 규모 해안 보호 계획의 일부다.</p>',
+            source: 'Travel and Tour World', sourceUrl: 'https://www.travelandtourworld.com/news/article/07nmx2w7xw5y/', sourceSnippet: '해변 복구 프로젝트 — 트래블앤투어월드'
+          },
+          zh: {
+            title: '葡萄牙移动220万吨沙子复故阿尔加维海滩，欧洲最大规模',
+            desc: '葡萄牙启动欧洲最大规模海滩复生项目，移动220万吨沙子以保护易受侵蚀的阿尔加维海滩。',
+            content: '<p>葡萄牙已启动欧洲最大规模的海滩复生项目，移动220万吨沙子以加强阿尔加维易受侵蚀的海滩，据Travel and Tour World等媒体报道。</p><p>该项目是1.11亿欧元海岸保护计划的一部分，旨在应对冬季风暴导致的海滩侵蚀，该风暴在某些地点造成海岸线后退达20米，威胁到南部阿尔加维地区的基础设施和旅游业。</p>',
+            source: 'Travel and Tour World', sourceUrl: 'https://www.travelandtourworld.com/news/article/07nmx2w7xw5y/', sourceSnippet: '海滩复生项目 — Travel and Tour World'
+          }
+        }
+      }
+      ,{
+        id: 'portugal-visa-emas-permintaan-melambat-periode-kewarnegaraan-berlipat-26juni2026',
+        langs: {
+          id: {
+            title: 'Permintaan Visa Emas Portugal Melambat setelah Periode Kewarnegaraan Berlipat Ganda',
+            desc: 'Program visa emas Portugal mengalami penurunan minat investor sejak pemerintah menggandakan periode menunggu untuk memperoleh kewarganegaraan.',
+            content: '<p>Permintaan untuk program visa emas (Golden Visa) Portugal terus mengalami penurunan setelah pemerintah menggandakan periode tunggu untuk memperoleh kewarganegaraan dari investor asing, menurut laporan Economic Times yang dikutip berbagai media pada akhir Juni 2026.</p><p>Program Izin Tinggal untuk Investasi (ARI), yang dikenal sebagai visa emas, dirancang untuk menarik investor asing dengan menawarkan residensi jangka panjang di Portugal sebagai jalan menuju kewarganegaraan. Namun, perubahan kebijakan pemerintah menjadikan program ini kurang menarik bagi calon investor.</p><p>Menurut amandemen Undang-Undang Kewarganegaraan Portugal yang diumumkan pada 26 Juni 2026, pasar dana investasi yang memenuhi syarat untuk Izin Tinggal Investasi menghadapi tantangan signifikan, dengan banyak dana investasi mengalami penggandaan dalam penyelesaian investasi mereka.</p><p>Lebih dari 1.200 penduduk asing telah mengajukan keluhan terhadap perubahan Undang-Undang Kewarnegaraan Portugal, menunjukkan ketidakpuasan luas terhadap kebijakan baru yang dianggap merugikan mereka yang telah berinvestasi di bawah aturan lama.</p><p>Perubahan kebijakan ini turut berdampak pada pasar properti investasi dan sektor keuangan Portugal, karena visa emas secara tradisional menjadi jalur utama bagi investor internasional untuk mendapatkan akses ke pasar real estat Portugal sambil mengamankan residensi jangka panjang.</p>',
+            source: 'The Economic Times', sourceUrl: 'https://m.economictimes.com/nri/migrate/portugal-golden-visa-demand-slows-after-citizenship-wait-period-doubles/articleshow/131734531.cms', sourceSnippet: 'Portugal golden visa demand slows after citizenship wait period doubles — The Economic Times',
+            source2: 'The Portugal News', sourceUrl2: 'https://www.theportugalnews.com/news/2026-06-26/amendments-to-the-portugal-nationality-law-double-redemptions-in-golden-visa-funds/1046381', sourceSnippet2: 'Amendments to the Portugal Nationality Law double redemptions in "Golden Visa" funds — The Portugal News'
+          },
+          en: {
+            title: "Portugal's Golden Visa Demand Slows After Citizenship Wait Period Doubles",
+            desc: "Investment interest in Portugal's Golden Visa program has declined following government changes that doubled the waiting period for citizenship eligibility.",
+            content: "<p>Demand for Portugal's Golden Visa program continues to decline following government changes that doubled the citizenship waiting period for foreign investors, Economic Times reported in late June 2026.</p><p>The Residence Permit for Investment (ARI), commonly known as the Golden Visa, was designed to attract foreign investors by offering long-term residency in Portugal as a pathway to citizenship. However, government policy changes have made the programme less attractive to prospective investors.</p><p>According to amendments to Portugal's Nationality Law announced on June 26, 2026, the market for investment funds eligible for Investment Residency Permits has faced significant challenges, with many investment funds experiencing doubled timeframes in fund redemptions.</p><p>More than 1,200 foreign residents have filed complaints against the changes to Portugal's Nationality Law, indicating widespread dissatisfaction with the new policy, which those who invested under the old rules view as unfavourable.</p><p>The policy change has also affected Portugal's investment real estate market and financial sector, as the Golden Visa has traditionally been a primary pathway for international investors to gain access to Portugal's real estate market while securing long-term residency.</p>",
+            source: 'The Economic Times', sourceUrl: 'https://m.economictimes.com/nri/migrate/portugal-golden-visa-demand-slows-after-citizenship-wait-period-doubles/articleshow/131734531.cms', sourceSnippet: 'Portugal golden visa demand slows after citizenship wait period doubles — The Economic Times',
+            source2: 'The Portugal News', sourceUrl2: 'https://www.theportugalnews.com/news/2026-06-26/amendments-to-the-portugal-nationality-law-double-redemptions-in-golden-visa-funds/1046381', sourceSnippet2: 'Amendments to the Portugal Nationality Law double redemptions in "Golden Visa" funds — The Portugal News'
+          },
+          ja: {
+            title: 'ポルトガルのゴールドビザ需要が減速、市民権待機期間が倍増',
+            desc: 'ポルトガルのゴールドビザプログラムの需要が減少、政府が外国人投資家の市民権取得までの待機期間を倍増させた後。',
+            content: '<p>ポルトガルのゴールドビザプログラムへの需要が、外国人投資家の市民権待機期間を倍増させた政府の変更に続いて減少し続けていると、2026年6月後半にエコノミック・タイムズが報じました。</p><p>投資住居許可（ARI）として一般に知られているゴールドビザは、ポルトガルの長期居住を市民権への道として提供することで外国人投資家を魅了することを目的としていました。しかし、政府の政策変更がプログラムをより魅力的でなくしました。</p>',
+            source: 'The Economic Times', sourceUrl: 'https://m.economictimes.com/nri/migrate/portugal-golden-visa-demand-slows-after-citizenship-wait-period-doubles/articleshow/131734531.cms', sourceSnippet: 'ゴールドビザ需要減速 — エコノミック・タイムズ'
+          },
+          ko: {
+            title: '포르투갈 골드비자 수요 둔화, 시민권 대기 기간 2배 증가',
+            desc: '포르투갈 정부가 외국인 투자자들의 시민권 대기 기간을 2배로 연장한 후 골드비자 프로그램 수요가 감소.',
+            content: '<p>포르투갈 정부가 외국인 투자자들의 시민권 대기 기간을 2배로 연장한 후 포르투갈의 골드비자 프로그램에 대한 수요가 계속 감소하고 있다고 에코노믹 타임즈가 2026년 6월 후반 보도했다.</p><p>투자 거주 허가(ARI)로 일반적으로 알려진 골드비자는 포르투갈의 장기 거주를 시민권으로 가는 길로 제공함으로써 외국인 투자자들을 유인하기 위해 고안되었다. 그러나 정부의 정책 변경이 프로그램을 덜 매력적으로 만들었다.</p>',
+            source: 'The Economic Times', sourceUrl: 'https://m.economictimes.com/nri/migrate/portugal-golden-visa-demand-slows-after-citizenship-wait-period-doubles/articleshow/131734531.cms', sourceSnippet: '골드비자 수요 둔화 — 에코노믹 타임즈'
+          },
+          zh: {
+            title: '葡萄牙黄金签证需求放缓，公民权等待期翻倍',
+            desc: '葡萄牙政府将外国投资者的入籍等待期翻倍后，黄金签证项目的投资需求下降。',
+            content: '<p>据《经济时报》2026年6月底报道，葡萄牙黄金签证项目需求继续下降，原因是政府加倍了外国投资者的公民权等待期。</p><p>投资居住许可（ARI）通常被称为黄金签证，旨在通过提供葡萄牙长期居住权作为获得公民身份的途径来吸引外国投资者。然而，政府政策变化使该项目对潜在投资者的吸引力下降。</p>',
+            source: 'The Economic Times', sourceUrl: 'https://m.economictimes.com/nri/migrate/portugal-golden-visa-demand-slows-after-citizenship-wait-period-doubles/articleshow/131734531.cms', sourceSnippet: '黄金签证需求放缓 — 经济时报'
+          }
+        }
+      }
+      ,{
+        id: 'portugal-algarve-wisata-investasi-promosi-internasional-3juli2026',
+        langs: {
+          id: {
+            title: 'Algarve Perkuat Promosi Wisata Internasional, Target Pasar Amerika Utara dan Inggris',
+            desc: 'Dewan Wisata Algarve mempercepat jadwal promosi internasional Juli, fokus pada pasar Amerika Utara dan Inggris dengan acara industri dan pelatihan penjualan.',
+            content: '<p>Dewan Wisata Algarve telah mempercepat jadwal promosi internasionalnya untuk Juli 2026, menjadi tren yang berlawanan dengan iklan terbatas yang biasanya dilakukan selama musim puncak pariwisata, menurut berita dari The Portugal News pada 3 Juli 2026.</p><p>Presiden Dewan Wisata Algarve, André Gomes, menekankan bahwa mempertahankan investasi eksternal di puncak musim panas bertujuan untuk mengkonsolidasikan pertumbuhan berkelanjutan wilayah dan meletakkan dasar bagi hasil pariwisata masa depan, dengan fokus kuat pada diversifikasi segmen pasar dan membangun kehadiran di pasar jarak jauh prioritas.</p><p>Rencana aksi untuk periode ini berfokus terutama pada pasar Amerika Utara dan Inggris melalui inisiatif pelatihan dan acara industri berprofil tinggi. Di Inggris, delegasi Algarve akan mengadakan sesi pelatihan tingkat lanjut pada 7 Juli untuk tim penjualan dan staf pusat panggilan di British Airways Holidays di Newcastle.</p><p>Dari 7 hingga 9 Juli, wilayah tersebut akan berpartisipasi dalam "The Meetings Space North America Summer" di Praha, sebuah forum internasional yang didedikasikan untuk pariwisata bisnis (MICE) dan perjalanan insentif mewah untuk pasar Amerika Utara, di mana akan menampilkan keuntungan kompetitif seperti konektivitas udara, perhotelan kelas atas, dan kredensial keberlanjutan lingkungan.</p><p>Strategi transatlantik juga diperluas ke Kanada dan New York City, dengan acara promosi pada 15 Juli di New York sebagai bagian dari inisiatif "Road to World Cup" oleh Federasi Sepak Bola Portugis, menampilkan presentasi pers internasional dan acara olahraga global besar di wilayah tersebut seperti MotoGP, Formula 1, dan PGA Portugal Invitational.</p>',
+            source: 'The Portugal News', sourceUrl: 'https://www.theportugalnews.com/news/2026-07-03/algarve-tourism-invests-in-the-international-promotion-of-the-destination/1049794', sourceSnippet: 'Algarve Tourism invests in the international promotion of the destination — The Portugal News, 3 Juli 2026'
+          },
+          en: {
+            title: "Algarve Boosts International Tourism Promotion, Targets North America and UK Markets",
+            desc: "The Algarve Tourism Board has ramped up its international promotion schedule for July, focusing on North American and British markets with industry events and sales training.",
+            content: "<p>The Algarve Tourism Board has accelerated its international promotion schedule for July 2026, bucking the trend of reduced advertising during peak tourism season, according to reporting from The Portugal News on July 3, 2026.</p><p>Algarve Tourism Board president André Gomes emphasised that maintaining external investment during peak summer aims to consolidate the region's sustained growth and lay groundwork for future tourism results, with a strong focus on diversifying market segments and establishing presence in priority long-haul markets.</p><p>The action plan focuses primarily on North American and British markets through training initiatives and high-profile industry events. In the UK, the Algarve delegation will host an advanced training session on July 7 for sales teams and call centre staff at British Airways Holidays in Newcastle.</p><p>From July 7 to 9, the region will participate in 'The Meetings Space North America Summer' in Prague, an international forum dedicated to business tourism (MICE) and luxury incentive travel for the North American market, where it will showcase competitive advantages such as air connectivity, high-end hospitality, and environmental sustainability credentials.</p><p>The transatlantic strategy extends to Canada and New York, with a promotional event on July 15 in New York as part of the Portuguese Football Federation's 'Road to World Cup' initiative, featuring international press presentations and major global sporting events held in the region such as MotoGP, Formula 1, and the PGA Portugal Invitational.</p>",
+            source: 'The Portugal News', sourceUrl: 'https://www.theportugalnews.com/news/2026-07-03/algarve-tourism-invests-in-the-international-promotion-of-the-destination/1049794', sourceSnippet: 'Algarve Tourism invests in the international promotion of the destination — The Portugal News, July 3, 2026'
+          },
+          ja: {
+            title: 'アルガルヴェ、国際観光プロモーション強化、北米と英国市場を標的',
+            desc: 'アルガルヴェ観光局が7月の国際プロモーション スケジュールを加速、北米と英国市場に焦点を当てた業界イベントと営業研修。',
+            content: '<p>アルガルヴェ観光局は2026年7月の国際プロモーション スケジュールを加速させており、観光ピークシーズン中の広告削減トレンドに逆行していると、ザ・ポルトガル・ニュースが2026年7月3日に報じました。</p><p>アルガルヴェ観光局長のアンドレ・ゴメス氏は、ピーク時の外部投資維持が地域の持続的成長を統合し、将来の観光成果の基盤を構築することを強調しており、市場セグメントの多様化と優先長距離市場での存在構築に強く焦点を当てています。</p>',
+            source: 'The Portugal News', sourceUrl: 'https://www.theportugalnews.com/news/2026-07-03/algarve-tourism-invests-in-the-international-promotion-of-the-destination/1049794', sourceSnippet: 'アルガルヴェ観光プロモーション強化 — ザ・ポルトガル・ニュース'
+          },
+          ko: {
+            title: '알가르브, 국제 관광 홍보 강화, 북미·영국 시장 표적',
+            desc: '알가르브 관광청이 7월 국제 홍보 일정을 가속화, 북미와 영국 시장에 초점을 맞춘 업계 이벤트와 판매 교육 진행.',
+            content: '<p>알가르브 관광청이 2026년 7월의 국제 홍보 일정을 가속화했으며 관광 성수기 중 광고 축소 추세에 역행하고 있다고 더 포르투갈 뉴스가 2026년 7월 3일 보도했다.</p><p>알가르브 관광청장 앙드레 고메스는 성수기에 외부 투자를 유지하는 것이 지역의 지속적 성장을 공고히 하고 향후 관광 성과의 기초를 마련하는 데 목표가 있다고 강조했으며, 시장 세그먼트 다양화와 우선 원거리 시장에서의 입지 확보에 강한 초점을 맞추고 있다.</p>',
+            source: 'The Portugal News', sourceUrl: 'https://www.theportugalnews.com/news/2026-07-03/algarve-tourism-invests-in-the-international-promotion-of-the-destination/1049794', sourceSnippet: '알가르브 관광 홍보 강화 — 더 포르투갈 뉴스'
+          },
+          zh: {
+            title: '阿尔加维加强国际旅游宣传，瞄准北美和英国市场',
+            desc: '阿尔加维旅游局加快7月国际宣传日程，聚焦北美和英国市场，组织行业活动和销售培训。',
+            content: '<p>据《葡萄牙新闻》2026年7月3日报道，阿尔加维旅游局加快了7月的国际宣传日程，与旅游旺季通常减少广告的趋势相反。</p><p>阿尔加维旅游局主席安德烈·戈麦斯强调，在夏季高峰期维持外部投资旨在巩固该地区的可持续增长并为未来旅游成果奠定基础，强烈关注市场细分多元化和在优先远程市场建立存在。</p>',
+            source: 'The Portugal News', sourceUrl: 'https://www.theportugalnews.com/news/2026-07-03/algarve-tourism-invests-in-the-international-promotion-of-the-destination/1049794', sourceSnippet: '阿尔加维旅游宣传 — 葡萄牙新闻'
+          }
+        }
+      }
+      ,{
+        id: 'portugal-soar-turismo-rekor-permintaan-asing-juli2026',
+        langs: {
+          id: {
+            title: 'Turisme Portugal Melonjak, Permintaan Asing Mencapai Rekor Tertinggi Sepanjang Masa',
+            desc: 'Pariwisata Portugal mencatat pertumbuhan dramatis dengan kedatangan pengunjung asing mencapai level tertinggi sepanjang masa, mengubah lanskap perjalanan Eropa.',
+            content: '<p>Pariwisata Portugal mengalami pertumbuhan luar biasa pada 2026, dengan kedatangan pengunjung asing mencapai tingkat tertinggi sepanjang masa, menandakan transformasi dramatis dalam lanskap perjalanan Eropa, menurut laporan Travel and Tour World.</p><p>Portugal telah menjadi destinasi perjalanan paling panas di Eropa, didorong oleh lonjakan permintaan dari pasar internasional utama termasuk Amerika Serikat, Inggris, dan Brasil. Pertumbuhan kunjungan turis ini juga menyebabkan peningkatan signifikan dalam pendapatan pariwisata negara tersebut.</p><p>Para analis pariwisata mengatakan bahwa Portugal melihat peningkatan permintaan wisatawan Brasil yang belum pernah terjadi sebelumnya, didorong oleh meningkatnya permintaan, lebih banyak penerbangan dari maskapai penerbangan (terutama TAP Portugal), dan tren pemesanan yang kuat, menurut laporan dari Plataforma Media.</p><p>Namun, pertumbuhan pariwisata yang pesat ini turut membawa tantangan baru bagi Portugal, khususnya masalah overtourism dan inflasi sewa properti jangka pendek di kota-kota utama seperti Lisbon dan Porto. Berbagai daerah di Portugal, termasuk Spanyol dan Italia, menghadapi tekanan serupa akibat lonjakan pariwisata dan pertumbuhan sewa jangka pendek.</p><p>Pemerintah Portugal berupaya menyeimbangkan manfaat ekonomi pariwisata dengan keperluan berkelanjutan, termasuk konservasi budaya dan perlindungan lingkungan, di tengak pertumbuhan permintaan wisata yang terus meningkat setiap tahunnya.</p>',
+            source: 'Travel and Tour World', sourceUrl: 'https://www.travelandtourworld.com/news/article/cuxxpo28c5yq/', sourceSnippet: 'Portugal Tourism Soaring As Foreign Demand Hits An All-Time High — Travel and Tour World',
+            source2: 'Plataforma Media', sourceUrl2: 'https://www.plataformamedia.com/en/2026/04/14/portugal-record-brazilian-tourists-2026-tap-flights-demand-growth/', sourceSnippet2: 'Portugal expects record number of tourists from Brazil in 2026 — Plataforma Media'
+          },
+          en: {
+            title: "Portugal's Tourism Soars As Foreign Demand Hits All-Time High",
+            desc: "Portugal's tourism has surged dramatically in 2026, with foreign visitor arrivals reaching record levels, reshaping Europe's travel landscape.",
+            content: "<p>Portugal's tourism has experienced dramatic growth in 2026, with foreign visitor arrivals reaching all-time high levels, signalling a transformation in Europe's travel landscape, Travel and Tour World reported.</p><p>Portugal has become Europe's hottest travel destination, driven by surging demand from major international markets including the United States, United Kingdom, and Brazil. This tourism surge has also resulted in significant increases in the country's tourism revenue.</p><p>Tourism analysts say Portugal is seeing unprecedented growth in Brazilian tourist demand, driven by rising travel demand, increased flight offerings from airlines (particularly TAP Portugal), and strong booking trends, according to reporting from Plataforma Media.</p><p>However, this rapid tourism growth brings new challenges for Portugal, particularly overtourism issues and rental inflation for short-term properties in major cities like Lisbon and Porto. Various regions in Portugal, alongside Spain and Italy, face similar pressures from the tourism surge and short-term rental growth.</p><p>The Portuguese government is seeking to balance tourism's economic benefits with sustainability needs, including cultural conservation and environmental protection, amid continuously rising annual tourism demand.</p>",
+            source: 'Travel and Tour World', sourceUrl: 'https://www.travelandtourworld.com/news/article/cuxxpo28c5yq/', sourceSnippet: 'Portugal Tourism Soaring As Foreign Demand Hits An All-Time High — Travel and Tour World',
+            source2: 'Plataforma Media', sourceUrl2: 'https://www.plataformamedia.com/en/2026/04/14/portugal-record-brazilian-tourists-2026-tap-flights-demand-growth/', sourceSnippet2: 'Portugal expects record number of tourists from Brazil in 2026 — Plataforma Media'
+          },
+          ja: {
+            title: 'ポルトガルの観光急成長、外国人需要が過去最高記録',
+            desc: 'ポルトガルの観光が2026年に劇的な成長を遂げ、外国人観光客到着が過去最高水準に達し、欧州の旅行業界を再編。',
+            content: '<p>ポルトガルの観光は2026年に劇的な成長を遂げており、外国人観光客の到着が過去最高水準に達し、欧州の旅行業界の変革を示唆していると、トラベル・アンド・ツアー・ワールドが報じました。</p><p>ポルトガルは米国、英国、ブラジルなどの主要国際市場からの需要の急増に牽引されて、欧州で最も人気の高い旅行先となり、国の観光収入の大幅な増加をもたらしました。</p>',
+            source: 'Travel and Tour World', sourceUrl: 'https://www.travelandtourworld.com/news/article/cuxxpo28c5yq/', sourceSnippet: '観光急成長 — トラベル・アンド・ツアー・ワールド'
+          },
+          ko: {
+            title: '포르투갈 관광 급성장, 해외 수요가 사상 최고치',
+            desc: '포르투갈 관광이 2026년 급성장했으며 해외 관광객 도착이 사상 최고 수준에 달해 유럽 여행 산업을 재편하고 있다.',
+            content: '<p>포르투갈 관광이 2026년 극적인 성장을 이루었으며 해외 관광객 도착이 사상 최고 수준에 달해 유럽 여행 산업의 변화를 시사한다고 트래블앤투어월드가 보도했다.</p><p>포르투갈은 미국, 영국, 브라질 등 주요 국제 시장의 수요 급증에 견인되어 유럽에서 가장 인기 있는 여행 목적지가 되었으며, 국가의 관광 수입 증가를 초래했다.</p>',
+            source: 'Travel and Tour World', sourceUrl: 'https://www.travelandtourworld.com/news/article/cuxxpo28c5yq/', sourceSnippet: '관광 급성장 — 트래블앤투어월드'
+          },
+          zh: {
+            title: '葡萄牙旅游飙升，海外需求创历史新高',
+            desc: '葡萄牙2026年旅游业经历戏剧性增长，外国游客到达量创历史新高，改写欧洲旅游格局。',
+            content: '<p>据Travel and Tour World报道，葡萄牙旅游业在2026年经历了戏剧性增长，外国游客到达量达到历史最高水平，预示着欧洲旅游业格局的转变。</p><p>在美国、英国和巴西等主要国际市场需求激增的推动下，葡萄牙已成为欧洲最炙手可热的旅游目的地，这也导致该国旅游收入大幅增加。</p>',
+            source: 'Travel and Tour World', sourceUrl: 'https://www.travelandtourworld.com/news/article/cuxxpo28c5yq/', sourceSnippet: '旅游飙升 — Travel and Tour World'
+          }
+        }
+      }
+      ,{
+        id: 'portugal-area-fast-track-angin-surya-pemerintah-juni2026',
+        langs: {
+          id: {
+            title: 'Portugal Tawarkan Area Fast-Track untuk Proyek Angin dan Surya, Percepat Transisi Energi',
+            desc: 'Pemerintah Portugal meluncurkan proses untuk menugaskan lebih dari 1.000 area kepada proyek angin dan surya guna mempercepat transisi energi terbarukan.',
+            content: '<p>Pemerintah Portugal pada Juni 2026 meluncurkan proses untuk menugaskan lebih dari 1.000 area untuk proyek angin dan surya di sekitar infrastruktur jaringan listrik yang sudah ada, merupakan langkah signifikan dalam percepatan transisi energi terbarukan negara tersebut, menurut laporan Reuters yang dikutip berbagai media.</p><p>Inisiatif fast-track ini dirancang untuk mempercepat pengembangan proyek energi terbarukan dengan mengurangi hambatan birokrasi dan menyederhanakan proses perizinan, memungkinkan pengembang proyek untuk lebih cepat memasuki fase konstruksi dan operasional.</p><p>Portugal telah memposisikan dirinya sebagai salah satu pemimpin Eropa dalam transisi energi terbarukan, dengan kontribusi sumber daya energi terbarukan yang terus meningkat terhadap bauran energi nasional setiap tahunnya.</p><p>Strategi pemerintah untuk mempercepat pembangunan angin dan surya sejalan dengan target ambisius Uni Eropa untuk mengurangi ketergantungan terhadap bahan bakar fosil dan mencapai netralitas karbon pada 2050, dengan target pertengahan jalan untuk 2030.</p><p>Dengan menawarkan area fast-track dan menyederhanakan proses perizinan, Portugal berharap dapat menarik investasi besar dari pengembang energi terbarukan global sambil memperkuat posisinya sebagai hub energi bersih di Eropa Selatan.</p>',
+            source: 'Reuters', sourceUrl: 'https://www.reuters.com/business/energy/portugal-offer-fast-track-areas-wind-solar-projects-2026-06-17/', sourceSnippet: 'Portugal to offer fast-track areas for wind, solar projects — Reuters, 17 Juni 2026'
+          },
+          en: {
+            title: "Portugal Offers Fast-Track Areas for Wind and Solar Projects to Accelerate Energy Transition",
+            desc: "Portugal's government has launched a process to assign over 1,000 areas for wind and solar projects, streamlining the renewable energy transition.",
+            content: "<p>Portugal's government in June 2026 launched a process to assign over 1,000 areas for wind and solar projects around existing grid infrastructure, a significant step in accelerating the country's renewable energy transition, Reuters reported.</p><p>The fast-track initiative is designed to speed up renewable energy project development by reducing bureaucratic barriers and streamlining the licensing process, enabling project developers to move into construction and operational phases more quickly.</p><p>Portugal has positioned itself as one of Europe's leaders in the renewable energy transition, with renewable energy sources' contribution to the national energy mix continuing to grow annually.</p><p>The government's strategy to accelerate wind and solar development aligns with the EU's ambitious targets to reduce fossil fuel dependence and achieve carbon neutrality by 2050, with mid-point targets for 2030.</p><p>By offering fast-track areas and streamlining licensing, Portugal aims to attract significant investment from global renewable energy developers while strengthening its position as a clean energy hub in Southern Europe.</p>",
+            source: 'Reuters', sourceUrl: 'https://www.reuters.com/business/energy/portugal-offer-fast-track-areas-wind-solar-projects-2026-06-17/', sourceSnippet: 'Portugal to offer fast-track areas for wind, solar projects — Reuters, June 17, 2026'
+          },
+          ja: {
+            title: 'ポルトガル、風力・太陽光プロジェクト向けのファストトラック地域を提供、エネルギー転換を加速',
+            desc: 'ポルトガル政府が風力・太陽光プロジェクト向けの1,000以上の地域を割り当てるプロセスを開始、再生可能エネルギー転換を加速。',
+            content: '<p>ポルトガル政府は2026年6月、既存のグリッド インフラの周辺で風力および太陽光プロジェクト向けの1,000以上の地域を割り当てるプロセスを開始し、同国の再生可能エネルギー転換を加速させるための重要な一歩となっていると、ロイターが報じました。</p><p>ファストトラック イニシアティブは、官僚的障壁を減らし認可プロセスを簡素化することで再生可能エネルギー プロジェクトの開発を加速することを目的としており、プロジェクト開発者が建設および運用フェーズにより迅速に移行できます。</p>',
+            source: 'Reuters', sourceUrl: 'https://www.reuters.com/business/energy/portugal-offer-fast-track-areas-wind-solar-projects-2026-06-17/', sourceSnippet: 'ファストトラック地域提供 — ロイター'
+          },
+          ko: {
+            title: '포르투갈, 풍력·태양력 프로젝트 지역 패스트트랙 제공, 에너지 전환 가속화',
+            desc: '포르투갈 정부가 풍력과 태양광 프로젝트용 1,000개 이상 지역 할당 프로세스 시작, 재생에너지 전환 가속화.',
+            content: '<p>포르투갈 정부가 2026년 6월 기존 전력망 인프라 주변에서 풍력 및 태양광 프로젝트용 1,000개 이상의 지역을 할당하는 프로세스를 시작했으며, 이는 국가의 재생에너지 전환을 가속화하기 위한 중요한 조치라고 로이터가 보도했다.</p><p>패스트트랙 이니셔티브는 관료적 장벽을 줄이고 허가 절차를 간소화함으로써 재생에너지 프로젝트 개발을 가속화하고 프로젝트 개발자가 건설 및 운영 단계로 더 빠르게 나아갈 수 있도록 설계됐다.</p>',
+            source: 'Reuters', sourceUrl: 'https://www.reuters.com/business/energy/portugal-offer-fast-track-areas-wind-solar-projects-2026-06-17/', sourceSnippet: '패스트트랙 지역 제공 — 로이터'
+          },
+          zh: {
+            title: '葡萄牙为风能和太阳能项目提供快速通道地区，加速能源转型',
+            desc: '葡萄牙政府启动了为风能和太阳能项目分配1,000多个地区的流程，以加快可再生能源转型。',
+            content: '<p>据路透社报道，葡萄牙政府在2026年6月启动了为现有电网基础设施周围1,000多个地区的风能和太阳能项目分配的流程，这是加快该国可再生能源转型的重要一步。</p><p>快速通道倡议旨在通过减少官僚障碍和简化许可流程来加快可再生能源项目的开发，使项目开发商能够更快地进入建设和运营阶段。</p>',
+            source: 'Reuters', sourceUrl: 'https://www.reuters.com/business/energy/portugal-offer-fast-track-areas-wind-solar-projects-2026-06-17/', sourceSnippet: '快速通道地区 — 路透社'
+          }
+        }
+      }
+      ,{
+        id: 'portugal-pantai-monte-clerigo-terbaik-eropa-2026',
+        langs: {
+          id: {
+            title: 'Pantai Monte Clérigo Algarve Raih Penghargaan Pantai Terbaik Eropa 2026',
+            desc: 'Praia de Monte Clérigo di Algarve dinobatkan sebagai pantai terbaik Eropa 2026, memenangkan peringkat European Best Destinations.',
+            content: '<p>Praia de Monte Clérigo yang terletak di Algarve, Portugal, telah dinobatkan sebagai pantai terbaik Eropa tahun 2026, memenangkan peringkat teratas dalam ranking European Best Destinations, menurut laporan MSN dan berbagai sumber media, sekitar sebulan yang lalu dari publikasi awal laporan.</p><p>Pengakuan ini menempatkan Portugal di antara destinasi pantai paling dikagumi di Benua Eropa, dengan pantai-pantainya yang indah, air kristal, dan keberlanjutan lingkungan yang menjadi faktor utama dalam keputusan panel penilai internasional.</p><p>Praia de Monte Clérigo terkenal dengan keindahan alamnya yang masih asri, tebing pasir putih yang megah, dan gelombang laut yang cocok untuk aktivitas olahraga air seperti selancar. Penghargaan ini turut meningkatkan profil pariwisata pantai Portugal di mata pasar internasional.</p><p>Algarve secara keseluruhan telah memposisikan dirinya sebagai salah satu tujuan pantai terkemuka di Eropa, dengan kombinasi iklim hangat sepanjang tahun, infrastruktur pariwisata berkualitas tinggi, dan aksesibilitas internasional yang menjadikannya pilihan populer bagi wisatawan dari seluruh dunia.</p><p>Penghargaan ini juga mencerminkan upaya berkelanjutan pemerintah Portugal dan otoritas lokal Algarve dalam melindungi dan mempromosikan aset pantai mereka, sekaligus memastikan praktik pariwisata berkelanjutan yang menjaga keindahan alam untuk generasi mendatang.</p>',
+            source: 'MSN', sourceUrl: 'https://www.msn.com/en-gb/news/insight/praia-de-monte-cl%C3%A9rigo-named-europes-best-beach-for-2026/gm-GM38230C8E?gemSnapshotKey=GM38230C8E-snapshot-4&uxmode=ruby', sourceSnippet: "Praia de Monte Clérigo named Europe's best beach for 2026 — MSN"
+          },
+          en: {
+            title: "Praia de Monte Clérigo in Algarve Named Europe's Best Beach for 2026",
+            desc: "Praia de Monte Clérigo in Portugal's Algarve has won first place in the 2026 European Best Destinations beach rankings.",
+            content: "<p>Praia de Monte Clérigo, located in the Algarve region of Portugal, has been named Europe's best beach for 2026, topping the European Best Destinations beach rankings, according to reporting from MSN and various media sources.</p><p>The recognition places Portugal among the continent's most admired beach destinations, with its beautiful beaches, crystal-clear waters, and environmental sustainability being key factors in the international judges' decision.</p><p>Praia de Monte Clérigo is renowned for its pristine natural beauty, magnificent white sand cliffs, and sea waves suitable for water sports like surfing. The award has boosted the profile of Portugal's beach tourism in the eyes of international markets.</p><p>The Algarve overall has positioned itself as one of Europe's leading beach destinations, combining year-round warm climate, high-quality tourism infrastructure, and international accessibility that makes it a popular choice for tourists worldwide.</p><p>The award also reflects the Portuguese government's and Algarve local authorities' ongoing efforts to protect and promote their coastal assets while ensuring sustainable tourism practices that preserve natural beauty for future generations.</p>",
+            source: 'MSN', sourceUrl: 'https://www.msn.com/en-gb/news/insight/praia-de-monte-cl%C3%A9rigo-named-europes-best-beach-for-2026/gm-GM38230C8E?gemSnapshotKey=GM38230C8E-snapshot-4&uxmode=ruby', sourceSnippet: "Praia de Monte Clérigo named Europe's best beach for 2026 — MSN"
+          },
+          ja: {
+            title: 'アルガルヴェのモンテ・クレリゴ海岸が2026年欧州最高のビーチに選定',
+            desc: 'ポルトガルのアルガルヴェにあるプライア・デ・モンテ・クレリゴが2026年欧州ベストデスティネーションランキングで第1位を獲得。',
+            content: '<p>ポルトガルのアルガルヴェに位置するプライア・デ・モンテ・クレリゴが2026年欧州最高のビーチに選定され、ヨーロッパン・ベスト・デスティネーション・ランキングで第1位を獲得したと、MSNおよび各メディアが報じました。</p><p>このランキングはポルトガルをヨーロッパで最も高く評価されるビーチ目的地の1つに位置付けており、美しいビーチ、透き通った水、環境の持続可能性が国際審査員の決定の主な要因です。</p>',
+            source: 'MSN', sourceUrl: 'https://www.msn.com/en-gb/news/insight/praia-de-monte-cl%C3%A9rigo-named-europes-best-beach-for-2026/gm-GM38230C8E?gemSnapshotKey=GM38230C8E-snapshot-4&uxmode=ruby', sourceSnippet: '欧州最高のビーチ — MSN'
+          },
+          ko: {
+            title: '알가르브의 몬테 클레리고 해변, 2026년 유럽 최고의 해변 선정',
+            desc: '포르투갈 알가르브의 프라이아 데 몬테 클레리고가 2026년 유럽 베스트 데스티네이션 비치 랭킹에서 1위를 차지.',
+            content: '<p>포르투갈 알가르브에 위치한 프라이아 데 몬테 클레리고가 2026년 유럽 최고의 해변으로 선정되어 유럽 베스트 데스티네이션 비치 랭킹에서 1위를 차지했다고 MSN 등이 보도했다.</p><p>이 인정은 포르투갈을 유럽에서 가장 높이 평가받는 해변 목적지 중 하나로 위치시켰으며, 아름다운 해변, 투명한 물, 환경 지속가능성이 국제 심사위원들의 결정의 주요 요인이었다.</p>',
+            source: 'MSN', sourceUrl: 'https://www.msn.com/en-gb/news/insight/praia-de-monte-cl%C3%A9rigo-named-europes-best-beach-for-2026/gm-GM38230C8E?gemSnapshotKey=GM38230C8E-snapshot-4&uxmode=ruby', sourceSnippet: '유럽 최고의 해변 — MSN'
+          },
+          zh: {
+            title: '阿尔加维蒙特克莱里戈海滩荣获2026年欧洲最佳海滩称号',
+            desc: '葡萄牙阿尔加维的蒙特克莱里戈海滩荣获2026年欧洲最佳目的地海滩排名第一名。',
+            content: '<p>位于葡萄牙阿尔加维的蒙特克莱里戈海滩（Praia de Monte Clérigo）荣获2026年欧洲最佳海滩称号，在欧洲最佳目的地海滩排名中排名第一，据MSN等媒体报道。</p><p>这一认可将葡萄牙列为欧洲最受推崇的海滩目的地之一，美丽的海滩、清澈见底的海水和环境可持续性是国际评委的主要考量因素。</p>',
+            source: 'MSN', sourceUrl: 'https://www.msn.com/en-gb/news/insight/praia-de-monte-cl%C3%A9rigo-named-europes-best-beach-for-2026/gm-GM38230C8E?gemSnapshotKey=GM38230C8E-snapshot-4&uxmode=ruby', sourceSnippet: '欧洲最佳海滩 — MSN'
+          }
+        }
+      }
+
     ]
   };
   window.countries = window.countryDataFiles;
