@@ -349,6 +349,271 @@
           }
         }
       }
+      ,{
+        id: 'romawi-paus-leo-lampedusa-4juli2026',
+        langs: {
+          id: {
+            title: 'Paus Leo XIV Kunjungi Lampedusa, Titik Krisis Migran Utama Eropa',
+            desc: 'Paus Leo XIV mengunjungi pulau Lampedusa di Italia selatan pada 4 Juli 2026, mengikuti jejak Paus Fransiskus untuk menyoroti krisis migrasi yang terus berlangsung.',
+            content: '<p>Paus Leo XIV mengunjungi pulau Lampedusa, Italia selatan, pada 4 Juli 2026, mengikuti jejak pendahulunya Paus Fransiskus dengan menyoroti titik pendaratan utama migran di Eropa, menurut laporan Vatican News dan Euronews.</p><p>Kunjungan ini menandai kali pertama Paus Leo XIV mengangkat isu migrasi secara langsung di lokasi krisis sejak menjabat, sekaligus menegaskan komitmen Gereja Katolik untuk terus menyerukan perlakuan manusiawi terhadap para migran di seluruh dunia.</p><p>Lampedusa telah lama menjadi simbol krisis migrasi Eropa, dengan ribuan migran dari Afrika Utara dan Timur Tengah tiba menggunakan perahu-perahu kecil setiap tahunnya, sering kali dalam kondisi yang membahayakan nyawa mereka.</p><p>Menurut laporan CNN, kunjungan yang bertepatan dengan peringatan 250 tahun kemerdekaan Amerika Serikat ini turut ditafsirkan sebagai pesan tersirat kepada para pemimpin AS terkait kebijakan migrasi yang semakin ketat di bawah pemerintahan Presiden Donald Trump.</p><p>Vatikan menyatakan kunjungan ke Lampedusa merupakan bagian dari rangkaian enam kunjungan pastoral Paus Leo XIV ke berbagai wilayah di Italia sepanjang tahun ini, mulai dari situs Pompeii hingga kota Pavia.</p>',
+            source: 'Euronews', sourceUrl: 'https://www.euronews.com/my-europe/2026/06/30/pope-leo-xiv-to-visit-european-migrant-hotspot-of-lampedusa-on-4-july-vatican-says', sourceSnippet: 'Pope Leo XIV to visit European migrant hotspot of Lampedusa on 4 July, Vatican says — Euronews, 30 Juni 2026',
+            source2: 'CNN', sourceUrl2: 'https://www.cnn.com/2026/07/02/europe/pope-italy-us-immigration-intl', sourceSnippet2: "Pope's July 4 visit to migrant hotspot sends a veiled message to US leaders — CNN",
+            source3: 'Vatican News', sourceUrl3: 'https://www.vaticannews.va/en/pope/news/2026-07/lampedusa-pope-leo-visit-migrants-hope-symbols.html', sourceSnippet3: "Lampedusa: Symbols of hope mark Pope Leo XIV's visit — Vatican News"
+          },
+          en: {
+            title: "Pope Leo XIV Visits Lampedusa, Europe's Key Migrant Crisis Point",
+            desc: "Pope Leo XIV visited the southern Italian island of Lampedusa on July 4, 2026, following in Pope Francis's footsteps to highlight the ongoing migration crisis.",
+            content: "<p>Pope Leo XIV visited the southern Italian island of Lampedusa on July 4, 2026, following in the footsteps of his predecessor Pope Francis by shining a light on Europe's major migrant landing point, Vatican News and Euronews reported.</p><p>The visit marks the first time Pope Leo XIV has directly addressed the migration issue at a crisis site since taking office, reaffirming the Catholic Church's commitment to calling for humane treatment of migrants worldwide.</p><p>Lampedusa has long been a symbol of Europe's migration crisis, with thousands of migrants from North Africa and the Middle East arriving on small boats each year, often in life-threatening conditions.</p><p>According to CNN, the visit, coinciding with the 250th anniversary of U.S. independence, was also interpreted as a veiled message to U.S. leaders regarding increasingly strict migration policies under President Donald Trump's administration.</p><p>The Vatican said the Lampedusa visit is part of a series of six pastoral visits by Pope Leo XIV across various regions of Italy this year, ranging from the site of Pompeii to the city of Pavia.</p>",
+            source: 'Euronews', sourceUrl: 'https://www.euronews.com/my-europe/2026/06/30/pope-leo-xiv-to-visit-european-migrant-hotspot-of-lampedusa-on-4-july-vatican-says', sourceSnippet: 'Pope Leo XIV to visit European migrant hotspot of Lampedusa on 4 July, Vatican says — Euronews, June 30, 2026',
+            source2: 'CNN', sourceUrl2: 'https://www.cnn.com/2026/07/02/europe/pope-italy-us-immigration-intl', sourceSnippet2: "Pope's July 4 visit to migrant hotspot sends a veiled message to US leaders — CNN",
+            source3: 'Vatican News', sourceUrl3: 'https://www.vaticannews.va/en/pope/news/2026-07/lampedusa-pope-leo-visit-migrants-hope-symbols.html', sourceSnippet3: "Lampedusa: Symbols of hope mark Pope Leo XIV's visit — Vatican News"
+          },
+          ja: {
+            title: 'レオ14世教皇、欧州移民危機の要衝ランペドゥーザ島を訪問',
+            desc: 'レオ14世教皇は2026年7月4日、前教皇フランシスコの足跡をたどりイタリア南部のランペドゥーザ島を訪問し、続く移民危機に光を当てた。',
+            content: '<p>レオ14世教皇は2026年7月4日、イタリア南部のランペドゥーザ島を訪問し、前教皇フランシスコの足跡をたどって欧州の主要な移民上陸地点に光を当てたと、バチカンニュースとユーロニュースが報じました。</p><p>この訪問は、レオ14世教皇が就任以来初めて危機の現場で直接移民問題を取り上げるものであり、世界中の移民への人道的な扱いを求めるカトリック教会の姿勢を改めて示すものです。</p><p>ランペドゥーザ島は長らく欧州の移民危機の象徴となっており、北アフリカや中東からの移民が毎年小型船で到着し、しばしば命を脅かす状況に置かれています。</p>',
+            source: 'Euronews', sourceUrl: 'https://www.euronews.com/my-europe/2026/06/30/pope-leo-xiv-to-visit-european-migrant-hotspot-of-lampedusa-on-4-july-vatican-says', sourceSnippet: 'ランペドゥーザ島訪問 — ユーロニュース'
+          },
+          ko: {
+            title: '레오 14세 교황, 유럽 이민 위기의 핵심지 람페두사 방문',
+            desc: '레오 14세 교황이 2026년 7월 4일 프란치스코 전임 교황의 발자취를 따라 이탈리아 남부 람페두사섬을 방문해 지속되는 이민 위기를 조명했다.',
+            content: '<p>레오 14세 교황이 2026년 7월 4일 이탈리아 남부 람페두사섬을 방문해 전임 프란치스코 교황의 발자취를 따라 유럽의 주요 이민 상륙 지점을 조명했다고 바티칸뉴스와 유로뉴스가 보도했다.</p><p>이번 방문은 레오 14세 교황이 취임 이후 처음으로 위기 현장에서 직접 이민 문제를 다룬 것으로, 전 세계 이민자에 대한 인도적 처우를 촉구하는 가톨릭교회의 입장을 재확인하는 것이다.</p><p>람페두사는 오랫동안 유럽 이민 위기의 상징이었으며, 매년 북아프리카와 중동에서 온 수천 명의 이민자들이 소형 선박을 타고 도착하며 종종 생명을 위협받는 상황에 처해있다.</p><p>CNN에 따르면 미국 독립 250주년과 겹친 이번 방문은 도널드 트럼프 행정부 하에서 점점 엄격해지는 미국의 이민 정책에 대한 우회적 메시지로도 해석됐다.</p>',
+            source: 'Euronews', sourceUrl: 'https://www.euronews.com/my-europe/2026/06/30/pope-leo-xiv-to-visit-european-migrant-hotspot-of-lampedusa-on-4-july-vatican-says', sourceSnippet: '람페두사 방문 — 유로뉴스',
+            source2: 'CNN', sourceUrl2: 'https://www.cnn.com/2026/07/02/europe/pope-italy-us-immigration-intl', sourceSnippet2: '이민 위기 메시지 — CNN'
+          },
+          zh: {
+            title: '教皇良十四世访问兰佩杜萨岛，欧洲移民危机的关键地点',
+            desc: '教皇良十四世于2026年7月4日追随前任教皇方济各的脚步访问意大利南部兰佩杜萨岛，凸显持续的移民危机。',
+            content: '<p>据梵蒂冈新闻和欧洲新闻台报道，教皇良十四世于2026年7月4日访问意大利南部的兰佩杜萨岛，追随前任教皇方济各的脚步，聚焦欧洲主要的移民登陆点。</p><p>此次访问是良十四世自就任以来首次在危机现场直接谈及移民问题，重申天主教会呼吁全球人道对待移民的立场。</p><p>兰佩杜萨长期以来一直是欧洲移民危机的象征，每年都有数千名来自北非和中东的移民乘坐小船抵达，往往处于危及生命的境地。</p>',
+            source: 'Euronews', sourceUrl: 'https://www.euronews.com/my-europe/2026/06/30/pope-leo-xiv-to-visit-european-migrant-hotspot-of-lampedusa-on-4-july-vatican-says', sourceSnippet: '访问兰佩杜萨岛 — 欧洲新闻台'
+          }
+        }
+      }
+
+      ,{
+        id: 'romawi-salju-musim-panas-alpen-2juli2026',
+        langs: {
+          id: {
+            title: 'Gelombang Panas Italia Mereda, Salju Turun di Alpen pada Musim Panas',
+            desc: 'Setelah gelombang panas parah selama seminggu, suhu di Italia turun drastis hingga salju turun di Stelvio Pass, sementara Wilayah Veneto umumkan darurat kekeringan.',
+            content: '<p>Setelah gelombang panas parah melanda Italia selama seminggu, suhu tinggi berganti dengan turunnya salju musim panas di kawasan Pegunungan Alpen, menurut laporan harian Italia La Repubblica yang dikutip Anadolu Agency pada 2 Juli 2026.</p><p>Salju mulai turun pada Rabu sore di Stelvio Pass, dengan suhu yang anjlok drastis, sementara angin kencang dan hujan es juga melanda wilayah Trentino dan Tyrol Selatan, memicu petugas pemadam kebakaran merespons sejumlah insiden di distrik Merano, Bressanone, dan Bolzano.</p><p>Meski Italia mendapat sedikit kelegaan dari gelombang panas, peringatan cuaca kuning tetap dikeluarkan untuk sejumlah wilayah di Italia tengah dan selatan yang bersiap menghadapi badai petir hebat dan hujan lebat.</p><p>Sebanyak 11 kota berada pada status siaga terendah untuk gelombang panas pada hari Jumat, namun para pakar yang berbicara kepada Sky Tg24 memperkirakan panas ekstrem akan kembali dalam waktu dekat.</p><p>Di tengah cuaca ekstrem yang berfluktuasi ini, Presiden Wilayah Veneto Alberto Stefani mendeklarasikan status darurat regional di seluruh wilayahnya akibat kondisi kekeringan dan risiko intrusi air laut, menyusul defisit curah hujan yang dimulai sejak Maret dan terus memburuk hingga Mei.</p>',
+            source: 'Anadolu Agency', sourceUrl: 'https://www.aa.com.tr/en/europe/italy-heat-wave-gives-way-to-july-snowfall-in-alps/3984682', sourceSnippet: 'Italy heat wave gives way to July snowfall in Alps — Anadolu Agency, 2 Juli 2026'
+          },
+          en: {
+            title: "Italy's Heat Wave Eases as Summer Snow Falls in the Alps",
+            desc: "After a severe week-long heat wave, temperatures in Italy dropped sharply as snow fell at Stelvio Pass, while the Veneto region declared a drought state of emergency.",
+            content: "<p>After a severe week-long heat wave gripped Italy, high temperatures gave way to summer snowfall in the Alpine region, Italian daily La Repubblica reported, as cited by Anadolu Agency on July 2, 2026.</p><p>Snow began falling Wednesday afternoon at the Stelvio Pass, with temperatures dropping sharply, while strong winds and hailstorms also hit Trentino and South Tyrol, prompting firefighters to respond to several incidents in the districts of Merano, Bressanone and Bolzano.</p><p>Although Italy saw some relief from the heat wave, yellow weather alerts remained in place for parts of central and southern Italy, which braced for severe thunderstorms and heavy rainfall.</p><p>Eleven cities were on the lowest heat-wave alert level on Friday, though experts speaking to Sky Tg24 expect the extreme heat to return soon.</p><p>Amid the fluctuating extreme weather, Veneto region president Alberto Stefani declared a regional state of emergency across the entire territory due to drought conditions and the risk of saltwater intrusion, following a rainfall deficit that began in March and worsened through May.</p>",
+            source: 'Anadolu Agency', sourceUrl: 'https://www.aa.com.tr/en/europe/italy-heat-wave-gives-way-to-july-snowfall-in-alps/3984682', sourceSnippet: 'Italy heat wave gives way to July snowfall in Alps — Anadolu Agency, July 2, 2026'
+          },
+          ja: {
+            title: 'イタリアの熱波が緩和、アルプスで夏の降雪',
+            desc: '1週間続いた深刻な熱波の後、イタリアの気温が急落しステルヴィオ峠で雪が降り、ヴェネト州は干ばつの非常事態を宣言した。',
+            content: '<p>1週間続いた深刻な熱波の後、イタリアの高温はアルプス地域の夏の降雪へと変わったと、イタリアの日刊紙ラ・レプッブリカを引用してアナドル通信が2026年7月2日に報じました。</p><p>水曜午後にステルヴィオ峠で降雪が始まり、気温が急激に低下する一方、トレンティーノと南チロルでは強風と雹も襲い、消防隊がメラーノ、ブレッサノーネ、ボルツァーノ地区で複数の事案に対応しました。</p><p>この変動の激しい異常気象の中、ヴェネト州のアルベルト・ステファーニ知事は干ばつと海水浸入のリスクを理由に、州全域で地域非常事態を宣言しました。</p>',
+            source: 'Anadolu Agency', sourceUrl: 'https://www.aa.com.tr/en/europe/italy-heat-wave-gives-way-to-july-snowfall-in-alps/3984682', sourceSnippet: 'アルプスで夏の降雪 — アナドル通信'
+          },
+          ko: {
+            title: '이탈리아 폭염 진정, 알프스에는 한여름 눈까지',
+            desc: '일주일간 이어진 극심한 폭염 후 이탈리아 기온이 급락해 스텔비오 고개에 눈이 내렸으며, 베네토주는 가뭄 비상사태를 선포했다.',
+            content: '<p>일주일간 이어진 극심한 폭염 이후 이탈리아의 고온 현상이 알프스 지역의 한여름 강설로 바뀌었다고 이탈리아 일간지 라레푸블리카를 인용해 아나돌루통신이 2026년 7월 2일 보도했다.</p><p>수요일 오후 스텔비오 고개에서 눈이 내리기 시작했으며 기온이 급격히 떨어졌고, 트렌티노와 남티롤에서도 강풍과 우박이 몰아쳐 소방대가 메라노, 브레사노네, 볼차노 지구에서 여러 사고에 대응했다.</p><p>이탈리아가 폭염에서 다소 안도했지만, 중남부 일부 지역에는 강한 뇌우와 폭우에 대비해 노란색 기상경보가 유지됐다.</p><p>이러한 변덕스러운 극한 기상 속에서 베네토주의 알베르토 스테파니 주지사는 가뭄과 해수 침투 위험을 이유로 주 전역에 지역 비상사태를 선포했다.</p>',
+            source: 'Anadolu Agency', sourceUrl: 'https://www.aa.com.tr/en/europe/italy-heat-wave-gives-way-to-july-snowfall-in-alps/3984682', sourceSnippet: '알프스 한여름 강설 — 아나돌루통신'
+          },
+          zh: {
+            title: '意大利热浪缓解，阿尔卑斯山迎来夏季降雪',
+            desc: '经历一周严重热浪后，意大利气温骤降，斯泰尔维奥山口出现降雪，威尼托大区宣布干旱紧急状态。',
+            content: '<p>据意大利《共和报》报道，经过一周的严重热浪后，意大利高温转为阿尔卑斯山区的夏季降雪，阿纳多卢通讯社2026年7月2日援引该报道道。</p><p>周三下午斯泰尔维奥山口开始降雪，气温骤降，特伦蒂诺和南蒂罗尔地区也遭遇强风冰雹，消防部门在梅拉诺、布雷萨诺内和博尔扎诺地区应对多起事故。</p><p>尽管意大利热浪有所缓解，但中南部部分地区仍维持黄色天气预警，应对强雷暴和强降雨。</p>',
+            source: 'Anadolu Agency', sourceUrl: 'https://www.aa.com.tr/en/europe/italy-heat-wave-gives-way-to-july-snowfall-in-alps/3984682', sourceSnippet: '阿尔卑斯山夏季降雪 — 阿纳多卢通讯社'
+          }
+        }
+      }
+
+      ,{
+        id: 'romawi-nato-belanja-pertahanan-2juli2026',
+        langs: {
+          id: {
+            title: 'AS Tekan Sekutu NATO soal Belanja Pertahanan, Meloni Tegaskan Italia Penuhi Komitmen',
+            desc: 'Menjelang KTT NATO di Ankara, Duta Besar AS untuk NATO menegur sekutu yang tertinggal soal belanja pertahanan, sementara Meloni menegaskan Italia telah menaikkan anggaran hingga 2,8% PDB.',
+            content: '<p>Amerika Serikat meningkatkan tekanan terhadap sekutu-sekutu NATO yang dinilai gagal memenuhi kewajiban belanja pertahanan, sementara Italia bersiap menegaskan keandalannya menjelang KTT NATO di Ankara, menurut laporan Il Sole 24 Ore pada 2 Juli 2026.</p><p>Lima hari sebelum KTT, Perdana Menteri Giorgia Meloni memanggil Wakil PM sekaligus Menteri Luar Negeri Antonio Tajani, Menteri Ekonomi Giancarlo Giorgetti, dan Menteri Pertahanan Guido Crosetto ke Palazzo Chigi untuk membahas dosier persenjataan ulang (rearmament) negara tersebut.</p><p>Meloni sebelumnya telah melaporkan ke Parlemen pada 11 Juni bahwa ia akan menghadiri KTT dengan komitmen anggaran pertahanan dan keamanan sebesar 2,8% dari PDB — hampir dua kali lipat dari 1,6% dua tahun lalu — sejalan dengan target peningkatan bertahap hingga 5% PDB pada 2035 sebagaimana disepakati tahun lalu atas permintaan Presiden AS Donald Trump.</p><p>Namun, Duta Besar AS untuk NATO Matthew Whitaker menyebut Polandia, negara-negara Nordik dan Baltik, serta Jerman sebagai contoh sekutu yang patut dicontoh, sembari mengkritik banyak sekutu lain yang dinilai "tertinggal" dalam belanja pertahanan inti. Italia tidak termasuk dalam daftar sekutu teladan tersebut.</p><p>Menteri Luar Negeri Tajani menegaskan bahwa "Italia ingin mengambil peran utama dalam memperkuat pilar pertahanan Eropa" dan akan menegaskan kembali komitmennya soal belanja militer di Ankara, di tengah spekulasi laporan media Jerman bahwa Italia berencana menentang referensi dukungan militer berkelanjutan untuk Ukraina pasca-2027 dalam deklarasi akhir KTT — klaim yang dibantah keras oleh sumber pemerintah.</p>',
+            source: 'Il Sole 24 Ore', sourceUrl: 'https://en.ilsole24ore.com/art/nato-expenditure-us-pressure-meloni-rome-compliance-with-agreements-AIlY4IyD', sourceSnippet: 'NATO spending: US steps up pressure. Meloni: Rome is honouring its commitments — Il Sole 24 Ore, 2 Juli 2026'
+          },
+          en: {
+            title: "US Pressures NATO Allies on Defense Spending, Meloni Insists Italy Is Delivering",
+            desc: "Ahead of the NATO summit in Ankara, the US ambassador to NATO chided lagging allies on defense spending, while Meloni insisted Italy has raised its budget to 2.8% of GDP.",
+            content: "<p>The United States has stepped up pressure on NATO allies deemed to be falling short of their defense spending obligations, while Italy prepares to assert its reliability ahead of the NATO summit in Ankara, Il Sole 24 Ore reported on July 2, 2026.</p><p>Five days before the summit, Prime Minister Giorgia Meloni summoned Deputy PM and Foreign Minister Antonio Tajani, Economy Minister Giancarlo Giorgetti, and Defense Minister Guido Crosetto to Palazzo Chigi to discuss the country's rearmament dossier.</p><p>Meloni had already told parliament on June 11 that she would attend the summit with a defense and security budget commitment of 2.8% of GDP — nearly double the 1.6% of two years ago — in line with a gradual increase to 5% of GDP by 2035 agreed last year at U.S. President Donald Trump's request.</p><p>However, U.S. Ambassador to NATO Matthew Whitaker pointed to Poland, the Nordic and Baltic countries, and Germany as examples to follow, while criticizing many other allies deemed to be 'lagging behind' on core defense spending. Italy did not feature on the list of model allies.</p><p>Foreign Minister Tajani insisted that 'Italy wants to play a leading role in strengthening the European defense pillar' and would reaffirm its military spending commitment in Ankara, amid speculation from a German media report that Italy planned to oppose language on continued military support for Ukraine beyond 2027 in the summit's final declaration — a claim government sources firmly denied.</p>",
+            source: 'Il Sole 24 Ore', sourceUrl: 'https://en.ilsole24ore.com/art/nato-expenditure-us-pressure-meloni-rome-compliance-with-agreements-AIlY4IyD', sourceSnippet: 'NATO spending: US steps up pressure. Meloni: Rome is honouring its commitments — Il Sole 24 Ore, July 2, 2026'
+          },
+          ja: {
+            title: '米国、NATO加盟国に防衛費増額を圧力、メローニ首相「イタリアは責務を果たす」',
+            desc: 'アンカラでのNATO首脳会議を前に、米国のNATO大使が遅れている加盟国を叱責する中、メローニ首相はイタリアがGDP比2.8%まで予算を引き上げたと強調した。',
+            content: '<p>米国はNATO加盟国のうち防衛費の義務を果たしていないとされる国々への圧力を強めており、イタリアはアンカラでのNATO首脳会議を前に自国の信頼性を主張する準備を進めていると、イル・ソーレ・24オーレが2026年7月2日に報じました。</p><p>首脳会議の5日前、メローニ首相はタヤーニ副首相兼外相、ジョルジェッティ経済相、クロゼット国防相をキージ宮に招集し、再軍備化に関する案件を協議しました。</p><p>メローニ首相は6月11日に既に議会で、GDP比2.8%の防衛・安全保障予算を掲げて首脳会議に臨むと報告していました。これは2年前の1.6%からほぼ倍増した水準です。</p>',
+            source: 'Il Sole 24 Ore', sourceUrl: 'https://en.ilsole24ore.com/art/nato-expenditure-us-pressure-meloni-rome-compliance-with-agreements-AIlY4IyD', sourceSnippet: '防衛費圧力 — イル・ソーレ・24オーレ'
+          },
+          ko: {
+            title: '미국, 나토 동맹국에 국방비 증액 압박...멜로니 "이탈리아는 책무 이행"',
+            desc: '앙카라 나토 정상회의를 앞두고 미국 나토대사가 뒤처진 동맹국들을 질책한 가운데, 멜로니 총리는 이탈리아가 GDP 대비 2.8%까지 예산을 늘렸다고 강조했다.',
+            content: '<p>미국이 국방비 의무를 이행하지 못한 것으로 평가되는 나토 동맹국들에 대한 압박을 강화하고 있으며, 이탈리아는 앙카라 나토 정상회의를 앞두고 신뢰성을 강조할 준비를 하고 있다고 일솔레24오레가 2026년 7월 2일 보도했다.</p><p>정상회의 닷새 전, 조르자 멜로니 총리는 안토니오 타야니 부총리 겸 외무장관, 조르제티 경제장관, 크로세토 국방장관을 팔라초 키지로 소집해 재무장 관련 사안을 논의했다.</p><p>멜로니 총리는 이미 6월 11일 의회에서 GDP 대비 2.8%의 국방·안보 예산 공약을 갖고 정상회의에 참석할 것이라고 밝힌 바 있다. 이는 2년 전 1.6%에서 거의 두 배로 늘어난 수치다.</p><p>그러나 매튜 휘태커 미국 나토대사는 폴란드, 북유럽·발트 국가들, 독일을 모범 사례로 꼽으며 핵심 국방비에서 "뒤처진" 것으로 평가되는 다른 여러 동맹국들을 비판했다. 이탈리아는 모범 동맹국 명단에 포함되지 않았다.</p>',
+            source: 'Il Sole 24 Ore', sourceUrl: 'https://en.ilsole24ore.com/art/nato-expenditure-us-pressure-meloni-rome-compliance-with-agreements-AIlY4IyD', sourceSnippet: '국방비 압박 — 일솔레24오레'
+          },
+          zh: {
+            title: '美国向北约盟友施压国防开支，梅洛尼强调意大利履行承诺',
+            desc: '在安卡拉北约峰会前夕，美国驻北约大使斥责落后的盟友，而梅洛尼总理坚称意大利已将预算提高至GDP的2.8%。',
+            content: '<p>据《24小时太阳报》2026年7月2日报道，美国已加大对被认为未能履行国防开支义务的北约盟友的施压，而意大利正准备在安卡拉北约峰会前强调其可靠性。</p><p>峰会召开五天前，总理焦尔吉娅·梅洛尼召集副总理兼外长安东尼奥·塔亚尼、经济部长佐尔杰蒂和国防部长克罗塞托前往基吉宫，讨论该国的重整军备议题。</p><p>梅洛尼此前已于6月11日向议会报告，她将带着占GDP2.8%的国防与安全预算承诺出席峰会——几乎是两年前1.6%的两倍，符合去年应美国总统特朗普要求商定的到2035年逐步提高至GDP5%的目标。</p>',
+            source: 'Il Sole 24 Ore', sourceUrl: 'https://en.ilsole24ore.com/art/nato-expenditure-us-pressure-meloni-rome-compliance-with-agreements-AIlY4IyD', sourceSnippet: '国防开支施压 — 24小时太阳报'
+          }
+        }
+      }
+
+      ,{
+        id: 'romawi-macron-meloni-riviera-26juni2026',
+        langs: {
+          id: {
+            title: 'Macron Jamu Meloni untuk Pembicaraan di Riviera Prancis Usai Ketegangan dengan Trump',
+            desc: 'Presiden Prancis Emmanuel Macron menjamu PM Italia Giorgia Meloni untuk pembicaraan di Antibes, tak lama setelah Meloni berselisih dengan Presiden AS Donald Trump.',
+            content: '<p>Presiden Prancis Emmanuel Macron menjamu Perdana Menteri Italia Giorgia Meloni untuk pembicaraan di Antibes, wilayah Riviera Prancis, tak lama setelah Meloni terlibat perselisihan dengan Presiden AS Donald Trump, menurut laporan Economic Times.</p><p>Pertemuan bilateral ini berlangsung di tengah dinamika hubungan yang kompleks antara Italia dan sekutu-sekutu tradisionalnya, dengan Meloni berupaya menyeimbangkan hubungan dekatnya dengan pemerintahan Trump di satu sisi dan solidaritas dengan mitra-mitra Eropa di sisi lain.</p><p>Menurut analisis dari lembaga riset IRIS Prancis, Meloni tengah memasuki fase politik baru setelah tiga tahun berkuasa tanpa kesulitan besar, kini menghadapi periode yang benar-benar sulit dalam kepemimpinannya.</p><p>Pertemuan di Riviera ini turut menjadi ajang bagi kedua pemimpin untuk membahas isu-isu strategis Eropa, termasuk pertahanan bersama dan hubungan dengan Washington, di tengah tekanan yang meningkat terhadap sekutu-sekutu NATO Eropa untuk menaikkan belanja pertahanan.</p><p>Ketegangan Meloni dengan Trump turut menambah tekanan politik domestik bagi PM Italia tersebut, yang tengah menghadapi kritik dari lawan-lawan politiknya terkait prioritas belanja militer menjelang pemilu 2027.</p>',
+            source: 'The Economic Times', sourceUrl: 'https://m.economictimes.com/news/international/global-trends/emmanuel-macron-hosts-giorgia-meloni-for-riviera-talks-after-trump-rift/articleshow/131997878.cms', sourceSnippet: 'Emmanuel Macron hosts Giorgia Meloni for Riviera talks after Trump rift — The Economic Times',
+            source2: 'Politico Europe', sourceUrl2: 'https://www.politico.eu/article/pressure-builds-on-italy-giorgia-meloni-to-shun-us-donald-trump-as-she-gears-up-for-2027-election/', sourceSnippet2: "Pressure builds on Italy's Meloni to shun Trump as she gears up for 2027 election — Politico"
+          },
+          en: {
+            title: "Macron Hosts Meloni for Riviera Talks After Trump Rift",
+            desc: "French President Emmanuel Macron hosted Italian PM Giorgia Meloni for talks in Antibes, shortly after Meloni's rift with US President Donald Trump.",
+            content: "<p>French President Emmanuel Macron hosted Italian Prime Minister Giorgia Meloni for talks in Antibes on the French Riviera, shortly after Meloni's rift with U.S. President Donald Trump, the Economic Times reported.</p><p>The bilateral meeting comes amid complex dynamics in Italy's relations with its traditional allies, as Meloni seeks to balance her close ties with the Trump administration on one hand and solidarity with European partners on the other.</p><p>According to analysis from the French research institute IRIS, Meloni is entering a new political phase after three years in power without major difficulties, now facing a genuinely difficult period in her leadership.</p><p>The Riviera meeting also served as an opportunity for the two leaders to discuss strategic European issues, including joint defense and relations with Washington, amid mounting pressure on European NATO allies to raise defense spending.</p><p>Meloni's tension with Trump adds further domestic political pressure on the Italian PM, who faces criticism from political opponents over military spending priorities ahead of the 2027 election.</p>",
+            source: 'The Economic Times', sourceUrl: 'https://m.economictimes.com/news/international/global-trends/emmanuel-macron-hosts-giorgia-meloni-for-riviera-talks-after-trump-rift/articleshow/131997878.cms', sourceSnippet: 'Emmanuel Macron hosts Giorgia Meloni for Riviera talks after Trump rift — The Economic Times',
+            source2: 'Politico Europe', sourceUrl2: 'https://www.politico.eu/article/pressure-builds-on-italy-giorgia-meloni-to-shun-us-donald-trump-as-she-gears-up-for-2027-election/', sourceSnippet2: "Pressure builds on Italy's Meloni to shun Trump as she gears up for 2027 election — Politico"
+          },
+          ja: {
+            title: 'マクロン仏大統領、トランプ氏との亀裂後にメローニ首相をリビエラに招く',
+            desc: 'フランスのマクロン大統領は、メローニ首相とトランプ米大統領との亀裂の直後、アンティーブでの会談にメローニ首相を招いた。',
+            content: '<p>フランスのエマニュエル・マクロン大統領は、メローニ首相とトランプ米大統領との亀裂の直後、フランスのリビエラ地方アンティーブでの会談にイタリアのジョルジャ・メローニ首相を招いたと、エコノミック・タイムズが報じました。</p><p>この二国間会談は、メローニ首相がトランプ政権との緊密な関係と欧州パートナーとの連帯のバランスを取ろうとする中、イタリアと伝統的な同盟国との複雑な関係の中で行われました。</p><p>フランスの研究機関IRISの分析によると、メローニ首相は3年間大きな困難もなく政権を担ってきましたが、今、指導者として本当に困難な局面に入りつつあるとされています。</p>',
+            source: 'The Economic Times', sourceUrl: 'https://m.economictimes.com/news/international/global-trends/emmanuel-macron-hosts-giorgia-meloni-for-riviera-talks-after-trump-rift/articleshow/131997878.cms', sourceSnippet: 'リビエラ会談 — エコノミック・タイムズ'
+          },
+          ko: {
+            title: '마크롱, 트럼프와의 균열 후 멜로니 총리 리비에라로 초청',
+            desc: '프랑스 마크롱 대통령이 멜로니 총리와 트럼프 미국 대통령의 갈등 직후 앙티브에서 회담을 위해 멜로니 총리를 초청했다.',
+            content: '<p>프랑스의 에마뉘엘 마크롱 대통령이 조르자 멜로니 이탈리아 총리와 도널드 트럼프 미국 대통령 간의 갈등 직후, 프랑스 리비에라 지역 앙티브에서 회담을 위해 멜로니 총리를 초청했다고 이코노믹타임스가 보도했다.</p><p>이번 양자 회담은 멜로니 총리가 트럼프 행정부와의 긴밀한 관계와 유럽 파트너들과의 연대 사이에서 균형을 모색하는 가운데, 이탈리아와 전통적 동맹국 간의 복잡한 역학 속에서 이뤄졌다.</p><p>프랑스 연구기관 IRIS의 분석에 따르면 멜로니 총리는 집권 3년간 큰 어려움 없이 지내왔으나, 이제 리더십에서 진정으로 어려운 시기에 접어들고 있는 것으로 평가된다.</p>',
+            source: 'The Economic Times', sourceUrl: 'https://m.economictimes.com/news/international/global-trends/emmanuel-macron-hosts-giorgia-meloni-for-riviera-talks-after-trump-rift/articleshow/131997878.cms', sourceSnippet: '리비에라 회담 — 이코노믹타임스'
+          },
+          zh: {
+            title: '马克龙在与特朗普关系出现裂痕后于里维埃拉接待梅洛尼',
+            desc: '法国总统马克龙在梅洛尼总理与美国总统特朗普关系出现裂痕后不久，在昂蒂布接待梅洛尼总理举行会谈。',
+            content: '<p>据《经济时报》报道，法国总统埃马纽埃尔·马克龙在意大利总理焦尔吉娅·梅洛尼与美国总统唐纳德·特朗普关系出现裂痕后不久，在法国里维埃拉的昂蒂布接待梅洛尼举行会谈。</p><p>此次双边会晤正值意大利与传统盟友关系错综复杂之际，梅洛尼试图在与特朗普政府的密切关系和与欧洲伙伴的团结之间寻求平衡。</p><p>据法国智库IRIS分析，梅洛尼在执政三年未遇重大困难后，正进入一个新的政治阶段，如今在领导层面临真正的困难时期。</p>',
+            source: 'The Economic Times', sourceUrl: 'https://m.economictimes.com/news/international/global-trends/emmanuel-macron-hosts-giorgia-meloni-for-riviera-talks-after-trump-rift/articleshow/131997878.cms', sourceSnippet: '里维埃拉会谈 — 经济时报'
+          }
+        }
+      }
+
+      ,{
+        id: 'romawi-aturan-turis-denda-2026',
+        langs: {
+          id: {
+            title: 'Italia Perketat Aturan Wisata 2026, Denda hingga Rp47 Juta bagi Turis Bersandal Jepit',
+            desc: 'Italia menerapkan aturan wisata baru pada 2026 di Venesia, Cinque Terre, dan destinasi populer lainnya, termasuk denda hingga hampir 3.000 dolar AS bagi pelanggar aturan alas kaki di jalur pendakian.',
+            content: '<p>Italia menerapkan serangkaian aturan wisata baru pada 2026 di destinasi-destinasi populer seperti Venesia, Cinque Terre, Capri, dan Florence, dengan denda berat bagi wisatawan yang melanggar, menurut laporan Travel and Tour World.</p><p>Taman Nasional Cinque Terre memperingatkan para pengunjung untuk tidak mengenakan sandal jepit atau alas kaki yang tidak layak saat mendaki jalur-jalur curam di kawasan tersebut, dengan denda yang bisa mencapai hampir 3.000 dolar AS bagi pelanggar, menurut laporan People.</p><p>Wisatawan asal Inggris turut diperingatkan menghadapi denda hingga 2.100 poundsterling atas pelanggaran serupa, di samping kewajiban baru menjalani pemeriksaan perbatasan digital saat memasuki Italia, menurut laporan Travel and Tour World lainnya.</p><p>Venesia kembali memberlakukan biaya masuk bagi wisatawan harian (daytripper fee) sejak awal April, sementara Capri dan Florence turut memperkenalkan pembatasan baru untuk mengurangi kepadatan turis di tengah fenomena overtourism yang melanda destinasi-destinasi populer Italia.</p><p>Otoritas setempat menyatakan langkah-langkah ini bertujuan melindungi situs warisan budaya sekaligus menjaga keselamatan wisatawan, di tengah lonjakan jumlah pengunjung yang terus meningkat setiap tahun ke berbagai destinasi ikonik Italia.</p>',
+            source: 'Travel and Tour World', sourceUrl: 'https://www.travelandtourworld.com/news/article/jn5230alakp6/', sourceSnippet: 'Italy Issues New Tourist Rules for 2026 as Venice, Cinque Terre and Popular Destinations Introduce Strict Regulations and Heavy Fines — Travel and Tour World',
+            source2: 'People', sourceUrl2: 'https://people.com/italian-town-fining-visitors-wearing-flip-flops-hiking-trails-11997913', sourceSnippet2: "This Popular Italian Town Will Fine People Almost $3,000 for Wearing Flip-Flops — People",
+            source3: 'Visit Ukraine Today', sourceUrl3: 'https://visitukraine.today/blog/8184/italy-tightens-rules-for-tourists-in-2026-new-restrictions-and-fees', sourceSnippet3: 'Italy tightens rules for tourists in 2026: new restrictions and fees — Visit Ukraine Today'
+          },
+          en: {
+            title: "Italy Tightens 2026 Tourist Rules, Fines Up to Nearly $3,000 for Flip-Flops",
+            desc: "Italy has introduced new tourist regulations in 2026 across Venice, Cinque Terre and other popular destinations, including hefty fines for improper footwear on hiking trails.",
+            content: "<p>Italy has rolled out a series of new tourist rules in 2026 across popular destinations including Venice, Cinque Terre, Capri and Florence, with heavy fines for violators, Travel and Tour World reported.</p><p>Cinque Terre National Park has warned visitors against wearing flip-flops or improper footwear while hiking its steep trails, with fines reaching almost $3,000 for offenders, People reported.</p><p>British tourists were also warned of fines up to £2,100 for similar violations, alongside new mandatory digital border checks upon entering Italy, according to another Travel and Tour World report.</p><p>Venice has reinstated its daytripper entry fee since early April, while Capri and Florence have introduced new restrictions to curb overcrowding amid an ongoing overtourism phenomenon at Italy's most popular destinations.</p><p>Local authorities said the measures aim to protect heritage sites while ensuring tourist safety, amid a continued yearly surge in visitor numbers to Italy's iconic destinations.</p>",
+            source: 'Travel and Tour World', sourceUrl: 'https://www.travelandtourworld.com/news/article/jn5230alakp6/', sourceSnippet: 'Italy Issues New Tourist Rules for 2026 as Venice, Cinque Terre and Popular Destinations Introduce Strict Regulations and Heavy Fines — Travel and Tour World',
+            source2: 'People', sourceUrl2: 'https://people.com/italian-town-fining-visitors-wearing-flip-flops-hiking-trails-11997913', sourceSnippet2: "This Popular Italian Town Will Fine People Almost $3,000 for Wearing Flip-Flops — People",
+            source3: 'Visit Ukraine Today', sourceUrl3: 'https://visitukraine.today/blog/8184/italy-tightens-rules-for-tourists-in-2026-new-restrictions-and-fees', sourceSnippet3: 'Italy tightens rules for tourists in 2026: new restrictions and fees — Visit Ukraine Today'
+          },
+          ja: {
+            title: 'イタリア、2026年観光規制を強化、ビーチサンダルで最大約3000ドルの罰金',
+            desc: 'イタリアはベネチア、チンクエテッレなどで2026年に新たな観光規制を導入し、ハイキングコースでの不適切な履物に高額の罰金を科している。',
+            content: '<p>イタリアはベネチア、チンクエテッレ、カプリ、フィレンツェなどの人気観光地で2026年に一連の新たな観光規制を導入し、違反者には高額の罰金を科していると、トラベル・アンド・ツアー・ワールドが報じました。</p><p>チンクエテッレ国立公園は、急な登山道でビーチサンダルや不適切な履物を着用しないよう来訪者に警告しており、違反者には約3000ドルに達する罰金が科されるとピープル誌が報じました。</p><p>英国人観光客も同様の違反で最大2100ポンドの罰金、加えてイタリア入国時の新たなデジタル国境検査の義務化について警告を受けています。</p>',
+            source: 'Travel and Tour World', sourceUrl: 'https://www.travelandtourworld.com/news/article/jn5230alakp6/', sourceSnippet: '観光規制強化 — トラベル・アンド・ツアー・ワールド'
+          },
+          ko: {
+            title: '이탈리아, 2026년 관광 규제 강화...쪼리 착용 시 최대 약 3천 달러 벌금',
+            desc: '이탈리아가 베네치아, 친퀘테레 등지에서 2026년 새로운 관광 규제를 도입해 하이킹 코스 부적절한 신발 착용에 고액 벌금을 부과하고 있다.',
+            content: '<p>이탈리아가 베네치아, 친퀘테레, 카프리, 피렌체 등 인기 관광지에서 2026년 일련의 새로운 관광 규정을 시행하며 위반자에게 고액의 벌금을 부과하고 있다고 트래블앤투어월드가 보도했다.</p><p>친퀘테레 국립공원은 가파른 등산로에서 쪼리나 부적절한 신발을 신지 말라고 방문객들에게 경고했으며, 위반 시 벌금이 약 3천 달러에 달할 수 있다고 피플이 보도했다.</p><p>영국인 관광객들도 유사한 위반 시 최대 2,100파운드의 벌금과 함께 이탈리아 입국 시 새로운 디지털 국경 검사 의무화에 대한 경고를 받았다.</p><p>베네치아는 4월 초부터 당일치기 여행객 입장료를 재도입했으며, 카프리와 피렌체도 이탈리아 유명 관광지에서 지속되는 오버투어리즘 현상 속에서 혼잡을 줄이기 위한 새로운 제한 조치를 도입했다.</p>',
+            source: 'Travel and Tour World', sourceUrl: 'https://www.travelandtourworld.com/news/article/jn5230alakp6/', sourceSnippet: '관광 규제 강화 — 트래블앤투어월드'
+          },
+          zh: {
+            title: '意大利收紧2026年旅游规定，穿人字拖最高罚款近3000美元',
+            desc: '意大利在威尼斯、五渔村等地推出2026年新旅游规定，对徒步小径上穿着不当鞋履的游客处以重罚。',
+            content: '<p>据Travel and Tour World报道，意大利在威尼斯、五渔村、卡普里岛和佛罗伦萨等热门目的地推出了一系列2026年新旅游规定，对违规者处以重罚。</p><p>据《人物》杂志报道，五渔村国家公园警告游客在陡峭小径徒步时不要穿人字拖或不合适的鞋子，违规者罚款最高可达近3000美元。</p><p>据另一篇Travel and Tour World报道，英国游客也被警告类似违规行为最高罚款2100英镑，此外入境意大利时还需接受新的数字边境检查。</p>',
+            source: 'Travel and Tour World', sourceUrl: 'https://www.travelandtourworld.com/news/article/jn5230alakp6/', sourceSnippet: '旅游规定收紧 — Travel and Tour World'
+          }
+        }
+      }
+
+      ,{
+        id: 'romawi-pmi-jasa-juni-3juli2026',
+        langs: {
+          id: {
+            title: 'PMI Sektor Jasa Italia Juni 2026 Tercatat 50,2, Sedikit di Bawah Ekspektasi',
+            desc: 'Indeks manajer pembelian (PMI) sektor jasa Italia untuk Juni 2026 tercatat 50,2, sedikit di bawah ekspektasi analis sebesar 50,5, menandakan pertumbuhan yang melambat namun masih positif.',
+            content: '<p>Indeks manajer pembelian (PMI) sektor jasa Italia untuk bulan Juni 2026 tercatat di angka 50,2, sedikit di bawah ekspektasi analis sebesar 50,5, menurut data yang dirilis HCOB dan dikutip Investing Live pada 3 Juli 2026.</p><p>Angka di atas 50 menunjukkan sektor jasa Italia masih berada dalam fase ekspansi, meski laju pertumbuhannya melambat dibandingkan bulan-bulan sebelumnya, mencerminkan ketidakpastian ekonomi yang masih membayangi zona euro.</p><p>Data PMI ini menjadi salah satu indikator penting bagi para pembuat kebijakan dan investor untuk menilai kesehatan ekonomi Italia di tengah tantangan struktural seperti defisit anggaran, ketegangan dagang global, serta tekanan geopolitik yang memengaruhi sentimen bisnis.</p><p>Perlambatan pertumbuhan sektor jasa turut sejalan dengan tekanan yang dihadapi sektor manufaktur Italia, di tengah kekhawatiran investor terhadap dampak kebijakan tarif AS dan negosiasi dagang Uni Eropa-Tiongkok yang masih berlangsung.</p><p>Meski demikian, ekonom menilai angka PMI yang masih berada di atas ambang 50 sebagai sinyal bahwa perekonomian Italia masih mampu tumbuh secara moderat, meski laju ekspansinya diperkirakan tetap terbatas dalam beberapa bulan mendatang.</p>',
+            source: 'InvestingLive', sourceUrl: 'https://investinglive.com/news/italy-june-services-pmi-502-vs-505-expected-20260703/', sourceSnippet: 'Italy June services PMI 50.2 vs 50.5 expected — InvestingLive, 3 Juli 2026'
+          },
+          en: {
+            title: "Italy's June 2026 Services PMI Comes in at 50.2, Slightly Below Expectations",
+            desc: "Italy's services sector purchasing managers' index for June 2026 registered 50.2, slightly below the 50.5 analysts had expected, indicating slower but still positive growth.",
+            content: "<p>Italy's services sector purchasing managers' index (PMI) for June 2026 came in at 50.2, slightly below the 50.5 analysts had expected, according to data released by HCOB and cited by InvestingLive on July 3, 2026.</p><p>A reading above 50 indicates Italy's services sector remains in expansion territory, though the pace of growth has slowed compared to previous months, reflecting continued economic uncertainty across the eurozone.</p><p>The PMI data serves as a key indicator for policymakers and investors assessing the health of Italy's economy amid structural challenges such as budget deficits, global trade tensions, and geopolitical pressures affecting business sentiment.</p><p>The services sector slowdown mirrors pressure faced by Italy's manufacturing sector, amid investor concerns over the impact of U.S. tariff policy and ongoing EU-China trade negotiations.</p><p>Nonetheless, economists view the PMI figure remaining above the 50 threshold as a signal that Italy's economy can still grow moderately, though the pace of expansion is expected to remain limited in coming months.</p>",
+            source: 'InvestingLive', sourceUrl: 'https://investinglive.com/news/italy-june-services-pmi-502-vs-505-expected-20260703/', sourceSnippet: 'Italy June services PMI 50.2 vs 50.5 expected — InvestingLive, July 3, 2026'
+          },
+          ja: {
+            title: 'イタリア6月サービス業PMI50.2、予想をわずかに下回る',
+            desc: 'イタリアの2026年6月サービス業購買担当者景気指数（PMI）は50.2となり、アナリスト予想の50.5をわずかに下回った。',
+            content: '<p>イタリアの2026年6月サービス業購買担当者景気指数（PMI）は50.2となり、アナリスト予想の50.5をわずかに下回ったと、HCOBが発表しインベスティングライブが2026年7月3日に報じたデータで示されました。</p><p>50を上回る数値はイタリアのサービス業が依然として拡大局面にあることを示していますが、成長ペースは前月に比べて鈍化しており、ユーロ圏全体の経済的不確実性の継続を反映しています。</p>',
+            source: 'InvestingLive', sourceUrl: 'https://investinglive.com/news/italy-june-services-pmi-502-vs-505-expected-20260703/', sourceSnippet: 'サービス業PMI50.2 — インベスティングライブ'
+          },
+          ko: {
+            title: '이탈리아 6월 서비스업 PMI 50.2, 예상치 소폭 하회',
+            desc: '이탈리아의 2026년 6월 서비스업 구매관리자지수(PMI)가 50.2를 기록해 애널리스트 예상치인 50.5를 소폭 밑돌았다.',
+            content: '<p>이탈리아의 2026년 6월 서비스업 구매관리자지수(PMI)가 50.2를 기록해 애널리스트 예상치인 50.5를 소폭 밑돌았다고, HCOB가 발표하고 인베스팅라이브가 2026년 7월 3일 인용 보도한 데이터가 나타냈다.</p><p>50을 넘는 수치는 이탈리아 서비스업이 여전히 확장 국면에 있음을 보여주지만, 성장 속도는 이전 달들에 비해 둔화되어 유로존 전반의 지속적인 경제 불확실성을 반영한다.</p><p>이 PMI 데이터는 예산 적자, 글로벌 무역 긴장, 기업 심리에 영향을 미치는 지정학적 압력 등 구조적 과제 속에서 이탈리아 경제 건전성을 평가하는 정책 입안자와 투자자들에게 핵심 지표 역할을 한다.</p>',
+            source: 'InvestingLive', sourceUrl: 'https://investinglive.com/news/italy-june-services-pmi-502-vs-505-expected-20260703/', sourceSnippet: '서비스업 PMI 50.2 — 인베스팅라이브'
+          },
+          zh: {
+            title: '意大利6月服务业PMI报50.2，略低于预期',
+            desc: '意大利2026年6月服务业采购经理人指数报50.2，略低于分析师预期的50.5，显示增长放缓但仍为正增长。',
+            content: '<p>据HCOB发布、InvestingLive于2026年7月3日援引的数据显示，意大利2026年6月服务业采购经理人指数（PMI）报50.2，略低于分析师预期的50.5。</p><p>高于50的读数表明意大利服务业仍处于扩张区间，但增长速度较前几个月有所放缓，反映出欧元区持续存在的经济不确定性。</p><p>该PMI数据是政策制定者和投资者评估意大利经济健康状况的关键指标，当前该国正面临预算赤字、全球贸易紧张局势及影响商业信心的地缘政治压力等结构性挑战。</p>',
+            source: 'InvestingLive', sourceUrl: 'https://investinglive.com/news/italy-june-services-pmi-502-vs-505-expected-20260703/', sourceSnippet: '服务业PMI 50.2 — InvestingLive'
+          }
+        }
+      }
+
+      ,{
+        id: 'romawi-assofermet-manifesto-baja-3juli2026',
+        langs: {
+          id: {
+            title: 'Asosiasi Baja Italia Assofermet Dukung Manifesto "Baja sebagai Sumber Daya Strategis"',
+            desc: 'Assofermet, asosiasi distributor besi tua dan baja Italia, bergabung dengan manifesto Codacons yang mendorong sektor baja kembali menjadi fokus kebijakan industri nasional.',
+            content: '<p>Assofermet, Asosiasi Distributor Besi Tua, Bahan Baku, dan Baja Italia, mengumumkan dukungannya terhadap manifesto bertajuk "Baja adalah Sumber Daya Strategis bagi Italia" yang digagas organisasi konsumen Codacons, menurut laporan GMK Center pada 3 Juli 2026.</p><p>Tujuan dari manifesto tersebut adalah mengembalikan sektor baja ke dalam fokus utama kebijakan industri nasional Italia, mengingat peran krusial baja sebagai bahan baku dasar bagi berbagai sektor strategis seperti konstruksi, otomotif, dan manufaktur berat.</p><p>Menurut laporan Eurometal, langkah Assofermet ini mencerminkan keprihatinan industri baja Italia terhadap tantangan struktural yang dihadapi sektor tersebut, termasuk persaingan impor murah dan ketidakpastian kebijakan tarif Uni Eropa terhadap baja asal luar kawasan.</p><p>Manifesto ini turut menyerukan pemerintah Italia untuk mempertimbangkan strategi jangka panjang guna melindungi daya saing industri baja domestik, di tengah tren konsolidasi global sektor baja dan meningkatnya tekanan dari produsen baja negara-negara Asia.</p><p>Dukungan Assofermet terhadap manifesto ini menambah suara industri yang mendesak Roma untuk memperkuat kebijakan perlindungan sektor baja nasional, sejalan dengan tren serupa di berbagai negara Eropa lain yang tengah menghadapi tantangan kompetisi global yang sama.</p>',
+            source: 'GMK Center', sourceUrl: 'https://gmk.center/en/news/assofermet-has-endorsed-the-manifesto-on-steel-as-a-strategic-resource-for-italy/', sourceSnippet: 'Assofermet has endorsed the manifesto on steel as a strategic resource for Italy — GMK Center, 3 Juli 2026',
+            source2: 'Eurometal', sourceUrl2: 'https://eurometal.net/assofermet-supports-codacons-steel-is-a-strategic-resource-for-italy-manifesto/', sourceSnippet2: 'Assofermet supports Codacons\u2019 "Steel Is a Strategic Resource for Italy" manifesto — Eurometal'
+          },
+          en: {
+            title: "Italy's Assofermet Endorses 'Steel as a Strategic Resource' Manifesto",
+            desc: "Assofermet, Italy's association of scrap, raw materials and steel distributors, has joined a Codacons-led manifesto pushing the steel sector back into national industrial policy focus.",
+            content: "<p>Assofermet, the Italian Association of Scrap, Raw Materials and Steel Distributors, announced its support for a manifesto titled 'Steel Is a Strategic Resource for Italy,' initiated by consumer organization Codacons, GMK Center reported on July 3, 2026.</p><p>The manifesto's goal is to bring the steel sector back into the central focus of Italy's national industrial policy, given steel's crucial role as a base material for strategic sectors including construction, automotive, and heavy manufacturing.</p><p>According to Eurometal, Assofermet's move reflects concerns within Italy's steel industry over structural challenges facing the sector, including cheap import competition and uncertainty over EU tariff policy on steel from outside the region.</p><p>The manifesto also calls on the Italian government to consider long-term strategies to protect the competitiveness of the domestic steel industry, amid a global consolidation trend in the steel sector and increasing pressure from Asian steel producers.</p><p>Assofermet's endorsement adds to industry voices urging Rome to strengthen protective policies for the national steel sector, in line with similar trends across other European countries facing the same global competitive challenges.</p>",
+            source: 'GMK Center', sourceUrl: 'https://gmk.center/en/news/assofermet-has-endorsed-the-manifesto-on-steel-as-a-strategic-resource-for-italy/', sourceSnippet: 'Assofermet has endorsed the manifesto on steel as a strategic resource for Italy — GMK Center, July 3, 2026',
+            source2: 'Eurometal', sourceUrl2: 'https://eurometal.net/assofermet-supports-codacons-steel-is-a-strategic-resource-for-italy-manifesto/', sourceSnippet2: 'Assofermet supports Codacons\u2019 "Steel Is a Strategic Resource for Italy" manifesto — Eurometal'
+          },
+          ja: {
+            title: 'イタリアのアッソフェルメット、「鉄鋼は戦略的資源」宣言を支持',
+            desc: 'イタリアのスクラップ・原材料・鉄鋼流通業者協会アッソフェルメットは、鉄鋼産業を国家産業政策の焦点に戻す宣言を支持した。',
+            content: '<p>イタリアのスクラップ・原材料・鉄鋼流通業者協会アッソフェルメットは、消費者団体コダコンスが主導する「鉄鋼はイタリアの戦略的資源」と題した宣言への支持を発表したと、GMKセンターが2026年7月3日に報じました。</p><p>この宣言の目的は、建設、自動車、重工業などの戦略部門にとって基礎原材料として鉄鋼が果たす重要な役割を踏まえ、鉄鋼産業をイタリアの国家産業政策の中心的焦点に取り戻すことです。</p>',
+            source: 'GMK Center', sourceUrl: 'https://gmk.center/en/news/assofermet-has-endorsed-the-manifesto-on-steel-as-a-strategic-resource-for-italy/', sourceSnippet: '鉄鋼戦略的資源宣言 — GMKセンター'
+          },
+          ko: {
+            title: '이탈리아 아소페르메트, "철강은 전략 자원" 선언 지지',
+            desc: '이탈리아 고철·원자재·철강 유통업체 협회 아소페르메트가 철강 산업을 국가 산업 정책의 초점으로 되돌리려는 선언을 지지했다.',
+            content: '<p>이탈리아 고철·원자재·철강 유통업체 협회인 아소페르메트가 소비자단체 코다콘스가 주도한 "철강은 이탈리아의 전략 자원" 선언에 대한 지지를 발표했다고 GMK센터가 2026년 7월 3일 보도했다.</p><p>이 선언의 목표는 건설, 자동차, 중공업 등 전략 부문에 기초 원자재로서 철강이 담당하는 핵심 역할을 감안해 철강 산업을 이탈리아 국가 산업 정책의 중심 초점으로 되돌리는 것이다.</p><p>유로메탈에 따르면 아소페르메트의 이번 행보는 저가 수입품과의 경쟁, EU의 역외산 철강 관세 정책 불확실성 등 철강 산업이 직면한 구조적 과제에 대한 우려를 반영한다.</p>',
+            source: 'GMK Center', sourceUrl: 'https://gmk.center/en/news/assofermet-has-endorsed-the-manifesto-on-steel-as-a-strategic-resource-for-italy/', sourceSnippet: '철강 전략 자원 선언 — GMK센터'
+          },
+          zh: {
+            title: '意大利Assofermet协会支持"钢铁是战略资源"宣言',
+            desc: '意大利废钢、原材料和钢铁经销商协会Assofermet加入了旨在将钢铁产业重新纳入国家产业政策重点的宣言。',
+            content: '<p>据GMK Center 2026年7月3日报道，意大利废钢、原材料和钢铁经销商协会Assofermet宣布支持消费者组织Codacons发起的题为"钢铁是意大利的战略资源"的宣言。</p><p>该宣言的目标是让钢铁产业重新成为意大利国家产业政策的核心焦点，鉴于钢铁作为建筑、汽车和重工业等战略部门基础原材料的关键作用。</p><p>据Eurometal报道，Assofermet此举反映了意大利钢铁行业对该行业面临的结构性挑战的担忧，包括廉价进口竞争以及欧盟对区域外钢铁关税政策的不确定性。</p>',
+            source: 'GMK Center', sourceUrl: 'https://gmk.center/en/news/assofermet-has-endorsed-the-manifesto-on-steel-as-a-strategic-resource-for-italy/', sourceSnippet: '钢铁战略资源宣言 — GMK Center'
+          }
+        }
+      }
+
     ]
   };
   window.countries = window.countryDataFiles;
