@@ -328,6 +328,290 @@
           }
         }
       }
+      ,{
+        id: 'mesir-salah-dunia-kemenangan-Australia-Penalty-3juli2026',
+        langs: {
+          id: {
+            title: 'Mesir Taklukkan Australia Lewat Shootout, Lolos ke Fase 16 Besar Piala Dunia',
+            desc: 'Skuad terbaik Mesir sepanjang sejarah berhasil melampaui babak 32 besar Piala Dunia 2026 setelah mengalahkan Australia dalam adu penalti yang dramatis di Dallas.',
+            content: '<p>Mesir berhasil meraih sejarah baru dalam kompetisi Piala Dunia setelah mengalahkan Australia dalam adu penalti yang dramatis di AT&T Stadium, Arlington, Texas pada 3 Juli 2026. Dipandu oleh kapten dan pemain terbaik sepanjang masa Mohamed Salah, skuad Mesir ini menjadi yang terbaik dalam sejarah Piala Dunia negara tersebut.</p><p>Pertandingan berlangsung sengit selama 90 menit penuh dengan Mesir mencetak gol pertama pada menit ke-13, namun gagal menorehkan skor lagi meski melayangkan 14 tembakan hingga pertambahan waktu 100 menit. Australia sempat menyamakan dengan memanfaatkan gol bunuh diri Mesir pada menit 55, tetapi tidak mampu mencetak lagi hingga waktu normal berakhir.</p><p>Dalam adu penalti yang menentukan, Mesir menampilkan kepala dingin dengan berhasil mengonversi semua empat eksekusi penalti, sementara Australia gagal pada dua kesempatan, mengakhiri harapan Socceroos di turnamen 2026. Pengalaman menjadi faktor kunci kemenangan Mesir, dengan barisan pemain yang didominasi usia 27 tahun ke atas mampu menguasai laga pada tahap akhir.</p><p>Prestasi ini membawa Mesir melanjutkan perjalanan di fase 16 besar Piala Dunia, menghadapi kemungkinan besar menghadapi Argentina di pertandingan selanjutnya. Salah dan rekan-rekannya kini menjadi wajah baru dalam pencapaian terbaik Mesir di kancah internasional setelah bertahun-tahun dikecewakan penampilan di Piala Dunia sebelumnya.</p>',
+            source: 'Spokesman-Review', sourceUrl: 'https://www.spokesman.com/stories/2026/jul/03/egypt-beats-australia-on-penalties-for-countrys-fi/', sourceSnippet: 'Egypt beats Australia on penalties for country\'s first knockout win — Spokesman-Review, 3 Juli 2026',
+            source2: 'Reuters', sourceUrl2: 'https://www.reuters.com/sports/soccer/egyptian-history-makers-breaking-new-ground-africas-most-successful-nation-2026-07-03/', sourceSnippet2: 'Egyptian history makers breaking new ground for Africa\'s most successful nation — Reuters'
+          },
+          en: {
+            title: 'Egypt Defeats Australia on Penalties, Advances to Round of 16 in World Cup',
+            desc: "Egypt's greatest World Cup squad in history advances past the Round of 32 after dramatically beating Australia in a penalty shootout in Dallas.",
+            content: "<p>Egypt made World Cup history by defeating Australia in a dramatic penalty shootout at AT&T Stadium in Arlington, Texas on July 3, 2026, with the squad captained by the nation's greatest player, Mohamed Salah. This represents the best Egyptian squad ever fielded in World Cup history.</p><p>The match was tightly contested for 90 minutes, with Egypt scoring first in the 13th minute but failing to add more goals despite 14 shots through 100 minutes of action. Australia equalised with an Egypt own goal in the 55th minute but could not add another, leaving the match level at full time.</p><p>In the decisive penalty shootout, Egypt displayed composure by converting all four penalty attempts while Australia missed twice, ending the Socceroos' tournament run. Experience proved decisive for Egypt, with a squad dominated by players aged 27 and older maintaining control in the closing stages of the match.</p><p>The victory sends Egypt to the Round of 16 where they will likely face Argentina next. Salah and his teammates have become the new face of Egypt's greatest World Cup achievement after years of disappointing performances in the tournament.</p>",
+            source: 'Spokesman-Review', sourceUrl: 'https://www.spokesman.com/stories/2026/jul/03/egypt-beats-australia-on-penalties-for-countrys-fi/', sourceSnippet: 'Egypt beats Australia on penalties for country\'s first knockout win — Spokesman-Review, July 3, 2026',
+            source2: 'Reuters', sourceUrl2: 'https://www.reuters.com/sports/soccer/egyptian-history-makers-breaking-new-ground-africas-most-successful-nation-2026-07-03/', sourceSnippet2: 'Egyptian history makers breaking new ground for Africa\'s most successful nation — Reuters'
+          },
+          ja: {
+            title: 'エジプトがオーストラリアをPK戦で下し、ワールドカップ16強へ進出',
+            desc: 'エジプト史上最高のワールドカップ代表がモハメド・サラーを中心にオーストラリアとのPK戦を制し、歴史的な16強進出を達成。',
+            content: '<p>エジプトはテキサス州アーリントンのAT&Tスタジアムで行われたワールドカップ2026ラウンド32の試合で、オーストラリアをPK戦で下し、歴史的な勝利を手にしました（2026年7月3日）。国史上最高のワールドカップ代表を率いるキャプテン、モハメド・サラーがこの偉業を実現させました。</p><p>試合は90分間の激戦となり、エジプトは13分に先制ゴールを奪いましたが、その後100分間を通じて14本のシュートを放ったにもかかわらず、追加得点を奪えませんでした。オーストラリアは55分にエジプトの自責ゴールで同点に追いつきましたが、それ以上の得点は挙げられず、通常時間は同点で終わりました。</p><p>決定的なPK戦では、エジプトが冷静さを保ち、4本のペナルティキックすべてを成功させた一方、オーストラリアは2本を失敗。経験豊富な選手たちで構成されたエジプト代表（27歳以上が中心）が試合の最終段階で支配力を発揮したことが勝利のカギとなりました。</p>',
+            source: 'Spokesman-Review', sourceUrl: 'https://www.spokesman.com/stories/2026/jul/03/egypt-beats-australia-on-penalties-for-countrys-fi/', sourceSnippet: 'オーストラリアをPK戦で下す — Spokesman-Review',
+            source2: 'Reuters', sourceUrl2: 'https://www.reuters.com/sports/soccer/egyptian-history-makers-breaking-new-ground-africas-most-successful-nation-2026-07-03/', sourceSnippet2: 'エジプト史上最高のワールドカップ代表 — Reuters'
+          },
+          ko: {
+            title: '이집트, 호주를 PK 승부에서 제압... 월드컵 16강 진출',
+            desc: '이집트 최고의 월드컵 대표팀이 모하메드 살라를 중심으로 호주와의 PK 승부를 제압, 역사적인 16강 진출을 달성했다.',
+            content: '<p>이집트가 텍사스 애를링턴의 AT&T 스타디움에서 열린 2026년 월드컵 32강 경기에서 호주를 PK 승부로 제압, 역사적인 승리를 거뒀다(2026년 7월 3일). 역대 최강의 이집트 월드컵 대표팀을 이끄는 주장 모하메드 살라가 이 위업을 실현했다.</p><p>경기는 90분 동안 치열하게 전개됐으며, 이집트는 13분에 먼저 골을 넣었으나 100분까지의 14번의 슈팅에도 불구하고 추가 득점을 올리지 못했다. 호주는 55분 이집트의 자살골로 동점을 이뤘지만, 그 이상의 득점은 올리지 못했고, 정규시간은 동점으로 끝났다.</p><p>결정적인 PK 승부에서 이집트는 침착함을 유지하며 4번의 페널티킥을 모두 성공시킨 반면, 호주는 2번을 실패했다. 27세 이상의 경험많은 선수들로 구성된 이집트 대표팀이 경기 후반부에서 지배력을 발휘한 것이 승리의 핵심 요인이 됐다.</p>',
+            source: 'Spokesman-Review', sourceUrl: 'https://www.spokesman.com/stories/2026/jul/03/egypt-beats-australia-on-penalties-for-countrys-fi/', sourceSnippet: '호주를 PK 승부에서 제압 — Spokesman-Review',
+            source2: 'Reuters', sourceUrl2: 'https://www.reuters.com/sports/soccer/egyptian-history-makers-breaking-new-ground-africas-most-successful-nation-2026-07-03/', sourceSnippet2: '이집트 최강 월드컵 대표팀 — Reuters'
+          },
+          zh: {
+            title: '埃及在点球大战中击败澳大利亚，晋级世界杯16强',
+            desc: '埃及历史最强世界杯代表团以莫哈迈德·萨拉为核心，在点球大战中击败澳大利亚，创造历史性的16强晋级。',
+            content: '<p>埃及在2026年世界杯32强赛中，于德克萨斯州阿灵顿的AT&T体育场通过点球大战击败澳大利亚，创造历史性胜利（2026年7月3日）。由埃及历史最伟大球员莫哈迈德·萨拉担任队长的埃及代表队实现了这一壮举。</p><p>比赛在90分钟内激烈对阵，埃及在第13分钟先进一球，但在长达100分钟的比赛中尽管打出14次射门仍未能扩大比分。澳大利亚在第55分钟利用埃及的乌龙球扳平比分，但之后无法再添一分，最终常规时间战成平手。</p><p>在决定性的点球大战中，埃及保持冷静，4次点球全部命中，而澳大利亚失手两次。由27岁及以上经验丰富球员组成的埃及代表队在比赛最后阶段掌握了主动权，这成为胜利的关键因素。</p>',
+            source: 'Spokesman-Review', sourceUrl: 'https://www.spokesman.com/stories/2026/jul/03/egypt-beats-australia-on-penalties-for-countrys-fi/', sourceSnippet: '埃及在点球大战中击败澳大利亚 — Spokesman-Review',
+            source2: 'Reuters', sourceUrl2: 'https://www.reuters.com/sports/soccer/egyptian-history-makers-breaking-new-ground-africas-most-successful-nation-2026-07-03/', sourceSnippet2: '埃及历史最强世界杯代表团 — Reuters'
+          }
+        }
+      }
+
+      ,{
+        id: 'mesir-terusan-suez-lalu-lintas-kapal-lonjak-30persen-juni2026',
+        langs: {
+          id: {
+            title: 'Terusan Suez Catat Lalu Lintas Kapal Minyak Naik 30%, Pendapatan Melambung ke Rekor Tertinggi',
+            desc: 'Penutupan Selat Hormuz karena perang Iran mendorong kapal tanker minyak berpindah rute melalui Terusan Suez, mengangkat pendapatan Mesir ke level tertinggi sejak awal 2024.',
+            content: '<p>Terusan Suez mengalami lonjakan lalu lintas kapal tanker minyak mencapai 30% lebih tinggi pada April 2026, didorong oleh gangguan di Selat Hormuz akibat perang Iran yang memaksa jalur perdagangan energi global bergeser ke rute Laut Merah melalui terusan strategis Mesir, menurut Al-Monitor pada June 2026.</p><p>Peningkatan dramatis ini mengangkat pendapatan Terusan Suez ke level tertinggi sejak awal 2024, memberikan angin segar bagi ekonomi Mesir yang sedang menghadapi tantangan penyeimbangan fiskal pasca kesepakatan dengan IMF. Dengan gangguan di Selat Hormuz masih berlanjut, proyeksi mendatang tetap optimis dengan ekspektasi kapal tanker akan terus memilih rute Suez daripada mengambil jalur alternatif yang lebih jauh.</p><p>Kepala Otoritas Terusan Suez menegaskan bahwa lalu lintas semakin lancar setelah pemerintah Mesir memperkuat infrastruktur pelabuhan dan sistem navigasi untuk menangani volume lalu lintas yang meningkat drastis ini.</p><p>Ekonom regional menyebutkan lonjakan pendapatan ini sebagai "berkah tersembunyi" dari konflik regional, karena memberikan momentum finansial yang diperlukan Mesir untuk mempercepat reformasi ekonomi dan stabilisasi pound Mesir di pasar valuta asing di tengah volatilitas global.</p>',
+            source: 'Al-Monitor', sourceUrl: 'https://www.al-monitor.com/originals/2026/06/suez-canal-traffic-soars-hormuz-disruptions-reroute-energy-trade', sourceSnippet: 'Suez Canal traffic soars as Hormuz disruptions reroute energy trade — Al-Monitor, Juni 2026',
+            source2: 'Business Insider Africa', sourceUrl2: 'https://africa.businessinsider.com/local/markets/suez-canal-traffic-jumps-nearly-30-as-strait-of-hormuz-disruption-pushes-more-oil/qpjq09h', sourceSnippet2: 'Suez Canal traffic jumps nearly 30% as Strait of Hormuz disruption pushes more oil shipments — Business Insider',
+            source3: 'Economic Times', sourceUrl3: 'https://m.economictimes.com/news/international/world-news/suez-canal-revenues-surge-as-oil-tanker-traffic-increases-amid-hormuz-disruption/articleshow/131630993.cms', sourceSnippet3: 'Suez Canal sees oil tanker surge amid Strait of Hormuz disruption — Economic Times'
+          },
+          en: {
+            title: 'Suez Canal Records 30% Jump in Oil Tanker Traffic, Revenue Hits Record High',
+            desc: 'Closures at the Strait of Hormuz due to the Iran war have redirected oil tanker traffic to the Suez Canal, lifting Egypt\'s revenues to their highest level since early 2024.',
+            content: "<p>The Suez Canal experienced a 30% surge in oil tanker traffic in April 2026, driven by disruptions at the Strait of Hormuz caused by the Iran war that forced global energy shipping routes to shift through Egypt's strategic waterway, Al-Monitor reported in June 2026.</p><p>This dramatic increase has lifted Suez Canal revenues to their highest level since early 2024, providing a much-needed boost to Egypt's economy as it navigates post-IMF agreement fiscal balancing challenges. With Hormuz disruptions ongoing, projections remain optimistic that tankers will continue choosing the Suez route over longer alternative paths.</p><p>The Suez Canal Authority chief affirmed that traffic flows smoothly after the Egyptian government strengthened port infrastructure and navigation systems to handle the dramatically increased volume.</p><p>Regional economists describe the revenue surge as a 'hidden blessing' from regional conflict, providing the financial momentum Egypt needs to accelerate economic reforms and stabilise the Egyptian pound amid global volatility.</p>",
+            source: 'Al-Monitor', sourceUrl: 'https://www.al-monitor.com/originals/2026/06/suez-canal-traffic-soars-hormuz-disruptions-reroute-energy-trade', sourceSnippet: 'Suez Canal traffic soars as Hormuz disruptions reroute energy trade — Al-Monitor, June 2026',
+            source2: 'Business Insider Africa', sourceUrl2: 'https://africa.businessinsider.com/local/markets/suez-canal-traffic-jumps-nearly-30-as-strait-of-hormuz-disruption-pushes-more-oil/qpjq09h', sourceSnippet2: 'Suez Canal traffic jumps nearly 30% as Strait of Hormuz disruption pushes more oil shipments — Business Insider',
+            source3: 'Economic Times', sourceUrl3: 'https://m.economictimes.com/news/international/world-news/suez-canal-revenues-surge-as-oil-tanker-traffic-increases-amid-hormuz-disruption/articleshow/131630993.cms', sourceSnippet3: 'Suez Canal sees oil tanker surge amid Strait of Hormuz disruption — Economic Times'
+          },
+          ja: {
+            title: 'スエズ運河、石油タンカー交通が30%急増、収入は2024年初以来の最高記録を達成',
+            desc: 'イラン戦争によるホルムズ海峡の混乱がスエズ運河への石油タンカー交通の再ルーティングを促進し、エジプトの収入を2024年初以来の最高水準に押し上げた。',
+            content: '<p>スエズ運河は2026年4月に石油タンカー交通が30%増加する急増を経験しました。これはイラン戦争によるホルムズ海峡の混乱により、世界的な石油タンカー輸送ルートがエジプトの戦略的水路を通じて転換されたことが原因です。アル・モニターが2026年6月に報じました。</p><p>この急激な増加により、スエズ運河の収入は2024年初以来の最高水準に達し、IMF協定後の財政均衡に直面しているエジプト経済に大きな恩恵をもたらしています。ホルムズ海峡の混乱が継続する中、タンカーがより長い代替ルートよりもスエズルートを選択し続けるという楽観的な見通しが示されています。</p>',
+            source: 'Al-Monitor', sourceUrl: 'https://www.al-monitor.com/originals/2026/06/suez-canal-traffic-soars-hormuz-disruptions-reroute-energy-trade', sourceSnippet: 'スエズ運河交通が急増 — Al-Monitor',
+            source2: 'Business Insider Africa', sourceUrl2: 'https://africa.businessinsider.com/local/markets/suez-canal-traffic-jumps-nearly-30-as-strait-of-hormuz-disruption-pushes-more-oil/qpjq09h', sourceSnippet2: 'スエズ運河のタンカー交通が30%増加 — Business Insider'
+          },
+          ko: {
+            title: '수에즈 운하, 석유 유조선 교통량 30% 급증... 수익은 사상 최고치 기록',
+            desc: '이란 전쟁으로 인한 호르무즈 해협 혼란이 수에즈 운하로의 석유 유조선 교통을 증가시켜, 이집트의 수익을 2024년 초 이후 최고 수준으로 끌어올렸다.',
+            content: '<p>수에즈 운하는 2026년 4월 석유 유조선 교통량이 30% 급증하는 경험을 했습니다. 이란 전쟁으로 인한 호르무즈 해협의 혼란이 세계 석유 유조선 운송 경로를 이집트의 전략적 수로로 재조정하도록 강제했기 때문입니다. 알 모니터가 2026년 6월에 보도했습니다.</p><p>이 급격한 증가로 수에즈 운하의 수익은 2024년 초 이후 최고 수준에 도달했으며, IMF 협정 이후의 재정 균형을 맞추고 있는 이집트 경제에 크나큰 호재를 제공하고 있습니다. 호르무즈 해협의 혼란이 계속되는 가운데, 유조선들이 더 긴 대체 경로보다 수에즈 경로를 계속 선택할 것이라는 낙관적인 전망이 제시되고 있습니다.</p>',
+            source: 'Al-Monitor', sourceUrl: 'https://www.al-monitor.com/originals/2026/06/suez-canal-traffic-soars-hormuz-disruptions-reroute-energy-trade', sourceSnippet: '수에즈 운하 교통량 급증 — Al-Monitor',
+            source2: 'Business Insider Africa', sourceUrl2: 'https://africa.businessinsider.com/local/markets/suez-canal-traffic-jumps-nearly-30-as-strait-of-hormuz-disruption-pushes-more-oil/qpjq09h', sourceSnippet2: '수에즈 운하 유조선 교통량 30% 증가 — Business Insider'
+          },
+          zh: {
+            title: '苏伊士运河油轮交通量增长30%，收入创下历史新高',
+            desc: '伊朗战争导致的霍尔木兹海峡中断将油轮交通转向苏伊士运河，使埃及的收入达到2024年初以来的最高水平。',
+            content: '<p>苏伊士运河在2026年4月经历了石油油轮交通量增长30%的激增，这是由于伊朗战争导致的霍尔木兹海峡中断，迫使全球能源运输路线转向经过埃及战略水道，根据《阿拉伯监测》2026年6月的报道。</p><p>这一急剧增长使苏伊士运河收入达到2024年初以来的最高水平，为埃及经济提供了及时的提振，埃及正在应对与IMF协议后的财政平衡挑战。随着霍尔木兹海峡中断的持续，油轮继续选择苏伊士路线而不是更长的替代路线的前景仍然乐观。</p>',
+            source: 'Al-Monitor', sourceUrl: 'https://www.al-monitor.com/originals/2026/06/suez-canal-traffic-soars-hormuz-disruptions-reroute-energy-trade', sourceSnippet: '苏伊士运河交通激增 — Al-Monitor',
+            source2: 'Business Insider Africa', sourceUrl2: 'https://africa.businessinsider.com/local/markets/suez-canal-traffic-jumps-nearly-30-as-strait-of-hormuz-disruption-pushes-more-oil/qpjq09h', sourceSnippet2: '苏伊士运河油轮交通增加30% — Business Insider'
+          }
+        }
+      }
+      ,{
+        id: 'mesir-rwanda-kemitraan-ai-teknologi-digital-29juni2026',
+        langs: {
+          id: {
+            title: 'Mesir dan Rwanda Perkuat Kemitraan AI serta Teknologi Digital untuk Transformasi Regional',
+            desc: 'Menteri Komunikasi dan TI Mesir dan Rwanda sepakat memperdalam kolaborasi dalam AI dan teknologi digital guna mendorong inovasi di kawasan Timur Tengah dan Afrika.',
+            content: '<p>Menteri Komunikasi dan Teknologi Informasi Mesir Raafat Hindi dan Menteri TI dan Inovasi Rwanda Paula Ingabire berkomitmen memperdalam kemitraan bilateral dalam bidang kecerdasan buatan (AI) dan teknologi digital, menurut pertemuan yang berlangsung pada 29 Juni 2026, sebagaimana dilaporkan The New Times Rwanda pada 30 Juni.</p><p>Pertemuan strategis ini merupakan bagian dari upaya lebih luas untuk memperkuat ekosistem teknologi di Afrika, dengan fokus khusus pada pengembangan solusi AI lokal yang dapat diterapkan dalam sektor kesehatan, pendidikan, dan layanan keuangan. Kedua negara melihat potensi besar dalam kolaborasi mengingat posisi geografis Mesir di persimpangan Timur Tengah, Afrika, dan Eropa.</p><p>Dalam pernyataan bersama, kedua menteri menekankan pentingnya pelatihan sumber daya manusia dan pembangunan infrastruktur digital guna memastikan bahwa inovasi AI dapat diadopsi secara luas oleh komunitas lokal di kedua negara.</p><p>Para ahli industri teknologi menganggap langkah ini sebagai momentum penting bagi kawasan Afrika untuk lebih mandiri dalam pengembangan solusi AI, mengingat dominasi perusahaan teknologi besar dari Amerika Serikat dan China dalam lanskap digital global saat ini.</p>',
+            source: 'The New Times Rwanda', sourceUrl: 'https://www.newtimes.co.rw/article/36994/news/technology/rwanda-egypt-move-to-strengthen-ai-digital-tech-partnership', sourceSnippet: 'Rwanda, Egypt move to strengthen AI, digital tech partnership — The New Times Rwanda, 30 Juni 2026',
+            source2: 'Al Jazeera', sourceUrl2: 'https://www.aljazeera.com/economy/2026/6/29/egypt-launches-ai-hub-initiative', sourceSnippet2: 'Egypt launches AI hub initiative — Al Jazeera',
+            source3: 'TechAfricanNews', sourceUrl3: 'https://techafricanews.com/2026/06/17/huawei-cloud-and-thndr-partner-to-accelerate-ai-driven-fintech-innovation-in-egypt/', sourceSnippet3: 'Huawei Cloud and Thndr partner to accelerate AI-driven fintech innovation in Egypt — TechAfricanNews'
+          },
+          en: {
+            title: 'Egypt and Rwanda Strengthen AI and Digital Technology Partnership for Regional Transformation',
+            desc: 'Egypt and Rwanda ministers commit to deepening bilateral cooperation in AI and digital technology to drive innovation across the Middle East and Africa.',
+            content: "<p>Egypt's Minister of Communications and Information Technology Raafat Hindi and Rwanda's Minister of ICT and Innovation Paula Ingabire committed to deepening bilateral partnership in artificial intelligence (AI) and digital technology at a meeting held June 29, 2026, reported by The New Times Rwanda on June 30.</p><p>This strategic meeting is part of a broader effort to strengthen Africa's technology ecosystem, with specific focus on developing locally-driven AI solutions applicable to healthcare, education, and financial services. Both countries see significant potential in collaboration given Egypt's position at the intersection of the Middle East, Africa, and Europe.</p><p>In a joint statement, both ministers emphasised the importance of human resource training and digital infrastructure development to ensure AI innovation can be widely adopted by communities in both nations.</p><p>Technology industry experts view this step as a key momentum for Africa to become more independent in developing AI solutions, given the current dominance of major US and Chinese tech companies in the global digital landscape.</p>",
+            source: 'The New Times Rwanda', sourceUrl: 'https://www.newtimes.co.rw/article/36994/news/technology/rwanda-egypt-move-to-strengthen-ai-digital-tech-partnership', sourceSnippet: 'Rwanda, Egypt move to strengthen AI, digital tech partnership — The New Times Rwanda, June 30, 2026',
+            source2: 'Al Jazeera', sourceUrl2: 'https://www.aljazeera.com/economy/2026/6/29/egypt-launches-ai-hub-initiative', sourceSnippet2: 'Egypt launches AI hub initiative — Al Jazeera',
+            source3: 'TechAfricanNews', sourceUrl3: 'https://techafricanews.com/2026/06/17/huawei-cloud-and-thndr-partner-to-accelerate-ai-driven-fintech-innovation-in-egypt/', sourceSnippet3: 'Huawei Cloud and Thndr partner to accelerate AI-driven fintech innovation in Egypt — TechAfricanNews'
+          },
+          ja: {
+            title: 'エジプトとルワンダ、AI及びデジタル技術パートナーシップを強化 地域の変革を推進',
+            desc: 'エジプトとルワンダの通信・IT大臣がAIとデジタル技術における二国間協力の深化に合意し、中東およびアフリカの地域変革を推進。',
+            content: '<p>エジプトの通信情報技術大臣ラーファト・ヒンディーとルワンダの情報通信・イノベーション大臣パウラ・イング・アビレが、2026年6月29日に行われた会合でAI（人工知能）およびデジタル技術における二国間パートナーシップの深化に合意しました。</p><p>この戦略的な会合は、アフリカのテクノロジーエコシステムを強化するための、より広範な取り組みの一部です。ヘルスケア、教育、金融サービス分野に適用可能なAI地域ソリューションの開発に特に焦点を当てています。</p>',
+            source: 'The New Times Rwanda', sourceUrl: 'https://www.newtimes.co.rw/article/36994/news/technology/rwanda-egypt-move-to-strengthen-ai-digital-tech-partnership', sourceSnippet: 'ルワンダとエジプト、AI・デジタル技術パートナーシップを強化 — The New Times Rwanda',
+            source2: 'Al Jazeera', sourceUrl2: 'https://www.aljazeera.com/economy/2026/6/29/egypt-launches-ai-hub-initiative', sourceSnippet2: 'エジプト、AIハブ計画を開始 — Al Jazeera'
+          },
+          ko: {
+            title: '이집트-르완다, AI·디지털 기술 파트너십 강화... 지역 변혁 추진',
+            desc: '이집트와 르완다 통신·정보기술 담당 장관들이 AI·디지털 기술 협력 심화에 합의, 중동·아프리카 지역 변혁을 주도.',
+            content: '<p>이집트 라아파트 힌디 통신정보기술부 장관과 르완다 파울라 잉기레 정보통신·혁신부 장관이 2026년 6월 29일 열린 회담에서 AI(인공지능)와 디지털 기술 분야의 양국 간 협력 심화에 합의했습니다.</p><p>이 전략적 회담은 아프리카의 기술 생태계 강화를 목표로 하는 더욱 광범위한 노력의 일부입니다. 의료, 교육, 금융 서비스 분야에 적용 가능한 지역 AI 솔루션 개발에 특히 초점을 맞추고 있습니다.</p>',
+            source: 'The New Times Rwanda', sourceUrl: 'https://www.newtimes.co.rw/article/36994/news/technology/rwanda-egypt-move-to-strengthen-ai-digital-tech-partnership', sourceSnippet: '르완다-이집트, AI·디지털 기술 파트너십 강화 — The New Times Rwanda',
+            source2: 'Al Jazeera', sourceUrl2: 'https://www.aljazeera.com/economy/2026/6/29/egypt-launches-ai-hub-initiative', sourceSnippet2: '이집트, AI 허브 이니셔티브 개시 — Al Jazeera'
+          },
+          zh: {
+            title: '埃及与卢旺达加强AI和数字技术伙伴关系，推动地区变革',
+            desc: '埃及和卢旺达通信、信息技术部门领导人同意深化AI和数字技术合作，推动中东和非洲地区变革。',
+            content: '<p>埃及通信信息技术部长拉法特·辛迪和卢旺达信息通信创新部长保拉·英吉雷在2026年6月29日举行的会议上同意深化AI（人工智能）和数字技术领域的双边伙伴关系。</p><p>这次战略会议是加强非洲技术生态系统更广泛努力的一部分，特别关注开发可应用于医疗、教育和金融服务领域的本地AI解决方案。</p>',
+            source: 'The New Times Rwanda', sourceUrl: 'https://www.newtimes.co.rw/article/36994/news/technology/rwanda-egypt-move-to-strengthen-ai-digital-tech-partnership', sourceSnippet: '卢旺达与埃及加强AI和数字技术伙伴关系 — The New Times Rwanda',
+            source2: 'Al Jazeera', sourceUrl2: 'https://www.aljazeera.com/economy/2026/6/29/egypt-launches-ai-hub-initiative', sourceSnippet2: '埃及启动AI中心计划 — Al Jazeera'
+          }
+        }
+      }
+      ,{
+        id: 'mesir-gelombang-panas-ekstrem-mei-juni-2026-kesehatan-publik',
+        langs: {
+          id: {
+            title: 'Mesir Waspadai Gelombang Panas Ekstrem, Peringatan Kesehatan Masyarakat Disebar Luas',
+            desc: 'Pemerintah Mesir mengeluarkan peringatan kesehatan publik seiring dengan mencatat rekor suhu tertinggi sepanjang Juni-Juli 2026, yang membahayakan keselamatan penduduk terutama kelompok rentan.',
+            content: '<p>Pemerintah Mesir mengeluarkan peringatan kesehatan publik yang luas seiring gelombang panas ekstrem yang menerjang negara dengan mencatat suhu rekor tertinggi di bulan Juni-Juli 2026, menurut reporting dari Egypt Today pada 1 Juli. Kondisi ini menciptakan risiko signifikan bagi kesehatan warga, terutama bagi kelompok rentan seperti usia lanjut dan mereka dengan kondisi kesehatan kronis.</p><p>Departemen Kesehatan Mesir mengeluarkan panduan komprehensif tentang cara mengenali dan merespons heat stroke dengan cepat, mengingat meningkatnya kasus penyakit terkait panas di fasilitas kesehatan di seluruh negara. Peringatan khusus disampaikan kepada pekerja outdoor dan pedagang untuk mengambil precaution ekstra dalam menjaga kesehatan selama bekerja di tengah terik matahari.</p><p>Kondisi gelombang panas ini dikaitkan dengan pola atmospheric anomali yang dipengaruhi oleh Indian Monsoon Low, sebuah sistem tekanan rendah yang terbentuk di atas wilayah India dan mencapai dampak maksimalnya selama bulan Juli-Agustus. Efek pemanasan ini diperkirakan berlanjut hingga pertengahan Agustus 2026.</p><p>Ahli meteorologi memperingatkan bahwa frekuensi dan intensitas gelombang panas ekstrem dapat meningkat seiring perubahan iklim global yang berkelanjutan, mendorong pemerintah untuk mengembangkan strategi adaptasi jangka panjang dalam menghadapi kondisi cuaca ekstrem di masa depan.</p>',
+            source: 'Egypt Today', sourceUrl: 'https://www.egypttoday.com/Article/1/148109/How-to-recognize-heatstroke-and-act-fast-during-Egypt-s', sourceSnippet: 'How to recognize heatstroke and act fast during Egypt\'s heatwave — Egypt Today, 1 Juli 2026',
+            source2: 'AccuWeather', sourceUrl2: 'https://www.accuweather.com/en/sports/live-news/world-cup-2026-weather-updates-dangerous-heat-wave-to-test-fans-players-through-july-4/1898671', sourceSnippet2: 'World Cup 2026 weather updates: Dangerous heat wave — AccuWeather',
+            source3: 'Egypt Today Climate', sourceUrl3: 'https://www.egypttoday.com/Article/1/148134/et-guide-What-is-the-Indian-monsoon-low-and-how', sourceSnippet3: 'What is the Indian monsoon low and how does it affect Egypt\'s weather? — Egypt Today'
+          },
+          en: {
+            title: 'Egypt Braces for Extreme Heat Wave, Public Health Warnings Issued Nationwide',
+            desc: 'Egypt\'s government issues widespread health warnings as the country experiences record-breaking temperatures in June-July 2026, posing significant risks to vulnerable populations.',
+            content: "<p>Egypt's government has issued widespread public health warnings as an extreme heat wave sweeps the nation with record-breaking temperatures recorded in June-July 2026, according to Egypt Today reporting on July 1. The condition poses significant health risks to residents, particularly for vulnerable groups such as the elderly and those with chronic health conditions.</p><p>Egypt's Health Department released comprehensive guidance on recognising and responding quickly to heat stroke, given rising cases of heat-related illnesses at health facilities nationwide. Special warnings were issued to outdoor workers and vendors to take extra precautions in protecting their health while working under intense sunlight.</p><p>The extreme heat is linked to atmospheric anomalies influenced by the Indian Monsoon Low, a low-pressure system forming over India that reaches peak impact during July-August. This warming effect is expected to continue through mid-August 2026.</p><p>Meteorologists warn that the frequency and intensity of extreme heat waves may increase with ongoing global climate change, prompting the government to develop long-term adaptation strategies to face extreme weather conditions in the future.</p>",
+            source: 'Egypt Today', sourceUrl: 'https://www.egypttoday.com/Article/1/148109/How-to-recognize-heatstroke-and-act-fast-during-Egypt-s', sourceSnippet: 'How to recognize heatstroke and act fast during Egypt\'s heatwave — Egypt Today, July 1, 2026',
+            source2: 'AccuWeather', sourceUrl2: 'https://www.accuweather.com/en/sports/live-news/world-cup-2026-weather-updates-dangerous-heat-wave-to-test-fans-players-through-july-4/1898671', sourceSnippet2: 'World Cup 2026 weather updates: Dangerous heat wave — AccuWeather',
+            source3: 'Egypt Today Climate', sourceUrl3: 'https://www.egypttoday.com/Article/1/148134/et-guide-What-is-the-Indian-monsoon-low-and-how', sourceSnippet3: 'What is the Indian monsoon low and how does it affect Egypt\'s weather? — Egypt Today'
+          },
+          ja: {
+            title: 'エジプト、極端な熱波に警戒 公衆衛生警告を全国に発令',
+            desc: 'エジプト政府は2026年6月-7月に記録的な高温を経験する中、全国的に公衆衛生警告を発令、脆弱な集団への大きなリスクが懸念される。',
+            content: '<p>エジプト政府は、2026年6月～7月に記録的な気温を記録する極端な熱波が国を襲う中、広範な公衆衛生警告を発令しました。エジプト・トゥデイの2026年7月1日の報道によるものです。この状況は、特に高齢者と慢性疾患を患っている人々の脆弱な集団にとって、重大な健康リスクを招いています。</p><p>エジプト保健省は、全国の医療施設での熱関連疾患の増加事例に備え、熱中症を認識し迅速に対応するための包括的なガイダンスを発表しました。屋外労働者と商人には、強烈な日中の太陽の下での作業中に健康を保護するための特別な注意を促す警告が発出されました。</p>',
+            source: 'Egypt Today', sourceUrl: 'https://www.egypttoday.com/Article/1/148109/How-to-recognize-heatstroke-and-act-fast-during-Egypt-s', sourceSnippet: '熱波中の熱中症対策 — Egypt Today',
+            source2: 'AccuWeather', sourceUrl2: 'https://www.accuweather.com/en/sports/live-news/world-cup-2026-weather-updates-dangerous-heat-wave-to-test-fans-players-through-july-4/1898671', sourceSnippet2: 'ワールドカップ2026天気最新情報：危険な熱波 — AccuWeather'
+          },
+          ko: {
+            title: '이집트, 극단적 열파 경보... 전국 보건 경고 발령',
+            desc: '이집트 정부가 2026년 6월-7월 기록적 고온 현상 속에 전국적 보건 경고를 발령, 취약 계층에 상당한 위험 초래.',
+            content: '<p>이집트 정부가 2026년 6월-7월 기록적인 고온을 기록하는 극단적 열파가 나라를 강타하는 가운데 광범위한 공중보건 경고를 발령했습니다. 이집트 투데이의 7월 1일 보도에 따르면 말입니다. 이 상황은 특히 노인 및 만성질환자 등 취약 집단에게 심각한 건강 위험을 초래합니다.</p><p>이집트 보건부는 전국 보건시설에서 증가하는 열 관련 질병 사례에 대비하기 위해 열사병을 인식하고 신속하게 대응하는 방법에 대한 포괄적인 지침을 발표했습니다. 야외 근로자와 상인들에게는 강렬한 햇빛 아래에서 작업하는 동안 건강을 보호하기 위한 각별한 주의를 촉구하는 경고가 발령됐습니다.</p>',
+            source: 'Egypt Today', sourceUrl: 'https://www.egypttoday.com/Article/1/148109/How-to-recognize-heatstroke-and-act-fast-during-Egypt-s', sourceSnippet: '이집트 열파 중 열사병 대처법 — Egypt Today',
+            source2: 'AccuWeather', sourceUrl2: 'https://www.accuweather.com/en/sports/live-news/world-cup-2026-weather-updates-dangerous-heat-wave-to-test-fans-players-through-july-4/1898671', sourceSnippet2: '월드컵 2026 날씨 최신정보: 위험한 열파 — AccuWeather'
+          },
+          zh: {
+            title: '埃及警惕极端热浪，全国发布公共卫生警告',
+            desc: '埃及政府在2026年6月-7月创纪录高温期间发布全国公共卫生警告，对脆弱人群构成重大健康风险。',
+            content: '<p>埃及政府在极端热浪袭击该国并创纪录气温的2026年6月-7月期间，发布了广泛的公共卫生警告。根据《埃及今日》2026年7月1日的报道，这种情况对居民造成了重大的健康风险，特别是对老年人和患有慢性疾病的人等脆弱群体。</p><p>埃及卫生部发布了关于识别和快速应对中暑的综合指导，因为全国医疗机构中与热相关疾病的病例不断增加。对室外工作者和小贩发出了特别警告，要求他们在烈日骄阳下工作时采取额外预防措施以保护健康。</p>',
+            source: 'Egypt Today', sourceUrl: 'https://www.egypttoday.com/Article/1/148109/How-to-recognize-heatstroke-and-act-fast-during-Egypt-s', sourceSnippet: '埃及热浪中的中暑识别与防护 — Egypt Today',
+            source2: 'AccuWeather', sourceUrl2: 'https://www.accuweather.com/en/sports/live-news/world-cup-2026-weather-updates-dangerous-heat-wave-to-test-fans-players-through-july-4/1898671', sourceSnippet2: '2026年世界杯天气更新：危险热浪 — AccuWeather'
+          }
+        }
+      }
+
+      ,{
+        id: 'mesir-pantai-utara-ekonomi-musim-panas-pariwisata-booming-juni2026',
+        langs: {
+          id: {
+            title: 'Pantai Utara Mesir Raih Momentum Ekonomi Musim Panas, Sektor Real Estate dan Pariwisata Booming',
+            desc: 'Pantai Utara Mesir mengalami lonjakan aktivitas ekonomi pada musim panas dengan permintaan tinggi terhadap properti liburan dan wisata pesisir.',
+            content: '<p>Pantai Utara Mesir mencatat momentum ekonomi musim panas yang kuat dalam dua tahun terakhir, dengan lonjakan signifikan dalam sektor pariwisata dan real estate properti liburan, menurut reporting Ahram Online pada Juni 2026. Gelombang ini mengubah wilayah pesisir menjadi multi-multi milyaran pound ekonomi engine yang melampaui pariwisata tradisional.</p><p>Resort dan vila mewah di sepanjang Pantai Utara melaporkan tingkat okupansi mencapai 85-90% selama bulan-bulan musim panas, jauh melampaui periode serupa tahun sebelumnya. Permintaan kuat ini datang dari wisatawan domestik Mesir sendiri, maupun dari wisatawan internasional dari Eropa dan Timur Tengah yang mencari destinasi alternatif selain kawasan yang terafektasi konflik regional.</p><p>Sektor real estate di wilayah Pantai Utara, termasuk Alexandria dan El Alamein, mengalami pertumbuhan investasi properti dengan harga tanah yang terus meningkat. Developer lokal dan internasional berlomba untuk mengembangkan proyek-proyek perumahan, resort, dan fasilitas komersial untuk memenuhi demand yang melonjak.</p><p>Ekonom menyebutkan bahwa momentum ekonomi musim panas Pantai Utara memberikan kontribusi signifikan terhadap pemulihan ekonomi Mesir pasca perjanjian dengan IMF, sambil menciptakan lapangan kerja baru dan meningkatkan pendapatan pajak pemerintah lokal dan nasional.</p>',
+            source: 'Ahram Online', sourceUrl: 'https://english.ahram.org.eg/News/571112.aspx', sourceSnippet: 'North Coast fuels Egypt\'s summer economy as tourism, real estate boom gathers pace — Ahram Online',
+            source2: 'African Business', sourceUrl2: 'https://african.business/2026/04/trade-investment/middle-east-war-clouds-egyptian-tourism-outlook', sourceSnippet2: 'Middle East war clouds Egyptian tourism outlook — African Business'
+          },
+          en: {
+            title: 'Egypt\'s North Coast Powers Summer Economy, Tourism and Real Estate Booming',
+            desc: 'Egypt\'s North Coast is experiencing strong summer economic momentum with high demand for holiday properties and coastal tourism driving growth.',
+            content: "<p>Egypt's North Coast has recorded strong summer economic momentum in recent years, with significant surges in tourism and holiday real estate property sectors, according to reporting from Ahram Online in June 2026. This wave has transformed the coastal region into a multi-billion pound economic engine that transcends traditional tourism.</p><p>Luxury resorts and villas along the North Coast report occupancy rates reaching 85-90% during summer months, far exceeding the same period in previous years. This strong demand comes from domestic Egyptian tourists as well as international visitors from Europe and the Middle East seeking alternative destinations away from conflict-affected regions.</p><p>The real estate sector in the North Coast area, including Alexandria and El Alamein, is experiencing growth in property investment with steadily rising land prices. Local and international developers are competing to develop residential projects, resorts, and commercial facilities to meet surging demand.</p><p>Economists say the North Coast's summer economic momentum provides significant contributions to Egypt's post-IMF agreement economic recovery while creating new jobs and increasing tax revenue for both local and national governments.</p>",
+            source: 'Ahram Online', sourceUrl: 'https://english.ahram.org.eg/News/571112.aspx', sourceSnippet: 'North Coast fuels Egypt\'s summer economy as tourism, real estate boom gathers pace — Ahram Online',
+            source2: 'African Business', sourceUrl2: 'https://african.business/2026/04/trade-investment/middle-east-war-clouds-egyptian-tourism-outlook', sourceSnippet2: 'Middle East war clouds Egyptian tourism outlook — African Business'
+          },
+          ja: {
+            title: 'エジプト北海岸、夏季経済を牽引 観光・不動産ブーム',
+            desc: 'エジプト北海岸はホリデープロパティと沿岸観光の高い需要により強い夏季経済の勢いを経験している。',
+            content: '<p>エジプト北海岸は最近数年間で強力な夏季経済の勢いを記録しており、観光とホリデー不動産セクターで大幅な増加が見られています。アハラム・オンラインの2026年6月報道によります。</p><p>北海岸沿いの高級リゾートとヴィラは、夏季の稼働率が85～90%に達し、前年同時期をはるかに上回っています。この強い需要は、エジプト国内の観光客だけでなく、紛争の影響を受けた地域を避けたい欧州および中東からの国際観光客からのものです。</p>',
+            source: 'Ahram Online', sourceUrl: 'https://english.ahram.org.eg/News/571112.aspx', sourceSnippet: 'エジプト北海岸が夏季経済を牽引 — Ahram Online',
+            source2: 'African Business', sourceUrl2: 'https://african.business/2026/04/trade-investment/middle-east-war-clouds-egyptian-tourism-outlook', sourceSnippet2: '中東戦争がエジプト観光見通しを曇らせる — African Business'
+          },
+          ko: {
+            title: '이집트 북쪽 해안, 여름 경제 주도... 관광·부동산 붐',
+            desc: '이집트 북쪽 해안이 휴가용 주택과 해안 관광에 대한 높은 수요로 강한 여름 경제 모멘텀을 경험하고 있다.',
+            content: '<p>이집트 북쪽 해안은 최근 몇 년 동안 강한 여름 경제 모멘텀을 기록하고 있으며, 관광 및 휴가 부동산 부문에서 상당한 성장을 보이고 있습니다. 아하람 온라인의 2026년 6월 보도에 따른 것입니다.</p><p>북쪽 해안을 따라 위치한 럭셔리 리조트와 빌라들은 여름철에 85-90% 점유율에 도달하고 있으며, 이는 전년도 같은 기간을 훨씬 넘어섭니다. 이러한 강한 수요는 이집트 국내 관광객뿐만 아니라 분쟁의 영향을 받은 지역을 피하고 싶어 하는 유럽 및 중동의 국제 관광객들로부터 비롯되고 있습니다.</p>',
+            source: 'Ahram Online', sourceUrl: 'https://english.ahram.org.eg/News/571112.aspx', sourceSnippet: '이집트 북쪽 해안이 여름 경제를 주도 — Ahram Online',
+            source2: 'African Business', sourceUrl2: 'https://african.business/2026/04/trade-investment/middle-east-war-clouds-egyptian-tourism-outlook', sourceSnippet2: '중동 전쟁이 이집트 관광 전망을 어둡게 — African Business'
+          },
+          zh: {
+            title: '埃及北海岸推动夏季经济，旅游和房地产繁荣',
+            desc: '埃及北海岸正在经历强劲的夏季经济势头，带薪假期房产和沿海旅游的高需求推动增长。',
+            content: '<p>埃及北海岸近年来创造了强劲的夏季经济势头，旅游和度假房产部门出现显著增长。根据《金字塔报在线》2026年6月的报道。</p><p>沿着北海岸的豪华度假村和别墅报告夏季入住率达到85-90%，远超前一年同期。这种强劲需求来自埃及国内游客，也来自寻求避开冲突地区的欧洲和中东国际游客。</p>',
+            source: 'Ahram Online', sourceUrl: 'https://english.ahram.org.eg/News/571112.aspx', sourceSnippet: '埃及北海岸推动夏季经济 — Ahram Online',
+            source2: 'African Business', sourceUrl2: 'https://african.business/2026/04/trade-investment/middle-east-war-clouds-egyptian-tourism-outlook', sourceSnippet2: '中东战争使埃及旅游前景蒙阴 — African Business'
+          }
+        }
+      }
+      ,{
+        id: 'mesir-sisi-korban-pengamanan-polisi-dallas-piala-dunia-3juli2026',
+        langs: {
+          id: {
+            title: 'Insiden Dallas: Petugas Polisi Dorong Pemain dan Staf Mesir di Hotel Saat Piala Dunia',
+            desc: 'Petugas keamanan polisi Dallas diduga mendorong pemain dan anggota staf tim nasional Mesir di hotel sebelum pertandingan Piala Dunia, memicu pertanyaan tentang protokol keamanan.',
+            content: '<p>Insiden keamanan terjadi di Dallas, Texas pada 3 Juli 2026, ketika seorang petugas keamanan polisi diduga mendorong pemain dan staf tim nasional Mesir di hotel tempat tim menginap sebelum pertandingan Piala Dunia melawan Australia. Insiden ini segera dilaporkan oleh delegasi Mesir kepada otoritas dan FIFA yang menyelenggarakan turnamen.</p><p>Pemain penyerang Trezeguet dan manajer tim Hassan dilaporkan menjadi pihak yang terlibat langsung dalam insiden ini. Insiden keamanan ini memicu pertanyaan luas mengenai protokol keamanan yang diterapkan terhadap delegasi tim internasional di Amerika Serikat, khususnya dalam konteks World Cup 2026.</p><p>Federasi Sepak Bola Mesir menyuarakan keprihatinan mereka kepada organisasi penyelenggara dan meminta penyelidikan menyeluruh terhadap peristiwa tersebut. Mereka juga menuntut permintaan formal maaf dari departemen kepolisian Dallas atas insiden yang dianggap sebagai tindakan tidak profesional dan melampaui batas otoritas keamanan.</p><p>Insiden ini menjadi catatan penting dalam perjalanan tim Mesir di Piala Dunia 2026, menambah tantangan yang harus dihadapi delegasi tim di luar lapangan. Meski demikian, tim berhasil fokus dan melanjutkan persiapan untuk menghadapi laga penting mereka malam itu.</p>',
+            source: 'Al Jazeera', sourceUrl: 'https://www.aljazeera.com/sports/2026/7/3/egypt-say-dallas-police-officer-pushed-player-team-director-at-world-cup', sourceSnippet: 'Egypt say Dallas police officer pushed player, team director at World Cup — Al Jazeera, 3 Juli 2026'
+          },
+          en: {
+            title: 'Dallas Incident: Police Officer Allegedly Pushes Egyptian Player and Staff at World Cup',
+            desc: 'A Dallas police security officer allegedly pushed Egyptian national team players and staff at their hotel before their World Cup match, raising questions about security protocols.',
+            content: "<p>A security incident occurred in Dallas, Texas on July 3, 2026, when a police security officer allegedly pushed Egyptian national team players and staff at their hotel before their World Cup match against Australia. The incident was immediately reported by the Egyptian delegation to authorities and FIFA, which is hosting the tournament.</p><p>Forward Trezeguet and team manager Hassan were reportedly directly involved in the incident. The security incident has raised widespread questions about the security protocols applied to international team delegations in the United States, particularly in the context of the 2026 World Cup.</p><p>The Egyptian Football Federation voiced their concerns to tournament organisers and called for a thorough investigation into the incident. They also demanded a formal apology from the Dallas Police Department over what they consider an unprofessional action exceeding the bounds of security authority.</p><p>The incident marks an important note in Egypt's 2026 World Cup journey, adding challenges the team delegation must face off the pitch. Nevertheless, the team managed to remain focused and continue preparations for their important match that evening.</p>",
+            source: 'Al Jazeera', sourceUrl: 'https://www.aljazeera.com/sports/2026/7/3/egypt-say-dallas-police-officer-pushed-player-team-director-at-world-cup', sourceSnippet: 'Egypt say Dallas police officer pushed player, team director at World Cup — Al Jazeera, July 3, 2026'
+          },
+          ja: {
+            title: 'ダラスでの事件：警察官がエジプト選手とスタッフを押した疑い（ワールドカップ）',
+            desc: 'ダラスの警察官がワールドカップの試合前にエジプト代表チームの選手とスタッフをホテルで押した疑いがあり、セキュリティプロトコルに関する質問を引き起こしている。',
+            content: '<p>2026年7月3日、テキサス州ダラスでセキュリティ事件が発生しました。警察官がエジプト代表チームの選手とスタッフをホテルで押した疑いがあります。これはワールドカップの試合（オーストラリア戦）の直前のことでした。この事件は直ちにエジプト代表団から当局およびトーナメント開催者のFIFAに報告されました。</p><p>フォワードのトレゼゲエとチームマネージャーのハッサンが直接関係していると報告されています。このセキュリティ事件により、米国で国際チーム代表団に適用されるセキュリティプロトコル、特に2026年ワールドカップの文脈に関する広範な質問が提起されました。</p>',
+            source: 'Al Jazeera', sourceUrl: 'https://www.aljazeera.com/sports/2026/7/3/egypt-say-dallas-police-officer-pushed-player-team-director-at-world-cup', sourceSnippet: 'ダラスでの事件 — Al Jazeera'
+          },
+          ko: {
+            title: '댤러스 사건: 월드컵 중 경찰관이 이집트 선수·스태프 밀쳤다는 의혹',
+            desc: '댤러스의 경찰관이 월드컵 경기 전 호텔에서 이집트 대표팀 선수와 스태프를 밀쳤다는 의혹이 제기되며 보안 프로토콜에 관한 의문이 제기되고 있다.',
+            content: '<p>2026년 7월 3일 텍사스 주 댤러스에서 보안 사건이 발생했습니다. 경찰 보안관이 월드컵 경기(오스트레일리아전) 직전 호텔에서 이집트 대표팀 선수와 스태프를 밀었다는 의혹입니다. 이 사건은 즉시 이집트 대표단으로부터 당국과 토너먼트 개최자인 FIFA에 보고되었습니다.</p><p>포워드 트레제게에와 팀 매니저 하산이 직접 관련된 것으로 보도되었습니다. 이 보안 사건은 미국에서 국제 팀 대표단에 적용되는 보안 프로토콜, 특히 2026년 월드컵의 맥락에 관한 광범위한 의문을 제기했습니다.</p>',
+            source: 'Al Jazeera', sourceUrl: 'https://www.aljazeera.com/sports/2026/7/3/egypt-say-dallas-police-officer-pushed-player-team-director-at-world-cup', sourceSnippet: '댤러스 사건 — Al Jazeera'
+          },
+          zh: {
+            title: '达拉斯事件：警察官员涉嫌推搡埃及球员及团队工作人员（世界杯）',
+            desc: '在世界杯比赛前，达拉斯警官涉嫌在酒店推搡埃及国家队球员和工作人员，引发对安全协议的质疑。',
+            content: '<p>2026年7月3日，在得克萨斯州达拉斯发生了一起安全事件。警察官员涉嫌在世界杯比赛（对澳大利亚）前在酒店推搡埃及国家队球员和工作人员。该事件立即被埃及代表团报告给了当局和举办赛事的国际足联。</p><p>前锋特雷泽盖和球队经理哈桑据报道直接涉及该事件。这一安全事件引发了对美国对国际球队代表团适用的安全协议的广泛质疑，特别是在2026年世界杯的背景下。</p>',
+            source: 'Al Jazeera', sourceUrl: 'https://www.aljazeera.com/sports/2026/7/3/egypt-say-dallas-police-officer-pushed-player-team-director-at-world-cup', sourceSnippet: '达拉斯事件 — Al Jazeera'
+          }
+        }
+      }
+      ,{
+        id: 'mesir-pertumbuhan-senjata-militer-china-rusia-khawatir-israel-juni2026',
+        langs: {
+          id: {
+            title: 'Pembelian Militer Mesir dari China dan Rusia Bikin Israel Khawatir, Analisis Keseimbangan Kekuatan',
+            desc: 'Pengamatan satelit menunjukkan Mesir sedang memperkuat kapabilitas militer lewat akuisisi peralatan pertahanan dari China dan Rusia, memicu kekhawatiran Israel akan bergesernya keseimbangan kekuatan regional.',
+            content: '<p>Aktivitas Kementerian Pertahanan Mesir dalam beberapa bulan terakhir 2026 menarik perhatian luas dari media militer China dan analis pertahanan internasional. Pengamatan satelit dan laporan intelijen menunjukkan Mesir sedang mempercepat akuisisi sistem pertahanan udara, kendaraan tempur, dan peralatan militer canggih lainnya dari China dan Rusia, menurut Modern Diplomacy pada Juni 2026.</p><p>Berdasarkan laporan militer, Mesir telah mengakuisisi sistem pertahanan udara generasi terbaru dan peralatan komunikasi militer yang canggih guna memodernisasi infrastruktur pertahanan nasionalnya. Langkah ini dianggap sebagai bagian dari strategi Mesir untuk memperkuat posisi regional mengingat ketidakstabilan yang berkelanjutan di Timur Tengah akibat perang Iran-Amerika.</p><p>Analisis dari institusi think tank Israel menunjukkan bahwa pertumbuhan kapabilitas militer Mesir dapat menggeser keseimbangan kekuatan regional, yang hingga sekarang masih didominasi oleh keunggulan militer Israel. Kekhawatiran utama berfokus pada peningkatan kapabilitas pertahanan udara dan sistem rudal yang dapat menjangkau wilayah Israel jika terjadi eskalasi konflik.</p><p>Meski demikian, pejabat pemerintah Mesir menjelaskan bahwa modernisasi militer bersifat defensif dan tidak ditujukan untuk provokasi terhadap Israel, tetapi untuk menjaga stabilitas nasional dan regional dalam konteks perubahan dinamika geopolitik Middle East yang terus berlanjut.</p>',
+            source: 'Modern Diplomacy', sourceUrl: 'https://moderndiplomacy.eu/2026/06/27/coverage-of-egypts-ministry-of-defense-by-chinese-military-media/', sourceSnippet: 'Coverage of Egypt\'s Ministry of Defense by Chinese Military Media — Modern Diplomacy, Juni 2026',
+            source2: 'Jerusalem Post', sourceUrl2: 'https://www.jpost.com/middle-east/article-871166', sourceSnippet2: 'Egyptian military build up poses risk to Israeli security — Jerusalem Post'
+          },
+          en: {
+            title: 'Egyptian Military Purchases from China and Russia Raise Israeli Concerns Over Regional Balance',
+            desc: 'Satellite observations show Egypt is enhancing military capabilities through defence equipment acquisitions from China and Russia, triggering Israeli concerns about shifting regional power balance.',
+            content: "<p>The activities of Egypt's Ministry of Defense in recent months of 2026 have attracted wide attention from Chinese military media and international defence analysts. Satellite observations and intelligence reports show Egypt is accelerating acquisitions of air defence systems, combat vehicles, and other advanced military equipment from China and Russia, according to Modern Diplomacy in June 2026.</p><p>Based on military reports, Egypt has acquired next-generation air defence systems and advanced military communications equipment to modernise its national defence infrastructure. This move is seen as part of Egypt's strategy to strengthen its regional position given ongoing Middle East instability from the US-Iran war.</p><p>Analysis from Israeli think tanks shows that Egypt's growing military capability could shift regional power balance, which has been dominated by Israeli military superiority. Main concerns focus on enhanced air defence capabilities and missile systems that could reach Israeli territory if conflict escalates.</p><p>However, Egyptian government officials explain that military modernisation is defensive in nature and not aimed at provoking Israel, but at maintaining national and regional stability in the context of continuing shifts in Middle East geopolitical dynamics.</p>",
+            source: 'Modern Diplomacy', sourceUrl: 'https://moderndiplomacy.eu/2026/06/27/coverage-of-egypts-ministry-of-defense-by-chinese-military-media/', sourceSnippet: 'Coverage of Egypt\'s Ministry of Defense by Chinese Military Media — Modern Diplomacy, June 2026',
+            source2: 'Jerusalem Post', sourceUrl2: 'https://www.jpost.com/middle-east/article-871166', sourceSnippet2: 'Egyptian military build up poses risk to Israeli security — Jerusalem Post'
+          },
+          ja: {
+            title: 'エジプトの中国・ロシアからの軍事購入、イスラエルの地域バランス懸念を招く',
+            desc: '衛星観測はエジプトが中国とロシアからの防衛装備取得を通じて軍事力を強化していることを示し、地域権力バランスの変化についてイスラエルの懸念を引き起こしている。',
+            content: '<p>2026年の最近の数ヶ月間、エジプトの国防省の活動は、中国の軍事メディアと国際防衛アナリストから広く注目を集めています。衛星観測とインテリジェンスレポートは、エジプトが中国およびロシアから防空システム、戦闘車両、その他の高度な軍事装備の取得を加速していることを示しています。</p><p>軍事レポートに基づくと、エジプトは次世代防空システムと高度な軍事通信機器を取得して、国の防衛インフラを近代化しています。この動きはイスラエルの軍事的優位性に支配されてきた地域バランスをシフトさせる可能性を示唆しています。</p>',
+            source: 'Modern Diplomacy', sourceUrl: 'https://moderndiplomacy.eu/2026/06/27/coverage-of-egypts-ministry-of-defense-by-chinese-military-media/', sourceSnippet: 'エジプト国防省の中国軍事メディア報道 — Modern Diplomacy',
+            source2: 'Jerusalem Post', sourceUrl2: 'https://www.jpost.com/middle-east/article-871166', sourceSnippet2: 'エジプトの軍事力強化はイスラエルの安全保障に脅威 — Jerusalem Post'
+          },
+          ko: {
+            title: '이집트의 중국·러시아 군사 구매, 이스라엘 지역 균형 우려 야기',
+            desc: '위성 관측에 따르면 이집트가 중국과 러시아로부터의 방위 장비 취득을 통해 군사력을 강화하고 있으며, 지역 권력 균형 변화에 대한 이스라엘의 우려를 불러일으키고 있다.',
+            content: '<p>2026년 최근 수개월 동안 이집트 국방부의 활동이 중국 군사 미디어와 국제 방위 분석가들로부터 광범위한 주목을 받고 있습니다. 위성 관측과 정보 보고는 이집트가 중국 및 러시아로부터 방공 시스템, 전투 차량 및 기타 첨단 군사 장비 취득을 가속화하고 있음을 보여줍니다.</p><p>군사 보고서에 따르면 이집트는 차세대 방공 시스템과 고급 군사 통신 장비를 취득하여 국방 인프라를 현대화하고 있습니다. 이 움직임은 이제까지 이스라엘 군사 우위성에 의해 지배되어온 지역 균형을 바꿀 수 있는 것으로 보입니다.</p>',
+            source: 'Modern Diplomacy', sourceUrl: 'https://moderndiplomacy.eu/2026/06/27/coverage-of-egypts-ministry-of-defense-by-chinese-military-media/', sourceSnippet: '이집트 국방부의 중국 군사 미디어 보도 — Modern Diplomacy',
+            source2: 'Jerusalem Post', sourceUrl2: 'https://www.jpost.com/middle-east/article-871166', sourceSnippet2: '이집트 군사 증강이 이스라엘 안보에 위험 — Jerusalem Post'
+          },
+          zh: {
+            title: '埃及从中国和俄罗斯的军事采购引发以色列地区平衡担忧',
+            desc: '卫星观测显示埃及通过从中国和俄罗斯购买防御装备来增强军事能力，引发了以色列对地区权力平衡变化的担忧。',
+            content: '<p>埃及国防部在2026年最近几个月的活动已经引起中国军事媒体和国际防防卫分析人士的广泛关注。卫星观测和情报报告显示，埃及正在加快从中国和俄罗斯购买防空系统、战斗车辆和其他先进军事装备，根据《现代外交》2026年6月的报道。</p><p>根据军事报告，埃及已购买了下一代防空系统和先进的军事通信设备，以现代化其国防基础设施。这一举措被视为埃及加强地区地位战略的一部分，考虑到中东因美伊战争造成的持续不稳定。</p>',
+            source: 'Modern Diplomacy', sourceUrl: 'https://moderndiplomacy.eu/2026/06/27/coverage-of-egypts-ministry-of-defense-by-chinese-military-media/', sourceSnippet: '埃及国防部的中国军事媒体报道 — Modern Diplomacy',
+            source2: 'Jerusalem Post', sourceUrl2: 'https://www.jpost.com/middle-east/article-871166', sourceSnippet2: '埃及军事力量增强对以色列安全构成风险 — Jerusalem Post'
+          }
+        }
+      }
+
     ]
   };
   window.countries = window.countryDataFiles;
