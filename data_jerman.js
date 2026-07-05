@@ -559,6 +559,279 @@
           }
         }
       }
+      ,{
+        id: 'jerman-afd-kongres-erfurt-protes-4juli2026',
+        langs: {
+          id: {
+            title: 'AfD Pilih Pemimpin Baru di Erfurt di Tengah Protes Massal dan Bentrokan dengan Polisi',
+            desc: 'Puluhan ribu pengunjuk rasa turun ke jalanan di Erfurt menentang kongres partai AfD, saat Alice Weidel dan Tino Chrupalla dikonfirmasi kembali sebagai co-leader.',
+            content: '<p>Puluhan ribu pengunjuk rasa turun ke jalanan di Erfurt, Jerman tengah, pada 4 Juli 2026 untuk menentang kongres tahunan partai sayap kanan jauh Alternative for Germany (AfD), dengan polisi anti huru hara bentrok dengan demonstran yang berusaha memblokir akses ke lokasi acara, menurut laporan DW dan The Guardian.</p><p>AfD memilih kembali Alice Weidel dan Tino Chrupalla sebagai co-leader partai, berusaha menunjukkan kesatuan menjelang pemilihan negara bagian September di mana partai tersebut diprediksi bisa meraih hasil terbaiknya, sebagaimana dilaporkan PBS NewsHour dan Le Monde.</p><p>Reuters melaporkan bahwa ribuan pengunjuk rasa memblokir jalan menuju kongres AfD, dengan lebih dari 30.000 demonstran anti-AfD bentrok dengan polisi yang dikerahkan dalam jumlah besar untuk mengamankan acara tersebut.</p><p>Kongres AfD digelar pada tanggal bersejarah bagi gerakan Nazi — sebuah pilihan yang menuai kritik tajam dari politikus Jerman dan kelompok masyarakat sipil, yang mengecam apa yang mereka sebut sebagai provokasi sengaja oleh partai yang telah diklasifikasikan sebagai "ekstremis terkonfirmasi" oleh badan intelijen domestik Jerman.</p><p>Fox News melaporkan bahwa bentrokan antara demonstran far-left dan polisi mengakibatkan sejumlah penangkapan, sementara DW menayangkan video protes dan penangkapan di sekitar lokasi kongres yang menjadi sorotan media internasional.</p>',
+            source: 'DW', sourceUrl: 'https://www.dw.com/en/germany-news-afd-elects-leaders-amid-massive-protests/live-77830605', sourceSnippet: 'Germany news: AfD elects leaders amid massive protests — DW, 4-5 Juli 2026',
+            source2: 'Reuters', sourceUrl2: 'https://www.reuters.com/world/thousands-protest-germany-against-far-right-afd-2026-07-04/', sourceSnippet2: 'Thousands protest in Germany as far-right AfD sets sights on power — Reuters',
+            source3: 'The Guardian', sourceUrl3: 'https://www.theguardian.com/world/2026/jul/04/german-riot-police-clash-protesters-block-far-right-afd-conference', sourceSnippet3: 'German riot police clash with protesters hoping to block far-right AfD conference — The Guardian'
+          },
+          en: {
+            title: "AfD Reejects Leaders at Erfurt Congress Amid Massive Protests and Police Clashes",
+            desc: "Tens of thousands of protesters took to the streets of Erfurt to oppose the AfD party congress, as Alice Weidel and Tino Chrupalla were confirmed as co-leaders.",
+            content: "<p>Tens of thousands of protesters took to the streets of Erfurt in central Germany on July 4, 2026, to oppose the annual congress of the far-right Alternative for Germany (AfD) party, with riot police clashing with demonstrators attempting to block access to the venue, DW and The Guardian reported.</p><p>The AfD reelected Alice Weidel and Tino Chrupalla as co-leaders, seeking to show unity ahead of September state elections where the party is predicted to achieve its best results yet, PBS NewsHour and Le Monde reported.</p><p>Reuters reported that thousands of protesters blocked roads to the AfD congress, with over 30,000 anti-AfD demonstrators clashing with police deployed in large numbers to secure the event.</p><p>The AfD congress was held on a date of significance to the Nazi movement — a choice that drew sharp criticism from German politicians and civil society groups, who condemned what they called a deliberate provocation by a party already classified as a 'confirmed extremist' organisation by Germany's domestic intelligence agency.</p><p>Fox News reported that clashes between far-left demonstrators and police resulted in numerous arrests, while DW broadcast footage of protests and arrests around the congress venue that drew international media attention.</p>",
+            source: 'DW', sourceUrl: 'https://www.dw.com/en/germany-news-afd-elects-leaders-amid-massive-protests/live-77830605', sourceSnippet: 'Germany news: AfD elects leaders amid massive protests — DW, July 4-5, 2026',
+            source2: 'Reuters', sourceUrl2: 'https://www.reuters.com/world/thousands-protest-germany-against-far-right-afd-2026-07-04/', sourceSnippet2: 'Thousands protest in Germany as far-right AfD sets sights on power — Reuters',
+            source3: 'The Guardian', sourceUrl3: 'https://www.theguardian.com/world/2026/jul/04/german-riot-police-clash-protesters-block-far-right-afd-conference', sourceSnippet3: 'German riot police clash with protesters hoping to block far-right AfD conference — The Guardian'
+          },
+          ja: {
+            title: 'ドイツAfD党大会で指導者再選、エアフルトで大規模抗議と警察衝突',
+            desc: 'ドイツ中央エアフルトで数万人がAfD党大会に抗議し、アリス・ワイデルとティノ・クルパラが共同代表に再任された。',
+            content: '<p>2026年7月4日、ドイツ中央のエアフルトで数万人の抗議者が極右AfD党の年次大会に反対して街頭に繰り出し、治安部隊が会場へのアクセスを封鎖しようとするデモ隊と衝突したと、DWとガーディアンが報じました。</p><p>AfDはアリス・ワイデルとティノ・クルパラを共同代表に再選し、9月の州選挙に向けて団結を示そうとしています。</p><p>ロイターは3万人以上のデモ隊がAfD大会への道路を封鎖し、警察と衝突したと報じています。</p>',
+            source: 'DW', sourceUrl: 'https://www.dw.com/en/germany-news-afd-elects-leaders-amid-massive-protests/live-77830605', sourceSnippet: 'AfD党大会 — DW'
+          },
+          ko: {
+            title: '독일 AfD 에르푸르트 당대회서 지도자 재선, 대규모 시위와 경찰 충돌',
+            desc: '독일 중부 에르푸르트에서 수만 명이 AfD 당대회에 반대해 시위했으며, 알리스 바이델과 티노 크루팔라가 공동 대표로 재확정되었다.',
+            content: '<p>2026년 7월 4일 독일 중부 에르푸르트에서 수만 명의 시위자가 극우 AfD 당 연례 대회에 반대하며 거리로 나왔고, 기동대가 회장 접근을 막으려는 시위대와 충돌했다고 DW와 가디언이 보도했다.</p><p>AfD는 알리스 바이델과 티노 크루팔라를 공동 대표로 재선출하며 9월 주 선거를 앞두고 단결을 보여주려 했다.</p><p>로이터는 3만 명 이상의 시위대가 AfD 대회로 가는 도로를 봉쇄하고 경찰과 충돌했다고 보도했다.</p>',
+            source: 'DW', sourceUrl: 'https://www.dw.com/en/germany-news-afd-elects-leaders-amid-massive-protests/live-77830605', sourceSnippet: 'AfD 당대회 — DW'
+          },
+          zh: {
+            title: '德国选择党在埃尔福特党代会重新选举领导人，数万人抗议并与警察冲突',
+            desc: '数万人在埃尔福特抗议德国选择党党代会，爱丽丝·韦德尔和蒂诺·克鲁帕拉被确认为联合主席。',
+            content: '<p>据DW和《卫报》报道，2026年7月4日，数万名抗议者在德国中部埃尔福特走上街头反对极右翼德国选择党年度党代会，防暴警察与试图封锁会场通道的示威者发生冲突。</p><p>选择党重新选举爱丽丝·韦德尔和蒂诺·克鲁帕拉为联合主席，试图在9月州选举前展示团结，该党预计将在选举中取得最佳成绩。</p><p>路透社报道，超过3万名反AfD示威者封锁了通往党代会的道路，与大批部署的警察发生冲突。</p>',
+            source: 'DW', sourceUrl: 'https://www.dw.com/en/germany-news-afd-elects-leaders-amid-massive-protests/live-77830605', sourceSnippet: 'AfD党代会 — DW'
+          }
+        }
+      }
+
+      ,{
+        id: 'jerman-paraguay-gempur-piala-dunia-penalti-29juni2026',
+        langs: {
+          id: {
+            title: 'Paraguay Gempur Jerman di Adu Penalti, Salamkan Pertunjukan Terbesar Piala Dunia 2026',
+            desc: 'Paraguay menyingkirkan juara dunia empat kali Jerman 4-3 lewat adu penalti di babak 32 besar Piala Dunia 2026, dalam salah satu kejutan terbesar sepanjang sejarah turnamen.',
+            content: '<p>Paraguay menyingkirkan juara dunia empat kali Jerman dengan skor 4-3 lewat adu penalti di babak 32 besar Piala Dunia 2026 pada 29 Juni 2026, dalam salah satu kejutan terbesar sepanjang sejarah kompetisi tersebut, setelah pertandingan berakhir imbang 1-1 di waktu normal, menurut laporan Reuters dan AP News.</p><p>Jose Canale mencetak gol pertama adu penalti sudden-death, sementara kiper Paraguay Orlando Gill membuat dua penyelamatan kunci di adu penalti untuk mengamankan kemenangan bersejarah bagi negara Amerika Selatan tersebut.</p><p>Kekalahan ini menjadi momen bersejarah bagi sepak bola Jerman, karena sebelum kekalahan ini Jerman belum pernah kalah di adu penalti Piala Dunia — memenangkan keempat adu penalti sebelumnya dan hanya melesat satu dari 18 tendangan di adu penalti, namun kali ini melesat tiga kali, sebagaimana dilaporkan Al Jazeera.</p><p>The Athletic melaporkan bahwa Paraguay menghasilkan salah satu kejutan terbesar dalam sejarah Piala Dunia terbaru, menyingkirkan empat kali juara dunia dengan pertahanan yang diorganisir oleh pelatih Alfaro yang memiliki keyakinan tak tergoyahkan pada para beknya.</p><p>NBC News mencatat bahwa dua pertandingan babak 32 besar berakhir lewat adu penalti pada hari yang sama, dengan Paraguay menyingkirkan Jerman dan Maroko menyingkirkan Belanda — dua kekuatan sepak bola Eropa tersingkir di hari yang sama.</p>',
+            source: 'Reuters', sourceUrl: 'https://www.reuters.com/sports/soccer/paraguay-knock-germany-out-world-cup-penalties-major-upset-2026-06-29/', sourceSnippet: 'Paraguay stun Germany on penalties to reach World Cup last 16 — Reuters, 29 Juni 2026',
+            source2: 'AP News', sourceUrl2: 'https://apnews.com/article/germany-paraguay-score-world-cup-819ffc6e897f8be74f48d6b9d3e76e9b', sourceSnippet2: 'Paraguay stuns Germany in a penalty shootout for the biggest upset of the 2026 World Cup — AP News',
+            source3: 'Al Jazeera', sourceUrl3: 'https://www.aljazeera.com/sports/2026/6/30/paraguays-shock-win-against-germany-headlines-all-time-world-cup-upsets', sourceSnippet3: 'Top 5 World Cup knockout shocks: Paraguay win hurts Germany again — Al Jazeera'
+          },
+          en: {
+            title: "Paraguay Stun Germany on Penalties in Biggest Upset of World Cup 2026",
+            desc: "Paraguay knocked out four-time world champions Germany 4-3 on penalties in the World Cup 2026 Round of 32, in one of the biggest upsets in the competition's history.",
+            content: "<p>Paraguay knocked out four-time world champions Germany 4-3 on penalties in the World Cup 2026 Round of 32 on June 29, 2026, in one of the biggest upsets in the competition's history, after the match ended 1-1 in regular time, Reuters and AP News reported.</p><p>Jose Canale scored on the first sudden-death penalty kick, while Paraguay goalkeeper Orlando Gill made two key saves in the shootout to secure the historic victory for the South American nation.</p><p>The defeat marked a historic moment for German football, as before this loss Germany had never lost a penalty shootout at the World Cup — winning all four previous shootouts and missing only one of 18 penalty kicks, but this time missing three times, Al Jazeera reported.</p><p>The Athletic reported that Paraguay produced one of the greatest upsets of recent World Cup history, knocking out the four-time champions with a defence organised by coach Alfaro whose unshakeable faith in his defenders proved decisive.</p><p>NBC News noted that two Round of 32 matches went to penalty shootouts on the same day, with Paraguay eliminating Germany and Morocco eliminating the Netherlands — two European football powers knocked out on the same day.</p>",
+            source: 'Reuters', sourceUrl: 'https://www.reuters.com/sports/soccer/paraguay-knock-germany-out-world-cup-penalties-major-upset-2026-06-29/', sourceSnippet: 'Paraguay stun Germany on penalties — Reuters, June 29, 2026',
+            source2: 'AP News', sourceUrl2: 'https://apnews.com/article/germany-paraguay-score-world-cup-819ffc6e897f8be74f48d6b9d3e76e9b', sourceSnippet2: 'Paraguay stuns Germany in a penalty shootout — AP News',
+            source3: 'Al Jazeera', sourceUrl3: 'https://www.aljazeera.com/sports/2026/6/30/paraguays-shock-win-against-germany-headlines-all-time-world-cup-upsets', sourceSnippet3: 'Top 5 World Cup knockout shocks: Paraguay win hurts Germany — Al Jazeera'
+          },
+          ja: {
+            title: 'パラグアイがドイツをPK戦で撃破、W杯2026最大の番狂わせ',
+            desc: 'パラグアイがW杯2026ラウンド32で4度の世界チャンピオンドイツをPK戦4-3で破り、大会史上最大の番狂わせの一つとなった。',
+            content: '<p>パラグアイは2026年6月29日、W杯2026ラウンド32で4度の世界チャンピオンドイツをPK戦4-3で破り、大会史上最大の番狂わせの一つを演じました。試合は延長戦で1-1の同点でした。</p><p>ホセ・カナーレがサドンデスPKの先頭を切ってゴールを決め、パラグアイのGKオルランド・ギルがPK戦で2度の決定的セーブを見せました。</p><p>この敗戦はドイツサッカーにとって歴史的な瞬間となりました。ドイツはこれまでW杯のPK戦で無敗でしたが、今回は3本外しました。</p>',
+            source: 'Reuters', sourceUrl: 'https://www.reuters.com/sports/soccer/paraguay-knock-germany-out-world-cup-penalties-major-upset-2026-06-29/', sourceSnippet: 'パラグアイがドイツ撃破 — ロイター'
+          },
+          ko: {
+            title: '파라과이, 승부차기로 독일 격파...2026 월드컵 최대 이변',
+            desc: '파라과이가 2026 월드컵 32강에서 4회 월드컵 챔피언 독일을 승부차기 4-3으로 꺾으며 대회 역사상 가장 큰 이변 중 하나를 만들었다.',
+            content: '<p>파라과이는 2026년 6월 29일 2026 월드컵 32강에서 4회 월드컵 챔피언 독일을 승부차기 4-3으로 꺾었으며, 정규시간 1-1 무승부 후 대회 역사상 가장 큰 이변 중 하나를 만들었다고 로이터와 AP통신이 보도했다.</p><p>호세 카날레가 서든데스 승부차기 첫 골을 넣었고, 파라과이 골키퍼 올랜도 길이 승부차기에서 2번의 결정적 선방으로 역사적인 승리를 확보했다.</p><p>이 패배는 독일 축구에 역사적인 순간이었다. 독일은 이전까지 월드컵 승부차기에서 무패였지만 이번에는 3번 실축했다.</p>',
+            source: 'Reuters', sourceUrl: 'https://www.reuters.com/sports/soccer/paraguay-knock-germany-out-world-cup-penalties-major-upset-2026-06-29/', sourceSnippet: '파라과이 독일 격파 — 로이터'
+          },
+          zh: {
+            title: '巴拉圭点球大战淘汰德国，2026世界杯最大冷门',
+            desc: '巴拉圭在2026世界杯32强赛中点球4-3淘汰四届世界冠军德国，成为赛事历史上最大冷门之一。',
+            content: '<p>据路透社和美联社报道，巴拉圭在2026年6月29日的2026世界杯32强赛中点球4-3淘汰四届世界冠军德国，成为赛事历史上最大冷门之一，常规时间1-1战平。</p><p>何塞·卡纳莱在 sudden-death 点球中率先命中，巴拉圭门将奥兰多·吉尔在点球大战中两次关键扑救为这个南美国家锁定历史性胜利。</p><p>此次失利对德国足球而言是历史性时刻，因为在此前德国从未在世界杯点球大战中失利——赢得了此前全部四次点球大战且18次罚球仅失一球，但这次失误了三次。</p>',
+            source: 'Reuters', sourceUrl: 'https://www.reuters.com/sports/soccer/paraguay-knock-germany-out-world-cup-penalties-major-upset-2026-06-29/', sourceSnippet: '巴拉圭淘汰德国 — 路透社'
+          }
+        }
+      }
+
+      ,{
+        id: 'jerman-scapegoating-sepak-bola-undav-nagelsmann-2juli2026',
+        langs: {
+          id: {
+            title: 'Sepak Bola Jerman Punya Masalah Lebih Besar dari Kekalahan Piala Dunia: Scapegoating',
+            desc: 'Pelatih Jerman Julian Nagelsmann menyalahkan striker Deniz Undav berdarah Kurdi-Yazidi setelah kekalahan dari Paraguay, memicu perdebatan tentang rasisme dan struktur dalam sepak bola Jerman.',
+            content: '<p>Jerman gagal melaju ke babak 16 besar Piala Dunia untuk ketiga kalinya berturut-turut setelah kekalahan dari Paraguay, dan sekali lagi empat kali juara dunia ini malah mencari "kambing hitam" alih-alih mendiagnosis akar masalah kegagalan mereka, menurut analisis Al Jazeera pada 2 Juli 2026.</p><p>Pelatih Jerman Julian Nagelsmann menyalahkan striker Deniz Undav yang berdarah Kurdi dan Yazidi dalam wawancara dengan Magenta TV setelah pertandingan, mengkritik keputusannya dalam momen-momen kunci — pola yang mengingatkan pada delapan tahun lalu ketika Mesut Ozil berdarah Turki dijadikan kambing hitam setelah kegagalan Jerman di Piala Dunia 2018.</p><p>Undav sebenarnya menjadi penyelamat Jerman di fase grup, mencetak gol penyama di menit ketujuh melawan Pantai Gading di Toronto dan mencetak gol kemenangan telat, dengan total lima kontribusi gol di dua pertandingan pertama tanpa which Jerman mungkin sudah tersingkir di babak grup.</p><p>Penggemar Jerman justru menolak narasi Nagelsmann dan mengarahkan kemarahan mereka kepada sang pelatih, yang keputusan taktis dan personalia yang membingungkan telah menjadi pembicaraan menjelang babak knockout, sembari Undav yang merayakan gol pertamanya dengan tarian Kurdi kurmanji bersama rekan setim Antonio Rudiger tetap menjadi favorit penggemar.</p><p>Al Jazeera mencatat bahwa cara DFB memperlakukan bakat seperti Undav — yang pernah bekerja sebagai operator mesin pabrik dan berjuang di liga ketiga dan keempat Jerman sebelum akhirnya meniti karier di Belgia dan Premier League — adalah indikasi mengapa tim nasional Jerman berada dalam krisis saat ini, dengan sistem akademi yang gagal mendeteksi talenta seperti Undav yang baru debut di timnas pada usia 27 tahun.</p>',
+            source: 'Al Jazeera', sourceUrl: 'https://www.aljazeera.com/news/2026/7/2/german-football-has-a-bigger-problem-than-a-world-cup-loss-scapegoating', sourceSnippet: 'German football has a bigger problem than a World Cup loss: Scapegoating — Al Jazeera, 2 Juli 2026',
+            source2: 'World of Sports', sourceUrl2: 'https://worldofsports.io/a/al-jazeera-english/germany-world-cup-exit-scapegoating-undav-dfb-1783009300', sourceSnippet2: "Germany's World Cup Exit: Scapegoating Undav & DFB Failures — World of Sports"
+          },
+          en: {
+            title: "German Football Has a Bigger Problem Than a World Cup Loss: Scapegoating",
+            desc: "Germany manager Julian Nagelsmann blamed striker Deniz Undav of Kurdish-Yazidi heritage after the Paraguay defeat, sparking debate about racism and structure in German football.",
+            content: "<p>Germany have failed to progress to the round of 16 in the FIFA World Cup for the third time in a row after losing to Paraguay, and yet again the four-time world champions have turned to a familiar response: finding a scapegoat instead of diagnosing root causes, Al Jazeera analysis reported on July 2, 2026.</p><p>Germany manager Julian Nagelsmann singled out striker Deniz Undav, of Kurdish and Yazidi origin, for criticism in a Magenta TV interview after the match — a pattern reminiscent of eight years ago when Mesut Ozil, of Turkish origin, was made a scapegoat after Germany's failure at the 2018 World Cup.</p><p>Undav had actually been Germany's saviour in the group stage, scoring a seventh-minute equaliser against Ivory Coast in Toronto and nabbing a late winner, with five goal involvements in the first two World Cup matches without which Germany might have been eliminated at the group stage.</p><p>German fans instead rejected Nagelsmann's narrative and directed their ire at the coach, whose baffling tactical and personnel decisions had been a talking point before the knockout round, while Undav who celebrated his first World Cup goal by dancing the Kurdish kurmanji with teammate Antonio Rudiger remained a fan favourite.</p><p>Al Jazeera noted that the DFB's treatment of talents like Undav — who once worked as a factory machine operator and toiled in Germany's third and fourth tiers before eventually moving to Belgium and the Premier League — is an indication of why the national team is in crisis, with an academy system that failed to detect talent like Undav who only made his national team debut at age 27.</p>",
+            source: 'Al Jazeera', sourceUrl: 'https://www.aljazeera.com/news/2026/7/2/german-football-has-a-bigger-problem-than-a-world-cup-loss-scapegoating', sourceSnippet: 'German football has a bigger problem: Scapegoating — Al Jazeera, July 2, 2026',
+            source2: 'World of Sports', sourceUrl2: 'https://worldofsports.io/a/al-jazeera-english/germany-world-cup-exit-scapegoating-undav-dfb-1783009300', sourceSnippet2: "Germany's World Cup Exit: Scapegoating Undav & DFB Failures — World of Sports"
+          },
+          ja: {
+            title: 'ドイツサッカーのW杯敗退より大きな問題：スケープゴート探し',
+            desc: 'ドイツ代表監督ユリアン・ナゲルスマンがパラグアイ敗戦後、クルド・ヤズディ系のストライカーデニス・ウンダフを批判し、人種差別と構造問題の議論を引き起こした。',
+            content: '<p>ドイツはパラグアイに敗れ3大会連続でW杯ラウンド16進出を逃し、再び根本原因を診断する代わりに「スケープゴート探し」というおなじみの対応を見せたと、Al Jazeeraが2026年7月2日に分析しました。</p><p>ドイツ代表のユリアン・ナゲルスマン監督は試合後のMagenta TVインタビューでクルド・ヤズディ系のストライカーデニス・ウンダフを批判し、8年前にトルコ系のメスト・エジルがスケープゴートにされたパターンを繰り返しました。</p>',
+            source: 'Al Jazeera', sourceUrl: 'https://www.aljazeera.com/news/2026/7/2/german-football-has-a-bigger-problem-than-a-world-cup-loss-scapegoating', sourceSnippet: 'ドイツサッカーのスケープゴート問題 — Al Jazeera'
+          },
+          ko: {
+            title: '독일 축구, 월드컵 패배보다 더 큰 문제: 희생양 찾기',
+            desc: '독일 대표팀 감독 율리안 나겔스만이 파라과이 패배 후 쿠르드-야지디 혈통의 스트라이커 데니스 운다프를 비판하며 인종차별과 구조 문제 논쟁을 촉발했다.',
+            content: '<p>독일은 파라과이에 패해 3대회 연속 월드컵 16강 진출에 실패했으며, 다시 한번 근본 원인을 진단하는 대신 "희생양 찾기"라는 익숙한 대응을 보였다고 Al Jazeera가 2026년 7월 2일 분석했다.</p><p>독일 대표팀 율리안 나겔스만 감독은 경기 후 Magenta TV 인터뷰에서 쿠르드-야지디 혈통의 스트라이커 데니스 운다프를 비판하며, 8년 전 터키계 메수트 외질이 희생양이 되었던 패턴을 반복했다.</p>',
+            source: 'Al Jazeera', sourceUrl: 'https://www.aljazeera.com/news/2026/7/2/german-football-has-a-bigger-problem-than-a-world-cup-loss-scapegoating', sourceSnippet: '독일 축구 희생양 문제 — Al Jazeera'
+          },
+          zh: {
+            title: '德国足球比世界杯失利更大的问题：寻找替罪羊',
+            desc: '德国队主帅尤利安·纳格尔斯曼在巴拉圭败局后将库尔德-雅兹迪裔前锋德尼斯·乌达夫当作替罪羊，引发关于种族主义和德国足球结构的辩论。',
+            content: '<p>据半岛电视台2026年7月2日分析，德国在输给巴拉圭后连续第三届世界杯未能晋级16强，而四届世界冠军再次选择了熟悉的应对方式：寻找替罪羊而非诊断失败根源。</p><p>德国队主帅尤利安·纳格尔斯曼在赛后Magenta TV采访中将库尔德和雅兹迪裔前锋德尼斯·乌达夫 singled out进行批评，让人想起八年前土耳其裔梅苏特·厄齐尔在2018年世界杯失败后被当作替罪羊的模式。</p>',
+            source: 'Al Jazeera', sourceUrl: 'https://www.aljazeera.com/news/2026/7/2/german-football-has-a-bigger-problem-than-a-world-cup-loss-scapegoating', sourceSnippet: '德国足球替罪羊问题 — 半岛电视台'
+          }
+        }
+      }
+
+      ,{
+        id: 'jerman-rs-tidak-siap-gelombang-panas-30juni2026',
+        langs: {
+          id: {
+            title: 'Rumah Sakit Jerman Tidak Siap Menghadapi Gelombang Panas Ekstrem, Infrastruktur Tertekan',
+            desc: 'Suhu di atas 41 derajat Celcius merusak jalan dan jalur kereta api di Jerman, sementara rumah sakit dilaporkan "tidak memadai" dalam menghadapi gelombang panas ekstrem.',
+            content: '<p>Suhu di atas 41 derajat Celcius merusak jalan dan jalur kereta api di Jerman saat gelombang panas ekstrem melanda negara tersebut, memicu panggilan untuk investasi adaptasi iklim sebagaimana dilaporkan Anadolu Agency dan Euronews pada 30 Juni 2026.</p><p>Euronews melaporkan bahwa sebagian besar unit perawatan intensif di Jerman kini ber-AC, namun "sebatas itu saja" — rumah sakit Jerman dinyatakan "tidak memadai dalam kesiapan" menghadapi suhu ekstrem, dengan banyak ruangan rawat inap, area staf, dan fasilitas penunjang yang tidak memiliki pendinginan memadai.</p><p>Gelombang panas tersebut mengganggu transportasi publik di seluruh Jerman, dengan jalur kereta api dilaporkan melengkung akibat panas dan jalan raya mengalami kerusakan permukaan, memaksa otoritas menutup beberapa rute utama di tengah musim liburan musim panas.</p><p>Euronews juga melaporkan secara eksklusif bahwa tagihan listrik di Jerman dan Prancis melonjak €700 juta selama gelombang panas rekor tersebut, ketika permintaan pendinginan melonjak dan pembangkit listrik berbahan bakar fosil dipaksa beroperasi maksimal untuk memenuhi lonjakan permintaan.</p><p>Seiring Eropa bersiap menghadapi gelombang panas kedua dalam waktu kurang dari dua minggu, akses ke AC telah menjadi simbol kuat ketimpangan sosial di Eropa, dengan Green Deal Uni Eropa menghadapi ujian musim panas yang menentukan.</p>',
+            source: 'Euronews', sourceUrl: 'https://www.euronews.com/2026/06/30/germany-insufficiently-prepared-for-extreme-heat-as-transport-and-roads-closed-by-41c-temp', sourceSnippet: "Insufficiently prepared: Germany's hospitals struggle amid heatwave — Euronews, 30 Juni 2026",
+            source2: 'Anadolu Agency', sourceUrl2: 'https://www.aa.com.tr/en/europe/heat-wave-disrupts-transport-healthcare-in-germany-exposes-infrastructure-gaps/3982023', sourceSnippet2: 'Heat wave disrupts transport, healthcare in Germany, exposes infrastructure gaps — Anadolu Agency',
+            source3: 'Euronews', sourceUrl3: 'https://www.euronews.com/2026/06/30/exclusive-electricity-bills-in-germany-and-france-rose-by-700-million-during-record-heatwa', sourceSnippet3: 'Germany and France energy bills soared by 700 million EUR during heatwave — Euronews'
+          },
+          en: {
+            title: "Germany's Hospitals Insufficiently Prepared for Extreme Heat, Infrastructure Strains",
+            desc: "Temperatures above 41C damaged roads and railways in Germany, while hospitals were reported as 'insufficiently prepared' for extreme heat.",
+            content: "<p>Temperatures above 41 degrees Celsius damaged roads and railway tracks in Germany as an extreme heatwave swept the country, triggering calls for climate adaptation investment, Anadolu Agency and Euronews reported on June 30, 2026.</p><p>Euronews reported that most intensive care units in Germany are now air-conditioned, but 'that's about as far as it goes' — German hospitals were declared 'insufficiently prepared' for extreme temperatures, with many patient rooms, staff areas, and supporting facilities lacking adequate cooling.</p><p>The heatwave disrupted public transport across Germany, with railway tracks reported to have warped due to heat and road surfaces experiencing damage, forcing authorities to close key routes during the peak summer holiday season.</p><p>Euronews also exclusively reported that electricity bills in Germany and France soared by EUR 700 million during the record heatwave, as cooling demand surged and fossil fuel power plants were forced to run at maximum capacity to meet the spike in demand.</p><p>As Europe braces for a second heatwave in less than two weeks, access to air conditioning has become a powerful symbol of social inequality in Europe, with the EU's Green Deal facing a crucial summer test.</p>",
+            source: 'Euronews', sourceUrl: 'https://www.euronews.com/2026/06/30/germany-insufficiently-prepared-for-extreme-heat-as-transport-and-roads-closed-by-41c-temp', sourceSnippet: "Insufficiently prepared: Germany's hospitals struggle amid heatwave — Euronews, June 30, 2026",
+            source2: 'Anadolu Agency', sourceUrl2: 'https://www.aa.com.tr/en/europe/heat-wave-disrupts-transport-healthcare-in-germany-exposes-infrastructure-gaps/3982023', sourceSnippet2: 'Heat wave disrupts transport, healthcare in Germany — Anadolu Agency',
+            source3: 'Euronews', sourceUrl3: 'https://www.euronews.com/2026/06/30/exclusive-electricity-bills-in-germany-and-france-rose-by-700-million-during-record-heatwa', sourceSnippet3: 'Germany and France energy bills soared by 700 million EUR during heatwave — Euronews'
+          },
+          ja: {
+            title: 'ドイツの病院、極端な熱波に「不十分な準備」、インフラに負担',
+            desc: 'ドイツで41°C超の気温が道路と鉄道を損傷し、病院は極端な暑さに「不十分な準備」と報告された。',
+            content: '<p>ドイツで41°C超の気温が道路と鉄道軌道を損傷し、気候適応投資の呼びかけを引き起こしたと、アナドル通信とEuronewsが2026年6月30日に報じました。</p><p>Euronewsはドイツの集中治療室のほとんどが冷房を備えているが「そこまで」であり、病院は極端な気温に「不十分な準備」と宣言されました。</p><p>熱波はドイツ全土の公共交通機関を混乱させ、鉄道軌道が熱で歪み、道路表面が損傷しました。</p>',
+            source: 'Euronews', sourceUrl: 'https://www.euronews.com/2026/06/30/germany-insufficiently-prepared-for-extreme-heat-as-transport-and-roads-closed-by-41c-temp', sourceSnippet: 'ドイツ病院熱波 — Euronews'
+          },
+          ko: {
+            title: '독일 병원, 극심한 폭염에 "준비 부족"...인프라 압박',
+            desc: '독일에서 41°C 이상의 기온이 도로와 철도를 손상시켰고, 병원은 극심한 폭염에 "준비가 부족하다"고 보고되었다.',
+            content: '<p>독일에서 41도 이상의 기온이 도로와 철도 선로를 손상시키며 기후 적응 투자 촉구를 이끌어냈다고 아나돌루 통신과 Euronews가 2026년 6월 30일 보도했다.</p><p>Euronews는 독일 중환자실 대부분에 에어컨이 있지만 "그것이 전부"이며, 병원은 극단적 기온에 "준비가 부족하다"고 선언되었다.</p><p>폭염은 독일 전역의 대중교통을 마비시켰으며, 철도 선로가 열로 휘어지고 도로 표면이 손상되었다.</p>',
+            source: 'Euronews', sourceUrl: 'https://www.euronews.com/2026/06/30/germany-insufficiently-prepared-for-extreme-heat-as-transport-and-roads-closed-by-41c-temp', sourceSnippet: '독일 병원 폭염 — Euronews'
+          },
+          zh: {
+            title: '德国医院对极端高温"准备不足"，基础设施承压',
+            desc: '德国超过41°C的气温损坏道路和铁路，医院被报告对极端高温"准备不足"。',
+            content: '<p>据阿纳多卢通讯社和Euronews 2026年6月30日报道，德国超过41摄氏度的气温损坏了道路和铁路轨道，引发对气候适应投资的呼吁。</p><p>Euronews报道，德国大部分重症监护室现在装有空调，但"仅此而已"——德国医院被宣布对极端气温"准备不足"，许多病房、员工区域和辅助设施缺乏充分降温。</p><p>热浪扰乱了德国各地的公共交通，铁路轨道因高温变形，路面受损，当局被迫在夏季假期高峰期关闭关键路线。</p>',
+            source: 'Euronews', sourceUrl: 'https://www.euronews.com/2026/06/30/germany-insufficiently-prepared-for-extreme-heat-as-transport-and-roads-closed-by-41c-temp', sourceSnippet: '德国医院高温 — Euronews'
+          }
+        }
+      }
+
+      ,{
+        id: 'jerman-tagihan-listrik-700-juta-euro-gelombang-panas-30juni2026',
+        langs: {
+          id: {
+            title: 'Tagihan Listrik Jerman dan Prancis Melonjak €700 Juta Selama Gelombang Panas Rekor',
+            desc: 'Tagihan listrik di Jerman dan Prancis melonjak €700 juta selama gelombang panas rekor, ketika permintaan pendinginan melonjak dan pembangkit fosil dipaksa beroperasi maksimal.',
+            content: '<p>Tagihan listrik di Jerman dan Prancis melonjak €700 juta selama gelombang panas rekor yang melanda Eropa pada akhir Juni 2026, sebagaimana dilaporkan secara eksklusif oleh Euronews pada 30 Juni 2026, ketika permintaan pendinginan melonjak tajam di kedua negara.</p><p>Pembangkit listrik berbahan bakar fosil dipaksa beroperasi pada kapasitas maksimal untuk memenuhi lonjakan permintaan listrik, memicu perdebatan tentang apakah perusahaan bahan bakar fosil harus dikenakan pajak windfall atas keuntungan tidak wajar yang diperoleh selama krisis panas tersebut.</p><p>Gelombang panas tersebut mencatat rekor suhu tertinggi sepanjang sejarah di Jerman dengan 41,7 derajat Celcius, dan di Inggris dengan 37,7 derajat Celcius di Lingwood, Norfolk — memecahkan rekor sebelumnya dengan margin yang sangat besar, sebagaimana dilaporkan The Guardian.</p><p>Lonjakan biaya energi tersebut menyoroti kerentanan infrastruktur listrik Eropa di tengah gelombang panas yang semakin intens dan sering akibat perubahan iklim, dengan permintaan pendinginan yang sebelumnya tidak signifikan di Eropa Utara kini menjadi faktor utama dalam beban jaringan listrik.</p><p>WHO memperingatkan bahwa Eropa harus "merencanakan panas seperti flu musim dingin" seiring para ahli mengungkap betapa permanennya kondisi panas ekstrem musim panas ini, dengan gelombang panas kedua diperkirakan tiba dalam waktu kurang dari dua minggu.</p>',
+            source: 'Euronews', sourceUrl: 'https://www.euronews.com/2026/06/30/exclusive-electricity-bills-in-germany-and-france-rose-by-700-million-during-record-heatwa', sourceSnippet: 'Germany and France energy bills soared by EUR 700 million during heatwave — Euronews, 30 Juni 2026',
+            source2: 'The Guardian', sourceUrl2: 'https://www.theguardian.com/environment/2026/jul/03/weather-tracker-heatwave-breaks-june-temperature-records-across-europe', sourceSnippet2: 'Weather tracker: Heatwave breaks June temperature records across Europe — The Guardian',
+            source3: 'Al Jazeera', sourceUrl3: 'https://www.aljazeera.com/features/2026/7/3/are-europes-extreme-summers-the-new-normal-what-the-science-says', sourceSnippet3: "Are Europe's extreme summers the new normal? — Al Jazeera"
+          },
+          en: {
+            title: "Germany and France Energy Bills Soar EUR 700 Million During Record Heatwave",
+            desc: "Electricity bills in Germany and France soared by EUR 700 million during the record heatwave, as cooling demand surged and fossil fuel plants ran at maximum capacity.",
+            content: "<p>Electricity bills in Germany and France soared by EUR 700 million during the record heatwave that swept Europe in late June 2026, Euronews exclusively reported on June 30, 2026, as cooling demand surged sharply in both countries.</p><p>Fossil fuel power plants were forced to run at maximum capacity to meet the spike in electricity demand, sparking debate about whether fossil fuel companies should face a windfall tax on the outsized profits earned during the heat crisis.</p><p>The heatwave set all-time high temperature records in Germany at 41.7 degrees Celsius, and in the UK at 37.7 degrees Celsius in Lingwood, Norfolk — shattering previous records by huge margins, The Guardian reported.</p><p>The energy cost surge highlighted the vulnerability of Europe's power infrastructure amid increasingly intense and frequent heatwaves driven by climate change, with cooling demand previously insignificant in Northern Europe now a major factor in grid load.</p><p>The WHO warned that Europe must 'plan for heat like winter flu' as experts revealed how permanent this summer's extreme heat has become, with a second heatwave expected to arrive in less than two weeks.</p>",
+            source: 'Euronews', sourceUrl: 'https://www.euronews.com/2026/06/30/exclusive-electricity-bills-in-germany-and-france-rose-by-700-million-during-record-heatwa', sourceSnippet: 'Germany and France energy bills soared by EUR 700 million — Euronews, June 30, 2026',
+            source2: 'The Guardian', sourceUrl2: 'https://www.theguardian.com/environment/2026/jul/03/weather-tracker-heatwave-breaks-june-temperature-records-across-europe', sourceSnippet2: 'Heatwave breaks June temperature records across Europe — The Guardian',
+            source3: 'Al Jazeera', sourceUrl3: 'https://www.aljazeera.com/features/2026/7/3/are-europes-extreme-summers-the-new-normal-what-the-science-says', sourceSnippet3: "Are Europe's extreme summers the new normal? — Al Jazeera"
+          },
+          ja: {
+            title: 'ドイツとフランスの電気代、記録的熱波で7億ユーロ急増',
+            desc: 'ドイツとフランスの電気代が記録的熱波の間に7億ユーロ急増し、冷房需要が急増し化石燃料発電所が最大稼働を余儀なくされた。',
+            content: '<p>2026年6月末の記録的熱波の間、ドイツとフランスの電気代が7億ユーロ急増したと、Euronewsが2026年6月30日に独占報道しました。両国で冷房需要が急増しました。</p><p>化石燃料発電所は電力需要の急増に対応するため最大稼働を余儀なくされ、化石燃料企業にウィンドフォール税を課すべきかという議論を引き起こしました。</p><p>熱波はドイツで41.7°C、英国で37.7°Cの史上最高気温記録を樹立しました。</p>',
+            source: 'Euronews', sourceUrl: 'https://www.euronews.com/2026/06/30/exclusive-electricity-bills-in-germany-and-france-rose-by-700-million-during-record-heatwa', sourceSnippet: 'ドイツ・フランス電気代 — Euronews'
+          },
+          ko: {
+            title: '독일·프랑스 전기요금, 기록적 폭염 중 7억 유어 급증',
+            desc: '독일과 프랑스의 전기요금이 기록적 폭염 중 7억 유로 급증했으며, 냉방 수요가 급증하고 화석연료 발전소가 최대 가동되었다.',
+            content: '<p>2026년 6월 말 기록적 폭염 동안 독일과 프랑스의 전기요금이 7억 유로 급증했다고 Euronews가 2026년 6월 30일 단독 보도했다. 양국에서 냉방 수요가 급격히 증가했다.</p><p>화석연료 발전소는 전력 수요 급증을 충족하기 위해 최대 용량으로 가동되었으며, 화석연료 기업에 풍족세를 부과해야 하는지에 대한 논쟁을 촉발했다.</p><p>폭염은 독일 41.7°C, 영국 37.7°C의 사상 최고 기온 기록을 세웠다.</p>',
+            source: 'Euronews', sourceUrl: 'https://www.euronews.com/2026/06/30/exclusive-electricity-bills-in-germany-and-france-rose-by-700-million-during-record-heatwa', sourceSnippet: '독일·프랑스 전기요금 — Euronews'
+          },
+          zh: {
+            title: '德国和法国电费在创纪录热浪中飙升7亿欧元',
+            desc: '德国和法国电费在创纪录热浪期间飙升7亿欧元，制冷需求激增，化石燃料电厂被迫满负荷运行。',
+            content: '<p>据Euronews 2026年6月30日独家报道，2026年6月底席卷欧洲的创纪录热浪期间，德国和法国电费飙升7亿欧元，两国制冷需求急剧上升。</p><p>化石燃料发电厂被迫满负荷运行以满足电力需求激增，引发关于化石燃料公司是否应为热浪危机中获得的超额利润缴纳暴利税的辩论。</p><p>热浪在德国创下41.7摄氏度、在英国诺福克郡林伍德创下37.7摄氏度的历史最高气温纪录。</p>',
+            source: 'Euronews', sourceUrl: 'https://www.euronews.com/2026/06/30/exclusive-electricity-bills-in-germany-and-france-rose-by-700-million-during-record-heatwa', sourceSnippet: '德国法国电费 — Euronews'
+          }
+        }
+      }
+
+      ,{
+        id: 'jerman-florian-lipowitz-tour-de-france-2026',
+        langs: {
+          id: {
+            title: 'Florian Lipowitz, Pebalap Jerman yang Co-Lead Tour de France 2026 Bersama Remco Evenepoel',
+            desc: 'Pebalap Jerman Florian Lipowitz, 24 tahun, memimpin tim Red Bull-BORA-hansgrohe bersama juara dunia Remco Evenepoel di Tour de France 2026 sebagai co-leader.',
+            content: '<p>Pebalap Jerman Florian Lipowitz, 24 tahun, menjadi salah satu pemimpin tim Red Bull-BORA-hansgrohe di Tour de France 2026, berbagi kepemimpinan dengan juara dunia time trial Remco Evenepoel dalam pendekatan dual leadership yang menandai ambisi besar tim Jerman tersebut, sebagaimana dilaporkan Red Bull BORA.</p><p>Lipowitz yang mantan atlet biathlon menarik perhatian dunia sepakbola sepeda dengan finis podium di Tour de France 2025, dan kini di Tour de France 2026 ia menempati posisi kelima di klasemen umum setelah tahap 1 time trial tim di Barcelona, tertinggal 19 detik dari Jonas Vingegaard, sebagaimana dilaporkan Cyclingnews.</p><p>Perjalanan karier Lipowitz menjadi inspirasi — dari atlet biathlon yang beralih ke balap sepeda, ia kini menjadi harapan terbesar Jerman di Tour de France, di tengah kebangkitan tim Jerman dalam balap sepeda profesional setelah era kejayaan Team Telekom tahun 1990-an, sebagaimana dilaporkan Red Bull.</p><p>Cyclingnews mengingat kembali bahwa 30 tahun lalu, Team Telekom asal Jerman mengirim gelombang kejut ke seluruh peloton dengan mengakhiri dominasi Miguel Indurain di Tour de France, dan kini Lidl-Trek yang baru saja menjadi tim terdaftar Jerman juga menunjukkan ambisi super-sized untuk 2026 dan seterusnya.</p><p>Kejuaraan Nasional Jerman 2026 dimenangkan oleh Felix Engelhardt yang mengejar break di kilometer terakhir untuk meraih juara jalan raya elite putra pertamanya, menandakan munculnya generasi baru pebalap Jerman yang siap bersaing di panggung global.</p>',
+            source: 'Red Bull BORA', sourceUrl: 'https://www.redbullborahansgrohe.com/en/news/red-bull-bora-hansgrohe-lineup-tour-de-france-2026', sourceSnippet: 'Red Bull BORA hansgrohe lineup Tour de France 2026 — Red Bull BORA',
+            source2: 'Cyclingnews', sourceUrl2: 'https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-gc-standings-2026/', sourceSnippet2: 'Tour de France GC standings 2026 — Cyclingnews',
+            source3: 'Red Bull', sourceUrl3: 'https://www.redbull.com/int-en/florian-lipowitz-career-portrait', sourceSnippet3: 'From biathlon to Tour de France podium: The rise of Florian Lipowitz — Red Bull'
+          },
+          en: {
+            title: "Florian Lipowitz: German Rider Co-Leading Tour de France 2026 with Remco Evenepoel",
+            desc: "German rider Florian Lipowitz, 24, leads Red Bull-BORA-hansgrohe alongside world champion Remco Evenepoel at the 2026 Tour de France as co-leader.",
+            content: "<p>German rider Florian Lipowitz, 24, has become one of the leaders of Red Bull-BORA-hansgrohe at the 2026 Tour de France, sharing leadership with world time trial champion Remco Evenepoel in a dual leadership approach marking the German team's grand ambitions, Red Bull BORA reported.</p><p>The former biathlete turned cyclist drew global attention with a podium finish at the 2025 Tour de France, and now at the 2026 Tour de France he sits fifth in the general classification after the stage 1 team time trial in Barcelona, 19 seconds behind Jonas Vingegaard, Cyclingnews reported.</p><p>Lipowitz's career journey is inspirational — from a biathlon athlete who switched to cycling, he is now Germany's biggest hope at the Tour de France, amid a resurgence of German teams in professional cycling after the golden era of Team Telekom in the 1990s, Red Bull reported.</p><p>Cyclingnews recalled that 30 years ago, Germany's Team Telekom sent shockwaves through the peloton by ending Miguel Indurain's Tour de France dominance, and now Lidl-Trek, which recently became a German-registered team, is also showing super-sized ambitions for 2026 and beyond.</p><p>The 2026 German National Championships were won by Felix Engelhardt, who chased back onto the break in the final kilometres to win his first elite men's road title, signalling the emergence of a new generation of German riders ready to compete on the global stage.</p>",
+            source: 'Red Bull BORA', sourceUrl: 'https://www.redbullborahansgrohe.com/en/news/red-bull-bora-hansgrohe-lineup-tour-de-france-2026', sourceSnippet: 'Red Bull BORA hansgrohe lineup Tour de France 2026 — Red Bull BORA',
+            source2: 'Cyclingnews', sourceUrl2: 'https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-gc-standings-2026/', sourceSnippet2: 'Tour de France GC standings 2026 — Cyclingnews',
+            source3: 'Red Bull', sourceUrl3: 'https://www.redbull.com/int-en/florian-lipowitz-career-portrait', sourceSnippet3: 'From biathlon to Tour de France podium: Florian Lipowitz — Red Bull'
+          },
+          ja: {
+            title: 'フロリアン・リポヴィッツ：レムコ・エヴェネプールと共にツールドフランス2026を共闘するドイツ人選手',
+            desc: 'ドイツ人選手フロリアン・リポヴィッツ（24歳）がレッドブル・ボーラ・ハンスグローエで世界チャンピオンのレムコ・エヴェネプールと共にツールドフランス2026の共同リーダーを務める。',
+            content: '<p>ドイツ人選手フロリアン・リポヴィッツ（24歳）がレッドブル・ボーラ・ハンスグローエの2026年ツールドフランスのリーダーの一人となり、世界タイムトライアルチャンピオンのレムコ・エヴェネプールと共同リーダーシップを分担しています。</p><p>元バイアスロン選手から自転車競技に転向したリポヴィッツは、2025年ツールドフランスで表彰台を獲得し世界の注目を集めました。</p>',
+            source: 'Red Bull BORA', sourceUrl: 'https://www.redbullborahansgrohe.com/en/news/red-bull-bora-hansgrohe-lineup-tour-de-france-2026', sourceSnippet: 'リポヴィッツ — Red Bull BORA'
+          },
+          ko: {
+            title: '플로리안 리포비츠: 렘코 에베네풀과 2026 투르 드 프랑스 공동 주장인 독일 선수',
+            desc: '독일 선수 플로리안 리포비츠(24세)가 레드불-보라-한스그로헤에서 세계 챔피언 렘코 에베네풀과 함께 2026 투르 드 프랑스 공동 주장을 맡는다.',
+            content: '<p>독일 선수 플로리안 리포비츠(24세)가 레드불-보라-한스그로헤의 2026 투르 드 프랑스 리더 중 한 명이 되어 세계 타임트라이얼 챔피언 렘코 에베네풀과 공동 주장을 분담하고 있다.</p><p>전 바이애슬론 선수에서 사이클로 전향한 리포비츠는 2025년 투르 드 프랑스에서 포디엄을 차지하며 세계의 주목을 끌었다.</p>',
+            source: 'Red Bull BORA', sourceUrl: 'https://www.redbullborahansgrohe.com/en/news/red-bull-bora-hansgrohe-lineup-tour-de-france-2026', sourceSnippet: '리포비츠 — Red Bull BORA'
+          },
+          zh: {
+            title: '弗洛里安·利波维茨：与雷姆科·埃文波特共同领衔2026环法的德国车手',
+            desc: '德国车手弗洛里安·利波维茨（24岁）在红牛-博拉-汉斯格雅车队与世界冠军雷姆科·埃文波特共同担任2026环法自行车赛联合队长。',
+            content: '<p>德国车手弗洛里安·利波维茨（24岁）成为红牛-博拉-汉斯格雅车队在2026环法自行车赛的领袖之一，与世界计时赛冠军雷姆科·埃文波特共享领骑权，标志着这支德国车队的宏大雄心。</p><p>这位前冬季两项运动员转型的自行车手在2025年环法登上领奖台，引起全球关注。</p>',
+            source: 'Red Bull BORA', sourceUrl: 'https://www.redbullborahansgrohe.com/en/news/red-bull-bora-hansgrohe-lineup-tour-de-france-2026', sourceSnippet: '利波维茨 — Red Bull BORA'
+          }
+        }
+      }
+
+      ,{
+        id: 'jerman-mahasiswa-india-tenggelam-5juli2026',
+        langs: {
+          id: {
+            title: 'Mahasiswa India Tenggelam di Jerman, Empat Orang Diperiksa',
+            desc: 'Mahasiswa India berusia 21 tahun asal Mangaluru yang menempuh pendidikan BBA di Jerman dilaporkan tewas dalam insiden tenggelam, dengan empat orang sedang diperiksa.',
+            content: '<p>Mohammed Aniz Abubakker, 21 tahun, mahasiswa India asal Marakada-Kunjathbail di Mangaluru, Karnataka, yang sedang menempuh pendidikan BBA di Jerman, dilaporkan tewas dalam insiden tenggelam di Jerman pada 5 Juli 2026, sebagaimana dilaporkan Times of India.</p><p>Empat orang sedang diperiksa sehubungan dengan insiden tersebut, dengan pihak berwenang Jerman melakukan investigasi untuk menentukan penyebab dan kronologi kejadian yang merenggut nyawa mahasiswa muda tersebut.</p><p>Keluarga di Mangaluru sedang menunggu proses repatriasi jenazah ke India, dengan pemerintah India dan konsulat Jerman berkoordinasi untuk memfasilitasi pengiriman jenazah kembali ke kampung halaman, sebagaimana dilaporkan sumber lokal.</p><p>Insiden ini menyoroti risiko keselamatan yang dihadapi mahasiswa internasional di Jerman, di mana ribuan mahasiswa India menempuh pendidikan tinggi setiap tahun, dengan sebagian insiden yang melibatkan kecelakaan di perairan selama musim panas ketika suhu tinggi mendorong aktivitas air.</p><p>Kasus ini menjadi berita utama di Karnataka, India, dengan keprihatinan luas dari keluarga dan komunitas Mangaluru yang meminta transparansi dalam investigasi Jerman serta pemulangan jenazah secepat mungkin.</p>',
+            source: 'Times of India', sourceUrl: 'https://timesofindia.indiatimes.com/world/europe/indian-student-drowns-in-germany-four-questioned/articleshow/132189420.cms', sourceSnippet: 'Indian student drowns in Germany; four questioned — Times of India, 5 Juli 2026'
+          },
+          en: {
+            title: "Indian Student Drowns in Germany, Four People Questioned",
+            desc: "A 21-year-old Indian student from Mangaluru pursuing a BBA in Germany was reported dead in a drowning incident, with four people being questioned.",
+            content: "<p>Mohammed Aniz Abubakker, 21, an Indian student from Marakada-Kunjathbail in Mangaluru, Karnataka, who was pursuing a BBA in Germany, was reported dead in a drowning incident in Germany on July 5, 2026, Times of India reported.</p><p>Four people are being questioned in connection with the incident, with German authorities conducting an investigation to determine the cause and circumstances of the event that claimed the young student's life.</p><p>The family in Mangaluru is awaiting the repatriation of the body to India, with the Indian government and German consulate coordinating to facilitate the return of the remains to his hometown, local sources reported.</p><p>The incident highlights the safety risks faced by international students in Germany, where thousands of Indian students pursue higher education each year, with some incidents involving water accidents during the summer when high temperatures encourage water activities.</p><p>The case made headlines in Karnataka, India, with widespread concern from the family and Mangaluru community demanding transparency in the German investigation and the speedy return of the remains.</p>",
+            source: 'Times of India', sourceUrl: 'https://timesofindia.indiatimes.com/world/europe/indian-student-drowns-in-germany-four-questioned/articleshow/132189420.cms', sourceSnippet: 'Indian student drowns in Germany; four questioned — Times of India, July 5, 2026'
+          },
+          ja: {
+            title: 'ドイツでインド人学生が溺死、4人が取り調べ',
+            desc: 'ドイツでBBAを学ぶ21歳のインド人学生が溺死事故で亡くなり、4人が取り調べを受けている。',
+            content: '<p>ドイツでBBAを学ぶ21歳のインド人学生モハメド・アニズ・アブバッカーが溺死事故で亡くなり、4人が取り調べを受けていると、Times of Indiaが2026年7月5日に報じました。</p><p>ドイツ当局は若い学生の命を奪った事件の原因と経緯を特定するため調査を行っています。</p><p>インドのマンガルールにいる家族は遺体の帰国を待っており、インド政府とドイツ領事館が協力して遺体の返還を進めています。</p>',
+            source: 'Times of India', sourceUrl: 'https://timesofindia.indiatimes.com/world/europe/indian-student-drowns-in-germany-four-questioned/articleshow/132189420.cms', sourceSnippet: 'インド人学生溺死 — Times of India'
+          },
+          ko: {
+            title: '독일에서 인도 학생 익사, 4명 조사 중',
+            desc: '독일에서 BBA를 공부하던 21세 인도 학생이 익사 사고로 사망했으며 4명이 조사를 받고 있다.',
+            content: '<p>독일에서 BBA를 공부하던 21세 인도 학생 모하메드 아니즈 아부바카르가 익사 사고로 사망했으며 4명이 조사를 받고 있다고 Times of India가 2026년 7월 5일 보도했다.</p><p>독일 당국은 젊은 학생의 목숨을 앗아간 사건의 원인과 정황을 파악하기 위해 조사를 진행 중이다.</p><p>인도 만갈루르에 있는 가족은 시신 송환을 기다리고 있으며, 인도 정부와 독일 영사관이 시신 반환을 조율하고 있다.</p>',
+            source: 'Times of India', sourceUrl: 'https://timesofindia.indiatimes.com/world/europe/indian-student-drowns-in-germany-four-questioned/articleshow/132189420.cms', sourceSnippet: '인도 학생 익사 — Times of India'
+          },
+          zh: {
+            title: '印度学生在德国溺水身亡，四人接受调查',
+            desc: '一名21岁的印度学生在德国攻读BBA时溺水身亡，四人正在接受调查。',
+            content: '<p>据《印度时报》2026年7月5日报道，一名21岁的印度学生穆罕默德·阿尼斯·阿布巴卡尔在德国攻读BBA时溺水身亡，四人正在接受调查。</p><p>德国当局正在进行调查以确定夺去这位年轻学生生命的事件的原因和经过。</p><p>在曼格卢尔的家人正等待遗体遣返印度，印度政府和德国领事馆正在协调将遗体送回家乡。</p>',
+            source: 'Times of India', sourceUrl: 'https://timesofindia.indiatimes.com/world/europe/indian-student-drowns-in-germany-four-questioned/articleshow/132189420.cms', sourceSnippet: '印度学生溺水 — 印度时报'
+          }
+        }
+      }
 
     ]
   };
