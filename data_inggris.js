@@ -708,6 +708,77 @@
             source: 'Outlook Business', sourceUrl: 'https://www.outlookbusiness.com/economy-and-policy/govt-notifies-customs-tariff-rules-for-india-uk-trade-pact-clears-way-for-july-15-rollout', sourceSnippet: '印度-英国贸易协定 — Outlook Business'
           }
         }
+      },
+      {
+        id: 'inggris-pangeran-harry-meghan-london-juli2026',
+        langs: {
+        'id': {
+          title: "Pangeran Harry Tidak Membawa Meghan dan Anak-anak ke London Amid Sengketa Keamanan",
+          desc: "Meghan dan anak-anak mereka tidak akan menemani Pangeran Harry ke London pekan depan di tengah sengketa pengaturan keamanan.",
+          content: "<p>Juru bicara Pangeran Harry mengonfirmasi pada 4 Juli 2026 bahwa Meghan, Duchess of Sussex, serta anak-anak mereka Prince Archie dan Princess Lilibet tidak akan ikut serta dalam kunjungan Pangeran Harry ke London pekan depan. Keputusan ini diambil di tengah sengketa berkepanjangan antara Pangeran Harry dan pemerintah Inggris terkait pengaturan keamanan.</p><p>Sengketa keamanan ini berakar pada keputusan pemerintah Inggris tahun 2020 untuk mencabut perlindungan kepolisian otomatis bagi Pangeran Harry setelah ia mengundurkan diri dari tugas kerajaan dan pindah ke Amerika Serikat. Pangeran Harry telah berkali-kali mengajukan banding hukum untuk memulihkan perlindungan keamanan, dengan alasan keluarganya menghadapi ancaman keamanan nyata. Namun pengadilan Inggris menolak banding tersebut.</p><p>Kunjungan Pangeran Harry ke London dikabarkan terkait acara amal dan pertemuan yayasan. Ketidakhadiran Meghan dan anak-anak memperdalam spekulasi tentang hubungan yang semakin renggang antara Pangeran Harry dan keluarga kerajaan Inggris. Meghan belum kembali ke Inggris sejak pemakaman Ratu Elizabeth II pada September 2022.</p><p>Situasi ini mencerminkan ketegangan lebih luas antara pasangan Sussex dan keluarga kerajaan, yang menjadi sorotan publik sejak wawancara Meghan dengan Oprah Winfrey tahun 2021. Dalam wawancara tersebut Meghan mengungkapkan perjuangan kesehatan mental dan tuduhan rasisme dalam keluarga kerajaan. Hubungan memburak setelah publikasi memoir Pangeran Harry \"Spare\" tahun 2023.</p>",
+          source: "CNN",
+          sourceUrl: "https://www.cnn.com/2026/07/04/uk/prince-harry-meghan-uk-visit-intl",
+          sourceSnippet: "Prince Harry will not bring Meghan and children on London trip — CNN, 4 Juli 2026",
+          source2: "Reuters",
+          sourceUrl2: "https://www.reuters.com/world/uk/prince-harrys-wife-meghan-their-children-will-not-join-him-london-next-week-2026-07-04/",
+          sourceSnippet2: "Prince Harry\'s wife Meghan and children will not join him in London — Reuters, 4 Juli 2026",
+          source3: "BBC News",
+          sourceUrl3: "https://www.bbc.com/news/",
+          sourceSnippet3: "Prince Harry security dispute continues — BBC News"
+        },        'en': {
+          title: "Prince Harry Will Not Bring Meghan and Children to London Amid Security Dispute",
+          desc: "The Duchess of Sussex Meghan and their two children will not accompany Prince Harry on his London visit next week amid a security dispute.",
+          content: "<p>Prince Harry\'s spokesperson confirmed on July 4, 2026, that his wife Meghan, Duchess of Sussex, and their two children, Prince Archie and Princess Lilibet, will not accompany him on his visit to London next week. The decision comes amid an ongoing dispute between Prince Harry and the UK government over security arrangements.</p><p>The security dispute stems from the UK government\'s 2020 decision to remove Prince Harry\'s automatic police protection after he stepped back from royal duties and moved to the United States. Prince Harry has repeatedly filed legal appeals to restore taxpayer-funded security protection, arguing that his family faces genuine security threats. However, UK courts have rejected these appeals.</p><p>Prince Harry\'s visit to London is reportedly related to charity events and foundation meetings. However, Meghan and the children\'s absence deepens speculation about the increasingly strained relationship between Prince Harry and the British royal family. Meghan has not returned to the UK since Queen Elizabeth II\'s funeral in September 2022.</p><p>The situation reflects broader tensions between the Sussex couple and the royal family, which have been in the public spotlight since Meghan\'s interview with Oprah Winfrey in 2021. In that interview, Meghan revealed her mental health struggles and allegations of racism within the royal family. The relationship further deteriorated following the publication of Prince Harry\'s memoir \"Spare\" in 2023.</p>",
+          source: "CNN",
+          sourceUrl: "https://www.cnn.com/2026/07/04/uk/prince-harry-meghan-uk-visit-intl",
+          sourceSnippet: "Prince Harry will not bring Meghan and children on London trip — CNN, 4 Juli 2026",
+          source2: "Reuters",
+          sourceUrl2: "https://www.reuters.com/world/uk/prince-harrys-wife-meghan-their-children-will-not-join-him-london-next-week-2026-07-04/",
+          sourceSnippet2: "Prince Harry\'s wife Meghan and children will not join him in London — Reuters, 4 Juli 2026",
+          source3: "BBC News",
+          sourceUrl3: "https://www.bbc.com/news/",
+          sourceSnippet3: "Prince Harry security dispute continues — BBC News"
+        },        'ja': {
+          title: "ハリー王子、ロンドン訪問にメーガンと子供を連れず — 警備論争の中",
+          desc: "サセックス公爵夫人メーガンと子供たちは警備問題を巡る論争の中、ハリー王子のロンドン訪問に同行しない。",
+          content: "<p>ハリー王子の広報は2026年7月4日、妻メーガン妃と二人の子供が来週のハリー王子のロンドン訪問に同行しないことを確認しました。この決定はハリー王子と英国政府の間の警備手配を巡る継続的な論争の中で下されました。</p><p>警備論争はハリー王子が王室の公務から退きアメリカに移住した後、2020年に英国政府が自動警察警護を取り消したことに端を発します。ハリー王子は家族が真の脅威に直面していると主張し、税金で賄われる警備保護を回復するために繰り返し法的控訴を申し立てました。しかし英国裁判所はこれらを棄却しました。</p><p>ハリー王子のロンドン訪問は慈善事業のイベントに関連していると報じられています。メーガンと子供たちの不在はハリー王子と英国王室の間の緊張した関係についての憶測を深めています。メーガンは2022年9月のエリザベス女王の国葬以来英国に戻っていません。</p><p>この状況は2021年のオプラ・ウィンフリーとのインタビュー以来公の注目を集めているサセックス夫妻と王室の間の緊張も反映しています。関係は2023年の回顧録「Spare」の出版後さらに悪化しました。</p>",
+          source: "CNN",
+          sourceUrl: "https://www.cnn.com/2026/07/04/uk/prince-harry-meghan-uk-visit-intl",
+          sourceSnippet: "Prince Harry will not bring Meghan and children on London trip — CNN, 4 Juli 2026",
+          source2: "Reuters",
+          sourceUrl2: "https://www.reuters.com/world/uk/prince-harrys-wife-meghan-their-children-will-not-join-him-london-next-week-2026-07-04/",
+          sourceSnippet2: "Prince Harry\'s wife Meghan and children will not join him in London — Reuters, 4 Juli 2026",
+          source3: "BBC News",
+          sourceUrl3: "https://www.bbc.com/news/",
+          sourceSnippet3: "Prince Harry security dispute continues — BBC News"
+        },        'ko': {
+          title: "해리 왕자, 런던 방문에 메건과 자녀 동반 안 해 — 경비 분쟁 속",
+          desc: "서섹스 공작부인 메건과 두 자녀는 경비 문제를 둘러싼 분쟁 속에서 해리 왕자의 런던 방문에 동행하지 않는다.",
+          content: "<p>해리 왕자의 대변인은 2026년 7월 4일 아내 메건과 두 자녀가 다음 주 해리 왕자의 런던 방문에 동행하지 않을 것이라고 확인했습니다. 이 결정은 해리 왕자와 영국 정부 간의 경비 문제를 둘러싼 지속적인 분쟁 속에서 내려졌습니다.</p><p>경비 분쟁은 해리 왕자가 왕실 직무에서 물러나 미국으로 이주한 후 2020년 영국 정부가 자동 경찰 경호를 철회한 데서 비롯되었습니다. 해리 왕자는 가족이 실질적인 보안 위협에 직면해 있다고 주장하며 반복적으로 법적 항소를 제기했습니다. 그러나 영국 법원은 이를 기각했습니다.</p><p>해리 왕자의 런던 방문은 자선 행사와 관련된 것으로 보도되었습니다. 메건과 자녀들의 부재는 해리 왕자와 영국 왕실 간의 긴장된 관계에 대한 추측을 심화시킵니다. 메건은 2022년 9월 엘리자베스 여왕의 장례식 이후 영국으로 돌아가지 않았습니다.</p><p>이 상황은 2021년 오프라 윈프리와의 인터뷰 이후 공적 관심을 받고 있는 서섹스 부부와 왕실 간의 긴장을 반영합니다. 관계는 2023년 회고록 \"Spare\" 출판 후 더욱 악화되었습니다.</p>",
+          source: "CNN",
+          sourceUrl: "https://www.cnn.com/2026/07/04/uk/prince-harry-meghan-uk-visit-intl",
+          sourceSnippet: "Prince Harry will not bring Meghan and children on London trip — CNN, 4 Juli 2026",
+          source2: "Reuters",
+          sourceUrl2: "https://www.reuters.com/world/uk/prince-harrys-wife-meghan-their-children-will-not-join-him-london-next-week-2026-07-04/",
+          sourceSnippet2: "Prince Harry\'s wife Meghan and children will not join him in London — Reuters, 4 Juli 2026",
+          source3: "BBC News",
+          sourceUrl3: "https://www.bbc.com/news/",
+          sourceSnippet3: "Prince Harry security dispute continues — BBC News"
+        },        'zh': {
+          title: "哈里王子在安全争端中不带梅根和子女前往伦敦",
+          desc: "苏塞克斯公爵夫人梅根和他们的两个孩子将在安全安排争端中不陪同哈里王子访问伦敦。",
+          content: "<p>哈里王子的发言人于2026年7月4日确认，妻子梅根和他们的两个孩子将不会陪同他下周访问伦敦。这一决定是在哈里王子与英国政府之间关于安全安排的持续争端中做出的。</p><p>安全争端源于英国政府2020年在哈里王子退出王室职责并移居美国后取消其自动警察保护的决定。哈里王子多次提起法律上诉要求恢复安全保护，认为家人面临真实的安全威胁。然而英国法院驳回了这些上诉。</p><p>据报道，哈里王子访问伦敦与慈善活动有关。梅根和孩子们的缺席加深了关于哈里王子与英国王室关系日益紧张的猜测。梅根自2022年9月伊丽莎白女王葬礼以来一直没有返回英国。</p><p>这一情况反映了自2021年梅根接受奥普拉采访以来受到公众关注的苏塞克斯夫妇与王室之间的紧张关系。在2023年哈里王子回忆录《备用》出版后关系进一步恶化。</p>",
+          source: "CNN",
+          sourceUrl: "https://www.cnn.com/2026/07/04/uk/prince-harry-meghan-uk-visit-intl",
+          sourceSnippet: "Prince Harry will not bring Meghan and children on London trip — CNN, 4 Juli 2026",
+          source2: "Reuters",
+          sourceUrl2: "https://www.reuters.com/world/uk/prince-harrys-wife-meghan-their-children-will-not-join-him-london-next-week-2026-07-04/",
+          sourceSnippet2: "Prince Harry\'s wife Meghan and children will not join him in London — Reuters, 4 Juli 2026",
+          source3: "BBC News",
+          sourceUrl3: "https://www.bbc.com/news/",
+          sourceSnippet3: "Prince Harry security dispute continues — BBC News"
+        }
+        }
       }
 
     ]

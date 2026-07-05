@@ -616,6 +616,77 @@
           }
         }
       },
+      {
+        id: 'indonesia-anak-krakatau-level3-erupsi-juli2026',
+        langs: {
+        'id': {
+          title: "Anak Krakatau Status Dinaikkan ke Level III Siaga Setelah Erupsi Baru 2 Juli 2026",
+          desc: "Badan Geologi Indonesia meningkatkan status Anak Krakatau dari Level II ke Level III Siaga setelah erupsi mengeluarkan kolom abu setinggi 200 meter.",
+          content: "<p>Badan Geologi Indonesia melalui MAGMA Indonesia resmi meningkatkan tingkat aktivitas Gunung Anak Krakatau dari Level II (Waspada) menjadi Level III (Siaga) pada pukul 16.30 WIB tanggal 2 Juli 2026. Peningkatan status ini diambil setelah erupsi pada pukul 14.05 WIB yang mengeluarkan kolom abu abu-ke-hitam setinggi sekitar 200 meter di atas puncak. Otoritas menetapkan zona eksklusi radius 3 kilometer dari kawah aktif.</p><p>Berdasarkan data seismik, antara 16 Juni dan 2 Juli 2026 tercatat 740 gempa exhalasi, 247 gempa frekuensi rendah, 520 gempa hibrida, serta 16 kejadian tremor kontinu. Peningkatan aktivitas seismik ini mengindikasikan adanya pergerakan magma di bawah permukaan. Citra satelit Sentinel-2 mengonfirmasi adanya anomali termal dan emisi sulfur dioksida sejak awal Juni 2026.</p><p>Pada 3 Juli 2026, pengamatan visual mencatat emisi putih-ke-abu setinggi 10-100 meter di atas puncak, dua gempa vulkanik dangkal dengan amplitudo 13-18 mm, dan tremor kontinu dengan amplitudo 1-4 mm. Masyarakat pesisir Banten dan Lampung dihimbau untuk tetap tenang dan tidak mempercayai klaim bahwa erupsi akan segera memicu tsunami.</p><p>Anak Krakatau memiliki sejarah dokumentasi pembangkitan tsunami melalui runtuhan sisi gunung. Pada 22 Desember 2018, erupsi memicu runtuhan sekitar 64 hektar sisi gunung yang menewaskan 437 orang di sepanjang pantai Banten dan Lampung. Namun, tidak setiap erupsi menghasilkan tsunami, dan emisi abu saja tidak menandakan tsunami akan terjadi.</p>",
+          source: "The Watchers",
+          sourceUrl: "https://watchers.news/2026/07/03/anak-krakatau-alert-raised-to-level-iii-after-renewed-eruptions-indonesia/",
+          sourceSnippet: "Anak Krakatau alert raised to Level III after renewed eruptions — The Watchers, 3 Juli 2026",
+          source2: "Badan Geologi",
+          sourceUrl2: "https://vsi.esdm.go.id/",
+          sourceSnippet2: "Kenaikan tingkat aktivitas Anak Krakatau Level III — Badan Geologi, 2 Juli 2026",
+          source3: "MAGMA Indonesia",
+          sourceUrl3: "https://magma.esdm.go.id/",
+          sourceSnippet3: "Data seismik real-time Anak Krakatau — MAGMA Indonesia"
+        },        'en': {
+          title: "Anak Krakatau Alert Raised to Level III After Renewed Eruptions on July 2, 2026",
+          desc: "Indonesia\'s Geological Agency raised Anak Krakatau alert from Level II to Level III after an eruption sent a 200-meter ash plume above the summit.",
+          content: "<p>Indonesia\'s Geological Agency through MAGMA Indonesia officially raised the activity level of Anak Krakatau from Level II (Waspada) to Level III (Siaga) at 16:30 WIB on July 2, 2026. The upgrade came after an eruption at 14:05 WIB produced a dense gray-to-black ash column approximately 200 meters above the summit. Authorities established a 3-kilometer exclusion zone around the active crater.</p><p>Seismic data between June 16 and July 2 recorded 740 exhalation earthquakes, 247 low-frequency earthquakes, 520 hybrid earthquakes, and 16 continuous tremor events. This elevated seismicity indicates magma movement beneath the surface. Sentinel-2 satellite imagery confirmed thermal anomalies and sulfur dioxide emissions since early June 2026.</p><p>On July 3, visual observations recorded white-to-gray emissions rising 10-100 meters above the summit, two shallow volcanic earthquakes with amplitudes of 13-18 mm, and continuous tremor with amplitudes of 1-4 mm. Coastal communities in Banten and Lampung were advised to remain calm and follow local disaster management guidance.</p><p>The Geological Agency reminded that Anak Krakatau has a documented history of tsunami generation through volcanic flank collapse. On December 22, 2018, an eruption triggered the collapse of approximately 64 hectares of the volcano\'s flank, producing tsunami waves that killed 437 people. However, not every eruption produces a tsunami, and ash emissions alone do not indicate tsunami generation is expected.</p>",
+          source: "The Watchers",
+          sourceUrl: "https://watchers.news/2026/07/03/anak-krakatau-alert-raised-to-level-iii-after-renewed-eruptions-indonesia/",
+          sourceSnippet: "Anak Krakatau alert raised to Level III after renewed eruptions — The Watchers, 3 Juli 2026",
+          source2: "Badan Geologi",
+          sourceUrl2: "https://vsi.esdm.go.id/",
+          sourceSnippet2: "Kenaikan tingkat aktivitas Anak Krakatau Level III — Badan Geologi, 2 Juli 2026",
+          source3: "MAGMA Indonesia",
+          sourceUrl3: "https://magma.esdm.go.id/",
+          sourceSnippet3: "Data seismik real-time Anak Krakatau — MAGMA Indonesia"
+        },        'ja': {
+          title: "アナク・クラカタウ火山の警戒レベルが噴火によりレベルIIIに引き上げ",
+          desc: "インドネシア地質機関は2026年7月2日の噴火後、アナク・クラカタウの警戒レベルをレベルIIからレベルIIIに引き上げた。",
+          content: "<p>インドネシア地質機関（MAGMA Indonesia）は2026年7月2日16時30分WIBに、アナク・クラカタウ火山の活動レベルをレベルII（注意）からレベルIII（警戒）に正式に引き上げました。同日14時05分WIBに山頂上約200メートルの高さまで立ち上る灰色から黒色の濃密な噴煙を伴う噴火が発生した後に取られました。当局は活発な火口から半径3キロメートルの立ち入り禁止区域を設定しました。</p><p>6月16日から7月2日までの地震データでは、740回の呼気地震、247回の低周波地震、520回のハイブリッド地震、16回の連続トレモが記録されました。Sentinel-2衛星画像は2026年6月上旬からの熱異常と二酸化硫黄排出を確認しました。</p><p>7月3日には山頂上10〜100メートルの白から灰色の噴気、振幅13〜18mmの浅い火山性地震2回が観測されました。バンテン州とランプン州の沿岸住民は冷静さを保つよう呼びかけられました。</p><p>2018年12月22日、噴火が約64ヘクタールの山体崩壊を引き起こし、バンテンとランプン沿岸で437人が死亡する津波を発生させました。ただしすべての噴火が津波を引き起こすわけではありません。</p>",
+          source: "The Watchers",
+          sourceUrl: "https://watchers.news/2026/07/03/anak-krakatau-alert-raised-to-level-iii-after-renewed-eruptions-indonesia/",
+          sourceSnippet: "Anak Krakatau alert raised to Level III after renewed eruptions — The Watchers, 3 Juli 2026",
+          source2: "Badan Geologi",
+          sourceUrl2: "https://vsi.esdm.go.id/",
+          sourceSnippet2: "Kenaikan tingkat aktivitas Anak Krakatau Level III — Badan Geologi, 2 Juli 2026",
+          source3: "MAGMA Indonesia",
+          sourceUrl3: "https://magma.esdm.go.id/",
+          sourceSnippet3: "Data seismik real-time Anak Krakatau — MAGMA Indonesia"
+        },        'ko': {
+          title: "아나크 크라카타우 경보, 2026년 7월 2일 새로운 분화 후 레벨 III로 상향",
+          desc: "인도네시아 지질청은 200미터 높이의 화산재 기둥이 분출된 후 아나크 크라카타우 경보를 레벨 II에서 레벨 III으로 상향했다.",
+          content: "<p>인도네시아 지질청(MAGMA Indonesia)은 2026년 7월 2일 16시 30분 WIB에 아나크 크라카타우 화산의 활동 수준을 레벨 II에서 레벨 III으로 공식 상향했습니다. 같은 날 14시 05분 WIB에 정상 위 약 200미터 높이까지 치솟는 화산재 기둥을 동반한 분화가 발생한 후 취해졌습니다. 당국은 활동 분화구 반경 3킬로미터의 출입 금지 구역을 설정했습니다.</p><p>6월 16일부터 7월 2일까지의 지진 데이터에서 740회의 호기성 지진, 247회의 저주파 지진, 520회의 하이브리드 지진이 기록되었습니다. Sentinel-2 위성 이미지는 2026년 6월 초부터 열 이상과 이산화황 배출을 확인했습니다.</p><p>7월 3일에는 정상 위 10~100미터의 백색에서 회색의 가스 배출, 진폭 13~18mm의 얕은 화산성 지진 2회가 관측되었습니다. 바튼주와 람풍주의 연안 주민들은 침착함을 유지하도록 권고받았습니다.</p><p>2018년 12월 22일 분화가 약 64헥타르의 화산 측면 붕괴를 유발하여 437명의 사망자를 낸 쓰나미를 발생시켰습니다. 그러나 모든 분화가 쓰나미를 일으키는 것은 아닙니다.</p>",
+          source: "The Watchers",
+          sourceUrl: "https://watchers.news/2026/07/03/anak-krakatau-alert-raised-to-level-iii-after-renewed-eruptions-indonesia/",
+          sourceSnippet: "Anak Krakatau alert raised to Level III after renewed eruptions — The Watchers, 3 Juli 2026",
+          source2: "Badan Geologi",
+          sourceUrl2: "https://vsi.esdm.go.id/",
+          sourceSnippet2: "Kenaikan tingkat aktivitas Anak Krakatau Level III — Badan Geologi, 2 Juli 2026",
+          source3: "MAGMA Indonesia",
+          sourceUrl3: "https://magma.esdm.go.id/",
+          sourceSnippet3: "Data seismik real-time Anak Krakatau — MAGMA Indonesia"
+        },        'zh': {
+          title: "喀拉喀托之子火山警戒级别在2026年7月2日新喷发后升至三级",
+          desc: "印度尼西亚地质局在喷发产生200米高火山灰柱后将喀拉喀托之子火山警戒级别从二级提升至三级。",
+          content: "<p>印度尼西亚地质局通过MAGMA Indonesia于2026年7月2日16时30分WIB正式将喀拉喀托之子火山活动级别从二级提升至三级。此次升级是在当天14时05分WIB发生喷火、产生约200米高的密集灰色至黑色火山灰柱后采取的。当局在活跃火山口周围设立了3公里禁入区。</p><p>根据6月16日至7月2日的地震数据，记录了740次喷气地震、247次低频地震、520次混合地震和16次连续颤动事件。Sentinel-2卫星图像确认了自2026年6月初以来的热异常和二氧化硫排放。</p><p>7月3日，视觉观测记录到火山口上方10-100米的白色至灰色排放物和两次振幅13-18毫米的浅层火山地震。万丹省和楠榜省沿海社区被建议保持冷静。</p><p>2018年12月22日，一次喷发引发了约64公顷火山侧翼崩塌，产生了在万丹和楠榜沿岸造成437人死亡的海啸。然而并非每次喷发都会产生海啸。</p>",
+          source: "The Watchers",
+          sourceUrl: "https://watchers.news/2026/07/03/anak-krakatau-alert-raised-to-level-iii-after-renewed-eruptions-indonesia/",
+          sourceSnippet: "Anak Krakatau alert raised to Level III after renewed eruptions — The Watchers, 3 Juli 2026",
+          source2: "Badan Geologi",
+          sourceUrl2: "https://vsi.esdm.go.id/",
+          sourceSnippet2: "Kenaikan tingkat aktivitas Anak Krakatau Level III — Badan Geologi, 2 Juli 2026",
+          source3: "MAGMA Indonesia",
+          sourceUrl3: "https://magma.esdm.go.id/",
+          sourceSnippet3: "Data seismik real-time Anak Krakatau — MAGMA Indonesia"
+        }
+        }
+      }
 
     ]
   };

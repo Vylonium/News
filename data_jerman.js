@@ -831,6 +831,77 @@
             source: 'Times of India', sourceUrl: 'https://timesofindia.indiatimes.com/world/europe/indian-student-drowns-in-germany-four-questioned/articleshow/132189420.cms', sourceSnippet: '印度学生溺水 — 印度时报'
           }
         }
+      },
+      {
+        id: 'jerman-afd-pilih-pemimpin-protes-besar-juli2026',
+        langs: {
+        'id': {
+          title: "Partai AfD Jerman Memilih Ulang Pemimpin di Tengah Protes Massal di Erfurt",
+          desc: "Partai sayap kanan AfD memilih ulang Alice Weidel dan Tino Chrupalla di tengah bentrokan dengan polisi dan protes massal.",
+          content: "<p>Partai sayap kanan Alternative for Germany (AfD) memilih ulang pemimpinnya Alice Weidel dan Tino Chrupalla pada konferensi partai di Erfurt pada 4-5 Juli 2026, di tengah protes massal dan bentrokan dengan polisi. Para delegasi AfD mencoba menunjukkan kesatuan saat mereka memperpanjang masa jabatan kedua pemimpin yang telah memimpin partai sejak 2019.</p><p>Bentrokan antara pengunjuk rasa dan polisi terjadi di luar venue konferensi di Erfurt, ibu kota negara bagian Thuringia. Polisi Jerman menggunakan meriam air dan gas air mata untuk membubarkan kerumunan. Ribuan pengunjuk rasa turun ke jalan menentang AfD, yang telah naik dalam jajak pendapat tetapi menghadapi pengawasan intens atas tuduhan ekstremisme sayap kanan.</p><p>Pemilihan ulang terjadi saat partai menghadapi tekanan politik signifikan. Koalisi pemerintah Jerman yang dipimpin Kanselir Friedrich Merz baru saja menyepakati paket reformasi menyeluruh mencakup pembaruan pajak dan pensiun, dalam upaya menghidupkan kembali ekonomi dan menyaingi daya tarik AfD.</p><p>AfD saat ini menjadi partai terbesar kedua dalam jajak pendapat nasional dengan dukungan 18-22 persen, namun terus diasingkan oleh partai-partai arus utama yang menolak membentuk koalisi dengannya. Pengawasan badan intelijen domestik Jerman (BfV) atas AfD sebagai organisasi yang dicurigai ekstremis sayap kanan terus menjadi sengketa hukum.</p>",
+          source: "PBS NewsHour",
+          sourceUrl: "https://www.pbs.org/newshour/world/far-right-alternative-for-germany-party-reelects-leaders-as-protesters-and-police-clash",
+          sourceSnippet: "Far-right AfD party reelects leaders as protesters and police clash — PBS NewsHour, 4 Juli 2026",
+          source2: "Deutsche Welle",
+          sourceUrl2: "https://www.dw.com/en/germany-news-afd-elects-leaders-amid-massive-protests/live-77830605",
+          sourceSnippet2: "Germany news: AfD elects leaders amid massive protests — DW, 4-5 Juli 2026",
+          source3: "Al Jazeera",
+          sourceUrl3: "https://www.aljazeera.com/news/2026/7/2/german-coalition-agrees-on-sweeping-reform-package-in-key-breakthrough",
+          sourceSnippet3: "German coalition agrees on sweeping reform package — Al Jazeera, 2 Juli 2026"
+        },        'en': {
+          title: "Far-Right AfD Party Reejects Leaders as Protesters and Police Clash in Erfurt",
+          desc: "Alternative for Germany (AfD) voted to extend the terms of Alice Weidel and Tino Chrupalla amid massive protests and police clashes on July 4, 2026.",
+          content: "<p>The far-right Alternative for Germany (AfD) party reelected its leaders Alice Weidel and Tino Chrupalla at a party conference in Erfurt on July 4-5, 2026, amid mass protests and clashes with police. AfD delegates sought to show unity as they voted to extend the terms of the two leaders who have headed the party since 2019.</p><p>Clashes between protesters and police occurred outside the conference venue in Erfurt, capital of the state of Thuringia. German police used water cannons and tear gas to disperse crowds attempting to block access to the conference. Thousands of protesters took to the streets to express opposition to the AfD, which has risen in polls but faces intense scrutiny over allegations of right-wing extremism.</p><p>The reelection comes as the party faces significant political pressure. The German governing coalition led by Chancellor Friedrich Merz had just agreed on a sweeping reform package including tax and pension reforms, in a bid to revive the economy and counter the AfD\'s appeal.</p><p>The AfD is currently the second-largest party in national polls with support around 18-22 percent, but continues to be ostracized by mainstream parties that refuse to form coalitions with it. Surveillance by Germany\'s domestic intelligence agency (BfV) of the AfD as a suspected right-wing extremist organization remains an ongoing legal dispute.</p>",
+          source: "PBS NewsHour",
+          sourceUrl: "https://www.pbs.org/newshour/world/far-right-alternative-for-germany-party-reelects-leaders-as-protesters-and-police-clash",
+          sourceSnippet: "Far-right AfD party reelects leaders as protesters and police clash — PBS NewsHour, 4 Juli 2026",
+          source2: "Deutsche Welle",
+          sourceUrl2: "https://www.dw.com/en/germany-news-afd-elects-leaders-amid-massive-protests/live-77830605",
+          sourceSnippet2: "Germany news: AfD elects leaders amid massive protests — DW, 4-5 Juli 2026",
+          source3: "Al Jazeera",
+          sourceUrl3: "https://www.aljazeera.com/news/2026/7/2/german-coalition-agrees-on-sweeping-reform-package-in-key-breakthrough",
+          sourceSnippet3: "German coalition agrees on sweeping reform package — Al Jazeera, 2 Juli 2026"
+        },        'ja': {
+          title: "ドイツ極右AfD党、エアフルトで大規模抗議の中、指導者を再選",
+          desc: "ドイツのための選択肢（AfD）は大規模な抗議と警察との衝突の中、アリス・ワイデルとティノ・フルパラの任期を延長した。",
+          content: "<p>極右のドイツのための選択肢（AfD）党は2026年7月4〜5日にテューリンゲン州首都エアフルトでの党大会で、アリス・ワイデルとティノ・フルパラを指導者として再選しました。大会は党に反対する大規模デモのため厳重な警備下で行われました。</p><p>会場外では抗議者と警察との衝突が発生しました。ドイツ警察は放水車と催涙ガスを使用して群衆を解散させました。数千人の抗議者がAfDに反対する声を表すために通りに出ました。AfDは世論調査で支持を伸ばしていますが右翼過激主義の疑惑で厳しい監視に直面しています。</p><p>再選は党が重大な政治的圧力に直面している中で行われました。フリードリヒ・メルツ首相が率いる連立政権は経済を活性化するため税制と年金改革を含む包括的な改革パッケージに合意したばかりでした。</p><p>AfDは全国世論調査で第2位の政党で支持率約18〜22％ですが主流政党から疎外されています。国内情報機関（BfV）によるAfDの右翼過激主義嫌疑組織としての監視は継続的な法的紛争となっています。</p>",
+          source: "PBS NewsHour",
+          sourceUrl: "https://www.pbs.org/newshour/world/far-right-alternative-for-germany-party-reelects-leaders-as-protesters-and-police-clash",
+          sourceSnippet: "Far-right AfD party reelects leaders as protesters and police clash — PBS NewsHour, 4 Juli 2026",
+          source2: "Deutsche Welle",
+          sourceUrl2: "https://www.dw.com/en/germany-news-afd-elects-leaders-amid-massive-protests/live-77830605",
+          sourceSnippet2: "Germany news: AfD elects leaders amid massive protests — DW, 4-5 Juli 2026",
+          source3: "Al Jazeera",
+          sourceUrl3: "https://www.aljazeera.com/news/2026/7/2/german-coalition-agrees-on-sweeping-reform-package-in-key-breakthrough",
+          sourceSnippet3: "German coalition agrees on sweeping reform package — Al Jazeera, 2 Juli 2026"
+        },        'ko': {
+          title: "독일 극우 AfD당, 에르푸르트에서 대규모 시위 속 지도자 재선",
+          desc: "독일의 대안당(AfD)은 대규모 시위와 경찰 충돌 속에서 알리스 바이델과 티노 크루팔라의 임기를 연장했다.",
+          content: "<p>극우 독일의 대안당(AfD)은 2026년 7월 4~5일 튀링겐주 수도 에르푸르트에서 열린 당 대회에서 알리스 바이델과 티노 크루팔라를 지도자로 재선했습니다. 대회는 당에 반대하는 대규모 시위로 인해 엄중한 경비 속에 진행되었습니다.</p><p>회장 밖에서는 시위자와 경찰 간 충돌이 발생했습니다. 독일 경찰은 진압용 물대포와 최루탄을 사용하여 군중을 해산시켰습니다. 수천 명의 시위자가 AfD에 반대하는 목소리를 내기 위해 거리로 나왔습니다.</p><p>재선은 당이 중대한 정치적 압력에 직면한 가운데 이루어졌습니다. 프리드리히 메르츠 총리가 이끄는 연립 정부는 경제를 활성화하기 위해 세제 및 연금 개혁을 포함한 포괄적인 개혁 패키지에 합의했습니다.</p><p>AfD는 전국 여론조사에서 2위 정당으로 약 18~22%의 지지율을 기록하고 있지만 주류 정당들에 의해 배제되고 있습니다. 국내 정보기관(BfV)의 AfD 극우 극단주의 의심 조직으로서의 감시는 진행 중인 법적 분쟁입니다.</p>",
+          source: "PBS NewsHour",
+          sourceUrl: "https://www.pbs.org/newshour/world/far-right-alternative-for-germany-party-reelects-leaders-as-protesters-and-police-clash",
+          sourceSnippet: "Far-right AfD party reelects leaders as protesters and police clash — PBS NewsHour, 4 Juli 2026",
+          source2: "Deutsche Welle",
+          sourceUrl2: "https://www.dw.com/en/germany-news-afd-elects-leaders-amid-massive-protests/live-77830605",
+          sourceSnippet2: "Germany news: AfD elects leaders amid massive protests — DW, 4-5 Juli 2026",
+          source3: "Al Jazeera",
+          sourceUrl3: "https://www.aljazeera.com/news/2026/7/2/german-coalition-agrees-on-sweeping-reform-package-in-key-breakthrough",
+          sourceSnippet3: "German coalition agrees on sweeping reform package — Al Jazeera, 2 Juli 2026"
+        },        'zh': {
+          title: "德国极右翼AfD党在埃尔福特大规模抗议中重新选举领导人",
+          desc: "德国选择党（AfD）于2026年7月4日在大规模抗议和警察冲突中投票延长了爱丽丝·韦德尔和蒂诺·克鲁帕拉的任期。",
+          content: "<p>极右翼德国选择党（AfD）于2026年7月4-5日在图林根州首府埃尔福特举行的党代会上重新选举了领导人爱丽丝·韦德尔和蒂诺·克鲁帕拉。由于反对该党的大规模示威活动，大会在严密安保下进行。</p><p>会场外发生了抗议者与警察之间的冲突。德国警方使用水炮和催泪弹驱散人群。数千名抗议者走上街头表达对AfD的反对。AfD在民调中支持率上升但面临右翼极端主义指控的严格审查。</p><p>重新选举发生在该党面临重大政治压力之际。由弗里德里希·默茨总理领导的执政联盟刚刚达成了包括税收和养老金改革在内的全面改革方案，旨在振兴经济并对抗AfD的吸引力。</p><p>AfD目前在全国民调中是第二大政党，支持率约18-22%，但继续被拒绝与其组建联盟的主流政党所孤立。德国国内情报机构对AfD作为疑似右翼极端组织进行监控仍是持续的法律纠纷。</p>",
+          source: "PBS NewsHour",
+          sourceUrl: "https://www.pbs.org/newshour/world/far-right-alternative-for-germany-party-reelects-leaders-as-protesters-and-police-clash",
+          sourceSnippet: "Far-right AfD party reelects leaders as protesters and police clash — PBS NewsHour, 4 Juli 2026",
+          source2: "Deutsche Welle",
+          sourceUrl2: "https://www.dw.com/en/germany-news-afd-elects-leaders-amid-massive-protests/live-77830605",
+          sourceSnippet2: "Germany news: AfD elects leaders amid massive protests — DW, 4-5 Juli 2026",
+          source3: "Al Jazeera",
+          sourceUrl3: "https://www.aljazeera.com/news/2026/7/2/german-coalition-agrees-on-sweeping-reform-package-in-key-breakthrough",
+          sourceSnippet3: "German coalition agrees on sweeping reform package — Al Jazeera, 2 Juli 2026"
+        }
+        }
       }
 
     ]

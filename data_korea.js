@@ -579,6 +579,77 @@
             source: 'News-Medical', sourceUrl: 'https://www.news-medical.net/news/20260701/Smart-prodrug-targets-Alzheimers-disease-using-hydrogen-peroxide-signals.aspx', sourceSnippet: '智能前药开发 — News-Medical'
           }
         }
+      },
+      {
+        id: 'korea-lee-jae-myung-turki-mongolia-nato-juli2026',
+        langs: {
+        'id': {
+          title: "Presiden Korea Selatan Lee Jae Myung Kunjungi Turki dan Mongolia untuk Kemitraan NATO",
+          desc: "Presiden Lee Jae Myung akan mengunjungi Turki dan Mongolia untuk memperluas kerja sama pertahanan NATO dan mineral kritis.",
+          content: "<p>Presiden Korea Selatan Lee Jae Myung menjadwalkan kunjungan diplomatik ke Turki dan Mongolia pada Juli 2026 dalam upaya memperluas hubungan pertahanan NATO dan kerja sama mineral. Kunjungan ini merupakan bagian dari strategi Korea Selatan untuk memperkuat aliansi strategis di Eurasia dan mengamankan rantai pasokan mineral kritis bagi industri semikonduktor dan baterai negara.</p><p>Di Turki, Presiden Lee dijadwalkan bertemu pejabat tinggi untuk membahas kerja sama pertahanan dalam kerangka kemitraan NATO. Turki merupakan anggota NATO dengan hubungan diplomatik historis ke Korea Utara. Pertemuan ini diharapkan membahas isu keamanan Semenanjung Korea serta potensi kerja sama industri pertahanan.</p><p>Dari Turki, Presiden Lee melanjutkan ke Mongolia, di mana kerja sama mineral menjadi fokus utama. Mongolia memiliki cadangan besar tanah jarang dan mineral strategis yang dibutuhkan Korea Selatan untuk produksi semikonduktor, baterai kendaraan listrik, dan teknologi hijau. Korea Selatan berupaya mendiversifikasi sumber mineral kritis untuk mengurangi ketergantungan pada Tiongkok.</p><p>Kunjungan ini juga membahas isu Korea Utara, dengan Korea Selatan berkoordinasi dengan sekutu untuk menjaga tekanan diplomatik terhadap Pyongyang. Lee akan membahas perkembangan program nuklir dan rudal Korea Utara serta upaya denuklarisasi dengan para pemimpin Turki dan Mongolia.</p>",
+          source: "UPI",
+          sourceUrl: "https://www.upi.com/Top_News/World-News/2026/07/03/president-lee-jae-myung-visit-turkiye-mongolia/1671783132221/",
+          sourceSnippet: "South Korea\'s Lee heads to NATO summit, Mongolia — UPI, 3 Juli 2026",
+          source2: "NK News",
+          sourceUrl2: "https://www.nknews.org/",
+          sourceSnippet2: "North Korea in June 2026: A month in review — NK News",
+          source3: "",
+          sourceUrl3: "",
+          sourceSnippet3: ""
+        },        'en': {
+          title: "South Korea\'s President Lee Jae Myung to Visit Turkiye and Mongolia for NATO Defense Ties",
+          desc: "President Lee Jae Myung will visit Turkiye and Mongolia to expand NATO defense cooperation and secure critical mineral supply chains.",
+          content: "<p>South Korean President Lee Jae Myung has scheduled a diplomatic visit to Turkiye and Mongolia in July 2026 to expand NATO defense partnerships and mineral cooperation. The visit is part of South Korea\'s strategy to strengthen strategic alliances in central Eurasia and secure critical mineral supply chains vital to the country\'s semiconductor and battery industries.</p><p>In Turkiye, President Lee is scheduled to meet with high-ranking officials to discuss defense cooperation within the NATO partnership framework. Turkiye is the only NATO member with historical indirect diplomatic ties to North Korea. The meeting is expected to address Korean Peninsula security issues and potential defense industry cooperation.</p><p>From Turkiye, President Lee will continue to Mongolia, where mineral cooperation will be the primary focus. Mongolia holds large reserves of rare earth elements and strategic minerals needed by South Korea for semiconductor production, electric vehicle batteries, and green technology. South Korea is working to diversify critical mineral sources to reduce dependence on China.</p><p>The visit also addresses North Korean issues, with South Korea coordinating with allies to maintain diplomatic pressure on Pyongyang. Lee will discuss recent developments in North Korea\'s nuclear and missile programs and denuclearization efforts with the leaders of Turkiye and Mongolia.</p>",
+          source: "UPI",
+          sourceUrl: "https://www.upi.com/Top_News/World-News/2026/07/03/president-lee-jae-myung-visit-turkiye-mongolia/1671783132221/",
+          sourceSnippet: "South Korea\'s Lee heads to NATO summit, Mongolia — UPI, 3 Juli 2026",
+          source2: "NK News",
+          sourceUrl2: "https://www.nknews.org/",
+          sourceSnippet2: "North Korea in June 2026: A month in review — NK News",
+          source3: "",
+          sourceUrl3: "",
+          sourceSnippet3: ""
+        },        'ja': {
+          title: "韓国の李在明大統領、トルコとモンゴルを訪問へ — NATO防衛協力拡大",
+          desc: "李在明大統領はNATO防衛協力の拡大とミネラル協力のためトルコとモンゴルを訪問する。",
+          content: "<p>韓国の李在明大統領は2026年7月にトルコとモンゴルへの外交訪問を予定しています。これはNATO防衛パートナーシップとミネラル協力を拡大する取り組みの一部です。韓国の半導体および電池産業に不可欠な重要ミネラルサプライチェーンを確保する戦略の一部です。</p><p>トルコでは李大統領は高位官僚と会談しNATOパートナーシップの枠組みの中で防衛協力について協議します。トルコは北朝鮮との歴史的な間接的外交関係を持つ唯一のNATO加盟国です。朝鮮半島の安全保障問題と防衛産業協力が議論される予定です。</p><p>トルコから李大統領はモンゴルに向かい、ミネラル協力が主要な焦点となります。モンゴルは韓国の半導体生産、電気自動車バッテリー、グリーン技術に必要なレアアースの大規模な埋蔵量を保有しています。韓国は中国への依存を減らすため供給源を多様化しようとしています。</p><p>この訪問は北朝鮮問題にも対応し、韓国は同盟国と協調して平壌に対する外交的圧力を維持しています。李大統領は北朝鮮の核・ミサイルプログラムの最近の動向と非核化努力について協議します。</p>",
+          source: "UPI",
+          sourceUrl: "https://www.upi.com/Top_News/World-News/2026/07/03/president-lee-jae-myung-visit-turkiye-mongolia/1671783132221/",
+          sourceSnippet: "South Korea\'s Lee heads to NATO summit, Mongolia — UPI, 3 Juli 2026",
+          source2: "NK News",
+          sourceUrl2: "https://www.nknews.org/",
+          sourceSnippet2: "North Korea in June 2026: A month in review — NK News",
+          source3: "",
+          sourceUrl3: "",
+          sourceSnippet3: ""
+        },        'ko': {
+          title: "한국 이재명 대통령, 튀르키예·몽골 방문 — NATO 국방 협력 확대",
+          desc: "이재명 대통령은 NATO 국방 협력 확대와 핵심 광물 공급망 확보를 위해 튀르키예와 몽골을 방문한다.",
+          content: "<p>한국의 이재명 대통령은 2026년 7월 튀르키예와 몽골에 대한 외교 방문을 예정하고 있습니다. NATO 국방 파트너십 및 광물 협력을 확대하려는 노력의 일환입니다. 국가의 반도체 및 배터리 산업에 필수적인 핵심 광물 공급망을 확보하기 위한 전략의 일부입니다.</p><p>튀르키예에서 이 대통령은 고위 관리들과 만나 NATO 파트너십 내에서 국방 협력을 논의할 예정입니다. 튀르키예는 북한과 역사적인 간접 외교 관계를 가진 유일한 NATO 회원국입니다. 한반도 안보 문제와 국방 산업 협력이 논의될 예정입니다.</p><p>튀르키예에서 이 대통령은 몽골로 이동하며 광물 협력이 주요 초점이 될 것입니다. 몽골은 한국의 반도체 생산, 전기차 배터리, 친환경 기술에 필요한 희토류의 대규모 매장량을 보유하고 있습니다. 한국은 중국에 대한 의존도를 줄이기 위해 공급원을 다각화하려고 노력하고 있습니다.</p><p>이 방문은 북한 문제도 다루며 한국은 동맹국과 협조하여 평양에 대한 외교적 압력을 유지하고 있습니다. 이 대통령은 북한의 핵·미사일 프로그램의 최신 동향과 비핵화 노력에 대해 논의할 것입니다.</p>",
+          source: "UPI",
+          sourceUrl: "https://www.upi.com/Top_News/World-News/2026/07/03/president-lee-jae-myung-visit-turkiye-mongolia/1671783132221/",
+          sourceSnippet: "South Korea\'s Lee heads to NATO summit, Mongolia — UPI, 3 Juli 2026",
+          source2: "NK News",
+          sourceUrl2: "https://www.nknews.org/",
+          sourceSnippet2: "North Korea in June 2026: A month in review — NK News",
+          source3: "",
+          sourceUrl3: "",
+          sourceSnippet3: ""
+        },        'zh': {
+          title: "韩国总统李在明访问土耳其和蒙古 扩大北约防务合作",
+          desc: "李在明总统将访问土耳其和蒙古，以扩大北约防务合作并确保关键矿物供应链。",
+          content: "<p>韩国总统李在明计划于2026年7月对土耳其和蒙古进行外交访问，以扩大北约防务伙伴关系和矿物合作。此次访问是韩国加强欧亚大陆中部战略联盟并确保对该国半导体和电池产业至关重要的关键矿物供应链的战略的一部分。</p><p>在土耳其，李总统计划与高级官员会面，讨论北约伙伴关系框架内的防务合作。土耳其是唯一与朝鲜有历史间接外交关系的北约成员国。预计会议将讨论朝鲜半岛安全问题和潜在防务产业合作。</p><p>从土耳其出发，李总统将前往蒙古，矿物合作将是主要焦点。蒙古拥有韩国半导体生产、电动汽车电池和绿色技术所需的大量稀土储量。韩国正努力多元化关键矿物来源以减少对中国的依赖。</p><p>此次访问还涉及朝鲜问题，韩国与盟国协调维持对平壤的外交压力。李将与土耳其和蒙古领导人讨论朝鲜核导弹计划的最新发展和无核化努力。</p>",
+          source: "UPI",
+          sourceUrl: "https://www.upi.com/Top_News/World-News/2026/07/03/president-lee-jae-myung-visit-turkiye-mongolia/1671783132221/",
+          sourceSnippet: "South Korea\'s Lee heads to NATO summit, Mongolia — UPI, 3 Juli 2026",
+          source2: "NK News",
+          sourceUrl2: "https://www.nknews.org/",
+          sourceSnippet2: "North Korea in June 2026: A month in review — NK News",
+          source3: "",
+          sourceUrl3: "",
+          sourceSnippet3: ""
+        }
+        }
       }
 
     ]

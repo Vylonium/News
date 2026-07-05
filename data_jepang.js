@@ -568,6 +568,77 @@
             source: 'Asian Military Review', sourceUrl: 'https://www.asianmilitaryreview.com/2026/06/japan-luxembourg-space-communications-accord-could-it-be-a-gateway-for-tokyos-participation-in-nato-led-initiatives-nsbt/', sourceSnippet: '日本卢森堡太空协议 — Asian Military Review'
           }
         }
+      },
+      {
+        id: 'jepang-kenaikan-biaya-visa-asing-juli2026',
+        langs: {
+        'id': {
+          title: "Jepang Tingkatkan Biaya Visa untuk Warga Asing Mulai 1 Juli 2026",
+          desc: "Pemerintah Jepang menyetujui kenaikan signifikan biaya visa untuk warga asing melalui keputusan kabinet mulai 1 Juli 2026.",
+          content: "<p>Pemerintah Jepang melalui keputusan kabinet telah menyetujui kenaikan biaya visa yang signifikan untuk warga asing yang memasuki Jepang, efektif mulai 1 Juli 2026. Kebijakan ini mencakup berbagai jenis visa termasuk visa turis singkat, visa kerja, dan visa pelajar. Kenaikan biaya ini merupakan bagian dari upaya pemerintah untuk menyesuaikan tarif administrasi dengan biaya pemrosesan yang sebenarnya.</p><p>Untuk visa turis singkat single entry, biaya dinaikkan dari sekitar 3.000 yen menjadi 5.000 yen. Visa multiple entry dikenakan biaya 10.000 yen, naik dari 6.000 yen. Visa kerja dan pelajar mengalami kenaikan rata-rata 40-60 persen. Kebijakan ini berlaku untuk semua kewarganegaraan kecuali negara dengan perjanjian pembebasan visa.</p><p>Asosiasi Industri Pariwisata Jepang (JATA) menyatakan kekhawatiran bahwa kenaikan biaya dapat menghambat pemulihan sektor pariwisata pasca-pandemi, terutama dari pasar Asia Tenggara. Namun Kementerian Luar Negeri Jepang berargumen bahwa biaya visa Jepang masih kompetitif dibandingkan negara OECD lainnya.</p><p>Pendapatan tambahan dari kenaikan biaya visa akan digunakan untuk meningkatkan kapasitas pemrosesan visa di kedutaan dan konsulat Jepang di seluruh dunia. Jepang saat ini memiliki lebih dari 70 pos pemrosesan visa global dengan waktu tunggu rata-rata 3 hingga 10 hari kerja.</p>",
+          source: "Newland Chase",
+          sourceUrl: "https://newlandchase.com/japan-to-increase-visa-fees-for-foreign-nationals-beginning-july-1-2026/",
+          sourceSnippet: "Japan to Increase Visa Fees for Foreign Nationals Beginning July 1, 2026 — Newland Chase",
+          source2: "MOFA Japan",
+          sourceUrl2: "https://www.mofa.go.jp/j_info/visit/visa/",
+          sourceSnippet2: "Visa Information — Ministry of Foreign Affairs of Japan",
+          source3: "",
+          sourceUrl3: "",
+          sourceSnippet3: ""
+        },        'en': {
+          title: "Japan Increases Visa Fees for Foreign Nationals Beginning July 1, 2026",
+          desc: "The Japanese government approved a significant increase in visa fees for foreign nationals through a Cabinet decision effective July 1, 2026.",
+          content: "<p>The Japanese government through a Cabinet decision has approved a significant increase in visa fees for foreign nationals entering Japan, effective July 1, 2026. The policy covers various visa types including short-term tourist visas, work visas, and student visas. The fee increase aligns administrative tariffs with actual processing costs.</p><p>For short-term single-entry tourist visas, the fee has been raised from approximately 3,000 yen to 5,000 yen. Multiple-entry tourist visas now cost 10,000 yen, up from 6,000 yen. Work and student visas have seen average increases of 40-60 percent. The policy applies to all nationalities except countries with visa exemption agreements.</p><p>The Japan Association of Travel Agents (JATA) expressed concern that higher fees could hinder post-pandemic tourism recovery, particularly from price-sensitive Southeast Asian markets. However, Japan\'s Ministry of Foreign Affairs argued that Japan\'s visa fees remain competitive compared to other OECD countries.</p><p>Additional revenue from the visa fee increase will be used to enhance visa processing capacity at Japanese embassies and consulates worldwide. Japan currently operates more than 70 visa processing posts globally, with average waiting times of 3 to 10 business days.</p>",
+          source: "Newland Chase",
+          sourceUrl: "https://newlandchase.com/japan-to-increase-visa-fees-for-foreign-nationals-beginning-july-1-2026/",
+          sourceSnippet: "Japan to Increase Visa Fees for Foreign Nationals Beginning July 1, 2026 — Newland Chase",
+          source2: "MOFA Japan",
+          sourceUrl2: "https://www.mofa.go.jp/j_info/visit/visa/",
+          sourceSnippet2: "Visa Information — Ministry of Foreign Affairs of Japan",
+          source3: "",
+          sourceUrl3: "",
+          sourceSnippet3: ""
+        },        'ja': {
+          title: "日本、外国人ビザ料金を2026年7月1日より引き上げ",
+          desc: "日本政府は2026年7月1日から外国人入国者のビザ料金を大幅に引き上げる閣議決定を行った。",
+          content: "<p>日本政府は閣議決定を通じて、2026年7月1日から外国人の日本入国に関するビザ料金を大幅に引き上げることを承認しました。短期観光ビザ、就労ビザ、留学ビザなどさまざまなビザ種別を対象としています。料金引き上げは行政手数料を実際の処理コストに合わせる取り組みです。</p><p>短期シングルエントリー観光ビザは約3,000円から5,000円に引き上げられました。マルチプルエントリー観光ビザは6,000円から10,000円になりました。就労・留学ビザは40〜60％の平均的な引き上げが適用されました。</p><p>日本旅行業協会（JATA）は料金引き上げがポストパンデミックの観光回復を妨げる可能性があると懸念を表明しました。特に価格に敏感な東南アジア市場からの影響が懸念されています。しかし外務省は日本のビザ料金が他のOECD諸国と比較して競争力があると主張しました。</p><p>ビザ料金引き上げによる追加収入は世界中の日本大使館・領事館でのビザ処理能力の強化に使用されます。日本は現在70以上のビザ処理拠点を運営しており、平均待機時間は3〜10営業日です。</p>",
+          source: "Newland Chase",
+          sourceUrl: "https://newlandchase.com/japan-to-increase-visa-fees-for-foreign-nationals-beginning-july-1-2026/",
+          sourceSnippet: "Japan to Increase Visa Fees for Foreign Nationals Beginning July 1, 2026 — Newland Chase",
+          source2: "MOFA Japan",
+          sourceUrl2: "https://www.mofa.go.jp/j_info/visit/visa/",
+          sourceSnippet2: "Visa Information — Ministry of Foreign Affairs of Japan",
+          source3: "",
+          sourceUrl3: "",
+          sourceSnippet3: ""
+        },        'ko': {
+          title: "일본, 2026년 7월 1일부터 외국인 비자 수수료 인상",
+          desc: "일본 정부는 외국인 입국자의 비자 수수료를 대폭 인상하는 내각 결정을 승인했다.",
+          content: "<p>일본 정부는 내각 결정을 통해 2026년 7월 1일부터 외국인의 일본 입국에 대한 비자 수수료를 대폭 인상하는 것을 승인했습니다. 단기 관광 비자, 취업 비자, 학생 비자 등 다양한 비자 유형을 다룹니다. 수수료 인상은 행정 수수료를 실제 처리 비용에 맞추는 노력입니다.</p><p>단기 단일 입국 관광 비자는 약 3,000엔에서 5,000엔으로 인상되었습니다. 다중 입국 관광 비자는 6,000엔에서 10,000엔이 되었습니다. 취업 및 학생 비자는 평균 40~60%의 인상이 적용되었습니다.</p><p>일본여행업협회(JATA)는 수수료 인상이 팬데믹 이후 관광 회복을 방해할 수 있다고 우려를 표명했습니다. 그러나 일본 외무성은 일본의 비자 수수료가 다른 OECD 국가와 비교하여 경쟁력이 있다고 주장했습니다.</p><p>비자 수수료 인상으로 인한 추가 수입은 전 세계 일본 대사관 및 영사관의 비자 처리 능력 향상에 사용됩니다. 일본은 현재 70개 이상의 비자 처리 거점을 운영하고 있으며 평균 대기 시간은 3~10 영업일입니다.</p>",
+          source: "Newland Chase",
+          sourceUrl: "https://newlandchase.com/japan-to-increase-visa-fees-for-foreign-nationals-beginning-july-1-2026/",
+          sourceSnippet: "Japan to Increase Visa Fees for Foreign Nationals Beginning July 1, 2026 — Newland Chase",
+          source2: "MOFA Japan",
+          sourceUrl2: "https://www.mofa.go.jp/j_info/visit/visa/",
+          sourceSnippet2: "Visa Information — Ministry of Foreign Affairs of Japan",
+          source3: "",
+          sourceUrl3: "",
+          sourceSnippet3: ""
+        },        'zh': {
+          title: "日本从2026年7月1日起提高外国人签证费用",
+          desc: "日本政府通过内阁决议批准从2026年7月1日起大幅提高外国人入境签证费用。",
+          content: "<p>日本政府通过内阁决议，批准从2026年7月1日起大幅提高外国人入境日本的签证费用。该政策涵盖短期旅游签证、工作签证和学生签证等多种类型。费用上调是将行政收费与实际处理成本对齐的努力。</p><p>短期单次入境旅游签证从约3,000日元提高到5,000日元。多次入境旅游签证从6,000日元提高到10,000日元。工作签证和学生签证平均上涨40-60%。该政策适用于与日本没有签证豁免协议的所有国籍。</p><p>日本旅行业协会（JATA）表示担忧，认为费用上涨可能阻碍疫情后旅游业复苏。然而日本外务省认为日本的签证费用与其他OECD国家相比仍具竞争力。</p><p>签证费上涨带来的额外收入将用于增强全球日本大使馆和领事馆的签证处理能力。日本目前在全球运营70多个签证处理点，平均等待时间为3至10个工作日。</p>",
+          source: "Newland Chase",
+          sourceUrl: "https://newlandchase.com/japan-to-increase-visa-fees-for-foreign-nationals-beginning-july-1-2026/",
+          sourceSnippet: "Japan to Increase Visa Fees for Foreign Nationals Beginning July 1, 2026 — Newland Chase",
+          source2: "MOFA Japan",
+          sourceUrl2: "https://www.mofa.go.jp/j_info/visit/visa/",
+          sourceSnippet2: "Visa Information — Ministry of Foreign Affairs of Japan",
+          source3: "",
+          sourceUrl3: "",
+          sourceSnippet3: ""
+        }
+        }
       }
 
     ]

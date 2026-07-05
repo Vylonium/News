@@ -637,6 +637,77 @@
             source: 'CNBC', sourceUrl: 'https://www.cnbc.com/2026/06/30/china-factory-activity-june-tech-export-demand-pmi-nbs.html', sourceSnippet: '制造业活动扩张 — CNBC'
           }
         }
+      },
+      {
+        id: 'tiongkok-tibet-membakar-diri-pbb-juli2026',
+        langs: {
+        'id': {
+          title: "Pria Tibet Membakar Diri di Luar Markas PBB Memprotes Represi Tiongkok",
+          desc: "Seorang pria Tibet melakukan aksi bakar diri di luar markas PBB di Manhattan untuk memprotes pendudukan Tiongkok atas tanah airnya.",
+          content: "<p>Seorang pria Tibet melakukan aksi membakar diri di luar markas besar Perserikatan Bangsa-Bangsa (PBB) di Manhattan, New York, pada awal Juli 2026. Aksi dramatis ini disiarkan langsung dan ditujukan sebagai protes terhadap pendudukan Tiongkok atas tanah air Tibet. Korban diduga seorang warga New York keturunan Tibet yang dikenal sebagai aktivis kemerdekaan Tibet.</p><p>Menurut laporan Amnesty International, peristiwa ini menyoroti represi Tiongkok yang berlangsung lama terhadap rakyat Tibet. Aksi membakar diri telah menjadi bentuk protes dalam gerakan perlawanan Tibet, dengan lebih dari 150 kasus tercatat sejak 2009. Sebagian besar terjadi di dalam Tiongkok, namun beberapa juga di luar negeri.</p><p>Peristiwa ini terjadi di tengah meningkatnya tekanan internasional terhadap Tiongkok terkait hak asasi manusia di Tibet, Xinjiang, dan Hong Kong. PBB telah berulang kali meminta akses independen ke Tibet untuk menyelidiki tuduhan pelanggaran HAM, namun permintaan tersebut ditolak oleh pemerintah Tiongkok. AS dan Uni Eropa telah memberikan sanksi terhadap pejabat Tiongkok terkait kebijakan represif di Tibet.</p><p>Pemerintah Tiongkok mempertahankan kebijakannya dengan menyatakan bahwa pembangunan ekonomi telah meningkatkan taraf hidup rakyat Tibet. Namun kelompok HAM seperti Human Rights Watch dan International Campaign for Tibet terus mendokumentasikan pelanggaran sistematis terhadap kebebasan beragama, ekspresi, dan budaya komunitas Tibet.</p>",
+          source: "Amnesty International",
+          sourceUrl: "https://www.amnesty.org/en/latest/news/2026/07/self-immolation-of-tibetan-man-outside-un-highlights-long-standing-chinese-repression/",
+          sourceSnippet: "Self-immolation of Tibetan man outside UN highlights long-standing Chinese repression — Amnesty International",
+          source2: "NY Daily News",
+          sourceUrl2: "https://www.nydailynews.com/2026/07/03/tibetan-protester-who-set-himself-on-fire-outside-manhattans-united-nations-livestreamed-his-death/",
+          sourceSnippet2: "Tibetan protester livestreamed his death outside UN — NY Daily News, 3 Juli 2026",
+          source3: "Human Rights Watch",
+          sourceUrl3: "https://www.hrw.org/",
+          sourceSnippet3: "China: Tibet Crackdown Continues — Human Rights Watch"
+        },        'en': {
+          title: "Tibetan Man Sets Himself on Fire Outside UN Headquarters to Protest Chinese Repression",
+          desc: "A Tibetan man self-immolated outside the UN headquarters in Manhattan, livestreaming his death to protest the Chinese occupation of his homeland.",
+          content: "<p>A Tibetan man carried out an act of self-immolation outside the United Nations headquarters in Manhattan, New York, in early July 2026. The dramatic act was livestreamed and intended as a protest against the Chinese occupation of his Tibetan homeland. The victim was reportedly a Tibetan-American activist campaigning for Tibet\'s independence.</p><p>According to Amnesty International, the incident highlights China\'s long-standing repression of the Tibetan people. Self-immolation has been a recognized form of protest in the Tibetan resistance movement, with more than 150 documented cases since 2009. Most occurred within China, but some have taken place abroad at symbolic locations.</p><p>The incident comes amid increasing international pressure on China regarding human rights in Tibet, Xinjiang, and Hong Kong. The UN has repeatedly requested independent access to Tibet to investigate allegations of human rights violations, but these requests have been consistently refused by China. The US and EU have sanctioned Chinese officials linked to repressive policies in Tibet.</p><p>The Chinese government has defended its policies, stating that economic development has significantly improved living standards of Tibetan people. However, human rights groups continue to document systematic violations of religious freedom, expression, and cultural rights of the Tibetan community.</p>",
+          source: "Amnesty International",
+          sourceUrl: "https://www.amnesty.org/en/latest/news/2026/07/self-immolation-of-tibetan-man-outside-un-highlights-long-standing-chinese-repression/",
+          sourceSnippet: "Self-immolation of Tibetan man outside UN highlights long-standing Chinese repression — Amnesty International",
+          source2: "NY Daily News",
+          sourceUrl2: "https://www.nydailynews.com/2026/07/03/tibetan-protester-who-set-himself-on-fire-outside-manhattans-united-nations-livestreamed-his-death/",
+          sourceSnippet2: "Tibetan protester livestreamed his death outside UN — NY Daily News, 3 Juli 2026",
+          source3: "Human Rights Watch",
+          sourceUrl3: "https://www.hrw.org/",
+          sourceSnippet3: "China: Tibet Crackdown Continues — Human Rights Watch"
+        },        'ja': {
+          title: "チベット人男性、国連本部前で焼身自殺 — 中国の弾圧に抗議",
+          desc: "チベット人男性がマンハッタンの国連本部前で焼身自殺を行い、中国のチベット占領に抗議した。",
+          content: "<p>2026年7月初頭、チベット人男性がニューヨーク・マンハッタンの国連本部前で焼身自殺を行いました。この劇的な行為はライブストリーミングされ、中国によるチベットの祖国占領への抗議として意図されました。犠牲者はチベットの独立を追求する活動家として知られるチベット系アメリカ人と報じられています。</p><p>アムネスティ・インターナショナルの報告によると、この事件は中国のチベット人に対する長年の抑圧を浮き彫りにしています。焼身自殺はチベット抵抗運動における抗議形式であり、2009年以降150件以上が記録されています。</p><p>この事件はチベット、新疆ウイグル、香港における人権に関する中国への国際的な圧力が高まる中で発生しました。国連はチベットへの独立したアクセスを繰り返し要請していますが、中国政府によって拒否されています。米国とEUもチベットの弾圧政策に関連する中国当局者に制裁を科しています。</p><p>中国政府は経済発展がチベット人の生活水準を向上させたと述べています。しかし、ヒューマン・ライツ・ウォッチなどの人権団体はチベットコミュニティの宗教的自由、表現の自由、文化的権利の組織的な侵害を継続的に文書化しています。</p>",
+          source: "Amnesty International",
+          sourceUrl: "https://www.amnesty.org/en/latest/news/2026/07/self-immolation-of-tibetan-man-outside-un-highlights-long-standing-chinese-repression/",
+          sourceSnippet: "Self-immolation of Tibetan man outside UN highlights long-standing Chinese repression — Amnesty International",
+          source2: "NY Daily News",
+          sourceUrl2: "https://www.nydailynews.com/2026/07/03/tibetan-protester-who-set-himself-on-fire-outside-manhattans-united-nations-livestreamed-his-death/",
+          sourceSnippet2: "Tibetan protester livestreamed his death outside UN — NY Daily News, 3 Juli 2026",
+          source3: "Human Rights Watch",
+          sourceUrl3: "https://www.hrw.org/",
+          sourceSnippet3: "China: Tibet Crackdown Continues — Human Rights Watch"
+        },        'ko': {
+          title: "티베트인 남성, UN 본부 밖에서 분신자살 — 중국 억압에 항의",
+          desc: "티베트인 남성이 맨해튼 유엔 본부 밖에서 분신자살을 행하며 중국의 조국 점령에 항의했다.",
+          content: "<p>2026년 7월 초, 티베트인 남성이 뉴욕 맨해튼의 유엔 본부 밖에서 분신자살을 행했습니다. 이 극적인 행위는 라이브 스트리밍되었으며 중국의 티베트 조국 점령에 대한 항의로 의도되었습니다. 희생자는 티베트 독립을 추구하는 활동가로 알려진 티베트계 미국인으로 보도되었습니다.</p><p>국제앰네스티 보고서에 따르면 이 사건은 중국의 티베트인에 대한 오랜 억압을 부각시킵니다. 분신자살은 티베트 저항 운동에서 인정된 항의 형태이며 2009년 이후 150건 이상이 기록되었습니다.</p><p>이 사건은 티베트, 신장, 홍콩의 인권에 관한 중국에 대한 국제적 압력이 고조되는 가운데 발생했습니다. 유엔은 티베트에 대한 독립적인 접근을 반복적으로 요청했지만 중국 정부에 의해 거부되었습니다. 미국과 EU도 티베트 억압 정책과 관련된 중국 관리들에게 제재를 가했습니다.</p><p>중국 정부는 경제 발전이 티베트인의 생활 수준을 향상시켰다고 밝혔습니다. 그러나 휴먼 라이츠 워치 등 인권 단체는 티베트 공동체의 종교의 자유, 표현의 자유, 문화적 권리의 체계적인 침해를 계속해서 기록하고 있습니다.</p>",
+          source: "Amnesty International",
+          sourceUrl: "https://www.amnesty.org/en/latest/news/2026/07/self-immolation-of-tibetan-man-outside-un-highlights-long-standing-chinese-repression/",
+          sourceSnippet: "Self-immolation of Tibetan man outside UN highlights long-standing Chinese repression — Amnesty International",
+          source2: "NY Daily News",
+          sourceUrl2: "https://www.nydailynews.com/2026/07/03/tibetan-protester-who-set-himself-on-fire-outside-manhattans-united-nations-livestreamed-his-death/",
+          sourceSnippet2: "Tibetan protester livestreamed his death outside UN — NY Daily News, 3 Juli 2026",
+          source3: "Human Rights Watch",
+          sourceUrl3: "https://www.hrw.org/",
+          sourceSnippet3: "China: Tibet Crackdown Continues — Human Rights Watch"
+        },        'zh': {
+          title: "藏族男子在联合国总部外自焚抗议中国镇压",
+          desc: "一名藏族男子在曼哈顿联合国总部外自焚，并直播了自己的死亡，以抗议中国对其祖国的占领。",
+          content: "<p>2026年7月初，一名藏族男子在纽约曼哈顿联合国总部外进行了自焚行动。这一戏剧性行为被实时直播，旨在抗议中国对其西藏祖国的占领。据报导，受害者是一名致力于西藏独立运动的活动家。</p><p>根据国际特赦组织的报告，这一事件凸显了中国对西藏人民长期以来的镇压。自焚已成为西藏抵抗运动中的一种公认抗议形式，自2009年以来已记录了150多起案例。</p><p>该事件发生在中国在西藏、新疆和香港人权问题上面临越来越大的国际压力之际。联合国已多次要求独立进入西藏调查侵犯人权的指控，但这些请求一直被中国政府拒绝。美国和欧盟也对与西藏镇压政策相关的中国官员实施了制裁。</p><p>中国政府为其政策辩护，称经济发展已显著提高了西藏人民的生活水平。然而，人权观察等组织继续记录西藏社区的宗教自由、表达自由和文化权利的系统性侵犯。</p>",
+          source: "Amnesty International",
+          sourceUrl: "https://www.amnesty.org/en/latest/news/2026/07/self-immolation-of-tibetan-man-outside-un-highlights-long-standing-chinese-repression/",
+          sourceSnippet: "Self-immolation of Tibetan man outside UN highlights long-standing Chinese repression — Amnesty International",
+          source2: "NY Daily News",
+          sourceUrl2: "https://www.nydailynews.com/2026/07/03/tibetan-protester-who-set-himself-on-fire-outside-manhattans-united-nations-livestreamed-his-death/",
+          sourceSnippet2: "Tibetan protester livestreamed his death outside UN — NY Daily News, 3 Juli 2026",
+          source3: "Human Rights Watch",
+          sourceUrl3: "https://www.hrw.org/",
+          sourceSnippet3: "China: Tibet Crackdown Continues — Human Rights Watch"
+        }
+        }
       }
 
     ]

@@ -737,6 +737,77 @@
             source: 'Moneycontrol', sourceUrl: 'https://www.moneycontrol.com/news/business/economy/india-s-economy-holds-steady-amid-global-turmoil-energy-shock-13965238.html', sourceSnippet: '印度经济稳定 — Moneycontrol'
           }
         }
+      },
+      {
+        id: 'india-23-pakistanis-terroris-uapa-juli2026',
+        langs: {
+        'id': {
+          title: "India Tetapkan 23 Warga Pakistan sebagai Teroris di Bawah Hukum Anti-Teror UAPA",
+          desc: "Pemerintah India menetapkan 23 individu berbasis Pakistan sebagai teroris di bawah UAPA per 4 Juli 2026, total mencapai 80 orang.",
+          content: "<p>Pemerintah India melalui Kementerian Dalam Negeri telah menetapkan 23 individu yang berbasis di Pakistan sebagai teroris di bawah Undang-Undang Pencegahan Aktivitas Melanggar Hukum (UAPA), menurut laporan Press Trust of India pada 4 Juli 2026. Individu-individu ini dikaitkan dengan kelompok militan Jaish-e-Mohammad (JeM) dan Lashkar-e-Taiba (LeT).</p><p>Pemerintah India mengamandemen UAPA pada Agustus 2019 untuk memungkinkan penunjukan individu sebagai teroris. Sebelumnya hanya organisasi yang dapat ditetapkan sebagai teroris. Dengan penambahan 23 nama terbaru, daftar ini sekarang mencakup 80 individu yang ditetapkan sebagai teroris oleh India.</p><p>Mereka yang baru ditambahkan termasuk tiga ajudan dekat Hafiz Saeed, pendiri LeT yang dituduh terlibat dalam serangan Mumbai 2008 yang menewaskan lebih dari 160 orang. Pencantuman dalam daftar teroris memungkinkan Badan Investigasi Nasional (NIA) India untuk memblokir keuangan mereka, memberlakukan embargo senjata, dan menyita aset.</p><p>Dalam perkembangan terkait, pengadilan Delhi menolak permohonan jaminan untuk aktivis mahasiswa Umar Khalid dan Sharjeel Imam, yang dituduh menghasut kerusuhan komunal Delhi 2020 yang menewaskan 53 orang. Keduanya telah ditahan lebih dari lima tahun tanpa persidangan penuh. Permohonan mereka menyoroti bahwa penahanan berkelanjutan tanpa persidangan melanggar hak kebebasan pribadi fundamental.</p>",
+          source: "DW News",
+          sourceUrl: "https://www.dw.com/en/india-news-government-lists-23-pakistanis-as-terrorists/live-77830565",
+          sourceSnippet: "India news: Government lists 23 Pakistanis as terrorists — DW, 4 Juli 2026",
+          source2: "Hindustan Times",
+          sourceUrl2: "https://www.hindustantimes.com/",
+          sourceSnippet2: "India designates 23 Pakistan-based individuals as terrorists — Hindustan Times",
+          source3: "PTI",
+          sourceUrl3: "https://www.ptinews.com/",
+          sourceSnippet3: "23 Pakistanis designated as terrorists under UAPA — PTI"
+        },        'en': {
+          title: "India Designates 23 Pakistan-Based Individuals as Terrorists Under UAPA Anti-Terror Law",
+          desc: "The Indian government designated 23 Pakistan-based individuals as terrorists under the UAPA on July 4, 2026, bringing the total to 80.",
+          content: "<p>The Indian government through the Ministry of Home Affairs has designated 23 Pakistan-based individuals as terrorists under the Unlawful Activities (Prevention) Act (UAPA), according to a Press Trust of India report on July 4, 2026. The individuals are linked to militant groups including Jaish-e-Mohammad (JeM) and Lashkar-e-Taiba (LeT).</p><p>India amended the UAPA in August 2019 to include a provision allowing the designation of individuals as terrorists. Prior to this amendment, only organizations could be designated as terrorist organizations. With the latest addition of 23 names, the list now includes 80 individuals designated as terrorists by India.</p><p>Those newly added reportedly include three close aides of Hafiz Saeed, the founder of LeT accused of involvement in the 2008 Mumbai attacks that killed over 160 people. Including names in the terrorist list allows India\'s National Investigation Agency (NIA) to block their finances, impose arms embargoes, and seize assets.</p><p>In related developments, a Delhi court rejected bail applications for student activists Umar Khalid and Sharjeel Imam, accused of orchestrating communal riots in Delhi in 2020 that killed 53 people. Both have been in detention for more than five years without a full trial. Their bail application highlighted that continued incarceration without trial violates their fundamental right to personal liberty.</p>",
+          source: "DW News",
+          sourceUrl: "https://www.dw.com/en/india-news-government-lists-23-pakistanis-as-terrorists/live-77830565",
+          sourceSnippet: "India news: Government lists 23 Pakistanis as terrorists — DW, 4 Juli 2026",
+          source2: "Hindustan Times",
+          sourceUrl2: "https://www.hindustantimes.com/",
+          sourceSnippet2: "India designates 23 Pakistan-based individuals as terrorists — Hindustan Times",
+          source3: "PTI",
+          sourceUrl3: "https://www.ptinews.com/",
+          sourceSnippet3: "23 Pakistanis designated as terrorists under UAPA — PTI"
+        },        'ja': {
+          title: "インド、パキスタン系23人をテロ防止法UAPAに基づきテロリストに指定",
+          desc: "インド政府は2026年7月4日、UAPA法に基づきパキスタンを拠点とする23人をテロリストに指定した。",
+          content: "<p>インド内務省は2026年7月4日、不法活動防止法（UAPA）に基づきパキスタンを拠点とする23人をテロリストに指定しました。これらの個人はジャイシュ・エ・モハメド（JeM）やラシュカレ・トイバ（LeT）などの武装グループと関連しています。</p><p>インドは2019年8月にUAPAを改正し、個人をテロリストとして指定できる条項を盛り込みました。最新の23名の追加により、インドのテロリスト指定リストは現在80名に達しています。</p><p>新たに追加された者には、2008年ムンバイ同時多発テロ事件への関与で告発されているLeT創設者ハフィズ・サイードの側近3人が含まれています。テロリスト指定により国家調査局（NIA）は資金を凍結し、武器販売に禁輸措置を課し、資産を没収できます。</p><p>関連動向としてデリー裁判所は学生活動家ウマル・ハリドとシャルジー・イマムの保釈申請を棄却しました。両名は2020年のデリー暴動を扇動した罪で告発され53人が死亡しました。5年以上完全な裁判なしに拘置されています。</p>",
+          source: "DW News",
+          sourceUrl: "https://www.dw.com/en/india-news-government-lists-23-pakistanis-as-terrorists/live-77830565",
+          sourceSnippet: "India news: Government lists 23 Pakistanis as terrorists — DW, 4 Juli 2026",
+          source2: "Hindustan Times",
+          sourceUrl2: "https://www.hindustantimes.com/",
+          sourceSnippet2: "India designates 23 Pakistan-based individuals as terrorists — Hindustan Times",
+          source3: "PTI",
+          sourceUrl3: "https://www.ptinews.com/",
+          sourceSnippet3: "23 Pakistanis designated as terrorists under UAPA — PTI"
+        },        'ko': {
+          title: "인도, UAPA 반테러법에 따라 파키스탄 기반 23명 테러리스트 지정",
+          desc: "인도 정부는 2026년 7월 4일 UAPA 반테러법에 따라 파키스탄 기반 23명을 테로리스트로 지정했다.",
+          content: "<p>인도 내무부는 2026년 7월 4일 불법활동방지법(UAPA)에 따라 파키스탄 기반 23명을 테러리스트로 지정했습니다. 이들은 자이시 에 모하메드(JeM)와 라슈카레 토이바(LeT) 등 무장 단체와 관련되어 있습니다.</p><p>인도는 2019년 8월 UAPA를 개정하여 개인을 테러리스트로 지정할 수 있는 조항을 포함시켰습니다. 최신 23명의 추가로 인도의 테러리스트 지정 목록은 현재 80명에 달합니다.</p><p>새로 추가된 사람들에는 2008년 뭄바이 테러 공격에 연루된 LeT 창설자 하피즈 사이드의 측근 3명이 포함되었습니다. 테러리스트 지정으로 국가수사국(NIA)이 자금을 동결하고 무기 판매에 금수 조치를 부과하며 자산을 압수할 수 있습니다.</p><p>관련 동향으로 델리 법원은 2020년 델리 폭동을 선동한 혐의로 기소된 학생 활동가 우마르 칼리드와 샤르지 이맘의 보석 신청을 기각했습니다. 두 사람은 5년 이상 완전한 재판 없이 구속되어 있습니다.</p>",
+          source: "DW News",
+          sourceUrl: "https://www.dw.com/en/india-news-government-lists-23-pakistanis-as-terrorists/live-77830565",
+          sourceSnippet: "India news: Government lists 23 Pakistanis as terrorists — DW, 4 Juli 2026",
+          source2: "Hindustan Times",
+          sourceUrl2: "https://www.hindustantimes.com/",
+          sourceSnippet2: "India designates 23 Pakistan-based individuals as terrorists — Hindustan Times",
+          source3: "PTI",
+          sourceUrl3: "https://www.ptinews.com/",
+          sourceSnippet3: "23 Pakistanis designated as terrorists under UAPA — PTI"
+        },        'zh': {
+          title: "印度依据UAPA反恐法将23名巴基斯坦籍个人列为恐怖分子",
+          desc: "印度政府于2026年7月4日依据UAPA反恐法将23名巴基斯坦籍个人列为恐怖分子，使总数达到80人。",
+          content: "<p>印度内政部于2026年7月4日根据《非法活动预防法》（UAPA）将23名巴基斯坦籍个人列为恐怖分子。这些个人与穆罕默德军（JeM）和虔诚军（LeT）等武装团体有关联。</p><p>印度于2019年8月修订UAPA，纳入了允许将个人指定为恐怖分子的条款。随着最新增加23个名字，该名单现在包括80名被印度指定为恐怖分子的个人。</p><p>新列入名单的人包括虔诚军创始人哈菲兹·赛义的3名亲信，赛义德被指控参与2008年孟买袭击事件，造成160多人死亡。列入恐怖分子名单将允许印度国家调查局冻结资金、实施武器禁运并没收资产。</p><p>在相关进展中，德里法院驳回了学生活动家乌马尔·哈利德和沙尔吉·伊曼的保释申请。他们被指控策划2020年德里暴乱，造成53人死亡。两人已被拘留五年以上，没有进行完整审判。</p>",
+          source: "DW News",
+          sourceUrl: "https://www.dw.com/en/india-news-government-lists-23-pakistanis-as-terrorists/live-77830565",
+          sourceSnippet: "India news: Government lists 23 Pakistanis as terrorists — DW, 4 Juli 2026",
+          source2: "Hindustan Times",
+          sourceUrl2: "https://www.hindustantimes.com/",
+          sourceSnippet2: "India designates 23 Pakistan-based individuals as terrorists — Hindustan Times",
+          source3: "PTI",
+          sourceUrl3: "https://www.ptinews.com/",
+          sourceSnippet3: "23 Pakistanis designated as terrorists under UAPA — PTI"
+        }
+        }
       }
 
     ]
