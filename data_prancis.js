@@ -330,7 +330,7 @@
           en: {
             title: "Mbappe Scores Twice as France Crush Sweden 3-0 to Reach World Cup 2026 Round of 16",
             desc: "Kylian Mbappe scored twice as France defeated Sweden 3-0 in the World Cup 2026 round of 32, securing Les Bleus' place in the round of 16 with a dominant performance.",
-            content: "<p>France's national team secured their spot in the round of 16 of the World Cup 2026 after defeating Sweden 3-0 in a round of 32 match held in New York-New Jersey. Kylian Mbappe, captain and star of Les Bleus, delivered an impressive performance scoring twice in the match, continuing his brilliant form throughout this summer's tournament.</p><p>This victory demonstrated France's dominance at World Cup 2026, with the team performing solidly both offensively and defensively since the group stage. Previously, Mbappe also shone in a 4-2 win over Norway and made crucial contributions in the match against Senegal, where he scored two beautiful goals after a stuttering first half.</p><p>While Mbappe's individual performance continues to draw praise, some football pundits have criticized his leadership style as team captain, with some viewing his approach on the pitch as too individualistic compared to previous legendary French captains. However, such criticism has not diminished his tangible contribution to France's deep tournament run.</p><p>With this dominant performance so far, France is now viewed as one of the strongest candidates to win the World Cup 2026, on par with other favorites like Spain and Argentina. Football analysts highlight squad depth, tactical maturity, and the attacking firepower led by Mbappe as key factors making Les Bleus a legitimate title favorite.</p>",
+            content: "<p>France's national team secured their spot in the round of 16 of the World Cup 2026 after defeating Sweden 3-0 in a round of 32 match held in New York-New Jersey. Kylian Mbappe, captain and star of Les Bleus, delivered an impressive performance scoring twice in the match, continuing his brilliant form throughout this summer's tournament.</p><p>This victory demonstrated France's dominance at World Cup 2026, with the team performing solidly both offensively and defensively since the group stage. Previously, Mbappe also shone in a 4-2 win over Norway and made crucial contributions in the match against Senegal, where he scored two beautiful goals after a stuttering first half.</p><p>While Mbappe\'s individual performance continues to draw praise, some football pundits have criticized his leadership style as team captain, with some viewing his approach on the pitch as too individualistic compared to previous legendary French captains. However, such criticism has not diminished his tangible contribution to France's deep tournament run.</p><p>With this dominant performance so far, France is now viewed as one of the strongest candidates to win the World Cup 2026, on par with other favorites like Spain and Argentina. Football analysts highlight squad depth, tactical maturity, and the attacking firepower led by Mbappe as key factors making Les Bleus a legitimate title favorite.</p>",
             source: 'BBC Sport',
             sourceUrl: 'https://www.bbc.co.uk/sport/football/videos/c892k0de2j3o',
             sourceSnippet: 'Mbappe scores twice against Sweden for France in World Cup round of 32 — BBC Sport',
@@ -442,6 +442,274 @@
           }
         }
       }
+      ,{
+        id: 'prancis-mbappe-penalti-paraguay-perempatfinal-4juli2026',
+        langs: {
+          id: {
+            title: 'Penalti Mbappe Antar Prancis ke Perempat Final, Kalahkan Paraguay 1-0 di Tengah Suhu Ekstrem Philadelphia',
+            desc: 'Kylian Mbappe mencetak gol penalti ke-19 sepanjang karier Piala Dunianya, mengantar Les Bleus ke perempat final setelah menang tipis 1-0 atas Paraguay.',
+            content: '<p>Kylian Mbappe mengantar Prancis ke perempat final Piala Dunia 2026 setelah gol penaltinya memastikan kemenangan 1-0 atas Paraguay yang bermain ngotot dan fisik di Philadelphia pada 4 Juli 2026, menurut laporan France 24 dan Fox Sports.</p><p>Gol tersebut merupakan gol ke-19 Mbappe sepanjang karier Piala Dunia, hanya terpaut satu gol dari rival perebutan Sepatu Emas Lionel Messi.</p><p>Pertandingan berlangsung dalam kondisi sangat menantang — suhu di Philadelphia mencapai rekor tertinggi, memaksa ribuan penggemar kedua tim berjuang melawan panas ekstrem pada hari perayaan 4 Juli, menurut Delaware Online.</p><p>Dengan kemenangan ini, Les Bleus mempertahankan mimpi menambah gelar juara dunia ketiga setelah 1998 dan 2018, dengan pertandingan perempat final menanti akhir pekan ini.</p>',
+            source: 'France 24', sourceUrl: 'https://www.france24.com/en/sport/20260704-world-cup-2026-mbappe-sends-les-bleus-into-quarterfinals-after-hard-fought-win-over-paraguay', sourceSnippet: 'World Cup 2026: Mbappe sends Les Bleus into quarterfinals — France 24, 4 Juli 2026',
+            source2: 'News4Jax (AP)', sourceUrl2: 'https://www.news4jax.com/sports/2026/07/04/kylian-mbappe-of-france-scores-19th-career-world-cup-goal-1-behind-golden-boot-rival-messi/', sourceSnippet2: 'Mbappe scores 19th career World Cup goal, 1 behind Golden Boot rival Messi — AP/News4Jax',
+            source3: 'Delaware Online', sourceUrl3: 'https://www.delawareonline.com/story/sports/soccer/2026/07/04/france-paraguay-fans-battle-historic-heat-for-july-4-world-cup-match/90802482007/', sourceSnippet3: 'France, Paraguay fans battle historic heat for July 4 World Cup match — Delaware Online'
+          },
+          en: {
+            title: "Mbappe Penalty Sends France to Quarterfinals After Hard-Fought 1-0 Win Over Paraguay",
+            desc: "Kylian Mbappe scored his 19th career World Cup goal from the penalty spot to send Les Bleus into the quarterfinals in Philadelphia's extreme heat.",
+            content: "<p>Kylian Mbappe sent France into the 2026 World Cup quarterfinals after his penalty secured a hard-fought 1-0 win over a stubborn and physical Paraguay side in Philadelphia on July 4, 2026, France 24 and Fox Sports reported.</p><p>The goal marked Mbappe\'s 19th World Cup goal of his career, putting him just one behind Golden Boot rival Lionel Messi.</p><p>The match was played in extremely challenging conditions — temperatures in Philadelphia hit record highs, forcing fans from both sides to battle historic heat while cheering their national teams on America\'s July 4 holiday, Delaware Online reported.</p><p>With this victory, Les Bleus keep alive their dream of adding a third world title after triumphs in 1998 and in 2018, with a quarterfinal clash awaiting this weekend.</p>",
+            source: 'France 24', sourceUrl: 'https://www.france24.com/en/sport/20260704-world-cup-2026-mbappe-sends-les-bleus-into-quarterfinals-after-hard-fought-win-over-paraguay', sourceSnippet: 'World Cup 2026: Mbappe sends Les Bleus into quarterfinals — France 24, July 4, 2026',
+            source2: 'News4Jax (AP)', sourceUrl2: 'https://www.news4jax.com/sports/2026/07/04/kylian-mbappe-of-france-scores-19th-career-world-cup-goal-1-behind-golden-boot-rival-messi/', sourceSnippet2: 'Mbappe scores 19th career World Cup goal — AP/News4Jax',
+            source3: 'Delaware Online', sourceUrl3: 'https://www.delawareonline.com/story/sports/soccer/2026/07/04/france-paraguay-fans-battle-historic-heat-for-july-4-world-cup-match/90802482007/', sourceSnippet3: 'France, Paraguay fans battle historic heat — Delaware Online'
+          },
+          ja: {
+            title: 'エムバペのPKでフランスがパラグアイを1-0で下し準々決勝進出、W杯通算19得点',
+            desc: 'エムバペがPKでW杯通算19得点目を決め、フィラデルフィアの猛暑の中、フランスを準々決勝に導いた。',
+            content: '<p>キリアン・エムバペがPKでW杯通算19得点目を決め、2026年7月4日、フィラデルフィアでの16強戦でしぶといパラグアイを1-0で下し、フランスを準々決勝に導いたとフランス24とフォックススポーツが報じた。</p><p>この得点でエムバペはゴールデンブーツを争うリオネル・メッシにわずか1点差と迫った。</p><p>試合は記録的な猛暑の中で行われ、両チームのファンは米国独立記念日に歴史的な高温と闘いながら応援した。</p>',
+            source: 'France 24', sourceUrl: 'https://www.france24.com/en/sport/20260704-world-cup-2026-mbappe-sends-les-bleus-into-quarterfinals-after-hard-fought-win-over-paraguay', sourceSnippet: 'エムバペPKで準々決勝 — France 24'
+          },
+          ko: {
+            title: '음바페 페널티킥으로 프랑스, 파라과이 1-0 격파하고 8강 진출',
+            desc: '킬리안 음바페가 월드컵 통산 19호 골을 PK로 터뜨리며 필라델피아 폭염 속에서 프랑스를 8강으로 이끌었다.',
+            content: '<p>킬리안 음바페가 월드컵 통산 19호 골을 페널티킥으로 기록하며 2026년 7월 4일 필라델피아 16강전에서 끈질긴 파라과이를 1-0으로 꺾고 프랑스를 8강으로 이끌었다고 프랑스24와 폭스스포츠가 보도했다.</p><p>이 골로 음바페는 골든부츠 라이벌 리오넬 메시에 단 1골 차로 따라붙었다.</p><p>경기는 기록적인 폭염 속에서 치러졌으며, 양팀 팬들은 미국 독립기념일에 역사적 고온과 싸우며 대표팀을 응원했다.</p>',
+            source: 'France 24', sourceUrl: 'https://www.france24.com/en/sport/20260704-world-cup-2026-mbappe-sends-les-bleus-into-quarterfinals-after-hard-fought-win-over-paraguay', sourceSnippet: '음바페 PK로 8강 — France 24'
+          },
+          zh: {
+            title: '姆巴佩点球助法国1-0胜巴拉圭晋级八强，世界杯第19球',
+            desc: '姆巴佩打入个人世界杯第19球，以点球帮助法国队1-0战胜巴拉圭队挺进四分之一决赛。',
+            content: '<p>据France 24和Fox Sports报道，姆巴佩在2026年7月4日费城举行的十六强赛中以点球打入个人世界杯第19球，帮助法国队1-0战胜巴拉圭队晋级四分之一决赛。</p><p>这粒进球使姆巴佩距离金靴奖竞争对手梅西仅差一球。</p><p>比赛在费城创纪录的高温中进行，双方球迷在独立日这天与酷暑搏斗的同时为国家队助威。</p>',
+            source: 'France 24', sourceUrl: 'https://www.france24.com/en/sport/20260704-world-cup-2026-mbappe-sends-les-bleus-into-quarterfinals-after-hard-fought-win-over-paraguay', sourceSnippet: '姆巴佩点球助法国晋级八强 — France 24'
+          }
+        }
+      }
+
+      ,{
+        id: 'prancis-tour-de-france-2026-vingegaard-kuning-barcelona-4juli2026',
+        langs: {
+          id: {
+            title: 'Tour de France 2026 Dimulai di Barcelona, Vingegaard Rebut Jersey Kuning Hari Pertama',
+            desc: 'Jonas Vingegaard merebut jersey kuning pada etape pembuka Tour de France 2026 setelah Visma-Lease a Bike memenangi time trial beregu di Barcelona.',
+            content: '<p>Tour de France 2026 resmi dimulai dari Grand Depart di Barcelona, Spanyol, pada 4 Juli 2026, dengan juara bertahan Jonas Vingegaard langsung merebut jersey kuning setelah tim Visma-Lease a Bike memenangi etape pembuka time trial beregu, menurut The Guardian dan BBC Sport.</p><p>Tim asal Belanda itu mencatatkan waktu 21 menit 48 detik, unggul delapan detik dari Netcompany Ineos dan 18 detik dari UAE Team Emirates pimpinan rival terberat Vingegaard, Tadej Pogacar, yang finis di posisi ketiga.</p><p>Vingegaard menyebut kemenangan ini sebagai awal yang sempurna dan memuji rekan setimnya yang tampil luar biasa, setelah ia mengenakan jersey kuning untuk pertama kalinya sejak memenangkan Tour de France 2023, menyusul kecelakaan nyaris mengakhiri kariernya dua setengah tahun lalu.</p><p>Etape kedua sepanjang 168,5 km dari Tarragona ke Barcelona berlangsung hari ini, Minggu 5 Juli, dengan finale menanjak di Montjuic yang diperkirakan akan menguji para pesaing klasemen umum dan berpotensi mengacak papan atas sejak awal.</p>',
+            source: 'The Guardian', sourceUrl: 'https://www.theguardian.com/sport/live/2026/jul/04/tour-de-france-2026-stage-one-race-begins-with-team-time-trial-in-barcelona-live', sourceSnippet: 'Tour de France 2026 stage one: Vingegaard in yellow after team time trial success — The Guardian, 4 Juli 2026',
+            source2: 'BBC Sport', sourceUrl2: 'https://www.bbc.com/sport/cycling/articles/cvgjzdvx3v2o', sourceSnippet2: 'Tour de France 2026: Jonas Vingegaard in yellow in Barcelona — BBC Sport'
+          },
+          en: {
+            title: "Tour de France 2026 Kicks Off in Barcelona, Vingegaard Takes Yellow on Day One",
+            desc: "Jonas Vingegaard seized the yellow jersey on the opening stage as his Visma-Lease a Bike squad won the team time trial in Barcelona.",
+            content: "<p>The 2026 Tour de France officially began with the Grand Depart in Barcelona, Spain, on July 4, 2026, as defending champion Jonas Vingegaard immediately seized the yellow jersey after Visma-Lease a Bike won the opening team time trial, The Guardian and BBC Sport reported.</p><p>The Dutch team clocked 21 minutes and 48 seconds, finishing eight seconds ahead of Netcompany Ineos and 18 seconds ahead of UAE Team Emirates, led by Vingegaard\'s fiercest rival Tadej Pogacar in third.</p><p>Vingegaard hailed the win as the perfect start and praised his teammates, pulling on the yellow jersey for the first time since winning the 2023 Tour de France, following a career-threatening crash two and a half years ago.</p><p>Stage two, covering 168.5 km from Tarragona to Barcelona, takes place today, Sunday July 5, with a punchy finale on the Montjuic hill expected to test general classification contenders early on.</p>",
+            source: 'The Guardian', sourceUrl: 'https://www.theguardian.com/sport/live/2026/jul/04/tour-de-france-2026-stage-one-race-begins-with-team-time-trial-in-barcelona-live', sourceSnippet: 'Tour de France 2026 stage one: Vingegaard in yellow — The Guardian, July 4, 2026',
+            source2: 'BBC Sport', sourceUrl2: 'https://www.bbc.com/sport/cycling/articles/cvgjzdvx3v2o', sourceSnippet2: 'Tour de France 2026: Jonas Vingegaard in yellow in Barcelona — BBC Sport'
+          },
+          ja: {
+            title: 'ツール・ド・フランス2026、バルセロナで開幕 — ヴィンゲゴーが初日でマイヨ・ジョーヌ獲得',
+            desc: 'ヨナス・ヴィンゲゴーがチームTTで勝利し、2026年ツール初日のマイヨ・ジョーヌを獲得した。',
+            content: '<p>2026年ツール・ド・フランスは2026年7月4日、スペイン・バルセロナでのグラン・デパールで正式に開幕し、ディフェンディングチャンピオンのヨナス・ヴィンゲゴー率いるヴィスマ＝リース・ア・バイクがチームTTで優勝したと、ガーディアンとBBCスポーツが報じた。</p><p>オランダチームは21分48秒を記録し、ネットカンパニー・イネオスに8秒、最強のライバル、タデイ・ポガチャル率いるUAEチーム・エミレーツに18秒差をつけた。</p>',
+            source: 'The Guardian', sourceUrl: 'https://www.theguardian.com/sport/live/2026/jul/04/tour-de-france-2026-stage-one-race-begins-with-team-time-trial-in-barcelona-live', sourceSnippet: 'ツール・ド・フランス開幕 — The Guardian'
+          },
+          ko: {
+            title: '투르 드 프랑스 2026 바르셀로나서 개막, 빙게고르 옐로 저지 획득',
+            desc: '요나스 빙게고르가 팀 타임 트라이얼 승리로 2026 투르 드 프랑스 개막일 옐로 저지를 차지했다.',
+            content: '<p>2026 투르 드 프랑스가 2026년 7월 4일 스페인 바르셀로나에서 그랑 데파르로 공식 개막했으며, 디펜딩 챔피언 요나스 빙게고르의 비스마-리스 어 바이크가 팀 타임 트라이얼에서 승리했다고 가디언과 BBC 스포츠가 보도했다.</p><p>네덜란드 팀은 21분 48초를 기록하며 넷컴퍼니 이네오스에 8초, 최대 라이벌 타데이 포가차르의 UAE 팀 에미레이트에 18초 앞섰다.</p>',
+            source: 'The Guardian', sourceUrl: 'https://www.theguardian.com/sport/live/2026/jul/04/tour-de-france-2026-stage-one-race-begins-with-team-time-trial-in-barcelona-live', sourceSnippet: '투르 드 프랑스 개막 — The Guardian'
+          },
+          zh: {
+            title: '2026环法自行车赛巴塞罗那揭幕，温格高首日夺黄衫',
+            desc: '卫冕冠军温格高在团队计时赛获胜后，在2026环法自行车赛开幕日穿上黄色领骑衫。',
+            content: '<p>据《卫报》和BBC体育报道，2026环法自行车赛于2026年7月4日在西班牙巴塞罗那开赛，卫冕冠军温格高所在的维斯玛车队赢得开幕团队计时赛，他随即穿上黄色领骑衫。</p><p>这支荷兰车队以21分48秒完赛，领先Netcompany英力士车队8秒，领先温格高最大竞争对手波加查所在的阿联酋航空车队18秒。</p>',
+            source: 'The Guardian', sourceUrl: 'https://www.theguardian.com/sport/live/2026/jul/04/tour-de-france-2026-stage-one-race-begins-with-team-time-trial-in-barcelona-live', sourceSnippet: '环法自行车赛揭幕 — The Guardian'
+          }
+        }
+      }
+
+      ,{
+        id: 'prancis-gelombang-panas-rekor-2025-kematian-berlebih-3juli2026',
+        langs: {
+          id: {
+            title: 'Gelombang Panas Prancis Tewaskan 2.025 Orang dalam Seminggu, Juni Terpanas Sejak 1947',
+            desc: 'Otoritas kesehatan Prancis melaporkan 2.025 kematian berlebih selama puncak gelombang panas Juni 2026, dengan suhu melampaui 40C di banyak wilayah.',
+            content: '<p>Prancis mencatat Juni terpanas sejak pencatatan dimulai pada 1947, dengan lebih dari 2.025 kematian berlebih dilaporkan selama pekan terburuk gelombang panas yang memecahkan rekor, menurut otoritas kesehatan masyarakat Prancis dan Al Jazeera pada 3 Juli 2026.</p><p>Angka kematian melonjak hingga 30% selama pekan terpanas gelombang panas tersebut, dengan para pejabat kesehatan memperingatkan jumlah korban kemungkinan akan terus bertambah seiring data dari rumah sakit dan panti jompo yang terus masuk.</p><p>Gelombang panas ini mendorong suhu melampaui 40C di banyak wilayah Prancis, memecahkan rekor di puluhan stasiun cuaca dan memicu peringatan tingkat merah di beberapa departemen untuk pertama kalinya dalam sejarah.</p><p>The Guardian melaporkan bahwa angka 2025 yang menunjukkan sekitar 1.000 kematian berlebih kemungkinan merupakan underestimasi, dan otoritas kesehatan memperkirakan angka final akan jauh lebih tinggi setelah semua data dikumpulkan sepenuhnya.</p><p>Gelombang panas ini merupakan bagian dari pola panas ekstrem yang lebih luas melanda seluruh Eropa, dengan Organisasi Meteorologi Dunia (WMO) mencatat rekor suhu pecah di berbagai negara dan memperingatkan dampak besar terhadap kesehatan manusia, ekosistem, dan infrastruktur.</p>',
+            source: 'Al Jazeera', sourceUrl: 'https://www.aljazeera.com/news/2026/7/3/hottest-june-on-record-in-france-as-heatwave-deaths-rise-to-alarming-levels', sourceSnippet: 'Hottest June on record in France as heatwave deaths rise to alarming levels — Al Jazeera, 3 Juli 2026',
+            source2: 'The Guardian', sourceUrl2: 'https://www.theguardian.com/world/2026/jul/03/deaths-france-surged-hottest-week-record-heatwave-june', sourceSnippet2: 'Deaths in France surged 30% during hottest week of record June heatwave — The Guardian',
+            source3: 'BBC News', sourceUrl3: 'https://www.bbc.com/news/articles/c3ry307rxqro', sourceSnippet3: 'France records 2,025 excess deaths at peak of heatwave — BBC News',
+            source4: 'Fortune (AP)', sourceUrl4: 'https://fortune.com/2026/07/03/heatwave-france-kill-2000-people-per-week/', sourceSnippet4: 'Brutal heatwave in France is killing 2,000 people per week — AP/Fortune'
+          },
+          en: {
+            title: "France Records 2,025 Excess Deaths During Record Heatwave, Hottest June Since 1947",
+            desc: "French health authorities reported 2,025 excess deaths during the peak of the record-breaking June 2026 heatwave, with temperatures exceeding 40C across much of the country.",
+            content: "<p>France recorded its hottest June since records began in 1947, with more than 2,025 excess deaths reported during the worst week of a record-smashing heatwave, according to France\'s public health authority and Al Jazeera on July 3, 2026.</p><p>Deaths surged by 30% during the hottest week of the heatwave, with health officials warning the toll is likely to rise further as data from hospitals and care homes continues to come in.</p><p>The heatwave pushed temperatures above 40C across much of France, shattering records at dozens of weather stations and triggering red alerts in several departments for the first time.</p><p>The Guardian reported that the 2025 figures, which showed around 1,000 excess deaths, were probably an underestimate, and health authorities expect the final toll to be significantly higher once all data is fully compiled.</p><p>The heatwave was part of a broader pattern of extreme heat sweeping across Europe, with the World Meteorological Organization (WMO) noting record temperatures broken across multiple countries and warning of major impacts on human health, ecosystems, and infrastructure.</p>",
+            source: 'Al Jazeera', sourceUrl: 'https://www.aljazeera.com/news/2026/7/3/hottest-june-on-record-in-france-as-heatwave-deaths-rise-to-alarming-levels', sourceSnippet: 'Hottest June on record in France — Al Jazeera, July 3, 2026',
+            source2: 'The Guardian', sourceUrl2: 'https://www.theguardian.com/world/2026/jul/03/deaths-france-surged-hottest-week-record-heatwave-june', sourceSnippet2: 'Deaths in France surged 30% during hottest week of record June heatwave — The Guardian',
+            source3: 'BBC News', sourceUrl3: 'https://www.bbc.com/news/articles/c3ry307rxqro', sourceSnippet3: 'France records 2,025 excess deaths at peak of heatwave — BBC News',
+            source4: 'Fortune (AP)', sourceUrl4: 'https://fortune.com/2026/07/03/heatwave-france-kill-2000-people-per-week/', sourceSnippet4: 'Brutal heatwave in France is killing 2,000 people per week — AP/Fortune'
+          },
+          ja: {
+            title: 'フランス熱波で1週間に2025人死亡、1947年以来最も暑い6月に',
+            desc: 'フランス保健当局は記録的な熱波の最中、2026年6月の1週間で2025人の超過死亡を報告。気温は40度を超えた。',
+            content: '<p>フランスでは1947年の記録開始以来最も暑い6月となり、記録破りの熱波の最悪の週で2025人以上の超過死亡が報告されたと、フランス公衆衛生局とアルジャジーラが2026年7月3日に報じた。</p><p>死亡者数は熱波の最も暑い週に30%急増し、保健当局は病院や介護施設からのデータが引き続き入るにつれ、死者数はさらに増加する可能性が高いと警告している。</p>',
+            source: 'Al Jazeera', sourceUrl: 'https://www.aljazeera.com/news/2026/7/3/hottest-june-on-record-in-france-as-heatwave-deaths-rise-to-alarming-levels', sourceSnippet: 'フランス熱波死者 — Al Jazeera'
+          },
+          ko: {
+            title: '프랑스 폭염으로 일주일 새 2025명 사망, 1947년 이후 가장 더운 6월',
+            desc: '프랑스 보건 당국이 기록적인 폭염이 정점에 달한 2026년 6월 한 주 동안 2025명의 초과 사망을 보고했다.',
+            content: '<p>프랑스는 1947년 기록 시작 이래 가장 더운 6월을 기록했으며, 기록적인 폭염이 최악이었던 한 주 동안 2025명 이상의 초과 사망이 보고되었다고 프랑스 공중보건국과 알자지라가 2026년 7월 3일 보도했다.</p><p>사망자는 폭염이 가장 심했던 주에 30% 급증했으며, 보건 당국은 병원과 요양원 데이터가 계속 들어오면서 사망자 수가 더 늘어날 가능성이 높다고 경고했다.</p>',
+            source: 'Al Jazeera', sourceUrl: 'https://www.aljazeera.com/news/2026/7/3/hottest-june-on-record-in-france-as-heatwave-deaths-rise-to-alarming-levels', sourceSnippet: '프랑스 폭염 사망자 — Al Jazeera'
+          },
+          zh: {
+            title: '法国热浪一周内致2025人死亡，创1947年以来最热六月',
+            desc: '法国卫生部门报告称，在创纪录的2026年6月热浪最严重的一周内，有2025人超额死亡，全国多地气温超过40度。',
+            content: '<p>据法国公共卫生部门和半岛电视台2026年7月3日报道，法国经历了自1947年有记录以来最热的六月，在创纪录热浪最严重的一周内报告了超过2025例超额死亡。</p><p>在热浪最热的一周，死亡人数激增30%，卫生官员警告随着医院和养老院数据不断汇总，最终死亡人数可能还会进一步上升。</p>',
+            source: 'Al Jazeera', sourceUrl: 'https://www.aljazeera.com/news/2026/7/3/hottest-june-on-record-in-france-as-heatwave-deaths-rise-to-alarming-levels', sourceSnippet: '法国热浪死亡人数 — Al Jazeera'
+          }
+        }
+      }
+
+      ,{
+        id: 'prancis-tour-de-france-pembatalan-gelombang-panas-3juli2026',
+        langs: {
+          id: {
+            title: 'Pejabat Prancis Diizinkan Batalkan Etape Tour de France Jika Gelombang Panas Ekstrem',
+            desc: 'Kementerian Dalam Negeri Prancis menginstruksikan pejabat regional dapat membatalkan etape Tour de France jika peringatan merah gelombang panas dikeluarkan.',
+            content: '<p>Pejabat regional Prancis akan diizinkan untuk membatalkan etape Tour de France jika peringatan merah gelombang panas dikeluarkan, menurut arahan Kementerian Dalam Negeri Prancis yang dilaporkan Reuters pada 3 Juli 2026.</p><p>Keputusan ini diambil di tengah kekhawatiran atas gelombang panas ekstrem yang melanda Eropa, dengan suhu di sejumlah wilayah Prancis melampaui 40C dan Organisasi Meteorologi Dunia (WMO) mencatat rekor suhu pecah di berbagai negara.</p><p>Tour de France 2026 yang baru saja dimulai dari Barcelona pada 4 Juli akan melintasi wilayah selatan Prancis yang terdampak paling parah oleh gelombang panas, meningkatkan risiko bagi pembalap, ofisial, dan penonton.</p><p>Penyelenggara Tour, Amaury Sport Organisation (ASO), menyatakan akan bekerja sama erat dengan otoritas setempat untuk memantau kondisi cuaca dan mengambil keputusan yang mengutamakan keselamatan semua pihak yang terlibat.</p>',
+            source: 'Reuters', sourceUrl: 'https://www.reuters.com/business/environment/french-officials-told-they-can-cancel-tour-stages-extreme-heat-2026-07-03/', sourceSnippet: "French officials told they can cancel Tour stages in extreme heat — Reuters, 3 Juli 2026",
+            source2: 'WMO', sourceUrl2: 'https://wmo.int/media/news/record-breaking-heat-spreads-through-europe', sourceSnippet2: 'Record-breaking heat spreads through Europe — World Meteorological Organization'
+          },
+          en: {
+            title: "French Officials Told They Can Cancel Tour de France Stages in Extreme Heat",
+            desc: "France\'s Interior Ministry has directed regional officials they can cancel Tour de France stages if a red heatwave alert is issued.",
+            content: "<p>Regional officials in France will be allowed to cancel Tour de France stages if a red heatwave alert is issued, according to a directive from France\'s Interior Ministry, Reuters reported on July 3, 2026.</p><p>The decision comes amid growing concern over the extreme heatwave sweeping Europe, with temperatures exceeding 40C across parts of France and the World Meteorological Organization noting records broken in multiple countries.</p><p>The 2026 Tour de France, which just kicked off from Barcelona on July 4, will pass through southern French regions worst affected by the heatwave, heightening risks for riders, officials, and spectators.</p><p>Tour organizer Amaury Sport Organisation (ASO) said it would work closely with local authorities to monitor weather conditions and make decisions prioritizing the safety of everyone involved.</p>",
+            source: 'Reuters', sourceUrl: 'https://www.reuters.com/business/environment/french-officials-told-they-can-cancel-tour-stages-extreme-heat-2026-07-03/', sourceSnippet: 'French officials told they can cancel Tour stages in extreme heat — Reuters, July 3, 2026',
+            source2: 'WMO', sourceUrl2: 'https://wmo.int/media/news/record-breaking-heat-spreads-through-europe', sourceSnippet2: 'Record-breaking heat spreads through Europe — WMO'
+          },
+          ja: {
+            title: '熱波でツール・ド・フランスのステージ中止も — フランス内務省が指示',
+            desc: 'フランス内務省は赤色熱波警報が発令された場合、自治体担当者がツールのステージを中止できるとの指示を出した。',
+            content: '<p>フランスの自治体担当者は、赤色熱波警報が発令された場合にツール・ド・フランスのステージを中止できると、フランス内務省の指示に基づきロイターが2026年7月3日に報じた。</p><p>この決定は欧州を襲う極端な熱波への懸念が高まる中で下され、フランスの一部では気温が40度を超えている。</p>',
+            source: 'Reuters', sourceUrl: 'https://www.reuters.com/business/environment/french-officials-told-they-can-cancel-tour-stages-extreme-heat-2026-07-03/', sourceSnippet: 'ツール・ステージ中止指示 — Reuters'
+          },
+          ko: {
+            title: '프랑스 당국, 폭염 시 투르 드 프랑스 스테이지 취소 가능 지시',
+            desc: '프랑스 내무부가 적색 폭염 경보 발령 시 지역 담당자가 투르 드 프랑스 스테이지를 취소할 수 있다고 지시했다.',
+            content: '<p>프랑스 내무부의 지시에 따라 지역 담당자들은 적색 폭염 경보가 발령될 경우 투르 드 프랑스 스테이지를 취소할 수 있게 됐다고 로이터가 2026년 7월 3일 보도했다.</p><p>이번 결정은 유럽 전역을 휩쓸고 있는 극심한 폭염에 대한 우려가 커지는 가운데 나온 것으로, 프랑스 일부 지역의 기온은 40도를 넘어섰다.</p>',
+            source: 'Reuters', sourceUrl: 'https://www.reuters.com/business/environment/french-officials-told-they-can-cancel-tour-stages-extreme-heat-2026-07-03/', sourceSnippet: '투르 스테이지 취소 지시 — Reuters'
+          },
+          zh: {
+            title: '法国允许官员在极端高温下取消环法自行车赛赛段',
+            desc: '法国内政部指示地区官员，若发布红色高温预警，可以取消环法自行车赛赛段。',
+            content: '<p>据路透社2026年7月3日报道，根据法国内政部的指示，若发布红色高温预警，地区官员可以取消环法自行车赛赛段。</p><p>该决定正值对席卷欧洲的极端热浪日益担忧之际，法国部分地区气温已超过40摄氏度。</p>',
+            source: 'Reuters', sourceUrl: 'https://www.reuters.com/business/environment/french-officials-told-they-can-cancel-tour-stages-extreme-heat-2026-07-03/', sourceSnippet: '环法赛赛段取消指示 — Reuters'
+          }
+        }
+      }
+
+      ,{
+        id: 'prancis-pertanian-krisis-gelombang-panas-3juli2026',
+        langs: {
+          id: {
+            title: 'Gelombang Panas Dini Hancurkan Pertanian Prancis, Menteri Pertanian Nyatakan Mode Krisis',
+            desc: 'Menteri Pertanian Prancis menyatakan sektor pertanian dalam mode krisis setelah gelombang panas akhir Juni meluluhlantakkan tanaman dan membuat petani tak berdaya.',
+            content: '<p>Gelombang panas akhir Juni 2026 telah menghancurkan pertanian Prancis, mendorong Menteri Pertanian Annie Genevard menyatakan sektor ini dalam mode krisis, menurut laporan Le Monde pada 3 Juli 2026.</p><p>Meski gelombang panas telah mereda, dampaknya terhadap tanaman pangan, kebun anggur, dan peternakan sangat parah, dengan petani di berbagai wilayah melaporkan kerusakan besar pada panen gandum, jagung, dan buah-buahan akibat suhu yang melampaui 40C selama berhari-hari.</p><p>Petani Prancis mengaku tidak berdaya menghadapi frekuensi dan intensitas gelombang panas yang semakin meningkat dalam beberapa tahun terakhir, dengan banyak yang menyerukan bantuan darurat pemerintah dan reformasi sistem asuransi pertanian.</p><p>Situasi ini semakin diperparah oleh fakta bahwa gelombang panas datang lebih awal dari biasanya pada musim tanam, memberi tanaman lebih sedikit waktu untuk pulih dan meningkatkan risiko gagal panen di seluruh negeri.</p>',
+            source: 'Le Monde', sourceUrl: 'https://www.lemonde.fr/en/economy/article/2026/07/03/early-heatwaves-are-devastating-french-agriculture-and-leaving-farmers-helpless_6755111_19.html', sourceSnippet: "Early heatwaves are devastating French agriculture and leaving farmers helpless — Le Monde, 3 Juli 2026",
+            source2: 'UN News', sourceUrl2: 'https://news.un.org/en/story/2026/06/1167839', sourceSnippet2: 'Amid crushing European heatwave, things are about to get hotter for transport systems — UN News'
+          },
+          en: {
+            title: "Early Heatwaves Devastate French Agriculture, Minister Declares Crisis Mode",
+            desc: "France\'s Agriculture Minister says the sector is in crisis mode after the late June heatwave ravaged crops and left farmers helpless.",
+            content: "<p>The late June 2026 heatwave has devastated French agriculture, prompting Agriculture Minister Annie Genevard to declare the sector in crisis mode, Le Monde reported on July 3, 2026.</p><p>Although the heatwave has subsided, its impact on food crops, vineyards, and livestock has been severe, with farmers across regions reporting extensive damage to wheat, corn, and fruit harvests after temperatures exceeded 40C for days.</p><p>French farmers say they are helpless in the face of increasingly frequent and intense heatwaves in recent years, with many calling for emergency government aid and reform of the agricultural insurance system.</p><p>The situation has been compounded by the fact that the heatwave arrived earlier than usual in the growing season, giving crops less time to recover and raising the risk of harvest failures nationwide.</p>",
+            source: 'Le Monde', sourceUrl: 'https://www.lemonde.fr/en/economy/article/2026/07/03/early-heatwaves-are-devastating-french-agriculture-and-leaving-farmers-helpless_6755111_19.html', sourceSnippet: 'Early heatwaves are devastating French agriculture — Le Monde, July 3, 2026',
+            source2: 'UN News', sourceUrl2: 'https://news.un.org/en/story/2026/06/1167839', sourceSnippet2: 'Amid crushing European heatwave, things are about to get hotter for transport systems — UN News'
+          },
+          ja: {
+            title: '早期熱波がフランス農業を壊滅、農相が危機モード宣言',
+            desc: 'フランス農相は6月下旬の熱波が作物を荒廃させ農家を無力にしたとして、農業部門を危機モードと宣言した。',
+            content: '<p>2026年6月下旬の熱波がフランス農業を壊滅させ、アニー・ジュヌヴァール農相が農業部門を危機モードと宣言したと、ル・モンドが2026年7月3日に報じた。</p><p>熱波は収まったものの、食料作物、ブドウ園、畜産への影響は深刻で、各地の農家は40度を超える日が続き小麦、トウモロコシ、果物の収穫に甚大な被害が出たと報告している。</p>',
+            source: 'Le Monde', sourceUrl: 'https://www.lemonde.fr/en/economy/article/2026/07/03/early-heatwaves-are-devastating-french-agriculture-and-leaving-farmers-helpless_6755111_19.html', sourceSnippet: 'フランス農業危機 — Le Monde'
+          },
+          ko: {
+            title: '조기 폭염이 프랑스 농업 초토화, 농업장관 위기 모드 선언',
+            desc: '프랑스 농업장관이 6월 말 폭염으로 농작물이 황폐화되고 농민들이 속수무책이 되자 농업 부문을 위기 모드로 선언했다.',
+            content: '<p>2026년 6월 말 폭염이 프랑스 농업을 초토화시켜, 아니 주느바르 농업장관이 농업 부문을 위기 모드로 선언했다고 르몽드가 2026년 7월 3일 보도했다.</p><p>폭염이 가라앉았지만 식량 작물, 포도밭, 축산에 미친 영향은 심각하며, 각지의 농민들은 40도를 웃도는 고온이 며칠간 지속되며 밀, 옥수수, 과일 수확에 막대한 피해를 입었다고 보고하고 있다.</p>',
+            source: 'Le Monde', sourceUrl: 'https://www.lemonde.fr/en/economy/article/2026/07/03/early-heatwaves-are-devastating-french-agriculture-and-leaving-farmers-helpless_6755111_19.html', sourceSnippet: '프랑스 농업 위기 — Le Monde'
+          },
+          zh: {
+            title: '早期热浪摧毁法国农业，农业部长宣布进入危机状态',
+            desc: '法国农业部长表示，6月下旬的热浪摧毁了农作物，令农民束手无策，农业部门进入危机状态。',
+            content: '<p>据《世界报》2026年7月3日报道，2026年6月下旬的热浪摧毁了法国农业，农业部长安妮·热纳瓦尔宣布该部门进入危机状态。</p><p>虽然热浪已经消退，但对粮食作物、葡萄园和畜牧业的影响十分严重，各地农民报告小麦、玉米和水果收成因连续多日超过40度的高温而遭受严重损失。</p>',
+            source: 'Le Monde', sourceUrl: 'https://www.lemonde.fr/en/economy/article/2026/07/03/early-heatwaves-are-devastating-french-agriculture-and-leaving-farmers-helpless_6755111_19.html', sourceSnippet: '法国农业危机 — Le Monde'
+          }
+        }
+      }
+
+      ,{
+        id: 'prancis-inggris-starmer-macron-selat-hormuz-3juli2026',
+        langs: {
+          id: {
+            title: 'Starmer dan Macron Rilis Pernyataan Bersama soal Selat Hormuz di Tengah Krisis Iran',
+            desc: 'PM Inggris Keir Starmer dan Presiden Prancis Emmanuel Macron mengeluarkan pernyataan bersama pada 3 Juli 2026 terkait situasi di Selat Hormuz.',
+            content: '<p>Perdana Menteri Inggris Keir Starmer dan Presiden Prancis Emmanuel Macron mengeluarkan pernyataan bersama pada 3 Juli 2026 terkait situasi di Selat Hormuz, di tengah meningkatnya ketegangan di jalur pelayaran strategis tersebut, menurut rilis resmi pemerintah Inggris.</p><p>Pernyataan bersama ini muncul di tengah krisis yang semakin dalam di kawasan Timur Tengah, dengan Selat Hormuz — jalur laut vital yang dilalui sekitar seperlima pasokan minyak global — menjadi titik fokus ketegangan geopolitik antara Iran dan kekuatan Barat.</p><p>Kedua pemimpin diperkirakan membahas pentingnya menjaga kebebasan navigasi di perairan internasional dan mencegah eskalasi lebih lanjut yang dapat mengganggu pasokan energi global dan stabilitas ekonomi.</p><p>Prancis dan Inggris, bersama sekutu NATO lainnya, telah meningkatkan kehadiran angkatan laut di kawasan tersebut dalam beberapa pekan terakhir menyusul serangkaian insiden yang melibatkan kapal komersial di sekitar Selat Hormuz.</p>',
+            source: 'GOV.UK', sourceUrl: 'https://www.gov.uk/government/news/joint-statement-on-the-strait-of-hormuz-3-july-2026', sourceSnippet: 'Joint statement on the Strait of Hormuz: 3 July 2026 — GOV.UK, 3 Juli 2026'
+          },
+          en: {
+            title: "Starmer and Macron Issue Joint Statement on Strait of Hormuz Amid Iran Crisis",
+            desc: "UK PM Keir Starmer and French President Emmanuel Macron issued a joint statement on July 3, 2026, regarding the situation in the Strait of Hormuz.",
+            content: "<p>UK Prime Minister Keir Starmer and French President Emmanuel Macron issued a joint statement on July 3, 2026, regarding the situation in the Strait of Hormuz, amid mounting tensions in the strategic shipping lane, according to an official UK government release.</p><p>The joint statement came as the crisis deepened in the Middle East, with the Strait of Hormuz — the vital sea passage through which roughly one-fifth of global oil supplies flow — becoming a focal point of geopolitical tension between Iran and Western powers.</p><p>The two leaders were expected to discuss the importance of maintaining freedom of navigation in international waters and preventing further escalation that could disrupt global energy supplies and economic stability.</p><p>France and the UK, along with other NATO allies, have increased their naval presence in the region in recent weeks following a series of incidents involving commercial vessels around the Strait of Hormuz.</p>",
+            source: 'GOV.UK', sourceUrl: 'https://www.gov.uk/government/news/joint-statement-on-the-strait-of-hormuz-3-july-2026', sourceSnippet: 'Joint statement on the Strait of Hormuz: 3 July 2026 — GOV.UK, July 3, 2026'
+          },
+          ja: {
+            title: '英スターマー首相と仏マクロン大統領、ホルムズ海峡に関する共同声明を発表',
+            desc: 'スターマー英首相とマクロン仏大統領が2026年7月3日、ホルムズ海峡情勢に関する共同声明を発表した。',
+            content: '<p>英国のキア・スターマー首相とフランスのエマニュエル・マクロン大統領は2026年7月3日、緊張が高まる戦略的海上交通路ホルムズ海峡の情勢に関して共同声明を発表したと、英国政府公式発表が伝えた。</p><p>世界の石油供給の約5分の1が通過する重要な航路であるホルムズ海峡は、イランと西側諸国間の地政学的緊張の焦点となっている。</p>',
+            source: 'GOV.UK', sourceUrl: 'https://www.gov.uk/government/news/joint-statement-on-the-strait-of-hormuz-3-july-2026', sourceSnippet: 'ホルムズ海峡共同声明 — GOV.UK'
+          },
+          ko: {
+            title: '스타머 英총리-마크롱 佛대통령, 호르무즈 해협 공동 성명 발표',
+            desc: '키어 스타머 영국 총리와 에마뉘엘 마크롱 프랑스 대통령이 2026년 7월 3일 호르무즈 해협 상황에 관한 공동 성명을 발표했다.',
+            content: '<p>키어 스타머 영국 총리와 에마뉘엘 마크롱 프랑스 대통령이 2026년 7월 3일, 긴장이 고조되는 전략적 해상 교통로인 호르무즈 해협 상황에 관한 공동 성명을 발표했다고 영국 정부 공식 발표가 전했다.</p><p>세계 석유 공급의 약 5분의 1이 통과하는 핵심 항로인 호르무즈 해협은 이란과 서방 열강 간 지정학적 긴장의 초점이 되고 있다.</p>',
+            source: 'GOV.UK', sourceUrl: 'https://www.gov.uk/government/news/joint-statement-on-the-strait-of-hormuz-3-july-2026', sourceSnippet: '호르무즈 해협 공동 성명 — GOV.UK'
+          },
+          zh: {
+            title: '斯塔默与马克龙就霍尔木兹海峡局势发表联合声明',
+            desc: '英国首相斯塔默与法国总统马克龙于2026年7月3日就霍尔木兹海峡局势发表联合声明。',
+            content: '<p>据英国政府官方发布，英国首相基尔·斯塔默与法国总统埃马纽埃尔·马克龙于2026年7月3日就霍尔木兹海峡局势发表联合声明，该战略航道紧张局势正在加剧。</p><p>霍尔木兹海峡是全球约五分之一石油供应通过的重要海上通道，已成为伊朗与西方大国之间地缘政治紧张的焦点。</p>',
+            source: 'GOV.UK', sourceUrl: 'https://www.gov.uk/government/news/joint-statement-on-the-strait-of-hormuz-3-july-2026', sourceSnippet: '霍尔木兹海峡联合声明 — GOV.UK'
+          }
+        }
+      }
+
+      ,{
+        id: 'prancis-rima-hassan-warga-kehormatan-la-courneuve-4juli2026',
+        langs: {
+          id: {
+            title: 'Anggota Parlemen Eropa Rima Hassan Terima Kewarganegaraan Kehormatan La Courneuve',
+            desc: 'Rima Hassan, anggota Parlemen Eropa dari partai La France Insoumise (LFI), menerima kewarganegaraan kehormatan kota La Courneuve dalam upacara 4 Juli 2026.',
+            content: '<p>Rima Hassan, anggota Parlemen Eropa dari partai kiri La France Insoumise (LFI), menerima kewarganegaraan kehormatan kota La Courneuve di pinggiran Paris dalam sebuah upacara pada 4 Juli 2026, menurut foto dan laporan Reuters Connect.</p><p>Wali Kota La Courneuve dari LFI, Aly Diouara, menyampaikan pidato dalam upacara penganugerahan tersebut, memuji kontribusi Hassan terhadap isu-isu keadilan sosial dan hak asasi manusia yang diangkatnya di Parlemen Eropa.</p><p>Hassan, yang dikenal sebagai advokat vokal untuk hak-hak Palestina dan keadilan sosial, telah menjadi figur kontroversial sekaligus berpengaruh dalam politik Prancis sejak terpilih menjadi anggota Parlemen Eropa.</p><p>Upacara ini turut mencerminkan semakin pentingnya peran politisi keturunan imigran dalam lanskap politik Prancis kontemporer, dengan La Courneuve — kota dengan populasi imigran yang signifikan — memberikan pengakuan simbolis kepada salah satu figur publik paling dikenal dari komunitas tersebut.</p>',
+            source: 'Reuters Connect', sourceUrl: 'https://www.reutersconnect.com/item/france-politics-rima-hassan-honorary-citizenship-la-courneuve-july-4-2026/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUhOU0xDUzAwMDlUQTJFTA', sourceSnippet: 'FRANCE-POLITICS-RIMA-HASSAN-HONORARY-CITIZENSHIP-LA-COURNEUVE-JULY-4-2026 — Reuters Connect, 4 Juli 2026'
+          },
+          en: {
+            title: "MEP Rima Hassan Receives Honorary Citizenship of La Courneuve",
+            desc: "Rima Hassan, a French MEP from the left-wing La France Insoumise (LFI) party, received honorary citizenship of La Courneuve in a ceremony on July 4, 2026.",
+            content: "<p>Rima Hassan, a Member of the European Parliament from the left-wing La France Insoumise (LFI) party, received honorary citizenship of La Courneuve, a suburb of Paris, in a ceremony on July 4, 2026, according to Reuters Connect photos and reports.</p><p>La Courneuve\'s LFI mayor, Aly Diouara, delivered a speech at the award ceremony, praising Hassan\'s contributions to social justice and human rights issues she has championed in the European Parliament.</p><p>Hassan, known as a vocal advocate for Palestinian rights and social justice, has been both a controversial and influential figure in French politics since her election to the European Parliament.</p><p>The ceremony also reflects the growing importance of politicians of immigrant heritage in the contemporary French political landscape, with La Courneuve — a town with a significant immigrant population — bestowing symbolic recognition on one of the community\'s most prominent public figures.</p>",
+            source: 'Reuters Connect', sourceUrl: 'https://www.reutersconnect.com/item/france-politics-rima-hassan-honorary-citizenship-la-courneuve-july-4-2026/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUhOU0xDUzAwMDlUQTJFTA', sourceSnippet: 'FRANCE-POLITICS-RIMA-HASSAN-HONORARY-CITIZENSHIP-LA-COURNEUVE-JULY-4-2026 — Reuters Connect, July 4, 2026'
+          },
+          ja: {
+            title: '欧州議会議員リマ・ハッサン氏、ラ・クールヌーヴの名誉市民に',
+            desc: '左派「不服従のフランス」（LFI）所属の欧州議会議員リマ・ハッサン氏が、2026年7月4日の式典でラ・クールヌーヴ市の名誉市民権を授与された。',
+            content: '<p>左派「不服従のフランス」（LFI）所属の欧州議会議員リマ・ハッサン氏が、2026年7月4日、パリ郊外ラ・クールヌーヴ市の名誉市民権を授与されたと、ロイター・コネクトの写真と報道が伝えた。</p><p>LFI所属のアリ・ディウアラ市長が授与式でスピーチを行い、ハッサン氏が欧州議会で推進してきた社会正義と人権問題への貢献を称賛した。</p>',
+            source: 'Reuters Connect', sourceUrl: 'https://www.reutersconnect.com/item/france-politics-rima-hassan-honorary-citizenship-la-courneuve-july-4-2026/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUhOU0xDUzAwMDlUQTJFTA', sourceSnippet: '名誉市民権授与 — Reuters Connect'
+          },
+          ko: {
+            title: '유럽의회 리마 하산 의원, 라 쿠르뇌브 명예 시민권 수여',
+            desc: '좌파 정당 LFI 소속 유럽의회 의원 리마 하산이 2026년 7월 4일 라 쿠르뇌브 명예 시민권을 받았다.',
+            content: '<p>좌파 정당 \'굴하지 않는 프랑스\'(LFI) 소속 유럽의회 의원 리마 하산이 2026년 7월 4일 파리 교외 라 쿠르뇌브에서 명예 시민권을 수여받았다고 로이터 커넥트 사진과 보도가 전했다.</p><p>LFI 소속 알리 디우아라 시장이 수여식에서 연설하며 하산 의원이 유럽의회에서 추진해 온 사회 정의와 인권 문제에 대한 기여를 칭송했다.</p>',
+            source: 'Reuters Connect', sourceUrl: 'https://www.reutersconnect.com/item/france-politics-rima-hassan-honorary-citizenship-la-courneuve-july-4-2026/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUhOU0xDUzAwMDlUQTJFTA', sourceSnippet: '명예 시민권 수여 — Reuters Connect'
+          },
+          zh: {
+            title: '欧洲议会议员里玛·哈桑获拉库尔讷夫荣誉市民称号',
+            desc: '法国左翼政党"不屈法国"（LFI）的欧洲议会议员里玛·哈桑于2026年7月4日在仪式上获颁拉库尔讷夫市荣誉市民称号。',
+            content: '<p>据路透连线图片和报道，左翼政党"不屈法国"（LFI）的欧洲议会议员里玛·哈桑于2026年7月4日在巴黎郊区拉库尔讷夫市举行的仪式上获颁荣誉市民称号。</p><p>LFI籍市长阿里·迪乌阿拉在授勋仪式上发表讲话，赞扬哈桑在欧洲议会所倡导的社会正义和人权事业。</p>',
+            source: 'Reuters Connect', sourceUrl: 'https://www.reutersconnect.com/item/france-politics-rima-hassan-honorary-citizenship-la-courneuve-july-4-2026/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUhOU0xDUzAwMDlUQTJFTA', sourceSnippet: '荣誉市民称号 — Reuters Connect'
+          }
+        }
+      }
+
     ]
   };
   window.countries = window.countryDataFiles;
