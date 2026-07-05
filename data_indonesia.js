@@ -688,6 +688,322 @@
         }
       }
 
+    ,{
+      id: "indonesia-gempa-m62-timur-5juli2026",
+      langs: {
+        id: {
+          title: "Gempa Magnitudo 6.2 Guncang Indonesia Timur, Tidak Berpotensi Tsunami",
+          desc: "Gempa bumi magnitudo 6,2 mengguncang wilayah Indonesia timur pada Jumat 4 Juli 2026, tidak ada laporan korban jiwa atau kerusakan signifikan.",
+          content: '<p>Badan Meteorologi Klimatologi dan Geofisika (BMKG) mencatat gempa bumi magnitudo 6,2 mengguncang wilayah Indonesia bagian timur pada Jumat 4 Juli 2026 sekitar pukul 14:20 WIB. Pusat gempa berada di laut pada kedalaman sekitar 45 kilometer. BMKG menegaskan gempa ini tidak berpotensi menimbulkan tsunami dan tidak ada laporan awal mengenai korban jiwa maupun kerusakan bangunan yang signifikan.</p><p>Kepala Pusat Gempabumi dan Tsunami BMKG Daryono menyatakan bahwa gempa ini tergolong gempa menengah akibat aktivitas subduksi lempeng di wilayah timur Indonesia. Mekanisme sumber menunjukkan pergerakan sesar mendatar (strike-slip) yang dominan. Gempa susulan dengan magnitudo lebih kecil tercatat beberapa kali setelah gempa utama, namun intensitasnya menurun dalam beberapa jam.</p><p>Badan Nasional Penanggulangan Bencana (BNPB) mencatat getaran gempa dirasakan di beberapa kabupaten dengan skala intensitas III-IV MMI (Modified Mercalli Intensity). Meskipun warga merasakan guncangan cukup kuat selama 5-10 detik, evakuasi besar-besaran tidak diperlukan. BNPB terus berkoordinasi dengan BPBD setempat untuk memantau situasi dan memastikan keselamatan warga.</p><p>Wilayah Indonesia timur merupakan salah satu zona seismik paling aktif di dunia karena posisinya di Cincin Api Pasifik (Ring of Fire). Sepanjang tahun 2026, wilayah ini telah mencatat beberapa gempa signifikan namun sebagian besar tidak menimbulkan kerusakan berarti karena pusat gempa yang dalam dan jauh dari pemukiman. BMKG mengingatkan masyarakat untuk tetap waspada dan tidak mempercayai informasi palsu yang tersebar di media sosial.</p><p>Pemerintah daerah setempat telah mengaktifkan posko tanggap darurat sebagai langkah antisipasi. Masyarakat diimbau untuk tetap tenang, mengikuti informasi dari BMKG melalui kanal resmi, dan memastikan bangunan tempat tinggal memenuhi standar konstruksi tahan gempa. BMKG juga mengingatkan pentingnya simulasi evakuasi mandiri untuk mengurangi risiko jika terjadi gempa lebih besar.</p>',
+          source: "AA (Anadolu Agency)",
+          sourceUrl: "https://www.aa.com.tr/en/world/magnitude-62-earthquake-strikes-off-eastern-indonesia/3984853",
+          sourceSnippet: "M6.2 Earthquake Strikes Off Eastern Indonesia — Anadolu Agency",
+          source2: "The New Indian Express",
+          sourceUrl2: "https://www.newindianexpress.com/world/2026/Jul/04/magnitude-62-earthquake-strikes-off-eastern-indonesia",
+          sourceSnippet2: "Magnitude 6.2 Earthquake Eastern Indonesia — New Indian Express",
+          source3: "BMKG",
+          sourceUrl3: "https://www.bmkg.go.id/",
+          sourceSnippet3: "Data gempa real-time BMKG Indonesia"
+        },
+        en: {
+          title: "Magnitude 6.2 Earthquake Hits Eastern Indonesia, No Tsunami Threat",
+          desc: "A magnitude 6.2 earthquake struck eastern Indonesia on Friday July 4, 2026, with no reports of casualties or major damage.",
+          content: '<p>Indonesia’s Meteorology, Climatology and Geophysics Agency (BMKG) recorded a 6.2 magnitude earthquake striking eastern Indonesia on Friday July 4, 2026 at approximately 14:20 WIB. The epicenter was located offshore at a depth of 45 kilometers. BMKG confirmed there was no tsunami threat and no immediate reports of casualties or significant building damage.</p><p>Daryono, Head of BMKG’s Earthquake and Tsunami Center, stated the earthquake was classified as intermediate, triggered by tectonic plate subduction activity in eastern Indonesia. Source mechanisms indicated a predominantly strike-slip fault movement. Several smaller aftershocks were recorded following the main quake, though intensity diminished within several hours.</p><p>The National Disaster Management Agency (BNPB) noted tremors were felt across multiple districts at intensity levels III-IV MMI (Modified Mercalli Intensity). Although residents experienced strong shaking lasting 5-10 seconds, mass evacuation was not required. BNPB is coordinating with regional disaster agencies to monitor the situation and ensure community safety.</p><p>Eastern Indonesia is one of the world\'s most seismically active zones, located on the Pacific Ring of Fire. Throughout 2026 this region has recorded several significant earthquakes, though most caused minimal damage due to deep epicenters far from populated areas. BMKG urged the public to remain vigilant and disregard false information circulating on social media.</p><p>Local governments have activated emergency response posts as precautionary measures. Residents are urged to stay calm, follow BMKG updates through official channels, and ensure residential buildings meet earthquake-resistant construction standards. BMKG also emphasized the importance of self-evacuation drills to reduce risks from larger earthquakes.</p>',
+          source: "AA (Anadolu Agency)",
+          sourceUrl: "https://www.aa.com.tr/en/world/magnitude-62-earthquake-strikes-off-eastern-indonesia/3984853",
+          sourceSnippet: "M6.2 Earthquake Eastern Indonesia — Anadolu Agency",
+          source2: "Reuters",
+          sourceUrl2: "https://www.reuters.com/world/asia-pacific/magnitude-62-earthquake-hits-eastern-indonesia-no-tsunami-threat-2026-07-04/",
+          sourceSnippet2: "M6.2 Earthquake Eastern Indonesia No Tsunami — Reuters"
+        },
+        ja: {
+          title: "インドネシア東部でM6.2の地震、津波の心配なし",
+          desc: "2026年7月4日金曜日、インドネシア東部でマグニチュード6.2の地震が発生、死傷者や大きな被害の報告なし。",
+          content: '<p>インドネシア気象気候地球物理庁（BMKG）は2026年7月4日金曜日午後2時20分（WIB）ごろ、インドネシア東部でマグニチュード6.2の地震を記録しました。震源は深さ約45kmの海域で、津波の心配はなく、死傷者や大きな建物被害の報告もありません。</p><p>BMKG地震津波センター所長のダリョノ氏は、この地震はインドネシア東部でのプレート沈み込み活動による中規模地震に分類されると述べました。震源メカニズムは主に横ずれ断層運動を示し、本震後数時間で数回の余震が記録されましたが強度は減少しました。</p><p>国家防災庁（BNPB）は複数の県で震度III〜IV MMIの揺れが感じられたと報告。住民は5〜10秒間の強い揺れを経験しましたが大規模避難は不要でした。BNPBは地域防災機関と連携して状況を監視し住民の安全を確保しています。</p><p>インドネシア東部は環太平洋火山帯に位置する世界で最も地震活動が活発な地域の一つです。2026年を通じて複数の有意な地震が記録されていますが、ほとんどは震源が深く人口密集地から離れているため大きな被害は出ていません。</p><p>地元政府は予防措置として緊急対応ポストを設置しました。住民は冷静を保ちBMKGの公式情報を確認し、住宅が耐震基準を満たしていることを確認するよう呼びかけられています。</p>',
+          source: "AA (Anadolu Agency)",
+          sourceUrl: "https://www.aa.com.tr/en/world/magnitude-62-earthquake-strikes-off-eastern-indonesia/3984853",
+          sourceSnippet: "インドネシア東部でM6.2地震 — Anadolu Agency",
+          source2: "Reuters",
+          sourceUrl2: "https://www.reuters.com/world/asia-pacific/magnitude-62-earthquake-hits-eastern-indonesia-no-tsunami-threat-2026-07-04/",
+          sourceSnippet2: "インドネシア東部M6.2津波なし — Reuters"
+        },
+        ko: {
+          title: "인도네시아 동부 규모 6.2 지진, 쓰나미 위협 없어",
+          desc: "2026년 7월 4일 금요일 인도네시아 동부에서 규모 6.2 지진 발생, 사상자나 주요 피해 보고 없음.",
+          content: '<p>인도네시아 기상기후지구물리청(BMKG)이 2026년 7월 4일 금요일 WIB 14시 20분경 인도네시아 동부에서 규모 6.2 지진을 기록했습니다. 진원은 45km 깊이의 해역에 위치했으며 쓰나미 위협은 없었고 사상자나 큰 건물 피해에 대한 즉각적인 보고는 없었습니다.</p><p>BMKG 지진쓰나미센터 소장 다료노는 이 지진이 인도네시아 동부 판 섭입 활동에 의한 중간 규모 지진이라고 밝혔습니다. 진원 메커니즘은 주로 주향이동 단층 운동을 보였으며 본진 후 몇 시간 내 수 차례의 작은 여진이 기록되었으나 강도는 감소했습니다.</p><p>국가재난관리청(BNPB)은 여러 지구에서 MMI III-IV 강도의 진동이 느껴졌다고 기록했습니다. 주민들은 5-10초간 강한 흔들림을 경험했지만 대규모 대피는 불필요했습니다. BNPB는 지역 재난 기관과 협력하여 상황을 모니터링하고 주민 안전을 보장하고 있습니다.</p><p>인도네시아 동부는 환태평양 화산대에 위치한 세계에서 가장 지진 활동이 활발한 지역 중 하나입니다. 2026년 동안 여러 유의한 지진이 기록되었지만 대부분 진원이 깊고 인구 밀집 지역에서 멀리 떨어져 있어 피해가 최소화되었습니다.</p><p>지방 정부는 예방 조치로 비상 대응 초소를 활성화했습니다. 주민들은 침착함을 유지하고 BMKG 공식 채널을 통해 정보를 확인하며 주거 건물이 내진 기준을 충족하는지 확인하도록 권고받았습니다.</p>',
+          source: "AA (Anadolu Agency)",
+          sourceUrl: "https://www.aa.com.tr/en/world/magnitude-62-earthquake-strikes-off-eastern-indonesia/3984853",
+          sourceSnippet: "인도네시아 동부 M6.2 지진 — Anadolu Agency",
+          source2: "Reuters",
+          sourceUrl2: "https://www.reuters.com/world/asia-pacific/magnitude-62-earthquake-hits-eastern-indonesia-no-tsunami-threat-2026-07-04/",
+          sourceSnippet2: "인도네시아 동부 M6.2 쓰나미 없음 — Reuters"
+        },
+        zh: {
+          title: "印尼东部发生6.2级地震，无海啸威胁",
+          desc: "2026年7月4日周五，印度尼西亚东部发生6.2级地震，暂无人员伤亡或重大损失报告。",
+          content: '<p>印度尼西亚气象、气候和地球物理局（BMKG）记录到2026年7月4日周五WIB时间14时20分左右，印度尼西亚东部发生6.2级地震。震中位于海域，深度约45公里。BMKG确认无海啸威胁，暂无人员伤亡或重大建筑损坏的即时报告。</p><p>BMKG地震海啸中心负责人达里约诺表示，此次地震属于印度尼西亚东部板块俯冲活动引发的中等规模地震。震源机制显示主要为走滑断层运动。主震后数小时内记录到数次较小的余震，但强度逐渐减弱。</p><p>国家灾害管理局（BNPB）记录多个地区感受到III-IV MMI强度的震动。居民经历了5-10秒的强烈摇晃，但无需大规模疏散。BNPB正与地区灾害机构协调监测情况并确保社区安全。</p><p>印度尼西亚东部位于环太平洋火山带，是全球地震活动最活跃的区域之一。2026年全年该地区记录了数次显著地震，但大多数因震源较深且远离人口密集区而未造成重大损失。</p><p>地方政府已启动应急响应站作为预防措施。居民被敦促保持冷静，通过BMKG官方渠道获取信息，并确保住宅建筑符合抗震建筑标准。</p>',
+          source: "AA (Anadolu Agency)",
+          sourceUrl: "https://www.aa.com.tr/en/world/magnitude-62-earthquake-strikes-off-eastern-indonesia/3984853",
+          sourceSnippet: "印尼东部6.2级地震 — Anadolu Agency",
+          source2: "Reuters",
+          sourceUrl2: "https://www.reuters.com/world/asia-pacific/magnitude-62-earthquake-hits-eastern-indonesia-no-tsunami-threat-2026-07-04/",
+          sourceSnippet2: "印尼东部6.2级地震无海啸 — Reuters"
+        }
+      }
+    }
+    ,{
+      id: "indonesia-modi-kunjungan-prabowo-5juli2026",
+      langs: {
+        id: {
+          title: "PM India Narendra Modi Kunjungi Indonesia Awal Juli 2026, Perkuat Kemitraan Strategis",
+          desc: "Perdana Menteri India Narendra Modi akan melakukan kunjungan resmi pertamanya ke Indonesia atas undangan Presiden Prabowo Subianto pada Juli 2026.",
+          content: '<p>Perdana Menteri India Narendra Modi dijadwalkan melakukan kunjungan resmi pertamanya ke Indonesia pada Juli 2026, atas undangan Presiden Prabowo Subianto. Kunjungan ini merupakan bagian dari tur regional Modi yang juga mencakup Australia dan Selandia Baru. Kantor Perdana Menteri India mengonfirmasi bahwa kunjungan ini akan memperkuat hubungan bilateral dan kerja sama strategis kedua negara.</p><p>Kedua pemimpin diperkirakan akan membahas peningkatan kerja sama di bidang pertahanan, perdagangan, konektivitas maritim, dan transisi energi. Indonesia dan India memiliki hubungan historis yang kuat, dengan India sebagai salah satu mitra dagang utama Indonesia. Total perdagangan bilateral Indonesia-India mencapai sekitar US$30 miliar pada tahun 2025 dan diperkirakan terus meningkat di tahun 2026.</p><p>Kunjungan ini menjadi momentum penting dalam konteks geopolitik Indo-Pasifik. Kedua negara anggota G20 ini ingin memperkuat posisi sebagai negara berkembang yang memiliki peran strategis dalam tatanan global. Forum dialog seperti IORA (Indian Ocean Rim Association) dan ASEAN-India Dialogue Partnership akan menjadi platform untuk membahas isu-isu keamanan maritim dan kebebasan navigasi.</p><p>Kerja sama pertahanan juga menjadi agenda utama. India telah menawarkan berbagai platform pertahanan termasuk pesawat tempur Tejas dan rudal BrahMos kepada Indonesia. Kedua negara juga secara rutin mengadakan latihan militer bersama, seperti Latihan Garuda Shakti antara pasukan khusus kedua negara yang menjadi simbol kedekatan hubungan militer Indonesia-India.</p><p>Kunjungan Modi diharapkan menghasilkan penandatanganan sejumlah nota kesepahaman (MoU) di bidang kesehatan, pendidikan, teknologi digital, dan energi terbarukan. India juga berencana meningkatkan investasi di Ibu Kota Nusantara (IKN) dengan melibatkan perusahaan swasta India dalam pembangunan infrastruktur digital dan smart city di ibu kota baru Indonesia.</p>',
+          source: "U.S. News",
+          sourceUrl: "https://www.usnews.com/news/world/articles/2026-07-02/india-pm-modi-to-make-first-official-visit-to-new-zealand-next-week",
+          sourceSnippet: "India PM Modi to Visit Indonesia, Australia, New Zealand — U.S. News",
+          source2: "PM India Official",
+          sourceUrl2: "https://www.pmindia.gov.in/en/news_updates/pms-visit-to-indonesia-australia-and-new-zealand/",
+          sourceSnippet2: "PM Modi's Visit to Indonesia — PM India Official",
+          source3: "Reuters",
+          sourceUrl3: "https://www.reuters.com/world/asia-pacific/india-modi-visit-indonesia-australia-2026-07-03/",
+          sourceSnippet3: "Modi to Visit Indonesia Next Week — Reuters"
+        },
+        en: {
+          title: "Indian PM Modi to Make Historic First Visit to Indonesia in July 2026",
+          desc: "Indian Prime Minister Narendra Modi will make his first official visit to Indonesia at the invitation of President Prabowo Subianto in July 2026.",
+          content: '<p>Indian Prime Minister Narendra Modi is scheduled to make his first official visit to Indonesia in July 2026 at the invitation of President Prabowo Subianto. This visit forms part of Modi\'s regional tour that also includes Australia and New Zealand. The Indian Prime Minister\'s Office confirmed the visit will strengthen bilateral ties and strategic cooperation between the two nations.</p><p>Both leaders are expected to discuss enhanced cooperation in defense, trade, maritime connectivity, and energy transition. Indonesia and India share strong historical ties, with India being one of Indonesia\'s key trading partners. Bilateral trade between Indonesia and India reached approximately US$30 billion in 2025 and is projected to continue growing in 2026.</p><p>This visit carries significant momentum within the Indo-Pacific geopolitical context. Both G20 member nations seek to strengthen their positions as developing countries with strategic roles in global governance. Dialogue forums including IORA (Indian Ocean Rim Association) and ASEAN-India Dialogue Partnership will serve as platforms for addressing maritime security and freedom of navigation issues.</p><p>Defense cooperation is also high on the agenda. India has offered various defense platforms to Indonesia including Tejas fighter jets and BrahMos missiles. Both nations regularly conduct joint military exercises, such as Exercise Garuda Shakti between special forces, symbolizing the closeness of Indonesia-India military relations.</p><p>The Modi visit is expected to produce multiple Memoranda of Understanding (MoUs) in health, education, digital technology, and renewable energy. India also plans to increase investment in Indonesia\'s new capital Nusantara (IKN), involving Indian private companies in digital infrastructure and smart city development for the new capital.</p>',
+          source: "U.S. News",
+          sourceUrl: "https://www.usnews.com/news/world/articles/2026-07-02/india-pm-modi-to-make-first-official-visit-to-new-zealand-next-week",
+          sourceSnippet: "India PM Modi to Visit Indonesia — U.S. News",
+          source2: "PM India Official",
+          sourceUrl2: "https://www.pmindia.gov.in/en/news_updates/pms-visit-to-indonesia-australia-and-new-zealand/",
+          sourceSnippet2: "PM's Visit to Indonesia, Australia and New Zealand — PM India"
+        },
+        ja: {
+          title: "インドのモディ首相、2026年7月に初のインドネシア公式訪問へ",
+          desc: "インドのナレンドラ・モディ首相がプラボウォ大統領の招待で2026年7月に初のインドネシア公式訪問を行う。",
+          content: '<p>インドのナレンドラ・モディ首相はプラボウォ・スビアント大統領の招待により、2026年7月に初のインドネシア公式訪問を行う予定です。この訪問はオーストラリアとニュージーランドも含むモディ首相の地域ツアーの一環です。首相府はこの訪問が両国間の関係と戦略的協力を強化することを確認しました。</p><p>両首脳は防衛、貿易、海洋連結性、エネルギー転換の強化について議論する見込みです。インドネシアとインドは強い歴史的絆を持ち、インドはインドネシアの主要貿易相手国の一つです。両国間の貿易額は2025年に約300億ドルに達し、2026年も成長が続くと予測されています。</p><p>この訪問はインド太平洋の地政学的文脈で重要な意義を持ちます。G20メンバーである両国は世界秩序において戦略的役割を持つ発展途上国としての立場を強化しようとしています。</p><p>防衛協力も重要な議題です。インドはTejas戦闘機やBrahMosミサイルなど様々な防衛プラットフォームをインドネシアに提供しており、両国は定期的に共同軍事演習を実施しています。</p><p>モディ訪問では保健、教育、デジタル技術、再生可能エネルギー分野での複数の了解覚書（MoU）の署名が予定されています。</p>',
+          source: "U.S. News",
+          sourceUrl: "https://www.usnews.com/news/world/articles/2026-07-02/india-pm-modi-to-make-first-official-visit-to-new-zealand-next-week",
+          sourceSnippet: "モディ首相インドネシア訪問 — U.S. News",
+          source2: "PM India Official",
+          sourceUrl2: "https://www.pmindia.gov.in/en/news_updates/pms-visit-to-indonesia-australia-and-new-zealand/",
+          sourceSnippet2: "モディ首相インドネシア・豪州・NZ訪問 — PM India"
+        },
+        ko: {
+          title: "인도 모디 총리, 2026년 7월 인도네시아 첫 공식 방문",
+          desc: "나렌드라 모디 인도 총리가 프라보워 대통령의 초청으로 2026년 7월 첫 인도네시아 공식 방문.",
+          content: '<p>인도 나렌드라 모디 총리는 프라보워 수비안토 대통령의 초청으로 2026년 7월 인도네시아를 처음으로 공식 방문할 예정입니다. 이번 방문은 호주와 뉴질랜드를 포함한 모디 총리의 지역 순방의 일환입니다. 인도 총리실은 이 방문이 양국 관계와 전략적 협력을 강화할 것이라고 확인했습니다.</p><p>양 정상은 국방, 무역, 해양 연결성, 에너지 전환 협력 강화를 논의할 예정입니다. 인도네시아와 인도는 강한 역사적 유대를 가지고 있으며 인도는 인도네시아의 주요 무역 파트너 중 하나입니다. 양국 간 무역은 2025년 약 300억 달러에 달했으며 2026년에도 계속 성장할 전망입니다.</p><p>이번 방문은 인도-태평양 지정학적 맥락에서 중요한 의미를 가집니다. G20 회원국인 양국은 글로벌 거버넌스에서 전략적 역할을 가진 개발도상국으로서의 입지를 강화하려 합니다.</p><p>국방 협력도 주요 의제입니다. 인도는 Tejas 전투기와 BrahMos 미사일 등 다양한 방산 플랫폼을 인도네시아에 제공했으며 양국은 정기적으로 공동 군사 훈련을 실시하고 있습니다.</p><p>모디 방문은 보건, 교육, 디지털 기술, 재생에너지 분야에서 여러 양해각서(MoU) 서명을 낳을 것으로 예상됩니다.</p>',
+          source: "U.S. News",
+          sourceUrl: "https://www.usnews.com/news/world/articles/2026-07-02/india-pm-modi-to-make-first-official-visit-to-new-zealand-next-week",
+          sourceSnippet: "모디 총리 인도네시아 방문 — U.S. News",
+          source2: "PM India Official",
+          sourceUrl2: "https://www.pmindia.gov.in/en/news_updates/pms-visit-to-indonesia-australia-and-new-zealand/",
+          sourceSnippet2: "모디 총리 인도네시아·호주·뉴질랜드 방문 — PM India"
+        },
+        zh: {
+          title: "印度总理莫迪将于2026年7月首次访问印尼",
+          desc: "印度总理莫迪应普拉博沃总统邀请将于2026年7月首次正式访问印度尼西亚。",
+          content: '<p>印度总理纳伦德拉·莫迪定于2026年7月应普拉博沃·苏比安托总统邀请首次正式访问印度尼西亚。此次访问是莫迪地区之行的一部分，还包括澳大利亚和新西兰。印度总理办公室确认此次访问将加强两国关系和战略合作。</p><p>两国领导人预计将讨论加强国防、贸易、海上互联互通和能源转型合作。印尼与印度有着牢固的历史纽带，印度是印尼主要贸易伙伴之一。2025年双边贸易额达到约300亿美元，预计2026年将继续增长。</p><p>此次访问在印太地缘政治背景下具有重要意义。作为G20成员国，两国寻求加强其在全球治理中具有战略作用的发展中国家地位。</p><p>国防合作也是重要议程。印度已向印尼提供多种防务平台包括光辉战斗机和布拉莫斯导弹，两国定期举行联合军事演习。</p><p>莫迪此次访问预计将促使卫生、教育、数字技术和可再生能源领域签署多项谅解备忘录。</p>',
+          source: "U.S. News",
+          sourceUrl: "https://www.usnews.com/news/world/articles/2026-07-02/india-pm-modi-to-make-first-official-visit-to-new-zealand-next-week",
+          sourceSnippet: "印度总理莫迪访问印尼 — U.S. News",
+          source2: "PM India Official",
+          sourceUrl2: "https://www.pmindia.gov.in/en/news_updates/pms-visit-to-indonesia-australia-and-new-zealand/",
+          sourceSnippet2: "莫迪总理访问印尼澳大利亚新西兰 — PM India"
+        }
+      }
+    }
+    ,{
+      id: "indonesia-belarus-rekrut-dokter-5juli2026",
+      langs: {
+        id: {
+          title: "Indonesia Rekrut Dokter dari Belarus, Teken MoU Kerja Sama Kesehatan",
+          desc: "Pemerintah Indonesia dan Belarus menandatangani nota kesepahaman untuk merekrut tenaga dokter serta mengembangkan pendidikan kedokteran dan sektor farmasi.",
+          content: '<p>Pemerintah Indonesia melalui Kementerian Kesehatan resmi menjalin kerja sama dengan Belarus dalam pengembangan pendidikan kedokteran dan sektor farmasi pada Juli 2026. Kesepakatan yang ditandatangani mencakup rencana merekrut dokter-dokter dari Belarus untuk bekerja di Indonesia, terutama di daerah-daerah yang masih kekurangan tenaga medis. Langkah ini merupakan bagian dari strategi pemerintah untuk mempercepat pemenuhan kebutuhan dokter di seluruh pelosok tanah air.</p><p>Menteri Kesehatan Budi Gunadi Sadikin menyatakan bahwa Indonesia saat ini masih menghadapi defisit dokter, terutama dokter spesialis di wilayah Indonesia bagian timur dan daerah terpencil. Dengan populasi lebih dari 280 juta jiwa, rasio dokter di Indonesia masih di bawah standar WHO yaitu 1 dokter per 1.000 penduduk. Kerja sama ini diharapkan dapat menjembatani kesenjangan tersebut sambil Indonesia terus meningkatkan kapasitas fakultas kedokteran di dalam negeri.</p><p>MoU yang diteken juga mencakup transfer pengetahuan dan teknologi farmasi antara kedua negara. Belarus dikenal memiliki industri farmasi yang maju dengan produksi obat-obatan berkualitas yang terjangkau. Pemerintah Indonesia berencana mengadopsi teknologi produksi obat Belarus untuk memperkuat kemandirian farmasi nasional dan mengurangi ketergantungan impor bahan baku obat.</p><p>Proses rekrutmen dokter Belarus akan melalui seleksi ketat oleh Kementerian Kesehatan, memastikan para dokter yang direkrut memiliki kualifikasi internasional dan bersedia ditempatkan di daerah prioritas. Program ini juga mencakup pelatihan bahasa Indonesia bagi dokter Belarus sebelum bertugas, untuk memastikan komunikasi efektif dengan pasien. Pemerintah juga akan memfasilitasi proses administrasi dan perizinan praktik bagi tenaga medis asing.</p><p>Selain rekrutmen dokter, kerja sama ini juga mencakup program pertukaran mahasiswa kedokteran antara universitas di Indonesia dan Belarus. Program ini memungkinkan mahasiswa kedokteran Indonesia mendapatkan pengalaman belajar di luar negeri dan sebaliknya. Kerja sama ini diharapkan tidak hanya memperkuat sektor kesehatan Indonesia, tetapi juga memperdalam hubungan diplomatik dan ekonomi antara kedua negara.</p>',
+          source: "Tempo",
+          sourceUrl: "https://en.tempo.co/read/2111859/indonesia-to-recruit-doctors-from-belarus",
+          sourceSnippet: "Indonesia to Recruit Doctors from Belarus — Tempo",
+          source2: "Antara News",
+          sourceUrl2: "https://www.antaranews.com/berita/5633351/politik-kemarin-mou-ri-belarus-hingga-ruu-pfi-masuk-prolegnas-2026",
+          sourceSnippet2: "RI-Belarus Teken MoU Kesehatan — Antara News",
+          source3: "WHO Indonesia",
+          sourceUrl3: "https://www.who.int/indonesia/news/detail/06-03-2026-building-climate-ready-healthcare-facilities-across-indonesia",
+          sourceSnippet3: "Building Climate-Ready Healthcare in Indonesia — WHO"
+        },
+        en: {
+          title: "Indonesia Recruits Doctors from Belarus, Signs Health Cooperation MoU",
+          desc: "Indonesia and Belarus signed an MoU to recruit doctors and develop medical education and pharmaceutical sectors.",
+          content: '<p>Indonesia\'s Ministry of Health officially established cooperation with Belarus in medical education development and pharmaceutical sectors in July 2026. The agreement includes plans to recruit doctors from Belarus to work in Indonesia, particularly in regions still facing medical personnel shortages. This move is part of the government\'s strategy to accelerate healthcare workforce fulfillment across the archipelago.</p><p>Health Minister Budi Gunadi Sadikin stated that Indonesia continues facing a doctor deficit, especially specialists in eastern Indonesia and remote areas. With over 280 million people, Indonesia\'s doctor-to-population ratio remains below the WHO standard of 1 doctor per 1,000 people. This cooperation aims to bridge that gap while Indonesia continues expanding domestic medical faculty capacity.</p><p>The signed MoU also includes knowledge and pharmaceutical technology transfer between the two nations. Belarus is known for its advanced pharmaceutical industry producing affordable quality medicines. Indonesia\'s government plans to adopt Belarusian drug production technology to strengthen national pharmaceutical independence and reduce dependence on imported drug raw materials.</p><p>The Belarusian doctor recruitment process will undergo rigorous selection by the Ministry of Health, ensuring recruited doctors possess international qualifications and willingness for placement in priority regions. The program also includes Indonesian language training for Belarusian doctors before deployment to ensure effective patient communication. The government will facilitate administrative and licensing processes for foreign medical personnel.</p><p>Beyond doctor recruitment, the cooperation includes medical student exchange programs between Indonesian and Belarusian universities. This program enables Indonesian medical students to gain international learning experience and vice versa. This cooperation is expected to not only strengthen Indonesia\'s health sector but also deepen diplomatic and economic ties between both nations.</p>',
+          source: "Tempo",
+          sourceUrl: "https://en.tempo.co/read/2111859/indonesia-to-recruit-doctors-from-belarus",
+          sourceSnippet: "Indonesia to Recruit Doctors from Belarus — Tempo",
+          source2: "Antara News",
+          sourceUrl2: "https://www.antaranews.com/berita/5633351/politik-kemarin-mou-ri-belarus-hingga-ruu-pfi-masuk-prolegnas-2026",
+          sourceSnippet2: "RI-Belarus Signs Health MoU — Antara News"
+        },
+        ja: {
+          title: "インドネシア、ベラルーシから医師を採用、医療協力MoUに署名",
+          desc: "インドネシアとベラルーシが医学教育と医薬品部門の発展のための協力協定に署名、医師採用計画を含む。",
+          content: '<p>インドネシア保健省は2026年7月、ベラルーシとの医学教育開発と医薬品部門での協力を正式に確立しました。この協定には医師不足の地域を中心にインドネシアで勤務するベラルーシ人医師の採用計画が含まれています。</p><p>ブディ・グナディ・サディキン保健相はインドネシアが依然として医師不足に直面しており、特に東部インドネシアと遠隔地での専門医不足が深刻だと述べました。人口2億8000万人以上を抱えるインドネシアの医師比率はWHO基準の人口1000人あたり医師1人を下回っています。</p><p>署名されたMoUには両国間の知識と医薬品技術移転も含まれています。ベラルーシは手頃な価格の高品質医薬品を生産する先進的製薬産業で知られています。</p><p>ベラルーシ人医師の採用プロセスは保健省による厳格な選考を経て、国際資格を有し優先地域での勤務意思のある医師確保を確実にします。プログラムには配属前のインドネシア語研修も含まれます。</p><p>医師採用に加えて、両国の医科大学間の医学生交換プログラムも含まれています。この協力は保健セクターの強化だけでなく両国間の外交・経済関係の深化も期待されています。</p>',
+          source: "Tempo",
+          sourceUrl: "https://en.tempo.co/read/2111859/indonesia-to-recruit-doctors-from-belarus",
+          sourceSnippet: "インドネシア、ベラルーシから医師採用 — Tempo",
+          source2: "Antara News",
+          sourceUrl2: "https://www.antaranews.com/berita/5633351/politik-kemarin-mou-ri-belarus-hingga-ruu-pfi-masuk-prolegnas-2026",
+          sourceSnippet2: "インドネシア・ベラルーシ医療MoU署名 — Antara News"
+        },
+        ko: {
+          title: "인도네시아, 벨라루스 의사 채용 및 보건 협력 MoU 체결",
+          desc: "인도네시아와 벨라루스가 의학 교육 및 제약 부문 발전을 위한 협력 협정 체결, 의사 채용 계획 포함.",
+          content: '<p>인도네시아 보건부는 2026년 7월 벨라루스와 의학 교육 개발 및 제약 부문 협력을 공식 수립했습니다. 이 협정에는 의료 인력이 부족한 지역을 중심으로 인도네시아에서 근무할 벨라루스 의사 채용 계획이 포함되어 있습니다.</p><p>부디 구나디 사디킨 보건부 장관은 인도네시아가 특히 동부 인도네시아와 외딴 지역에서 의사 부족에 계속 직면하고 있다고 밝혔습니다. 2억 8천만 이상 인구를 가진 인도네시아의 의사 비율은 WHO 기준인 인구 1,000명당 1명을 밑돌고 있습니다.</p><p>서명된 MoU에는 양국 간 지식 및 제약 기술 이전도 포함됩니다. 벨라루스는 저렴한 양질의 의약품을 생산하는 선진 제약 산업으로 유명합니다.</p><p>벨라루스 의사 채용은 국제 자격을 갖추고 우선 지역 배치 의사가 있는 의사를 보장하기 위해 보건부의 엄격한 선발을 거칩니다. 배치 전 인도네시아어 교육도 포함됩니다.</p><p>의사 채용 외에도 양국 의과대학 간 의대생 교환 프로그램도 포함됩니다. 이 협력은 보건 부문 강화뿐 아니라 양국 간 외교·경제 관계 심화도 기대됩니다.</p>',
+          source: "Tempo",
+          sourceUrl: "https://en.tempo.co/read/2111859/indonesia-to-recruit-doctors-from-belarus",
+          sourceSnippet: "인도네시아 벨라루스 의사 채용 — Tempo",
+          source2: "Antara News",
+          sourceUrl2: "https://www.antaranews.com/berita/5633351/politik-kemarin-mou-ri-belarus-hingga-ruu-pfi-masuk-prolegnas-2026",
+          sourceSnippet2: "인도네시아-벨라루스 보건 MoU — Antara News"
+        },
+        zh: {
+          title: "印尼从白俄罗斯招聘医生，签署卫生合作谅解备忘录",
+          desc: "印度尼西亚与白俄罗斯签署合作协议，计划招聘医生并发展医学教育和制药领域。",
+          content: '<p>印尼卫生部于2026年7月正式与白俄罗斯建立医学教育发展和制药领域合作关系。该协议包括从白俄罗斯招聘医生到印尼工作的计划，特别是在仍然缺乏医务人员的地区。此举是政府加速满足全国医疗人力需求的战略组成部分。</p><p>卫生部长布迪·古纳迪·萨迪金表示，印尼仍面临医生短缺问题，尤其是东印尼和偏远地区的专科医生。拥有超过2.8亿人口的印尼，医生与人口比例仍低于WHO每千人1名医生的标准。</p><p>签署的谅解备忘录还包含两国间的知识和制药技术转让。白俄罗斯以先进的制药业闻名，生产价格合理的高质量药品。</p><p>白俄罗斯医生招聘将经过卫生部的严格筛选，确保招聘的医生具备国际资质并愿意被安置在优先地区。该计划还包括医生上岗前的印尼语培训。</p><p>除了医生招聘外，该合作还包括两国医学院间的医学生交流项目。此次合作不仅有望加强印尼卫生领域，还将深化两国外交和经济关系。</p>',
+          source: "Tempo",
+          sourceUrl: "https://en.tempo.co/read/2111859/indonesia-to-recruit-doctors-from-belarus",
+          sourceSnippet: "印尼从白俄罗斯招聘医生 — Tempo",
+          source2: "Antara News",
+          sourceUrl2: "https://www.antaranews.com/berita/5633351/politik-kemarin-mou-ri-belarus-hingga-ruu-pfi-masuk-prolegnas-2026",
+          sourceSnippet2: "印尼-白俄罗斯签署卫生MoU — Antara News"
+        }
+      }
+    }
+    ,{
+      id: "indonesia-ekonomi-digital-15500t-5juli2026",
+      langs: {
+        id: {
+          title: "Ekonomi Digital Indonesia Diproyeksi Tembus Rp15.500 Triliun pada 2026",
+          desc: "Nilai ekonomi digital Indonesia diproyeksikan mencapai Rp15.500 triliun pada 2026, didorong oleh e-commerce, fintech, dan adopsi AI.",
+          content: '<p>Ekonomi digital Indonesia diproyeksikan mencapai nilai Rp15.500 triliun pada tahun 2026, menurut laporan terbaru dari lembaga riset ekonomi digital. Pertumbuhan ini didorong oleh akselerasi adopsi teknologi di sektor e-commerce, fintech, edutech, dan healthtech pasca pandemi. Indonesia tetap menjadi pemimpin ekonomi digital di Asia Tenggara dengan kontribusi sekitar 40 persen terhadap total nilai ekonomi digital kawasan.</p><p>Sektor e-commerce tetap menjadi kontributor terbesar dengan proyeksi nilai transaksi mencapai Rp900 triliun, didorong oleh penetrasi internet yang kini mencapai lebih dari 79 persen populasi. Platform seperti Shopee, Tokopedia, dan TikTok Shop terus memperluas basis pengguna melalui integrasi live shopping dan personalisasi berbasis kecerdasan buatan. Pergeseran perilaku konsumen menuju belanja online di daerah tier-2 dan tier-3 menjadi mesin pertumbuhan baru.</p><p>Financial technology (fintech) menjadi sektor dengan pertumbuhan tercepat, terutama digital payment dan peer-to-peer lending. QRIS (Quick Response Code Indonesian Standard) mencatat lebih dari 45 juta merchant terdaftar dan volume transaksi harian mencapai Rp5 triliun. Bank Indonesia melaporkan bahwa inklusi keuangan Indonesia meningkat dari 76 persen pada 2022 menjadi 88 persen pada awal 2026, didorong oleh digitalisasi layanan keuangan ke pelosok daerah.</p><p>Adopsi kecerdasan buatan (AI) dan cloud computing menjadi katalis utama transformasi digital Indonesia. Perusahaan besar dan UMKM semakin mengintegrasikan solusi AI untuk optimalisasi rantai pasok, customer service, dan analisis data. Pemerintah melalui Strategi Nasional AI 2020-2045 terus mendorong pengembangan talenta digital dengan target 9 juta talenta digital pada 2030. Investasi di sektor AI Indonesia diperkirakan mencapai US$3 miliar pada 2026.</p><p>Meskipun pertumbuhan ekonomi digital sangat menjanjikan, tantangan tetap ada termasuk kesenjangan digital antara Jawa dan luar Jawa, keamanan siber, dan kebutuhan regulasi yang adaptif terhadap inovasi. Pemerintah mempercepat pembangunan infrastruktur digital melalui proyek Palapa Ring dan satelit SATRIA-2 untuk menjangkau daerah 3T (terdepan, terpencil, tertinggal). Dengan populasi muda yang melek teknologi, Indonesia dipandang memiliki potensi menjadi salah satu kekuatan ekonomi digital global pada 2030.</p>',
+          source: "Journal Arta",
+          sourceUrl: "https://journalarta.com/news/2026/07/04/peluang-dan-sektor-menjanjikan-ekonomi-digital-indonesia-2026/",
+          sourceSnippet: "Ekonomi Digital Indonesia 2026 Tembus Rp15.500 Triliun — Journal Arta",
+          source2: "Bank Indonesia",
+          sourceUrl2: "https://www.bi.go.id/",
+          sourceSnippet2: "Laporan Inklusi Keuangan & Digitalisasi — Bank Indonesia",
+          source3: "Kementerian Kominfo",
+          sourceUrl3: "https://www.kominfo.go.id/",
+          sourceSnippet3: "Strategi Nasional Transformasi Digital — Kominfo"
+        },
+        en: {
+          title: "Indonesia's Digital Economy Projected to Reach Rp15,500 Trillion by 2026",
+          desc: "Indonesia's digital economy value is projected to reach Rp15,500 trillion in 2026, driven by e-commerce, fintech, and AI adoption.",
+          content: '<p>Indonesia\'s digital economy is projected to reach Rp15,500 trillion by 2026, according to the latest digital economy research report. This growth is fueled by accelerated technology adoption across e-commerce, fintech, edutech, and healthtech sectors. Indonesia remains the digital economy leader in Southeast Asia, contributing approximately 40 percent of the region\'s total digital economic value.</p><p>The e-commerce sector remains the largest contributor with projected transactions reaching Rp900 trillion, driven by internet penetration now exceeding 79 percent of the population. Platforms like Shopee, Tokopedia, and TikTok Shop continue expanding user bases through live shopping integration and AI-based personalization. Consumer behavior shifts toward online shopping in tier-2 and tier-3 regions are becoming new growth engines.</p><p>Financial technology (fintech) is the fastest-growing sector, particularly digital payments and peer-to-peer lending. QRIS (Quick Response Code Indonesian Standard) has recorded over 45 million registered merchants with daily transaction volumes reaching Rp5 trillion. Bank Indonesia reports Indonesia\'s financial inclusion rising from 76 percent in 2022 to 88 percent in early 2026, driven by financial service digitalization reaching remote areas.</p><p>Artificial intelligence (AI) and cloud computing adoption are key catalysts for Indonesia\'s digital transformation. Large enterprises and MSMEs are increasingly integrating AI solutions for supply chain optimization, customer service, and data analytics. The government through the National AI Strategy 2020-2045 continues pushing digital talent development with a target of 9 million digital talents by 2030. AI sector investment in Indonesia is estimated to reach US$3 billion in 2026.</p><p>Despite promising digital economy growth, challenges remain including the digital divide between Java and outer islands, cybersecurity, and the need for adaptive regulatory frameworks toward innovation. The government is accelerating digital infrastructure development through the Palapa Ring project and SATRIA-2 satellite to reach frontier, remote, and disadvantaged regions. With a tech-savvy young population, Indonesia is viewed as having potential to become a global digital economic power by 2030.</p>',
+          source: "Journal Arta",
+          sourceUrl: "https://journalarta.com/news/2026/07/04/peluang-dan-sektor-menjanjikan-ekonomi-digital-indonesia-2026/",
+          sourceSnippet: "Indonesia's Digital Economy Rp15,500T by 2026 — Journal Arta",
+          source2: "Bank Indonesia",
+          sourceUrl2: "https://www.bi.go.id/",
+          sourceSnippet2: "Financial Inclusion & Digitalization Report — Bank Indonesia"
+        },
+        ja: {
+          title: "インドネシアのデジタル経済 2026年に15,500兆ルピア突破へ",
+          desc: "インドネシアのデジタル経済価値は2026年に15,500兆ルピアに達する見込み。Eコマース・フィンテック・AI導入が推進力。",
+          content: '<p>インドネシアのデジタル経済は2026年までに15,500兆ルピアに達すると、最新のデジタル経済調査レポートが予測しています。この成長はEコマース、フィンテック、エデュテック、ヘルステック分野での技術導入加速によるものです。インドネシアは東南アジアのデジタル経済のリーダーとして地域の総額の約40%を占めています。</p><p>Eコマース部門は最大の貢献者であり、取引額は900兆ルピアに達する見込みです。インターネット普及率が79%を超え、ShopeeやTokopedia、TikTok ShopなどのプラットフォームがAIベースのパーソナライゼーションで成長を続けています。</p><p>フィンテックは特にデジタル決済とP2Pレンディングで最も急速に成長しています。QRISは4,500万以上の加盟店が登録され、1日の取引額は5兆ルピアに達しています。金融包摂率は2022年の76%から2026年初頭には88%に上昇しました。</p><p>AIとクラウドコンピューティングの導入がデジタル変革の主要触媒です。政府は国家AI戦略2020-2045を通じてデジタル人材育成を推進し、2030年までに900万人の目標を掲げています。</p><p>有望な成長にもかかわらず、ジャワ島と離島のデジタル格差、サイバーセキュリティ、イノベーションに対応する規制など課題は残っています。テクノロジーに精通した若年人口により、インドネシアは2030年までに世界的なデジタル経済大国になる可能性があると見られています。</p>',
+          source: "Journal Arta",
+          sourceUrl: "https://journalarta.com/news/2026/07/04/peluang-dan-sektor-menjanjikan-ekonomi-digital-indonesia-2026/",
+          sourceSnippet: "インドネシアデジタル経済2026年15,500兆ルピア — Journal Arta",
+          source2: "Bank Indonesia",
+          sourceUrl2: "https://www.bi.go.id/",
+          sourceSnippet2: "金融包摂とデジタル化報告 — Bank Indonesia"
+        },
+        ko: {
+          title: "인도네시아 디지털 경제 2026년 15,500조 루피아 돌파 전망",
+          desc: "인도네시아 디지털 경제 가치가 2026년 15,500조 루피아에 이를 전망. 이커머스·핀테크·AI 도입이 성장 견인.",
+          content: '<p>인도네시아 디지털 경제는 최신 디지털 경제 연구 보고서에 따르면 2026년까지 15,500조 루피아에 달할 것으로 전망됩니다. 이 성장은 이커머스, 핀테크, 에듀테크, 헬스테크 분야의 기술 도입 가속화에 힘입은 것입니다. 인도네시아는 동남아시아 디지털 경제 리더로서 지역 총액의 약 40%를 기여하고 있습니다.</p><p>이커머스 부문은 79%를 넘는 인터넷 보급률에 힘입어 거래액 900조 루피아로 최대 기여자입니다. Shopee, Tokopedia, TikTok Shop 등의 플랫폼이 라이브 쇼핑과 AI 기반 개인화로 사용자 기반을 계속 확장하고 있습니다.</p><p>핀테크는 특히 디지털 결제와 P2P 대출에서 가장 빠르게 성장하고 있습니다. QRIS는 4,500만 이상 가맹점이 등록되었고 일일 거래량은 5조 루피아에 달합니다. 금융 포용률은 2022년 76%에서 2026년 초 88%로 상승했습니다.</p><p>AI와 클라우드 컴퓨팅 도입이 디지털 변혁의 주요 촉매입니다. 정부는 국가 AI 전략 2020-2045를 통해 2030년까지 900만 디지털 인재 목표로 인재 개발을 추진 중입니다.</p><p>유망한 성장에도 불구하고 자바와 외딴 섬 간 디지털 격차, 사이버보안, 혁신에 대응하는 규제 등 과제가 남아있습니다. 기술에 능숙한 젊은 인구로 인도네시아는 2030년까지 글로벌 디지털 경제 강국이 될 잠재력이 있다고 평가됩니다.</p>',
+          source: "Journal Arta",
+          sourceUrl: "https://journalarta.com/news/2026/07/04/peluang-dan-sektor-menjanjikan-ekonomi-digital-indonesia-2026/",
+          sourceSnippet: "인도네시아 디지털 경제 2026년 15,500조 루피아 — Journal Arta",
+          source2: "Bank Indonesia",
+          sourceUrl2: "https://www.bi.go.id/",
+          sourceSnippet2: "금융 포용 및 디지털화 보고서 — Bank Indonesia"
+        },
+        zh: {
+          title: "印尼数字经济预计2026年达15,500万亿印尼盾",
+          desc: "印尼数字经济价值预计2026年达15,500万亿印尼盾，由电商、金融科技和AI应用驱动。",
+          content: '<p>根据最新数字经济研究报告，印度尼西亚数字经济预计2026年将达到15,500万亿印尼盾。这一增长得益于电子商务、金融科技、教育科技和健康科技领域的技术应用加速。印度尼西亚作为东南亚数字经济领导者，贡献了该地区数字经济总值的约40%。</p><p>在互联网普及率超过79%的推动下，电子商务仍是最大贡献者，交易额预计达900万亿印尼盾。Shopee、Tokopedia和TikTok Shop等平台通过直播购物和基于AI的个性化持续扩大用户基础。</p><p>金融科技是增长最快的领域，尤其是数字支付和P2P借贷。QRIS已注册超过4,500万商户，日交易量达5万亿印尼盾。印尼央行报告显示金融包容性从2022年的76%升至2026年初的88%。</p><p>AI和云计算应用是数字转型的主要催化剂。政府通过国家AI战略2020-2045推进数字人才培养，目标是到2030年培养900万数字人才。</p><p>尽管数字经济增长前景看好，爪哇与外岛的数字鸿沟、网络安全和对创新适应性法规的需求等挑战仍然存在。凭借精通科技的年轻人口，印尼被视为有可能在2030年成为全球数字经济强国。</p>',
+          source: "Journal Arta",
+          sourceUrl: "https://journalarta.com/news/2026/07/04/peluang-dan-sektor-menjanjikan-ekonomi-digital-indonesia-2026/",
+          sourceSnippet: "印尼数字经济2026年15,500万亿印尼盾 — Journal Arta",
+          source2: "Bank Indonesia",
+          sourceUrl2: "https://www.bi.go.id/",
+          sourceSnippet2: "金融包容与数字化报告 — Bank Indonesia"
+        }
+      }
+    }
+    ,{
+      id: "indonesia-bebas-visa-89-negara-5juli2026",
+      langs: {
+        id: {
+          title: "Daftar 89 Negara Bebas Visa untuk Paspor Indonesia Terbaru Juli 2026",
+          desc: "Per Juli 2026, pemegang paspor Indonesia dapat bepergian ke 89 negara tanpa visa, memperkuat mobilitas global WNI.",
+          content: '<p>Per Juli 2026, warga negara Indonesia (WNI) dapat menikmati akses bebas visa ke 89 negara dan teritori di seluruh dunia. Daftar ini mencakup negara-negara di Asia Tenggara seperti Malaysia, Singapura, Thailand, dan Vietnam, serta destinasi populer lainnya di Asia, Amerika Latin, Afrika, dan Oseania. Perkembangan ini menempatkan paspor Indonesia di peringkat yang semakin kuat dalam indeks paspor global.</p><p>Di kawasan Asia Tenggara, pemegang paspor Indonesia dapat bepergian tanpa visa ke seluruh negara ASEAN. Beberapa destinasi populer seperti Jepang dan Korea Selatan juga telah memberikan fasilitas bebas visa kunjungan singkat untuk WNI, meskipun dengan batasan durasi tertentu. Sementara itu, negara seperti Tiongkok dan India masih memerlukan visa elektronik atau visa on arrival untuk kunjungan wisatawan Indonesia.</p><p>Beberapa negara di Amerika Latin dan Karibia seperti Brasil, Kolombia, Ekuador, dan Peru menawarkan akses bebas visa bagi WNI. Negara-negara di kawasan ini umumnya memberlakukan kebijakan visa yang lebih terbuka untuk mendorong pariwisata. Di Afrika, negara-negara seperti Maroko, Kenya, dan Seychelles juga memberikan akses bebas visa atau visa on arrival kepada pemegang paspor Indonesia dengan syarat tertentu.</p><p>Peningkatan jumlah negara bebas visa mencerminkan kemajuan hubungan diplomatik Indonesia dan meningkatnya kepercayaan internasional terhadap mobilitas WNI. Kementerian Luar Negeri terus melakukan negosiasi bilateral dengan berbagai negara untuk memperluas akses bebas visa. Pada tahun 2026, pemerintah menargetkan penambahan akses bebas visa ke beberapa negara Eropa Timur dan Afrika sebagai bagian dari diplomasi paspor.</p><p>Meskipun akses bebas visa memudahkan perjalanan, Kementerian Luar Negeri mengingatkan WNI untuk tetap mematuhi aturan imigrasi negara tujuan, termasuk batas waktu tinggal, larangan bekerja tanpa izin, dan kewajiban memiliki tiket pulang. WNI juga disarankan untuk selalu mendaftarkan diri melalui Portal Peduli WNI saat bepergian ke luar negeri dan memastikan paspor masih berlaku minimal 6 bulan sebelum tanggal kadaluwarsa. Daftar lengkap negara bebas visa tersedia di situs resmi Kementerian Luar Negeri.</p>',
+          source: "Kompas Travel",
+          sourceUrl: "https://travel.kompas.com/read/2026/07/04/145649627/daftar-89-negara-bebas-visa-untuk-paspor-indonesia-terbaru-juli-2026",
+          sourceSnippet: "Daftar 89 Negara Bebas Visa Paspor Indonesia Juli 2026 — Kompas",
+          source2: "Kementerian Luar Negeri RI",
+          sourceUrl2: "https://www.kemlu.go.id/",
+          sourceSnippet2: "Informasi Bebas Visa & Diplomasi Paspor — Kemlu RI",
+          source3: "Henley Passport Index",
+          sourceUrl3: "https://www.henleyglobal.com/passport-index",
+          sourceSnippet3: "Indonesia Passport Global Ranking — Henley & Partners"
+        },
+        en: {
+          title: "Indonesia Passport Holders Gain Visa-Free Access to 89 Countries by July 2026",
+          desc: "As of July 2026, Indonesian passport holders can travel to 89 countries visa-free, strengthening global mobility for Indonesians.",
+          content: '<p>As of July 2026, Indonesian citizens (WNI) can enjoy visa-free access to 89 countries and territories worldwide. The list includes Southeast Asian nations like Malaysia, Singapore, Thailand, and Vietnam, along with other popular destinations across Asia, Latin America, Africa, and Oceania. This development places the Indonesian passport at an increasingly strong position in global passport rankings.</p><p>In Southeast Asia, Indonesian passport holders can travel visa-free to all ASEAN member states. Popular destinations like Japan and South Korea also offer short-term visa-free visits for Indonesians, though with specific duration limits. Meanwhile, countries like China and India still require e-visas or visa on arrival for Indonesian tourists.</p><p>Several Latin American and Caribbean nations including Brazil, Colombia, Ecuador, and Peru offer visa-free access to Indonesians. Countries in this region generally maintain more open visa policies to boost tourism. In Africa, countries like Morocco, Kenya, and Seychelles also provide visa-free access or visa on arrival for Indonesian passport holders under specific conditions.</p><p>The increasing number of visa-free countries reflects Indonesia\'s advancing diplomatic relations and growing international trust in Indonesian mobility. The Ministry of Foreign Affairs continues bilateral negotiations with various countries to expand visa-free access. By 2026, the government targets additional visa-free access to several Eastern European and African countries as part of passport diplomacy.</p><p>While visa-free access simplifies travel, the Ministry of Foreign Affairs reminds Indonesians to comply with destination country immigration rules including stay limits, prohibition on unauthorized work, and return ticket requirements. Indonesians are also advised to register through the Peduli WNI Portal when traveling abroad and ensure passports remain valid for at least 6 months before expiry. The complete visa-free country list is available on the Ministry of Foreign Affairs official website.</p>',
+          source: "Kompas Travel",
+          sourceUrl: "https://travel.kompas.com/read/2026/07/04/145649627/daftar-89-negara-bebas-visa-untuk-paspor-indonesia-terbaru-juli-2026",
+          sourceSnippet: "89 Visa-Free Countries for Indonesian Passport July 2026 — Kompas",
+          source2: "Ministry of Foreign Affairs RI",
+          sourceUrl2: "https://www.kemlu.go.id/",
+          sourceSnippet2: "Visa-Free Information & Passport Diplomacy — Kemlu RI"
+        },
+        ja: {
+          title: "インドネシアパスポート、2026年7月時点で89カ国ビザ免除",
+          desc: "2026年7月時点でインドネシア国民は89カ国・地域にビザなし渡航可能、インドネシア人のグローバルモビリティ強化。",
+          content: '<p>2026年7月現在、インドネシア国民（WNI）は世界中の89カ国・地域へのビザなし渡航を享受できます。このリストにはマレーシア、シンガポール、タイ、ベトナムなどの東南アジア諸国に加え、アジア全域、ラテンアメリカ、アフリカ、オセアニアの人気渡航先が含まれています。この発展によりインドネシアパスポートはグローバルパスポートランキングで着実に上昇しています。</p><p>東南アジアでは全ASEAN加盟国へのビザなし渡航が可能です。日本や韓国などの人気渡航先も短期滞在のビザ免除を提供していますが、期間制限があります。一方、中国とインドは依然として電子ビザまたはアライバルビザが必要です。</p><p>ブラジル、コロンビア、エクアドル、ペルーなどのラテンアメリカとカリブ海諸国は観光促進のためより開放的なビザ政策を維持しています。アフリカではモロッコ、ケニア、セーシェルなどが特定条件下でビザ免除またはアライバルビザを提供しています。</p><p>ビザ免除国の増加はインドネシアの外交関係の進展と国際的信用の向上を反映しています。外務省は2026年までにパスポート外交の一環として東欧やアフリカ数カ国へのビザ免除追加を目標としています。</p><p>ビザ免除は渡航を簡素化しますが、外務省は滞在期限、無許可就労禁止、帰国航空券要件など渡航先国の入国規則遵守を呼びかけています。渡航の際はPeduli WNIポータルへの登録とパスポート残存有効期間6ヶ月以上の確認も推奨されています。</p>',
+          source: "Kompas Travel",
+          sourceUrl: "https://travel.kompas.com/read/2026/07/04/145649627/daftar-89-negara-bebas-visa-untuk-paspor-indonesia-terbaru-juli-2026",
+          sourceSnippet: "インドネシアパスポート89カ国ビザ免除2026年7月 — Kompas",
+          source2: "Ministry of Foreign Affairs RI",
+          sourceUrl2: "https://www.kemlu.go.id/",
+          sourceSnippet2: "ビザ免除情報とパスポート外交 — 外務省"
+        },
+        ko: {
+          title: "인도네시아 여권 소지자 2026년 7월 기준 89개국 무비자 입국",
+          desc: "2026년 7월 현재 인도네시아 국민은 89개 국가 및 지역에 무비자 여행 가능, 인도네시아인 글로벌 이동성 강화.",
+          content: '<p>2026년 7월 현재 인도네시아 국민(WNI)은 전 세계 89개 국가 및 지역에 무비자 여행을 즐길 수 있습니다. 이 목록에는 말레이시아, 싱가포르, 태국, 베트남 등 동남아시아 국가들뿐 아니라 아시아 전체, 라틴아메리카, 아프리카, 오세아니아의 인기 여행지가 포함됩니다. 이 발전으로 인도네시아 여권은 글로벌 여권 순위에서 점점 강력한 위치를 차지하고 있습니다.</p><p>동남아시아에서는 모든 ASEAN 회원국에 무비자 여행이 가능합니다. 일본과 한국 같은 인기 여행지도 특정 기간 제한 하에 단기 무비자 방문을 제공합니다. 반면 중국과 인도는 여전히 전자 비자 또는 도착 비자가 필요합니다.</p><p>브라질, 콜롬비아, 에콰도르, 페루 등 라틴아메리카와 카리브해 국가들은 관광 촉진을 위해 더 개방적인 비자 정책을 유지하고 있습니다. 아프리카에서는 모로코, 케냐, 세이셸 등이 특정 조건 하에 무비자 또는 도착 비자를 제공합니다.</p><p>무비자 국가 수 증가는 인도네시아의 외교 관계 진전과 인도네시아인 이동성에 대한 국제적 신뢰 성장을 반영합니다. 외교부는 여권 외교의 일환으로 2026년까지 동유럽과 아프리카 일부 국가에 추가 무비자 접근을 목표로 하고 있습니다.</p><p>무비자 접근이 여행을 단순화하지만 외교부는 체류 기한, 무허가 취업 금지, 왕복 항공권 요건 등 목적지 국가 이민 규정 준수를 상기시킵니다. 해외 여행 시 Peduli WNI 포털 등록과 여권 만료 6개월 이상 잔여 유효기간 확인도 권장됩니다.</p>',
+          source: "Kompas Travel",
+          sourceUrl: "https://travel.kompas.com/read/2026/07/04/145649627/daftar-89-negara-bebas-visa-untuk-paspor-indonesia-terbaru-juli-2026",
+          sourceSnippet: "인도네시아 여권 89개국 무비자 2026년 7월 — Kompas",
+          source2: "Ministry of Foreign Affairs RI",
+          sourceUrl2: "https://www.kemlu.go.id/",
+          sourceSnippet2: "무비자 정보 및 여권 외교 — 외교부"
+        },
+        zh: {
+          title: "印尼护照2026年7月可免签前往89个国家和地区",
+          desc: "截至2026年7月，印尼护照持有者可在89个国家免签旅行，加强了印尼人的全球流动性。",
+          content: '<p>截至2026年7月，印度尼西亚公民（WNI）可在全球89个国家和地区享受免签旅行。名单包括马来西亚、新加坡、泰国和越南等东南亚国家，以及亚洲、拉丁美洲、非洲和大洋洲的其他热门目的地。这一发展使印尼护照在全球护照排名中地位日益增强。</p><p>在东南亚地区，印尼护照可免签进入所有东盟成员国。日本和韩国等热门目的地也为印尼人提供短期免签访问，但有特定期限限制。同时，中国和印度仍需要电子签证或落地签。</p><p>巴西、哥伦比亚、厄瓜多尔和秘鲁等拉丁美洲和加勒比国家为促进旅游业维持更开放的签证政策。在非洲，摩洛哥、肯尼亚和塞舌尔等国在特定条件下也提供免签或落地签。</p><p>免签国家数量增加反映了印尼外交关系的进展和国际社会对印尼人流动性的日益信任。外交部继续与各国进行双边谈判以扩大免签范围。政府目标是在2026年作为护照外交的一部分，增加对若干东欧和非洲国家的免签准入。</p><p>尽管免签简化了旅行，外交部提醒印尼人遵守目的地国家移民规定，包括停留期限、禁止无证工作和返程机票要求。出国旅行时建议通过Peduli WNI门户注册并确保护照到期前至少还有6个月有效期。</p>',
+          source: "Kompas Travel",
+          sourceUrl: "https://travel.kompas.com/read/2026/07/04/145649627/daftar-89-negara-bebas-visa-untuk-paspor-indonesia-terbaru-juli-2026",
+          sourceSnippet: "印尼护照2026年7月89国免签 — Kompas",
+          source2: "Ministry of Foreign Affairs RI",
+          sourceUrl2: "https://www.kemlu.go.id/",
+          sourceSnippet2: "免签信息与护照外交 — 印尼外交部"
+        }
+      }
+    }
+
     ]
   };
 })();
