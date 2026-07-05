@@ -430,6 +430,286 @@
           }
         }
       }
+      ,{
+        id: 'inggris-vs-meksiko-babak16-piala-dunia-2026',
+        langs: {
+          id: {
+            title: 'Inggris Hadapi Meksiko di Stadion Azteca, Babak 16 Besar Piala Dunia 2026',
+            desc: 'Inggris bertemu tuan rumah Meksiko di babak 16 besar Piala Dunia 2026 pada Stadion Azteca, dengan kickoff pukul 1:00 pagi waktu Inggris di tengah peringatan badai.',
+            content: '<p>Inggris menghadapi tuan rumah Meksiko pada babak 16 besar Piala Dunia 2026 di Stadion Azteca, Mexico City, dengan kickoff tetap pada pukul 18:00 waktu lokal Minggu — atau pukul 1:00 pagi waktu Inggris Senin, setelah FIFA mengkonfirmasi jadwal tidak diubah meski pembicaraan spekulatif soal penundaan, menurut laporan Sky Sports dan ESPN.</p><p>Laga ini menjadi salah satu pertandingan paling dinantikan di babak 16 besar, mempertemukan Inggris yang melaju setelah comeback dramatis 2-1 atas DR Kongo berkat brace Harry Kane, dengan tuan rumah Meksiko yang tampil di depan pendukung sendiri di stadion ikonik Azteca.</p><p>Menurut BBC, laga Inggris vs Meksiko menjadi salah satu dari empat pertandingan babak 16 besar yang akan disiarkan langsung di BBC One dan BBC iPlayer, menandai sorotan media yang besar untuk tim Gareth Southgate di babak knockout ini.</p><p>Power ranking ESPN dan Independent sebelum babak 16 besar menempatkan Prancis sebagai tim yang harus diwaspadai, sementara Inggris dinilai tampil kurang meyakinkan menuju babak knockout — sebuah tantangan tambahan bagi Three Lions di hadapan 80.000 suporter tuan rumah.</p><p>SI Sports memperkirakan Meksiko akan menurunkan skuat penuh dengan semua pemain tersedia untuk pertempuran melawan Inggris, menjadikan laga ini sebagai tes sesungguhnya bagi ambisi Inggris untuk melaju lebih jauh di turnamen ini.</p>',
+            source: 'Sky Sports', sourceUrl: 'https://www.skysports.com/football/news/12016/13560286/world-cup-2026-englands-last-16-tie-with-mexico-will-kick-off-at-1am-monday', sourceSnippet: "World Cup 2026: England's last-16 tie with Mexico will kick-off at 1am Monday — Sky Sports",
+            source2: 'ESPN', sourceUrl2: 'https://www.espn.com/soccer/story/_/id/49260497/mexico-vs-england-world-cup-clash-brought-forward-six-hours-sources', sourceSnippet2: 'Sources: Mexico vs. England World Cup kickoff time unchanged after talks — ESPN',
+            source3: 'BBC Sport', sourceUrl3: 'https://www.bbc.com/sport/football/articles/ckg4wvn1ke9o', sourceSnippet3: 'World Cup 2026: BBC last-16 TV picks include England v Mexico — BBC Sport'
+          },
+          en: {
+            title: "England Face Mexico at Azteca Stadium in World Cup 2026 Round of 16",
+            desc: "England meet host nation Mexico in the World Cup 2026 Round of 16 at the Azteca Stadium, with kickoff at 1am UK time amid storm warnings.",
+            content: "<p>England face host nation Mexico in the World Cup 2026 Round of 16 at the Azteca Stadium in Mexico City, with kickoff confirmed for 6pm local time on Sunday — or 1am UK time on Monday — after FIFA confirmed the schedule would remain unchanged despite speculative talks about a postponement, Sky Sports and ESPN reported.</p><p>The match is one of the most anticipated Round of 16 fixtures, pitting England — who advanced after a dramatic 2-1 comeback win over DR Congo thanks to a Harry Kane brace — against host nation Mexico playing in front of their home supporters at the iconic Azteca.</p><p>According to the BBC, England v Mexico is one of four Round of 16 matches to be broadcast live on BBC One and BBC iPlayer, marking significant media attention for Gareth Southgate's side in the knockout phase.</p><p>Power rankings from ESPN and The Independent before the Round of 16 placed France as the team to beat, while England were judged to have faltered heading into the knockout stage — an added challenge for the Three Lions in front of 80,000 home supporters.</p><p>SI Sports predicted Mexico would field a full squad with every player available for the battle against England, making this a true test of England's ambitions to advance further in the tournament.</p>",
+            source: 'Sky Sports', sourceUrl: 'https://www.skysports.com/football/news/12016/13560286/world-cup-2026-englands-last-16-tie-with-mexico-will-kick-off-at-1am-monday', sourceSnippet: "World Cup 2026: England's last-16 tie with Mexico will kick-off at 1am Monday — Sky Sports",
+            source2: 'ESPN', sourceUrl2: 'https://www.espn.com/soccer/story/_/id/49260497/mexico-vs-england-world-cup-clash-brought-forward-six-hours-sources', sourceSnippet2: 'Sources: Mexico vs. England World Cup kickoff time unchanged after talks — ESPN',
+            source3: 'BBC Sport', sourceUrl3: 'https://www.bbc.com/sport/football/articles/ckg4wvn1ke9o', sourceSnippet3: 'World Cup 2026: BBC last-16 TV picks include England v Mexico — BBC Sport'
+          },
+          ja: {
+            title: 'イングランド、W杯2026ラウンド16でメキシコとアステカ競技場で対戦',
+            desc: 'イングランドは2026年W杯ラウンド16で開催国メキシコとアステカ競技場で対戦し、キックオフは英国時間午前1時。',
+            content: '<p>イングランドは2026年W杯ラウンド16でメキシコシティのアステカ競技場で開催国メキシコと対戦し、キックオフは現地日曜18時（英国時間月曜午前1時）に確定したと、スカイスポーツとESPNが報じました。</p><p>この試合はラウンド16で最も注目される一戦であり、ハリー・ケインの2得点でDRコンゴに2-1で逆転勝利したイングランドと、ホームサポーターの前で戦う開催国メキシコの対決となっています。</p><p>BBCによると、イングランド対メキシコはBBC Oneで生放送される4試合の一つに選ばれました。</p>',
+            source: 'Sky Sports', sourceUrl: 'https://www.skysports.com/football/news/12016/13560286/world-cup-2026-englands-last-16-tie-with-mexico-will-kick-off-at-1am-monday', sourceSnippet: 'イングランド対メキシコ — スカイスポーツ'
+          },
+          ko: {
+            title: '잉글랜드, 2026 월드컵 16강서 멕시코와 아스테카 경기장서 맞대결',
+            desc: '잉글랜드가 2026 월드컵 16강에서 개최국 멕시코를 아스테카 경기장에서 맞이하며, 영국 시간 새벽 1시 킥오프로 확정되었다.',
+            content: '<p>잉글랜드는 2026 월드컵 16강에서 멕시코시티 아스테카 경기장에서 개최국 멕시코와 맞대결을 펼치며, 킥오프는 현지 일요일 오후 6시(영국 시간 월요일 새벽 1시)로 확정되었다고 스카이스포츠와 ESPN이 보도했다.</p><p>이 경기는 16강에서 가장 기대되는 매치업 중 하나로, 해리 케인의 멀티골로 DR 콩고를 2-1로 역전한 잉글랜드와 홈 서포터 앞에서 뛰는 개최국 멕시코의 대결이다.</p><p>BBC에 따르면 잉글랜드 대 멕시코는 BBC One에서 생중계되는 4개의 16강 경기 중 하나로 선정되었다.</p>',
+            source: 'Sky Sports', sourceUrl: 'https://www.skysports.com/football/news/12016/13560286/world-cup-2026-englands-last-16-tie-with-mexico-will-kick-off-at-1am-monday', sourceSnippet: '잉글랜드 대 멕시코 — 스카이스포츠'
+          },
+          zh: {
+            title: '英格兰在2026世界杯16强战中将于阿兹特克球场对阵墨西哥',
+            desc: '英格兰在2026世界杯16强战中迎战东道主墨西哥，比赛在阿兹特克球场进行，英国时间凌晨1点开球。',
+            content: '<p>据天空体育和ESPN报道，英格兰将在2026世界杯16强战中于墨西哥城阿兹特克球场迎战东道主墨西哥，开球时间确认为当地时间周日下午6点——即英国时间周一凌晨1点，国际足联确认赛程不变。</p><p>这是16强最受期待的交锋之一，英格兰凭借哈里·凯恩的梅开二度以2-1逆转击败DR刚果晋级，而东道主墨西哥将在主场球迷支持下作战。</p><p>据BBC报道，英格兰对墨西哥是BBC One直播的四场16强比赛之一，标志着加雷斯·索斯盖特球队在淘汰赛阶段受到的巨大媒体关注。</p>',
+            source: 'Sky Sports', sourceUrl: 'https://www.skysports.com/football/news/12016/13560286/world-cup-2026-englands-last-16-tie-with-mexico-will-kick-off-at-1am-monday', sourceSnippet: '英格兰对墨西哥 — 天空体育'
+          }
+        }
+      }
+
+      ,{
+        id: 'inggris-british-gp-antonelli-pole-sprint-4juli2026',
+        langs: {
+          id: {
+            title: 'Kimi Antonelli rebut Pole Position British GP usai Menang Sprint, Hamilton & Leclerc Ikuti di Belakang',
+            desc: 'Pemimpin klasemen F1 Kimi Antonelli meraih pole position kelima musim ini untuk British Grand Prix di Silverstone, setelah sebelumnya memenangkan balapan sprint.',
+            content: '<p>Pemimpin klasemen kejuaraan dunia F1 Kimi Antonelli meraih pole position untuk British Grand Prix di Silverstone pada 4 Juli 2026, setelah sebelumnya memenangkan balapan sprint 17 lap di siang hari dengan menyalip Lewis Hamilton dari posisi kedua di grid, menurut laporan Sky Sports.</p><p>Pembalap Mercedes tersebut mencatatkan waktu 1:28.111 di sesi kualifikasi Q3, unggul 0,175 detik dari Charles Leclerc (Ferrari) dan 0,347 detik dari Lewis Hamilton (Ferrari), sekaligus menjadikan ini pole position kelimanya musim ini.</p><p>Hamilton, yang mengungguli Antonelli di grid sprint pada hari Jumat, harus puas start dari posisi ketiga untuk balapan utama setelah kalah dari rekan setim Ferrari Leclerc dalam perebutan baris depan kedua, sementara George Russell (Mercedes) tergeser ke posisi keempat.</p><p>Russell sebenarnya sempat berada di posisi kedua sementara di belakang rekan setim Antonelli, namun dilampaui oleh kedua pembalap Ferrari di lap terakhir setelah gagal memperbaiki waktu, ditambah insiden di Q1 saat ia menabrak pembatas di Luffield dan harus kembali ke pit untuk sayap depan baru.</p><p>Balapan utama British Grand Prix dijadwalkan berlangsung pada pukul 3:00 sore waktu Inggris hari Minggu 5 Juli, dengan Antonelli kini memimpin klasemen dengan keunggulan 43 poin atas rival terdekatnya setelah kemenangan sprint tersebut.</p>',
+            source: 'Sky Sports', sourceUrl: 'https://www.skysports.com/f1/news/12433/13560319/british-gp-qualifying-kimi-antonelli-back-on-pole-after-sprint-win-to-beat-charles-leclerc-lewis-hamilton-at-silverstone', sourceSnippet: 'British GP Qualifying: Kimi Antonelli back on pole after Sprint win — Sky Sports, 4 Juli 2026',
+            source2: 'Formula 1', sourceUrl2: 'https://www.formula1.com/en/latest/article/antonelli-seizes-pole-position-in-british-grand-prix-qualifying-ahead-of-leclerc-and-hamilton.4khQMdOBw2bmuaEWThYEk7', sourceSnippet2: 'Antonelli seizes pole position in British GP Qualifying — Formula1.com',
+            source3: 'Autosport', sourceUrl3: 'https://www.autosport.com/f1/news/f1-british-gp-antonelli-beats-hamilton-for-win/10836148/', sourceSnippet3: 'F1 British GP: Antonelli overtakes Hamilton to win Silverstone sprint race — Autosport'
+          },
+          en: {
+            title: "Kimi Antonelli Takes British GP Pole After Sprint Win, Hamilton & Leclerc Follow",
+            desc: "F1 championship leader Kimi Antonelli claimed his fifth pole of the season for the British Grand Prix at Silverstone, after winning the sprint race earlier in the day.",
+            content: "<p>F1 world championship leader Kimi Antonelli claimed pole position for the British Grand Prix at Silverstone on July 4, 2026, after winning the 17-lap Sprint race earlier in the day by overtaking Lewis Hamilton from second on the grid, Sky Sports reported.</p><p>The Mercedes driver set a time of 1:28.111 in Q3, beating Charles Leclerc (Ferrari) by 0.175 seconds and Lewis Hamilton (Ferrari) by 0.347 seconds, marking his fifth pole position of the season.</p><p>Hamilton, who had beaten Antonelli to the sprint grid on Friday, had to settle for third on the main race grid after losing out to Ferrari team-mate Leclerc for the second front-row spot, while George Russell (Mercedes) was shuffled to fourth.</p><p>Russell had been provisionally second behind Mercedes team-mate Antonelli but was leapfrogged by both Ferraris after failing to improve on his final run, compounding a difficult session in which he damaged his car against barriers at Luffield in Q1 and needed a new front wing.</p><p>The British Grand Prix main race is scheduled for 3pm UK time on Sunday July 5, with Antonelli now leading the championship by 43 points over his nearest rival following the sprint win.</p>",
+            source: 'Sky Sports', sourceUrl: 'https://www.skysports.com/f1/news/12433/13560319/british-gp-qualifying-kimi-antonelli-back-on-pole-after-sprint-win-to-beat-charles-leclerc-lewis-hamilton-at-silverstone', sourceSnippet: 'British GP Qualifying: Kimi Antonelli back on pole after Sprint win — Sky Sports, July 4, 2026',
+            source2: 'Formula 1', sourceUrl2: 'https://www.formula1.com/en/latest/article/antonelli-seizes-pole-position-in-british-grand-prix-qualifying-ahead-of-leclerc-and-hamilton.4khQMdOBw2bmuaEWThYEk7', sourceSnippet2: 'Antonelli seizes pole position in British GP Qualifying — Formula1.com',
+            source3: 'Autosport', sourceUrl3: 'https://www.autosport.com/f1/news/f1-british-gp-antonelli-beats-hamilton-for-win/10836148/', sourceSnippet3: 'F1 British GP: Antonelli overtakes Hamilton to win Silverstone sprint race — Autosport'
+          },
+          ja: {
+            title: 'キミ・アントネッリ、スプリント勝利後に英国GPポール獲得、ハミルトンとルクレールが続く',
+            desc: 'F1選手権リーダーのキミ・アントネッリがシルバーストーンで英国GPのポールポジションを獲得し、同日にスプリントレースも制した。',
+            content: '<p>F1世界選手権リーダーのキミ・アントネッリは2026年7月4日、シルバーストーンで英国GPのポールポジションを獲得しました。同日早くに行われた17周のスプリントレースでは、グリッド2番手からルイス・ハミルトンを追い抜いて勝利しました。</p><p>メルセデスのドライバーはQ3で1分28秒111を記録し、フェラーリのシャルル・ルクレールに0.175秒、ルイス・ハミルトンに0.347秒差をつけて今季5度目のポールを獲得しました。</p>',
+            source: 'Sky Sports', sourceUrl: 'https://www.skysports.com/f1/news/12433/13560319/british-gp-qualifying-kimi-antonelli-back-on-pole-after-sprint-win-to-beat-charles-leclerc-lewis-hamilton-at-silverstone', sourceSnippet: '英国GPポール — スカイスポーツ'
+          },
+          ko: {
+            title: '키미 안토넬리, 스프린트 승리 후 영국 GP 폴포지션 획득',
+            desc: 'F1 챔피언십 선두 키미 안토넬리가 실버스톤에서 영국 GP 폴포지션을 획득하며, 같은 날 스프린트 레이스도 승리했다.',
+            content: '<p>F1 세계 챔피언십 선두인 키미 안토넬리가 2026년 7월 4일 실버스톤에서 영국 그랑프리 폴포지션을 획득했다. 같은 날 일찍 열린 17랩 스프린트 레이스에서는 그리드 2번째에서 출발해 루이스 해밀턴을 추월하며 승리했다고 스카이스포츠가 보도했다.</p><p>메르세데스 드라이버는 Q3에서 1분28초111을 기록하며 페라리의 샤를 르클레르에게 0.175초, 루이스 해밀턴에게 0.347초 앞서며 이번 시즌 5번째 폴포지션을 차지했다.</p>',
+            source: 'Sky Sports', sourceUrl: 'https://www.skysports.com/f1/news/12433/13560319/british-gp-qualifying-kimi-antonelli-back-on-pole-after-sprint-win-to-beat-charles-leclerc-lewis-hamilton-at-silverstone', sourceSnippet: '영국 GP 폴 — 스카이스포츠'
+          },
+          zh: {
+            title: '基米·安东内利冲刺赛获胜后夺得英国大奖赛杆位',
+            desc: 'F1积分榜领头羊基米·安东内利在银石赛道夺得英国大奖赛杆位，此前还在同日早些时候赢得了冲刺赛。',
+            content: '<p>据天空体育报道，F1世界锦标赛领头羊基米·安东内利于2026年7月4日在银石赛道夺得英国大奖赛杆位，此前他在当日早些时候的17圈冲刺赛中从发车位第二超车刘易斯·汉密尔顿获胜。</p><p>这位梅赛德斯车手在Q3做出1:28.111的成绩，领先法拉利的夏尔·勒克莱尔0.175秒和刘易斯·汉密尔顿0.347秒，取得本赛季第五个杆位。</p>',
+            source: 'Sky Sports', sourceUrl: 'https://www.skysports.com/f1/news/12433/13560319/british-gp-qualifying-kimi-antonelli-back-on-pole-after-sprint-win-to-beat-charles-leclerc-lewis-hamilton-at-silverstone', sourceSnippet: '英国大奖赛杆位 — 天空体育'
+          }
+        }
+      }
+
+      ,{
+        id: 'inggris-pangeran-harry-london-tanpa-meghan-4juli2026',
+        langs: {
+          id: {
+            title: 'Pangeran Harry ke London Tanpa Meghan dan Anak-anak di Tengah Sengketa Keamanan',
+            desc: 'Pangeran Harry akan mengunjungi London pekan depan tanpa ditemani Meghan Markle dan kedua anak mereka, menyusul perselisihan mengenai pengaturan keamanannya di Inggris.',
+            content: '<p>Istri Pangeran Harry, Meghan Markle, serta Putra Archie dan Putri Lilibet tidak akan menemani sang pangeran dalam kunjungannya ke London pekan depan, menurut juru bicara Pangeran Harry yang dikutip Reuters pada 4 Juli 2026.</p><p>Kunjungan ini terjadi di tengah perselisihan berkepanjangan antara Pangeran Harry dan pemerintah Inggris terkait pengaturan keamanan yang diberikan kepadanya saat berada di negara tersebut, yang menjadi sorotan publik dan media internasional sejak ia mengundurkan diri dari tugas kerajaan.</p><p>Menurut laporan CNN, keputusan Meghan dan anak-anak untuk tidak ikut ke London diambil di tengah kekhawatiran atas keamanan keluarga, meskipun mereka berencana bergabung dengan Pangeran Harry untuk bagian lain perjalanannya di luar ibu kota Inggris.</p><p>CBS News melaporkan bahwa kunjungan Pangeran Harry yang membawa serta Meghan dan anak-anak awalnya dinanti publik sebagai kunjungan keluarga yang langka ke Inggris, namun rencana tersebut berubah di menit-menit terakhir karena sengketa keamanan yang belum terselesaikan.</p><p>People Magazine menambahkan bahwa Meghan, Archie, dan Lilibet mungkin masih bergabung dengan Harry untuk bagian perjalanan di luar London, namun kemungkinan besar tidak akan mengunjungi ibu kota Inggris dalam kunjungan kali ini.</p>',
+            source: 'Reuters', sourceUrl: 'https://www.reuters.com/world/uk/prince-harrys-wife-meghan-their-children-will-not-join-him-london-next-week-2026-07-04/', sourceSnippet: "Prince Harry's wife Meghan and their children will not join him in London next week — Reuters, 4 Juli 2026",
+            source2: 'CNN', sourceUrl2: 'https://www.cnn.com/2026/07/04/uk/prince-harry-meghan-uk-visit-intl', sourceSnippet2: 'Prince Harry will not bring Meghan and children on London trip amid dispute over security — CNN',
+            source3: 'CBS News', sourceUrl3: 'https://www.cbsnews.com/news/prince-harry-to-travel-without-meghan-to-london-amid-security-flap/', sourceSnippet3: 'Prince Harry to travel solo to London amid security flap — CBS News'
+          },
+          en: {
+            title: "Prince Harry Heads to London Without Meghan and Children Amid Security Dispute",
+            desc: "Prince Harry will visit London next week without Meghan Markle and their two children, amid an ongoing dispute over his security arrangements in the UK.",
+            content: "<p>Prince Harry's wife Meghan Markle, along with Prince Archie and Princess Lilibet, will not accompany the prince on his visit to London next week, according to Prince Harry's spokesperson cited by Reuters on July 4, 2026.</p><p>The visit comes amid a long-running dispute between Prince Harry and the UK government over the security arrangements provided to him while in the country, which has drawn public and international media attention since he stepped back from royal duties.</p><p>According to CNN, Meghan and the children's decision not to travel to London was made amid concerns over the family's safety, though they plan to join Prince Harry for other parts of his trip outside the British capital.</p><p>CBS News reported that Prince Harry's visit, initially anticipated as a rare family trip to the UK with Meghan and the children, was altered at the last minute due to the unresolved security dispute.</p><p>People Magazine added that Meghan, Archie, and Lilibet may still join Harry for parts of his trip outside London, but are unlikely to visit the British capital on this occasion.</p>",
+            source: 'Reuters', sourceUrl: 'https://www.reuters.com/world/uk/prince-harrys-wife-meghan-their-children-will-not-join-him-london-next-week-2026-07-04/', sourceSnippet: "Prince Harry's wife Meghan and their children will not join him in London next week — Reuters, July 4, 2026",
+            source2: 'CNN', sourceUrl2: 'https://www.cnn.com/2026/07/04/uk/prince-harry-meghan-uk-visit-intl', sourceSnippet2: 'Prince Harry will not bring Meghan and children on London trip amid dispute over security — CNN',
+            source3: 'CBS News', sourceUrl3: 'https://www.cbsnews.com/news/prince-harry-to-travel-without-meghan-to-london-amid-security-flap/', sourceSnippet3: 'Prince Harry to travel solo to London amid security flap — CBS News'
+          },
+          ja: {
+            title: 'ハリー王子、セキュリティ紛争の中でメーガンと子供たちを伴わずロンドンへ',
+            desc: 'ハリー王子が来週ロンドンを訪問するが、メーガン妃と二人の子供は同行しない。英国での警備安排を巡る紛争が続いている。',
+            content: '<p>ハリー王子の妻メーガン妃と王子アーチー、王女リリベットは来週のハリー王子のロンドン訪問に同行しないと、ハリー王子の報道官がロイターに語ったと2026年7月4日に報じられました。</p><p>この訪問は、ハリー王子と英国政府の間で続く警備安排を巡る長期の紛争の中で行われており、王務から退いた後から公衆および国際メディアの注目を集めています。</p>',
+            source: 'Reuters', sourceUrl: 'https://www.reuters.com/world/uk/prince-harrys-wife-meghan-their-children-will-not-join-him-london-next-week-2026-07-04/', sourceSnippet: 'ハリー王子ロンドン単独訪問 — ロイター'
+          },
+          ko: {
+            title: '해리 왕자, 경호 분쟁 속 메건과 자녀 동반 없이 런던 행',
+            desc: '해리 왕자가 다음 주 런던을 방문하며 메건 마클과 두 자녀는 동행하지 않는다. 영국 경호 배치를 둘러싼 분쟁이 지속되고 있다.',
+            content: '<p>해리 왕자의 아내 메건 마클과 아치 왕자, 릴리베트 공주는 다음 주 해리 왕자의 런던 방문에 동행하지 않을 것이라고 해리 왕자의 대변인이 로이터를 통해 2026년 7월 4일 밝혔다.</p><p>이번 방문은 해리 왕자와 영국 정부 간의 경호 배치를 둘러싼 장기 분쟁 속에서 이뤄지며, 왕실 업무에서 물러난 이후 대중과 국제 언론의 주목을 받고 있다.</p>',
+            source: 'Reuters', sourceUrl: 'https://www.reuters.com/world/uk/prince-harrys-wife-meghan-their-children-will-not-join-him-london-next-week-2026-07-04/', sourceSnippet: '해리 왕자 런던 단독 방문 — 로이터'
+          },
+          zh: {
+            title: '哈里王子在安保争议中不带梅根和子女前往伦敦',
+            desc: '哈里王子下周将访问伦敦，但不携梅根·马克尔和两个孩子同行，因英国安保安排争议持续。',
+            content: '<p>据路透社2026年7月4日援引哈里王子发言人报道，哈里王子的妻子梅根·马克尔以及阿奇王子和莉莉贝特公主将不陪同王子下周访问伦敦。</p><p>此次访问正值哈里王子与英国政府之间就其在英期间安保安排持续争议之际，自他退出王室公务以来一直备受公众和国际媒体关注。</p>',
+            source: 'Reuters', sourceUrl: 'https://www.reuters.com/world/uk/prince-harrys-wife-meghan-their-children-will-not-join-him-london-next-week-2026-07-04/', sourceSnippet: '哈里王子独自访伦敦 — 路透社'
+          }
+        }
+      }
+
+      ,{
+        id: 'inggris-harga-rumah-stagnan-juni-2026',
+        langs: {
+          id: {
+            title: 'Harga Rumah Inggris Stagnan di Juni, Agen Peringatkan Resesi Musim Panas',
+            desc: 'Harga rata-rata rumah di Inggris nyaris tidak berubah pada Juni 2026 di level 277.484 poundsterling, naik 2,2% tahun-ke-tahun namun di bawah ekspektasi pasar 2,4%.',
+            content: '<p>Harga rata-rata rumah di Inggris nyaris tidak berubah pada Juni 2026, tercatat di level 277.484 poundsterling, menandai bulan kedua berturut-turut tanpa pertumbuhan, menurut data Nationwide yang dikutip The Guardian dan Forbes pada 1 Juli 2026.</p><p>Indeks Harga Rumah Nationwide naik 2,2% tahun-ke-tahun di Juni, di bawah ekspektasi pasar sebesar 2,4%, meski sempat menguat dari kenaikan 1,7% pada Mei, menunjukkan perlambatan pasar properti Inggris yang berkepanjangan.</p><p>Agen properti memperingatkan kemungkinan "resesi musim panas" (summer slump) di pasar perumahan, dengan saham perusahaan konstruksi rumah (housebuilders) turun menyusul data stagnasi tersebut, menurut laporan Proactive Investors.</p><p>Money Week melaporkan bahwa pasar perumahan Inggris menghadapi tekanan ganda dari ketegangan Timur Tengah yang memengaruhi kepercayaan konsumen serta ketidakpastian politik domestik menyusul pengunduran diri PM Keir Starmer.</p><p>Beberapa pakar menyarankan pemangkasan biaya stempel (stamp duty) sebagai langkah stimulus, namun kritikus menilai hal tersebut justru akan memperburuk krisis perumahan dengan meningkatkan harga tanpa menambah pasokan, sebagaimana dilaporkan Mortgage Soup.</p>',
+            source: 'The Guardian', sourceUrl: 'https://www.theguardian.com/business/2026/jul/01/uk-house-prices-stall-for-second-straight-month-as-agents-warn-of-summer-slump', sourceSnippet: 'UK house prices stall for second straight month as agents warn of summer slump — The Guardian, 1 Juli 2026',
+            source2: 'Forbes', sourceUrl2: 'https://www.forbes.com/advisor/uk/personal-finance/2026/07/01/house-prices-updates/', sourceSnippet2: 'House Prices Up 2.2% Over 12 Months But Market Stalls In June — Forbes',
+            source3: 'Proactive Investors', sourceUrl3: 'https://www.proactiveinvestors.co.uk/companies/news/1094786/housebuilders-fall-as-uk-house-prices-stall-1094786.html', sourceSnippet3: 'Housebuilders fall as UK house prices stall — Proactive Investors'
+          },
+          en: {
+            title: "UK House Prices Stall in June, Agents Warn of Summer Slump",
+            desc: "The average UK house price was little changed in June 2026 at £277,484, up 2.2% year-on-year but below market expectations of 2.4%.",
+            content: "<p>The average price of a typical UK home was little changed in June 2026, standing at £277,484, marking the second consecutive month without growth, according to Nationwide data cited by The Guardian and Forbes on July 1, 2026.</p><p>The Nationwide House Price Index rose 2.2% year-on-year in June, below market expectations of 2.4%, though slightly accelerating from a 1.7% rise in May, pointing to a prolonged slowdown in the UK property market.</p><p>Estate agents warned of a potential 'summer slump' in the housing market, with housebuilder shares falling following the stagnation data, Proactive Investors reported.</p><p>Money Week reported that the UK housing market faces dual pressure from Middle East tensions affecting consumer confidence and domestic political uncertainty following PM Keir Starmer's resignation.</p><p>Some experts suggested cutting stamp duty as a stimulus measure, though critics argued it would worsen the housing crisis by inflating prices without increasing supply, as reported by Mortgage Soup.</p>",
+            source: 'The Guardian', sourceUrl: 'https://www.theguardian.com/business/2026/jul/01/uk-house-prices-stall-for-second-straight-month-as-agents-warn-of-summer-slump', sourceSnippet: 'UK house prices stall for second straight month as agents warn of summer slump — The Guardian, July 1, 2026',
+            source2: 'Forbes', sourceUrl2: 'https://www.forbes.com/advisor/uk/personal-finance/2026/07/01/house-prices-updates/', sourceSnippet2: 'House Prices Up 2.2% Over 12 Months But Market Stalls In June — Forbes',
+            source3: 'Proactive Investors', sourceUrl3: 'https://www.proactiveinvestors.co.uk/companies/news/1094786/housebuilders-fall-as-uk-house-prices-stall-1094786.html', sourceSnippet3: 'Housebuilders fall as UK house prices stall — Proactive Investors'
+          },
+          ja: {
+            title: '英住宅価格が6月に横ばい、不動産業者が夏の不振を警告',
+            desc: '英住宅価格の平均は2026年6月に277,484ポンドでほぼ横ばいとなり、前年比2.2%上昇も市場予想の2.4%を下回った。',
+            content: '<p>2026年6月の英国の典型住宅の平均価格は277,484ポンドでほぼ横ばいとなり、2ヶ月連続で成長なしとなったと、ネーションワイドのデータをガーディアンとフォーブスが2026年7月1日に引用して報じました。</p><p>ネーションワイド住宅価格指数は6月に前年比2.2%上昇しましたが、市場予想の2.4%を下回り、5月の1.7%上昇からは若干加速したものの、英国不動産市場の長期的な減速を示しています。</p>',
+            source: 'The Guardian', sourceUrl: 'https://www.theguardian.com/business/2026/jul/01/uk-house-prices-stall-for-second-straight-month-as-agents-warn-of-summer-slump', sourceSnippet: '英住宅価格横ばい — ガーディアン'
+          },
+          ko: {
+            title: '영국 집값 6월 정체, 부동산 중개업체들이 여름 부진 경고',
+            desc: '영국 평균 주택 가격이 2026년 6월 277,484파운드로 거의 변동 없었으며, 전년비 2.2% 상승은 시장 예상치 2.4%를 밑돌았다.',
+            content: '<p>2026년 6월 영국 전형 주택 평균 가격은 277,484파운드로 거의 변동이 없었으며, 2개월 연속 성장 없음을 기록했다고 가디언과 포브스가 2026년 7월 1일 네이션와이드 데이터를 인용해 보도했다.</p><p>네이션와이드 주택가격지수는 6월 전년비 2.2% 상승했으나 시장 예상치 2.4%를 밑돌았고, 5월 1.7% 상승에서는 소폭 가속했지만 영국 부동산 시장의 장기 둔화를 시사한다.</p>',
+            source: 'The Guardian', sourceUrl: 'https://www.theguardian.com/business/2026/jul/01/uk-house-prices-stall-for-second-straight-month-as-agents-warn-of-summer-slump', sourceSnippet: '영국 집값 정체 — 가디언'
+          },
+          zh: {
+            title: '英国6月房价停滞，中介警告夏季滑坡',
+            desc: '2026年6月英国平均房价几乎未变，为277,484英镑，同比上涨2.2%但低于市场预期的2.4%。',
+            content: '<p>据《卫报》和《福布斯》2026年7月1日援引Nationwide数据报道，2026年6月英国典型住宅平均价格几乎未变，为277,484英镑，连续第二个月无增长。</p><p>Nationwide房价指数6月同比上涨2.2%，低于市场预期的2.4%，虽较5月的1.7%略有加速，但显示英国房地产市场持续放缓。</p>',
+            source: 'The Guardian', sourceUrl: 'https://www.theguardian.com/business/2026/jul/01/uk-house-prices-stall-for-second-straight-month-as-agents-warn-of-summer-slump', sourceSnippet: '英国房价停滞 — 卫报'
+          }
+        }
+      }
+
+      ,{
+        id: 'inggris-burnham-pm-berikutnya-koronasi-2juli2026',
+        langs: {
+          id: {
+            title: 'Andy Burnham Siap Jadi PM Inggris Berikutnya, Kontestasi Kepemimpinan Labour Berubah Jadi Koronasi',
+            desc: 'Andy Burnham, Wali Kota Greater Manchester yang baru terpilih sebagai anggota parlemen, berjalan menuju Downing Street ketika kontestasi kepemimpinan Partai Labour diperkirakan berubah menjadi koronasi tanpa saingan.',
+            content: '<p>Andy Burnham, politikus paling populer Partai Labour dan Wali Kota Greater Manchester yang baru terpilih sebagai anggota parlemen, bersiap menjadi Perdana Menteri Inggris berikutnya, menggantikan Keir Starmer yang mengumumkan pengunduran diri pada 22 Juni 2026, menurut laporan PBS NewsHour dan Reuters.</p><p>Burnham berjanji untuk mengubah politik Inggris secara radikal dengan memberikan lebih banyak kekuasaan kepada wilayah-wilayah di luar London, sebuah pendekatan desentralisasi yang ia yakini dapat mengatasi ketidakpuasan pemilih yang menghancurkan Partai Labour dalam pemilu lokal terakhir.</p><p>Menurut The Guardian, kontestasi kepemimpinan Partai Labour berpotensi menjadi "koronasi" tanpa saingan serius, meskipun pejabat parting memperingatkan bahwa hal tersebut dapat membuat sejumlah anggota Labour marah, terutama jika proses pemilihan terlihat terburu-buru.</p><p>BBC melaporkan bahwa kebijakan potensial Burnham sebagai PM mencakup reformasi transportasi regional, peningkatan pendanaan layanan publik di luar London, serta pendekatan yang lebih berpihak pada kelas pekerja dibandingkan pendahulunya.</p><p>Namun, jajak pendapat YouGov menunjukkan bahwa jumlah warga Inggris dengan pandangan negatif terhadap Burnham telah mencapai level tertinggi sepanjang sejarah, menandakan tantangan publisitas yang besar bagi calon PM yang dicalonkan tanpa pemilu umum, sebagaimana dituntut oleh partai-partai oposisi.</p>',
+            source: 'PBS NewsHour', sourceUrl: 'https://www.pbs.org/newshour/world/andy-burnham-prepares-for-a-uk-labour-leadership-contest-that-may-be-a-coronation', sourceSnippet: 'Andy Burnham prepares for a UK Labour leadership contest that may be a coronation — PBS NewsHour',
+            source2: 'Reuters', sourceUrl2: 'https://www.reuters.com/world/uk/uks-likely-next-leader-burnham-unveil-plan-shift-power-london-2026-06-28/', sourceSnippet2: "UK's prime minister-in-waiting vows to rip up politics as usual — Reuters",
+            source3: 'BBC', sourceUrl3: 'https://www.bbc.com/news/articles/clywzj2vk3zo', sourceSnippet3: "What are Andy Burnham's potential policies as prime minister? — BBC"
+          },
+          en: {
+            title: "Andy Burnham Set to Become UK's Next PM as Labour Leadership Contest Becomes Coronation",
+            desc: "Andy Burnham, newly elected MP and Greater Manchester mayor, is on course for Downing Street as the Labour leadership contest looks set to become a coronation without rival.",
+            content: "<p>Andy Burnham, Labour's most popular politician and the newly elected MP who served as Greater Manchester mayor, is on course to become the UK's next prime minister, replacing Keir Starmer who announced his resignation on June 22, 2026, PBS NewsHour and Reuters reported.</p><p>Burnham vowed to transform British politics radically by handing more power to regions outside London, a decentralization approach he believes can address the voter discontent that devastated Labour in the latest local elections.</p><p>According to The Guardian, the Labour leadership contest has the potential to become a 'coronation' without serious rivals, though party officials warned it could anger some Labour members, especially if the selection process appears rushed.</p><p>The BBC reported that Burnham's potential policies as PM include regional transport reform, increased public service funding outside London, and a more working-class-oriented approach compared to his predecessor.</p><p>However, a YouGov poll showed that the number of Britons with an unfavourable view of Burnham has reached its highest level to date, signaling a significant public-relations challenge for a PM designate installed without a general election, as demanded by opposition parties.</p>",
+            source: 'PBS NewsHour', sourceUrl: 'https://www.pbs.org/newshour/world/andy-burnham-prepares-for-a-uk-labour-leadership-contest-that-may-be-a-coronation', sourceSnippet: 'Andy Burnham prepares for a UK Labour leadership contest that may be a coronation — PBS NewsHour',
+            source2: 'Reuters', sourceUrl2: 'https://www.reuters.com/world/uk/uks-likely-next-leader-burnham-unveil-plan-shift-power-london-2026-06-28/', sourceSnippet2: "UK's prime minister-in-waiting vows to rip up politics as usual — Reuters",
+            source3: 'BBC', sourceUrl3: 'https://www.bbc.com/news/articles/clywzj2vk3zo', sourceSnippet3: "What are Andy Burnham's potential policies as prime minister? — BBC"
+          },
+          ja: {
+            title: 'アンディ・バーナム、英次期首相へ。労働党党首選が事実上の「戴冠式」に',
+            desc: 'グレーター・マンチェスター元市長で新議員のアンディ・バーナムが、スターマー首相の辞任に伴い次期英国首相となる見通し。',
+            content: '<p>労働党で最も人気のある政治家であり、新たに議員に当選したグレーター・マンチェスター元市長のアンディ・バーナムが、2026年6月22日に辞任を発表したキア・スターマーの後任として次期英国首相となる見通しです。</p><p>バーナム氏はロンドン以外の地域に権限を移譲することで英国政治を根本から変えることを誓い、最新の地方選挙で労働党を打撃した有権者の不満に対応できると信じています。</p>',
+            source: 'PBS NewsHour', sourceUrl: 'https://www.pbs.org/newshour/world/andy-burnham-prepares-for-a-uk-labour-leadership-contest-that-may-be-a-coronation', sourceSnippet: 'バーナム氏党首選 — PBS NewsHour'
+          },
+          ko: {
+            title: '앤디 번험, 영국 차기 총리 행...노동당 당대회 사실상 추대식',
+            desc: '그레이터 맨체스터 전 시장이자 신임 의원인 앤디 번험이 스타머 총리 사임에 따라 차기 영국 총리로 향하고 있다.',
+            content: '<p>노동당에서 가장 인기 있는 정치인이자 새롭게 의원에 당선된 그레이터 맨체스터 전 시장 앤디 번험이 2026년 6월 22일 사임을 발표한 키어 스타머를 대신해 차기 영국 총리가 될 전망이다.</p><p>번험은 런던 외곽 지역에 더 많은 권한을 이양함으로써 영국 정치를 급진적으로 변화시키겠다고 맹세하며, 이러한 분권화 접근이 최근 지방선거에서 노동당을 타격한 유권자 불만을 해소할 수 있다고 믿고 있다.</p>',
+            source: 'PBS NewsHour', sourceUrl: 'https://www.pbs.org/newshour/world/andy-burnham-prepares-for-a-uk-labour-leadership-contest-that-may-be-a-coronation', sourceSnippet: '번험 당대회 — PBS NewsHour'
+          },
+          zh: {
+            title: '安迪·伯纳姆即将成为英国下一任首相，工党党魁竞选变成加冕仪式',
+            desc: '大曼彻斯特前市长、新当选议员安迪·伯纳姆正走向唐宁街，工党党魁竞选预计将无对手直接加冕。',
+            content: '<p>据PBS NewsHour和路透社报道，工党最受欢迎的政治家、新当选议员、大曼彻斯特前市长安迪·伯纳姆即将成为英国下一任首相，取代2026年6月22日宣布辞职的基尔·斯塔默。</p><p>伯纳姆承诺通过向伦敦以外的地区下放更多权力来彻底改变英国政治，他相信这种分权方式能够解决在最近地方选举中重创工党的选民不满情绪。</p>',
+            source: 'PBS NewsHour', sourceUrl: 'https://www.pbs.org/newshour/world/andy-burnham-prepares-for-a-uk-labour-leadership-contest-that-may-be-a-coronation', sourceSnippet: '伯纳姆党魁竞选 — PBS NewsHour'
+          }
+        }
+      }
+
+      ,{
+        id: 'inggris-gelombang-panas-baru-34c-pekan-depan-4juli2026',
+        langs: {
+          id: {
+            title: 'Gelombang Panas Baru Melanda Inggris, Suhu Diprediksi Capai 34°C di Pekan Depan',
+            desc: 'Peringatan kesehatan kuning diberlakukan di sebagian besar wilayah Inggris mulai 4 hingga 11 Juli 2026, dengan puncak suhu 34°C yang diprediksi di tenggara pada Kamis atau Jumat.',
+            content: '<p>Gelombang panas baru diperkirakan melanda sebagian wilayah Inggris dengan puncak suhu mencapai 34°C, menyusul rekor suhu Juni yang baru saja tercatat di Lingwood, Norfolk, pada 37,7°C, menurut laporan The Guardian dan BBC pada 4 Juli 2026.</p><p>Agensi Keamanan Kesehatan Inggris (UKHSA) mengeluarkan peringatan kesehatan kuning yang berlaku mulai tengah hari 4 Juli hingga pukul 8 malam 11 Juli, mencakup wilayah timur, East Midlands, West Midlands, barat daya, London, dan tenggara Inggris.</p><p>Meteorologis Met Office Becky Mitchell menyatakan bahwa suhu di tenggara Inggris diprediksi naik hingga 29°C pada Minggu, lalu mendekati awal 30°C di awal pekan dengan puncak 34°C pada Kamis atau Jumat — meski tidak sepanas dan selembap gelombang panas Juni lalu.</p><p>Southern Water telah mengeluarkan larangan selang air (hosepipe ban) mulai pukul 12:01 dini hari 10 Juli di Hampshire dan Isle of Wight, melarang penggunaan selang untuk menyiram taman, mengisi kolam renang, atau mencuci mobil.</p><p>Peringatan ini datang setelah gelombang panas pekan lalu yang memicu peringatan merah langka Met Office untuk panas ekstrem selama tiga hari berturut-turut — pertama kalinya sejak peringatan panas ekstrem diperkenalkan pada 2021 — yang melampaui rekor suhu Juni yang berusia puluhan bahkan lebih dari seabad.</p>',
+            source: 'The Guardian', sourceUrl: 'https://www.theguardian.com/uk-news/2026/jul/04/week-long-heatwave-due-in-england-with-34c-peak-in-south-east', sourceSnippet: 'Week-long heatwave due in England with 34C peak in south-east — The Guardian, 4 Juli 2026',
+            source2: 'BBC Weather', sourceUrl2: 'https://www.bbc.com/weather/articles/c4gyjvpl4eno', sourceSnippet2: 'Third heatwave for parts of the UK is on the way as 30C temperatures are forecast — BBC Weather',
+            source3: 'Al Jazeera', sourceUrl3: 'https://www.aljazeera.com/news/2026/7/1/warmest-june-on-record-for-england-second-warmest-for-uk-says-met-office', sourceSnippet3: 'Warmest June on record for England, second-warmest for UK, says Met Office — Al Jazeera'
+          },
+          en: {
+            title: "New Heatwave Hits UK, Temperatures Forecast to Reach 34°C Next Week",
+            desc: "Yellow heat health alerts are in place across most of England from July 4-11, 2026, with peak temperatures of 34°C forecast in the south-east on Thursday or Friday.",
+            content: "<p>A new heatwave is set to hit parts of the UK with peak temperatures reaching 34°C, following the recent June temperature record of 37.7°C set in Lingwood, Norfolk, The Guardian and BBC reported on July 4, 2026.</p><p>The UK Health Security Agency (UKHSA) issued yellow heat health alerts covering the east, East Midlands, West Midlands, south-west, London and the south-east of England, in effect from midday on July 4 until 8pm on July 11.</p><p>Met Office meteorologist Becky Mitchell said temperatures in the south-east were forecast to rise to 29°C on Sunday, then approach the low 30s early in the week with a peak of 34°C on Thursday or Friday — though not as hot and humid as June's heatwave.</p><p>Southern Water has issued a hosepipe ban from 12:01am on July 10 in Hampshire and on the Isle of Wight, prohibiting the use of hosepipes for watering gardens, filling pools, or washing cars.</p><p>The alert follows last week's heatwave that triggered a rare Met Office red extreme heat warning for three consecutive days — the first time since the warnings were established in 2021 — which challenged or exceeded temperature records dating back decades or over a century.</p>",
+            source: 'The Guardian', sourceUrl: 'https://www.theguardian.com/uk-news/2026/jul/04/week-long-heatwave-due-in-england-with-34c-peak-in-south-east', sourceSnippet: 'Week-long heatwave due in England with 34C peak in south-east — The Guardian, July 4, 2026',
+            source2: 'BBC Weather', sourceUrl2: 'https://www.bbc.com/weather/articles/c4gyjvpl4eno', sourceSnippet2: 'Third heatwave for parts of the UK is on the way as 30C temperatures are forecast — BBC Weather',
+            source3: 'Al Jazeera', sourceUrl3: 'https://www.aljazeera.com/news/2026/7/1/warmest-june-on-record-for-england-second-warmest-for-uk-says-met-office', sourceSnippet3: 'Warmest June on record for England, second-warmest for UK, says Met Office — Al Jazeera'
+          },
+          ja: {
+            title: '英国内外で新たな熱波、来週は34°C予想',
+            desc: '2026年7月4日から11日までイングランドの大部分で黄色の熱波健康警報が発令され、木曜または金曜に南東部で34°Cのピークが予想される。',
+            content: '<p>ノーフォークのリングウッドで37.7°Cの6月気温記録が出されたばかりの中、新たな熱波が英国の一部を襲い、ピーク気温が34°Cに達すると予想されています。ガーディアンとBBCが2026年7月4日に報じました。</p><p>英国保健安全庁（UKHSA）は7月4日正午から7月11日午後8時まで、イングランド東部、東ミッドランズ、西ミッドランズ、南西部、ロンドン、南東部に黄色の熱波健康警報を発令しました。</p>',
+            source: 'The Guardian', sourceUrl: 'https://www.theguardian.com/uk-news/2026/jul/04/week-long-heatwave-due-in-england-with-34c-peak-in-south-east', sourceSnippet: '英熱波34°C — ガーディアン'
+          },
+          ko: {
+            title: '영국에 새 폭염, 다음 주 34°C 도달 전망',
+            desc: '2026년 7월 4일부터 11일까지 잉글랜드 대부분 지역에 폭염 건강 경보가 발효되며, 목요일 또는 금요일에 남동부에서 34°C 정점이 예상된다.',
+            content: '<p>노퍽 링우드에서 37.7°C의 6월 최고기온 기록이 세워진 직후, 새로운 폭염이 영국 일부를 덮칠 전망이며 피크 온도가 34°C에 달할 것으로 보인다고 가디언과 BBC가 2026년 7월 4일 보도했다.</p><p>영국 보건안전청(UKHSA)은 7월 4일 정오부터 7월 11일 오후 8시까지 잉글랜드 동부, 동미들랜즈, 서미들랜즈, 남서부, 런던, 남동부에 황색 폭염 건강 경보를 발령했다.</p>',
+            source: 'The Guardian', sourceUrl: 'https://www.theguardian.com/uk-news/2026/jul/04/week-long-heatwave-due-in-england-with-34c-peak-in-south-east', sourceSnippet: '영국 폭염 34°C — 가디언'
+          },
+          zh: {
+            title: '新一轮热浪袭击英国，预计下周气温达34°C',
+            desc: '2026年7月4日至11日，英格兰大部分地区发布黄色高温健康警报，周四或周五东南部气温预计达34°C峰值。',
+            content: '<p>据《卫报》和BBC 2026年7月4日报道，继诺福克郡林伍德创下37.7°C的6月气温纪录后，新一轮热浪将袭击英国部分地区，峰值温度预计达34°C。</p><p>英国卫生安全局（UKHSA）发布了覆盖英格兰东部、东米德兰兹、西米德兰兹、西南部、伦敦和东南部的黄色高温健康警报，从7月4日中午生效至7月11日晚8点。</p>',
+            source: 'The Guardian', sourceUrl: 'https://www.theguardian.com/uk-news/2026/jul/04/week-long-heatwave-due-in-england-with-34c-peak-in-south-east', sourceSnippet: '英国热浪34°C — 卫报'
+          }
+        }
+      }
+
+      ,{
+        id: 'inggris-perjanjian-dagang-india-uk-15juli2026',
+        langs: {
+          id: {
+            title: 'Perjanjian Dagang India-Inggris Efektif 15 Juli, Aturan Asal Barang Sudah Ditetapkan',
+            desc: 'India telah menetapkan aturan bea cukai dan penentuan asal barang untuk implementasi Perjanjian Ekonomi dan Perdagangan Komprehensif India-Inggris yang efektif mulai 15 Juli 2026.',
+            content: '<p>Pemerintah India telah menetapkan aturan bea cukai baru untuk implementasi Perjanjian Ekonomi dan Perdagangan Komprehensif India-Inggris (CETA) yang akan efektif mulai 15 Juli 2026, membuka jalan bagi perjanjian dagang besar antara kedua negara, menurut laporan Outlook Business dan Business Standard.</p><p>Kementerian Keuangan India telah menetapkan aturan penentuan asal barang (rules of origin) di bawah perjanjian tersebut, yang menjadi prasyarat utama untuk menentukan produk mana yang memenuhi syarat mendapatkan preferensi tarif antara India dan Inggris, sebagaimana dilaporkan Swarajya Mag.</p><p>Perjanjian ini diperkirakan memberikan manfaat signifikan bagi konsumen mobil mewah di India, dengan pengurangan harga yang substansial untuk merek-merek seperti Range Rover, serta membuka peluang baru bagi bisnis di kedua negara, menurut laporan NDTV Auto.</p><p>India-UK Business Council (UKIBC) menyambut baik implementasi perjanjian ini, menyatakan bahwa CETA akan membuka peluang pertumbuhan baru bagi perusahaan di kedua negara, sementara Menteri Perdagangan India Piyush Goyal dijadwalkan berkunjung ke Inggris untuk meninjau kesiapan rollout, menurut The Hindu.</p><p>Goyal menyatakan optimisme tinggi dari pelaku bisnis di India dan Inggris menjelang implementasi perjanjian ini, menyebut kesepakatan tersebut dapat membuka babak baru dalam hubungan ekonomi bilateral kedua negara, sebagaimana dilaporkan India Today.</p>',
+            source: 'Outlook Business', sourceUrl: 'https://www.outlookbusiness.com/economy-and-policy/govt-notifies-customs-tariff-rules-for-india-uk-trade-pact-clears-way-for-july-15-rollout', sourceSnippet: 'Govt Notifies Customs Tariff Rules For India-UK Trade Pact, Clears Way For July 15 Rollout — Outlook Business',
+            source2: 'Business Standard', sourceUrl2: 'https://www.business-standard.com/economy/news/india-uk-trade-pact-origin-rules-notified-ahead-of-july-15-rollout-126070400796_1.html', sourceSnippet2: 'India-UK trade pact origin rules notified ahead of July 15 rollout — Business Standard',
+            source3: 'Economic Times', sourceUrl3: 'https://m.economictimes.com/news/economy/foreign-trade/ukibc-hails-india-uk-trade-pact-rollout-from-july-15-says-ceta-to-unlock-new-growth-opportunities/articleshow/131822121.cms', sourceSnippet3: 'UKIBC hails India-UK trade pact rollout from July 15 — Economic Times'
+          },
+          en: {
+            title: "India-UK Trade Agreement Effective July 15, Rules of Origin Notified",
+            desc: "India has notified customs tariff rules and rules of origin for the India-UK Comprehensive Economic and Trade Agreement, effective from July 15, 2026.",
+            content: "<p>The Indian government has notified new customs tariff rules for the implementation of the India-UK Comprehensive Economic and Trade Agreement (CETA), effective from July 15, 2026, clearing the way for the landmark trade deal between the two nations, Outlook Business and Business Standard reported.</p><p>India's finance ministry has notified rules for determining the origin of goods under the agreement, a key prerequisite for determining which products qualify for tariff preferences between India and the UK, Swarajya Mag reported.</p><p>The agreement is expected to bring significant benefits for luxury car buyers in India, with substantial price reductions for brands like Range Rover, while opening new opportunities for businesses in both countries, NDTV Auto reported.</p><p>The India-UK Business Council (UKIBC) welcomed the agreement's implementation, saying CETA will unlock new growth opportunities for companies in both nations, while India's Commerce Minister Piyush Goyal was scheduled to visit the UK to review rollout preparedness, The Hindu reported.</p><p>Goyal expressed strong optimism from businesses in both India and the UK ahead of the agreement's implementation, calling the deal a new chapter in bilateral economic relations, India Today reported.</p>",
+            source: 'Outlook Business', sourceUrl: 'https://www.outlookbusiness.com/economy-and-policy/govt-notifies-customs-tariff-rules-for-india-uk-trade-pact-clears-way-for-july-15-rollout', sourceSnippet: 'Govt Notifies Customs Tariff Rules For India-UK Trade Pact — Outlook Business',
+            source2: 'Business Standard', sourceUrl2: 'https://www.business-standard.com/economy/news/india-uk-trade-pact-origin-rules-notified-ahead-of-july-15-rollout-126070400796_1.html', sourceSnippet2: 'India-UK trade pact origin rules notified ahead of July 15 rollout — Business Standard',
+            source3: 'Economic Times', sourceUrl3: 'https://m.economictimes.com/news/economy/foreign-trade/ukibc-hails-india-uk-trade-pact-rollout-from-july-15-says-ceta-to-unlock-new-growth-opportunities/articleshow/131822121.cms', sourceSnippet3: 'UKIBC hails India-UK trade pact rollout from July 15 — Economic Times'
+          },
+          ja: {
+            title: 'インド・英国貿易協定が7月15日発効、原産地規則が通知される',
+            desc: 'インド政府がインド・英国包括経済貿易協定（CETA）の実施のため関税規則と原産地規則を通知し、7月15日からの発効に道を開いた。',
+            content: '<p>インド政府は2026年7月15日から発効するインド・英国包括経済貿易協定（CETA）の実施のため、新たな関税規則を通知し、両国間の画期的な貿易協定に道を開いたと、アウトルック・ビジネスとビジネス・スタンダードが報じました。</p><p>インド財務省は同協定に基づく商品の原産地判定規則を通知しました。これはインドと英国間でどの製品が関税優遇の対象となるかを判定するための重要な前提条件です。</p>',
+            source: 'Outlook Business', sourceUrl: 'https://www.outlookbusiness.com/economy-and-policy/govt-notifies-customs-tariff-rules-for-india-uk-trade-pact-clears-way-for-july-15-rollout', sourceSnippet: 'インド・英国貿易協定 — アウトルック・ビジネス'
+          },
+          ko: {
+            title: '인도-영국 무역 협정 7월 15일 발효, 원산지 규정 통보',
+            desc: '인도 정부가 인도-영국 포괄경제무역협정(CETA) 시행을 위한 관세 규정과 원산지 판정 규정을 통보하며 7월 15일 발효에 길을 열었다.',
+            content: '<p>인도 정부가 2026년 7월 15일부터 발효되는 인도-영국 포괄경제무역협정(CETA) 시행을 위한 새로운 관세 규정을 통보하며 양국 간 획기적 무역 협정의 길을 열었다고 아웃룩 비즈니스와 비즈니스 스탠다드가 보도했다.</p><p>인도 재무부는 협정에 따른 상품 원산지 판정 규정을 통보했으며, 이는 인도와 영국 간 어느 제품이 관세 혜택 대상이 되는지 결정하는 핵심 전제 조건이다.</p>',
+            source: 'Outlook Business', sourceUrl: 'https://www.outlookbusiness.com/economy-and-policy/govt-notifies-customs-tariff-rules-for-india-uk-trade-pact-clears-way-for-july-15-rollout', sourceSnippet: '인도-영국 무역 협정 — 아웃룩 비즈니스'
+          },
+          zh: {
+            title: '印度-英国贸易协定7月15日生效，原产地规则已通知',
+            desc: '印度政府已通知实施印度-英国全面经济贸易协定的关税规则和原产地规则，为7月15日生效铺平道路。',
+            content: '<p>据Outlook Business和Business Standard报道，印度政府已通知实施印度-英国全面经济贸易协定（CETA）的新关税规则，为7月15日生效的两国务实贸易协定铺平道路。</p><p>印度财政部已通知协定项下商品原产地判定规则，这是决定哪些产品有资格获得印英之间关税优惠的关键前提。</p>',
+            source: 'Outlook Business', sourceUrl: 'https://www.outlookbusiness.com/economy-and-policy/govt-notifies-customs-tariff-rules-for-india-uk-trade-pact-clears-way-for-july-15-rollout', sourceSnippet: '印度-英国贸易协定 — Outlook Business'
+          }
+        }
+      }
+
     ]
   };
   window.countries = window.countryDataFiles;
