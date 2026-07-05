@@ -471,6 +471,273 @@
           }
         }
       }
+      ,{
+        id: 'india-pmi-layanan-turun-17-bulan-terendah-juni2026',
+        langs: {
+          id: {
+            title: 'PMI Layanan India Anjlok ke Titik Terendah 17 Bulan di Juni 2026',
+            desc: 'HSBC India Services PMI turun ke 57,4 pada Juni 2026, level terendah dalam 17 bulan, menandakan melemahnya permintaan domestik meski ekspor menguat.',
+            content: '<p>Aktivitas sektor jasa India melambat tajam pada Juni 2026, dengan HSBC India Services PMI turun dari 59,8 di Mei ke 57,4 — level terendah dalam 17 bulan, menandakan melemahnya permintaan domestik di ekonomi terbesar ketiga di dunia menurut PPP, sebagaimana dilaporkan The Hindu dan Moneycontrol.</p><p>Trading View melaporkan bahwa PMI layanan direvisi sedikit naik dari estimasi awal 57,3 ke 57,4, namun tetap berada di bawah angka Mei sebesar 59,8, menunjukkan perlambatan yang signifikan dalam pertumbuhan bisnis.</p><p>Business Standard mencatat bahwa meskipun permintaan domestik melemah, pesanan ekspor baru naik dengan pace tercepat dalam beberapa bulan terakhir, menunjukkan divergensi antara pasar dalam negeri yang melambat dan pasar internasional yang menguat.</p><p>Business World melaporkan bahwa tekanan inflasi yang mereda memberikan ruang bagi bisnis, namun perusahaan melaporkan kondisi pasar yang semakin menantang dengan meningkatnya tekanan biaya dan melembutnya permintaan.</p><p>Sahi News mencatat bahwa data PMI Juni mengungkapkan divergensi antara sektor jasa yang menguat dan basis manufaktur yang moderat, dengan PMI komposit mereda ke 57,1 poin, menandakan perlambatan pertumbuhan sektor swasta secara keseluruhan.</p>',
+            source: 'The Hindu', sourceUrl: 'https://www.thehindu.com/business/Economy/indias-services-pmi-drops-to-17-month-low-of-574-in-june-2026-as-demand-softens/article71177936.ece', sourceSnippet: "India's services PMI drops to 17-month low of 57.4 in June 2026 — The Hindu",
+            source2: 'Moneycontrol', sourceUrl2: 'https://www.moneycontrol.com/news/business/economy/india-s-service-activity-slows-to-17-month-low-of-57-4-in-june-13965116.html', sourceSnippet2: "India's service activity slows to 17-month low of 57.4 in June — Moneycontrol",
+            source3: 'Business Standard', sourceUrl3: 'https://www.business-standard.com/amp/economy/news/india-pmi-services-falls-to-57-4-in-june-as-domestic-demand-softens-126070300270_1.html', sourceSnippet3: 'India PMI services falls to 57.4 in June as domestic demand softens — Business Standard'
+          },
+          en: {
+            title: "India Services PMI Plunges to 17-Month Low in June 2026",
+            desc: "HSBC India Services PMI fell to 57.4 in June 2026, the lowest level in 17 months, signaling weaker domestic demand even as exports strengthened.",
+            content: "<p>India's services sector activity slowed sharply in June 2026, with the HSBC India Services PMI falling from 59.8 in May to 57.4 — the lowest level in 17 months, signaling weaker domestic demand in the world's third-largest economy by PPP, The Hindu and Moneycontrol reported.</p><p>Trading View reported that the services PMI was revised slightly upward from the preliminary estimate of 57.3 to 57.4, but remained below May's figure of 59.8, indicating a significant slowdown in business growth.</p><p>Business Standard noted that while domestic demand softened, new export orders rose at the fastest pace in recent months, showing a divergence between a slowing domestic market and strengthening international markets.</p><p>Business World reported that easing inflationary pressures gave businesses some room, but companies reported increasingly challenging market conditions with rising cost pressures and softening demand.</p><p>Sahi News noted that the June PMI data revealed a divergence between a strengthening services sector and a moderating manufacturing base, with the composite PMI easing to 57.1 points, signaling an overall slowdown in private sector growth.</p>",
+            source: 'The Hindu', sourceUrl: 'https://www.thehindu.com/business/Economy/indias-services-pmi-drops-to-17-month-low-of-574-in-june-2026-as-demand-softens/article71177936.ece', sourceSnippet: "India's services PMI drops to 17-month low — The Hindu",
+            source2: 'Moneycontrol', sourceUrl2: 'https://www.moneycontrol.com/news/business/economy/india-s-service-activity-slows-to-17-month-low-of-57-4-in-june-13965116.html', sourceSnippet2: "India's service activity slows to 17-month low — Moneycontrol",
+            source3: 'Business Standard', sourceUrl3: 'https://www.business-standard.com/amp/economy/news/india-pmi-services-falls-to-57-4-in-june-as-domestic-demand-softens-126070300270_1.html', sourceSnippet3: 'India PMI services falls to 57.4 — Business Standard'
+          },
+          ja: {
+            title: 'インドサービスPMI、2026年6月に17ヶ月ぶり低水準に急落',
+            desc: 'HSBCインドサービスPMIが2026年6月に57.4に低下し、17ヶ月ぶりの低水準となり、輸出が強まる中で国内需要の弱まりを示した。',
+            content: '<p>インドのサービス部門の活動は2026年6月に急減速し、HSBCインドサービスPMIが5月の59.8から57.4に低下し、17ヶ月ぶりの低水準となったと、The HinduとMoneycontrolが報じました。</p><p>国内需要の弱まりにもかかわらず、新規輸出受注は最近数ヶ月で最速のペースで増加し、減速する国内市場と強化される国際市場の乖離を示しました。</p>',
+            source: 'The Hindu', sourceUrl: 'https://www.thehindu.com/business/Economy/indias-services-pmi-drops-to-17-month-low-of-574-in-june-2026-as-demand-softens/article71177936.ece', sourceSnippet: 'インドPMI — The Hindu'
+          },
+          ko: {
+            title: '인도 서비스 PMI, 2026년 6월 17개월 만에 최저치로 급락',
+            desc: 'HSBC 인도 서비스 PMI가 2026년 6월 57.4로 하락해 17개월 만에 최저치를 기록하며, 수출이 강화되는 가운데 국내 수요 약화를 시사했다.',
+            content: '<p>인도 서비스 부문 활동이 2026년 6월 급감속하며 HSBC 인도 서비스 PMI가 5월 59.8에서 57.4로 하락해 17개월 만에 최저치를 기록했다고 The Hindu와 Moneycontrol이 보도했다.</p><p>국내 수요 약화에도 불구하고 신규 수출 주문이 최근 몇 달 중 가장 빠른 속도로 증가하며, 둔화되는 국내 시장과 강화되는 국제 시장의 괴리를 보여주었다.</p>',
+            source: 'The Hindu', sourceUrl: 'https://www.thehindu.com/business/Economy/indias-services-pmi-drops-to-17-month-low-of-574-in-june-2026-as-demand-softens/article71177936.ece', sourceSnippet: '인도 PMI — The Hindu'
+          },
+          zh: {
+            title: '印度服务业PMI在2026年6月跌至17个月低点',
+            desc: '汇丰印度服务业PMI在2026年6月降至57.4，为17个月低点，表明国内需求走弱，而出口增强。',
+            content: '<p>据The Hindu和Moneycontrol报道，印度服务业活动在2026年6月大幅放缓，汇丰印度服务业PMI从5月的59.8降至57.4，为17个月低点，表明这个按购买力平价计算的世界第三大经济体国内需求走弱。</p><p>尽管国内需求走弱，但新出口订单以近几个月最快速度增长，显示放缓的国内市场与增强的国际市场之间出现分化。</p>',
+            source: 'The Hindu', sourceUrl: 'https://www.thehindu.com/business/Economy/indias-services-pmi-drops-to-17-month-low-of-574-in-june-2026-as-demand-softens/article71177936.ece', sourceSnippet: '印度PMI — The Hindu'
+          }
+        }
+      }
+
+      ,{
+        id: 'india-modi-cg-semi-semikonduktor-ahmedabad-5juli2026',
+        langs: {
+          id: {
+            title: 'Modi Inaugurasi Fasilitas Semikonduktor CG Semi di Ahmedabad, Sebut akan Ciptakan Banyak Lapangan Kerja',
+            desc: 'PM Modi meresmikan produksi komersial fasilitas Outsourced Semiconductor Assembly and Test CG Semi di Sanand, Ahmedabad, menandai tonggak baru ambisi semikonduktor India.',
+            content: '<p>Perdana Menteri Narendra Modi meresmikan produksi komersial fasilitas CG Semi Outsourced Semiconductor Assembly and Test (OSAT) di Sanand, Ahmedabad pada 5 Juli 2026, menandai tonggak penting dalam ambisi India untuk menjadi pemain global dalam industri semikonduktor, sebagaimana dilaporkan Reuters dan The Hindu.</p><p>Modi menyatakan bahwa dorongan semikonduktor India akan menciptakan "banyak lapangan kerja" dan bahwa negara sedang melahirkan klaster semikonduktor di berbagai wilayah, dengan fasilitas CG Semi menjadi salah satu yang pertama memulai produksi komersial di antara proyek-proyek semikonduktor yang disetujui pemerintah.</p><p>Vellayan Subbiah, Ketua CG Power and Industrial Solutions Ltd., menyerahkan kiriman pertama chip semikonduktor kepada Malini Sivan, menandai transisi dari pembangunan fasilitas ke produksi komersial nyata — sebuah momen bersejarah bagi ekosistem manufaktur semikonduktor India yang masih dalam tahap awal pengembangan.</p><p>Fasilitas CG Semi di Sanand menjadi bagian dari strategi pemerintah Modi untuk menarik investasi semikonduktor global ke India, dengan paket insentif miliaran rupee yang ditawarkan kepada perusahaan yang membangun fasilitas fabrikasi dan pengujian chip di negara tersebut.</p><p>Inisiatif semikonduktor ini bertujuan mengurangi ketergantungan India pada impor chip dari Tiongkok dan Taiwan, sekaligus memposisikan India sebagai alternatif rantai pasok semikonduktor di tengah ketegangan geopolitik antara AS dan Tiongkok yang telah mengganggu ketersediaan chip global.</p>',
+            source: 'The Hindu', sourceUrl: 'https://www.thehindu.com/news/national/indias-semiconductor-push-will-create-countless-jobs-pm/article71183132.ece', sourceSnippet: "India's semiconductor push will create countless jobs: PM — The Hindu, 5 Juli 2026",
+            source2: 'Reuters', sourceUrl2: 'https://www.reutersconnect.com/item/indian-prime-minister-narendra-modi-inaugurates-the-cg-semi-outsourced-semiconductor-assembly-and-test-facility-in-sanand-ahmedabad/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlo2TUFXTjJTWA', sourceSnippet2: 'PM Modi inaugurates CG Semi Outsourced Semiconductor facility in Sanand — Reuters'
+          },
+          en: {
+            title: "Modi Inaugurates CG Semi Semiconductor Facility in Ahmedabad, Says Will Create Countless Jobs",
+            desc: "PM Modi inaugurated commercial production at the CG Semi Outsourced Semiconductor Assembly and Test facility in Sanand, Ahmedabad, marking a new milestone in India's semiconductor ambitions.",
+            content: "<p>Prime Minister Narendra Modi inaugurated commercial production at the CG Semi Outsourced Semiconductor Assembly and Test (OSAT) facility in Sanand, Ahmedabad on July 5, 2026, marking a significant milestone in India's ambition to become a global player in the semiconductor industry, Reuters and The Hindu reported.</p><p>Modi stated that India's semiconductor push will create 'countless jobs' and that the country is giving birth to semiconductor clusters across regions, with the CG Semi facility being among the first to begin commercial production among government-approved semiconductor projects.</p><p>Vellayan Subbiah, Chairman of CG Power and Industrial Solutions Ltd., handed over the first shipment of semiconductor chips to Malini Sivan, marking the transition from facility construction to actual commercial production — a historic moment for India's nascent semiconductor manufacturing ecosystem.</p><p>The CG Semi facility in Sanand is part of the Modi government's strategy to attract global semiconductor investment to India, with billions of rupees in incentive packages offered to companies building chip fabrication and testing facilities in the country.</p><p>This semiconductor initiative aims to reduce India's dependence on chip imports from China and Taiwan, while positioning India as an alternative semiconductor supply chain amidst geopolitical tensions between the US and China that have disrupted global chip availability.</p>",
+            source: 'The Hindu', sourceUrl: 'https://www.thehindu.com/news/national/indias-semiconductor-push-will-create-countless-jobs-pm/article71183132.ece', sourceSnippet: "India's semiconductor push will create countless jobs — The Hindu, July 5, 2026",
+            source2: 'Reuters', sourceUrl2: 'https://www.reutersconnect.com/item/indian-prime-minister-narendra-modi-inaugurates-the-cg-semi-outsourced-semiconductor-assembly-and-test-facility-in-sanand-ahmedabad/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlo2TUFXTjJTWA', sourceSnippet2: 'PM Modi inaugurates CG Semi facility — Reuters'
+          },
+          ja: {
+            title: 'モディ氏がアーメダバードでCG Semi半導体施設を開設、無数の雇用創出を約束',
+            desc: 'モディ首相がアーメダバードのサナンドでCG Semi半導体組立・テスト施設の商業生産を開設し、インドの半導体野望の新たな節目となった。',
+            content: '<p>ナレンドラ・モディ首相は2026年7月5日、アーメダバードのサナンドにあるCG Semi半導体組立・テスト施設の商業生産を開設し、インドが半導体産業のグローバルプレイヤーとなる野望の重要な節目を記録しました。</p><p>モディ氏はインドの半導体推進が「無数の雇用」を創出し、国内各地に半導体クラスターが誕生していると述べました。</p>',
+            source: 'The Hindu', sourceUrl: 'https://www.thehindu.com/news/national/indias-semiconductor-push-will-create-countless-jobs-pm/article71183132.ece', sourceSnippet: 'モディ半導体 — The Hindu'
+          },
+          ko: {
+            title: '모디, 아메다바드 CG Semi 반도체 시설 준공, 수많은 일자리 창출 약속',
+            desc: '모디 총리가 아메다바드 사난드에서 CG Semi 반도체 조립 및 테스트 시설의 상업 생산을 준공하며 인도 반도체 야망의 새로운 이정표를 세웠다.',
+            content: '<p>나렌드라 모디 총리는 2026년 7월 5일 아메다바드 사난드의 CG Semi 반도체 조립 및 테스트 시설의 상업 생산을 준공하며 인도가 반도체 산업의 글로벌 플레이어가 되겠다는 야망의 중요한 이정표를 세웠다.</p><p>모디는 인도의 반도체 추진이 "수많은 일자리"를 창출할 것이며 국가 전역에 반도체 클러스터가 탄생하고 있다고 밝혔다.</p>',
+            source: 'The Hindu', sourceUrl: 'https://www.thehindu.com/news/national/indias-semiconductor-push-will-create-countless-jobs-pm/article71183132.ece', sourceSnippet: '모디 반도체 — The Hindu'
+          },
+          zh: {
+            title: '莫迪为艾哈迈达巴德CG Semi半导体设施揭幕，称将创造无数就业',
+            desc: '莫迪总理为艾哈迈达巴德萨南德的CG Semi半导体封装测试设施商业生产揭幕，标志着印度半导体雄心的新里程碑。',
+            content: '<p>据路透社和The Hindu报道，印度总理纳伦德拉·莫迪于2026年7月5日为艾哈迈达巴德萨南德的CG Semi外包半导体封装测试设施商业生产揭幕，标志着印度成为全球半导体行业参与者雄心的重要里程碑。</p><p>莫迪表示，印度的半导体推进将创造"无数就业"，全国正在诞生半导体产业集群。</p>',
+            source: 'The Hindu', sourceUrl: 'https://www.thehindu.com/news/national/indias-semiconductor-push-will-create-countless-jobs-pm/article71183132.ece', sourceSnippet: '莫迪半导体 — The Hindu'
+          }
+        }
+      }
+
+      ,{
+        id: 'india-delegasi-khamenei-pemakaman-iran-4juli2026',
+        langs: {
+          id: {
+            title: 'Delegasi India Berangkat ke Iran untuk Pemakaman Negara Ayatollah Khamenei',
+            desc: 'Tim delegasi India berangkat ke Iran untuk menghadiri pemakaman negara mantan Supreme Leader Iran Ayatollah Ali Khamenei yang tewas dalam serangan udara.',
+            content: '<p>Tim delegasi India telah berangkat ke Iran untuk menghadiri pemakaman negara mantan Supreme Leader Iran Ayatollah Ali Khamenei, sebagaimana dilaporkan DW pada 4 Juli 2026, di tengah penghormatan besar-besaran di Tehran yang dihadiri oleh pemimpin dunia dari berbagai negara.</p><p>Kedutaan Besar Iran di India mengumumkan di platform X bahwa delegasi India telah memberikan penghormatan kepada mendiang Supreme Leader Ayatollah Seyyed Ali Khamenei menjelang pemakaman, sebagaimana dilaporkan Times of India, menandakan pentingnya hubungan India-Iran di tengah perubahan geopolitik regional.</p><p>Al Jazeera melaporkan bahwa beberapa kepala negara dan pejabat pemerintah berkumpul di Tehran untuk pemakaman negara Khamenei, yang tewas dalam serangan udara di awal konflik yang mengguncang Timur Tengah.</p><p>Jerusalem Post mencatat bahwa pemimpin dari Pakistan, India, Rusia, dan Tiongkok akan menghadiri pemakaman Khamenei, menunjukkan luasnya pengaruh Iran di panggungan geopolitik global meskipun ketegangan dengan Israel dan Barat.</p><p>DW melaporkan bahwa upacara pemakaman Khamenei secara resmi dimulai dengan kerumunan besar berkumpul di Tehran untuk memberikan penghormatan terakhir mereka kepada supreme leader Iran, dengan delegasi dari negara-negara Muslim dan non-Muslim hadir untuk menunjukkan solidaritas di tengah perubahan politik regional yang cepat.</p>',
+            source: 'DW', sourceUrl: 'https://www.dw.com/en/india-news-indian-delegation-leaves-for-khameneis-funeral/live-77814828', sourceSnippet: 'India news: Indian delegation leaves for Khamenei funeral — DW, 4 Juli 2026',
+            source2: 'Times of India', sourceUrl2: 'https://timesofindia.indiatimes.com/world/middle-east/indian-dignitaries-pay-tribute-to-late-iran-supreme-leader-ayatollah-khamenei-ahead-of-funeral/articleshow/132154472.cms', sourceSnippet2: 'Indian dignitaries pay tribute to late Iran supreme leader Ayatollah Khamenei — Times of India',
+            source3: 'Al Jazeera', sourceUrl3: 'https://www.aljazeera.com/news/2026/7/3/irans-khamenei-funeral-which-world-leaders-are-attending', sourceSnippet3: "Iran's Khamenei funeral: Which world leaders are attending? — Al Jazeera"
+          },
+          en: {
+            title: "Indian Delegation Leaves for Iran to Attend State Funeral of Ayatollah Khamenei",
+            desc: "A team of Indian delegates has left for Iran to attend the state funeral of Iran's former supreme leader Ayatollah Ali Khamenei, who was killed in an airstrike.",
+            content: "<p>A team of Indian delegates has left for Iran to attend the state funeral of Iran's former supreme leader Ayatollah Ali Khamenei, DW reported on July 4, 2026, amid massive gatherings in Tehran attended by world leaders from various countries.</p><p>The Embassy of Iran in India announced on platform X that an Indian delegation paid tribute to the late Supreme Leader Ayatollah Seyyed Ali Khamenei ahead of the funeral, Times of India reported, signaling the importance of India-Iran relations amid shifting regional geopolitics.</p><p>Al Jazeera reported that several heads of state and government officials gathered in Tehran for Khamenei's state funeral, who was killed in an airstrike at the start of a conflict that shook the Middle East.</p><p>Jerusalem Post noted that leaders from Pakistan, India, Russia, and China would attend Khamenei's funeral, showing the breadth of Iran's influence on the global geopolitical stage despite tensions with Israel and the West.</p><p>DW reported that Khamenei's funeral ceremonies officially began with huge crowds gathering in Tehran to pay their final respects to Iran's supreme leader, with delegations from Muslim and non-Muslim nations attending to show solidarity amid rapidly shifting regional politics.</p>",
+            source: 'DW', sourceUrl: 'https://www.dw.com/en/india-news-indian-delegation-leaves-for-khameneis-funeral/live-77814828', sourceSnippet: 'India news: Indian delegation leaves for Khamenei funeral — DW, July 4, 2026',
+            source2: 'Times of India', sourceUrl2: 'https://timesofindia.indiatimes.com/world/middle-east/indian-dignitaries-pay-tribute-to-late-iran-supreme-leader-ayatollah-khamenei-ahead-of-funeral/articleshow/132154472.cms', sourceSnippet2: 'Indian dignitaries pay tribute to Khamenei — Times of India',
+            source3: 'Al Jazeera', sourceUrl3: 'https://www.aljazeera.com/news/2026/7/3/irans-khamenei-funeral-which-world-leaders-are-attending', sourceSnippet3: "Iran's Khamenei funeral: Which world leaders are attending? — Al Jazeera"
+          },
+          ja: {
+            title: 'インド代表団がハメネイ葬儀参列のためイランへ出発',
+            desc: 'インド代表団がイランの元最高指導者ハメネイの国葬に参列するためイランへ出発した。',
+            content: '<p>インド代表団がイランの元最高指導者アヤトラ・ハメネイの国葬に参列するためイランへ出発したと、DWが2026年7月4日に報じました。</p><p>イラン大使館はXでインド代表団が葬儀前にハメネイに哀悼の意を表したと発表しました。</p><p>パキスタン、インド、ロシア、中国の指導者が葬儀に参列し、イランの地政学的影響力の広さを示しました。</p>',
+            source: 'DW', sourceUrl: 'https://www.dw.com/en/india-news-indian-delegation-leaves-for-khameneis-funeral/live-77814828', sourceSnippet: 'インド代表団 — DW'
+          },
+          ko: {
+            title: '인도 대표단, 하메네이 국장 참석 위해 이란 출발',
+            desc: '인도 대표단이 이란의 전 최고지도자 하메네이의 국장에 참석하기 위해 이란으로 출발했다.',
+            content: '<p>인도 대표단이 이란의 전 최고지도자 아야톨라 하메네이의 국장에 참석하기 위해 이란으로 출발했다고 DW가 2026년 7월 4일 보도했다.</p><p>이란 대사관은 X에서 인도 대표단이 장례식 전 하메네이에게 애도의 뜻을 전했다고 발표했다.</p><p>파키스탄, 인도, 러시아, 중국 지도자들이 장례식에 참석해 이란의 지정학적 영향력의 폭을 보여주었다.</p>',
+            source: 'DW', sourceUrl: 'https://www.dw.com/en/india-news-indian-delegation-leaves-for-khameneis-funeral/live-77814828', sourceSnippet: '인도 대표단 — DW'
+          },
+          zh: {
+            title: '印度代表团赴伊朗参加哈梅内伊国葬',
+            desc: '印度代表团已启程前往伊朗参加伊朗前最高领袖哈梅内伊的国葬。',
+            content: '<p>据DW 2026年7月4日报道，印度代表团已启程前往伊朗参加伊朗前最高领袖阿亚图拉·哈梅内伊的国葬，各国领导人在德黑兰大规模聚集。</p><p>伊朗驻印度大使馆在X平台宣布，印度代表团在葬礼前向已故最高领袖表达了哀悼。</p><p>来自巴基斯坦、印度、俄罗斯和中国的领导人将出席哈梅内伊的葬礼，显示伊朗在全球地缘政治舞台上的广泛影响力。</p>',
+            source: 'DW', sourceUrl: 'https://www.dw.com/en/india-news-indian-delegation-leaves-for-khameneis-funeral/live-77814828', sourceSnippet: '印度代表团 — DW'
+          }
+        }
+      }
+
+      ,{
+        id: 'india-modi-kunjungan-indonesia-australia-selandia-baru-6juli2026',
+        langs: {
+          id: {
+            title: 'PM Modi Kunjungan Tiga Negara: Indonesia, Australia, dan Selandia Baru, 6-11 Juli 2026',
+            desc: 'PM Narendra Modi akan melakukan kunjungan tiga negara ke Indonesia, Australia, dan Selandia Baru dari 6-11 Juli 2026 untuk memperdalam hubungan bilateral India.',
+            content: '<p>Perdana Menteri Narendra Modi akan melakukan kunjungan tiga negara ke Indonesia, Australia, dan Selandia Baru dari 6 hingga 11 Juli 2026, atas undangan Presiden Indonesia Prabowo Subianto, PM Australia Anthony Albanese, dan PM Selandia Baru Christopher Luxon, sebagaimana dilaporkan Reuters.</p><p>PM Selandia Baru Christopher Luxon mengonfirmasi bahwa Modi akan melakukan kunjungan resmi pertama ke Selandia Baru pekan depan, tiba di Auckland dalam kunjungan bersejarah yang menandai penguatan hubungan India dengan negara Pasifik Selatan tersebut.</p><p>Reuters melaporkan bahwa kunjungan ini bertujuan untuk memperdalam hubungan bilateral India dengan ketiga negara, dengan fokus pada kerja sama ekonomi, keamanan regional, dan kemitraan strategis di Indo-Pasifik di tengah meningkatnya ketegangan geopolitik global.</p><p>Kunjungan ke Indonesia menjadi signifikan karena pertemuan Modi dengan Presiden Prabowo Subianto — yang juga baru-baru ini mengunjungi India untuk kunjungan kenegaraan — menandakan penguatan kemitraan strategis India-Indonesia di tengah dinamika geopolitik Asia.</p><p>Kunjungan tiga negara ini menjadi bagian dari strategi diplomasi India yang lebih luas untuk memperkuat kemitraan dengan negara-negara Asia Tenggara dan Pasifik, sekaligus menyeimbangkan pengaruh Tiongkok di kawasan tersebut.</p>',
+            source: 'Reuters', sourceUrl: 'https://www.rnz.co.nz/news/politics/659541/india-s-modi-to-visit-new-zealand-this-month', sourceSnippet: "India's Modi to visit New Zealand this month — RNZ / Reuters, 3 Juli 2026"
+          },
+          en: {
+            title: "PM Modi Three-Nation Tour: Indonesia, Australia, and New Zealand, July 6-11, 2026",
+            desc: "PM Narendra Modi will visit Indonesia, Australia, and New Zealand from July 6-11, 2026, to deepen India's bilateral relations.",
+            content: "<p>Prime Minister Narendra Modi will embark on a three-nation visit to Indonesia, Australia, and New Zealand from July 6-11, 2026, at the invitation of Indonesian President Prabowo Subianto, Australian PM Anthony Albanese, and New Zealand PM Christopher Luxon, Reuters reported.</p><p>New Zealand PM Christopher Luxon confirmed that Modi will make his first official visit to New Zealand next week, arriving in Auckland in a historic visit marking the strengthening of India's relationship with the South Pacific nation.</p><p>Reuters reported that the visit aims to deepen India's bilateral relations with all three countries, focusing on economic cooperation, regional security, and strategic partnerships in the Indo-Pacific amid rising global geopolitical tensions.</p><p>The Indonesia visit is significant as Modi's meeting with President Prabowo Subianto — who recently visited India for a state visit — signals the strengthening of the India-Indonesia strategic partnership amid Asia's geopolitical dynamics.</p><p>The three-nation tour is part of India's broader diplomatic strategy to strengthen partnerships with Southeast Asian and Pacific nations, while balancing China's influence in the region.</p>",
+            source: 'Reuters', sourceUrl: 'https://www.rnz.co.nz/news/politics/659541/india-s-modi-to-visit-new-zealand-this-month', sourceSnippet: "India's Modi to visit New Zealand — RNZ / Reuters, July 3, 2026"
+          },
+          ja: {
+            title: 'モディ首相3カ国訪問：インドネシア、豪州、ニュージーランド、7月6-11日',
+            desc: 'モディ首相が7月6-11日にインドネシア、豪州、ニュージーランドを訪問し、インドの二国間関係を深める。',
+            content: '<p>ナレンドラ・モディ首相は2026年7月6-11日にインドネシア、豪州、ニュージーランドの3カ国訪問を行います。</p><p>ニュージーランドのルクソン首相は、モディ氏がニュージーランドを公式訪問する初のインド首相となることを確認しました。</p><p>この訪問はインド太平洋地域の経済協力、安全保障、戦略的パートナーシップの強化を目的としています。</p>',
+            source: 'Reuters', sourceUrl: 'https://www.rnz.co.nz/news/politics/659541/india-s-modi-to-visit-new-zealand-this-month', sourceSnippet: 'モディ3カ国訪問 — ロイター'
+          },
+          ko: {
+            title: '모디 총리 3개국 순방: 인도네시아, 호주, 뉴질랜드, 7월 6-11일',
+            desc: '모디 총리가 7월 6-11일 인도네시아, 호주, 뉴질랜드를 방문하며 인도의 양자 관계를 심화한다.',
+            content: '<p>나렌드라 모디 총리는 2026년 7월 6-11일 인도네시아, 호주, 뉴질랜드 3개국 순방에 나선다.</p><p>뉴질랜드 럭슨 총리는 모디가 뉴질랜드를 공식 방문하는 것을 확인했으며, 이는 인도와 남태평양 국가 관계 강화를 나타낸다.</p><p>이 방문은 인도태평양 경제 협력, 안보, 전략적 파트너십 강화가 목적이다.</p>',
+            source: 'Reuters', sourceUrl: 'https://www.rnz.co.nz/news/politics/659541/india-s-modi-to-visit-new-zealand-this-month', sourceSnippet: '모디 3개국 순방 — 로이터'
+          },
+          zh: {
+            title: '莫迪总理三国访问：印度尼西亚、澳大利亚和新西兰，7月6-11日',
+            desc: '莫迪总理将于7月6-11日访问印尼、澳大利亚和新西兰，深化印度双边关系。',
+            content: '<p>据路透社报道，印度总理纳伦德拉·莫迪将于2026年7月6-11日访问印度尼西亚、澳大利亚和新西兰三国，应印尼总统普拉博沃、澳大利亚总理阿尔巴尼斯和新西兰总理卢克森邀请。</p><p>新西兰总理卢克森确认莫迪下周将首次正式访问新西兰，抵达奥克兰，标志着印度与南太平洋国家关系的加强。</p><p>此次访问旨在深化印度与三国的双边关系，聚焦印太地区的经济合作、区域安全和战略伙伴关系。</p>',
+            source: 'Reuters', sourceUrl: 'https://www.rnz.co.nz/news/politics/659541/india-s-modi-to-visit-new-zealand-this-month', sourceSnippet: '莫迪三国访问 — 路透社'
+          }
+        }
+      }
+
+      ,{
+        id: 'india-bank-dunia-sri-lanka-upper-middle-india-tetap-3juli2026',
+        langs: {
+          id: {
+            title: 'Bank Dunia Naikkan Sri Lanka ke Upper-Middle-Income, India Tetap di Lower-Middle-Income',
+            desc: 'Bank Dunia menaikkan Sri Lanka dan Vietnam ke kategori upper-middle-income per 1 Juli 2026, sementara India tetap berada di lower-middle-income meski ekonominya berkembang pesat.',
+            content: '<p>Bank Dunia menaikkan Sri Lanka dan Vietnam ke kategori upper-middle-income dalam klasifikasi pendapatan negara terbaru yang berlaku efektif per 1 Juli 2026, sementara India tetap berada di kategori lower-middle-income meski pertumbuhan ekonominya termasuk tercepat di dunia, sebagaimana dilaporkan The Hindu dan WION.</p><p>Sri Lanka sebelumnya diklasifikasikan sebagai upper-middle-income pada 2019 sebelum kembali ke lower-middle-income akibat krisis ekonomi yang melanda negara tersebut, dan kini naik kembali mencerminkan pemulihan ekonomi yang signifikan, sebagaimana dilaporkan Moneycontrol.</p><p>Vietnam juga dinaikkan dari lower-middle-income ke upper-middle-income setelah GNI per kapita mencapai USD 4.970, sebagaimana dilaporkan Vietnam Briefing, menandakan transformasi ekonomi yang mengesankan bagi negara Asia Tenggara tersebut.</p><p>India yang ekonominya berkembang pesat tetap berada di lower-middle-income karena GNI per kapita yang masih relatif rendah dibandingkan populasi negara yang sangat besar, sebuah paradoks yang menyoroti ketimpangan antara pertumbuhan ekonomi agregat dan kesejahteraan per kapita.</p><p>Asia News Network melaporkan bahwa enam negara naik ke kategori pendapatan lebih tinggi dalam klasifikasi Bank Dunia Juli 2026, menunjukkan pergeseran global yang berkelanjutan sejak 1987, dengan negara-negara Asia menjadi pendorong utama kenaikan kategori pendapatan ini.</p>',
+            source: 'The Hindu', sourceUrl: 'https://www.thehindu.com/business/Economy/sri-lanka-upgraded-to-upper-middle-income-economy-by-world-bank/article71173142.ece', sourceSnippet: 'Sri Lanka upgraded to upper-middle income economy by World Bank — The Hindu',
+            source2: 'WION', sourceUrl2: 'https://www.wionews.com/world/world-bank-upgrades-sri-lanka-vietnam-to-upper-middle-income-status-where-does-india-stand-1783033980901', sourceSnippet2: 'World Bank upgrades Sri Lanka, Vietnam; where does India stand? — WION',
+            source3: 'Moneycontrol', sourceUrl3: 'https://www.moneycontrol.com/news/india/sri-lanka-is-now-upper-middle-income-why-india-stays-put-despite-a-booming-economy-13965878.html', sourceSnippet3: 'Sri Lanka is now upper middle income. Why India stays put — Moneycontrol'
+          },
+          en: {
+            title: "World Bank Upgrades Sri Lanka to Upper-Middle-Income, India Stays Lower-Middle-Income",
+            desc: "The World Bank upgraded Sri Lanka and Vietnam to upper-middle-income status effective July 1, 2026, while India remains in lower-middle-income despite its booming economy.",
+            content: "<p>The World Bank upgraded Sri Lanka and Vietnam to upper-middle-income status in its latest country income classifications effective July 1, 2026, while India remains in the lower-middle-income category despite having one of the world's fastest-growing economies, The Hindu and WION reported.</p><p>Sri Lanka was previously classified as upper-middle-income in 2019 before returning to lower-middle-income due to the economic crisis that swept the country, and its return to the higher category reflects significant economic recovery, Moneycontrol reported.</p><p>Vietnam was also upgraded from lower-middle-income to upper-middle-income after its GNI per capita reached USD 4,970, Vietnam Briefing reported, marking an impressive economic transformation for the Southeast Asian nation.</p><p>India, with its booming economy, remains in lower-middle-income due to a relatively low GNI per capita compared to its massive population, a paradox highlighting the disparity between aggregate economic growth and per-capita prosperity.</p><p>Asia News Network reported that six countries moved to higher income categories in the World Bank's July 2026 classifications, showing continued global shifts since 1987, with Asian countries being the primary drivers of income category upgrades.</p>",
+            source: 'The Hindu', sourceUrl: 'https://www.thehindu.com/business/Economy/sri-lanka-upgraded-to-upper-middle-income-economy-by-world-bank/article71173142.ece', sourceSnippet: 'Sri Lanka upgraded to upper-middle income — The Hindu',
+            source2: 'WION', sourceUrl2: 'https://www.wionews.com/world/world-bank-upgrades-sri-lanka-vietnam-to-upper-middle-income-status-where-does-india-stand-1783033980901', sourceSnippet2: 'World Bank upgrades Sri Lanka, Vietnam; where does India stand? — WION',
+            source3: 'Moneycontrol', sourceUrl3: 'https://www.moneycontrol.com/news/india/sri-lanka-is-now-upper-middle-income-why-india-stays-put-despite-a-booming-economy-13965878.html', sourceSnippet3: 'Sri Lanka is now upper middle income. Why India stays put — Moneycontrol'
+          },
+          ja: {
+            title: '世界銀行がスリランカを上位中所得国に引き上げ、インドは下位中所得国のまま',
+            desc: '世界銀行が2026年7月1日付でスリランカとベトナムを上位中所得国に引き上げたが、インドは好調な経済にもかかわらず下位中所得国のままである。',
+            content: '<p>世界銀行は2026年7月1日付の最新の国別所得分類でスリランカとベトナムを上位中所得国に引き上げましたが、インドは世界最速クラスの経済成長にもかかわらず下位中所得国のままです。</p><p>スリランカは2019年に上位中所得国に分類された後、経済危機で下位中所得国に戻っていましたが、今回の復帰は大幅な経済回復を反映しています。</p><p>インドは好調な経済にもかかわらず、膨大な人口に対してGNI per capitaが比較的低いため下位中所得国のままであり、全体の経済成長と一人当たりの繁栄の格差を浮き彫りにしています。</p>',
+            source: 'The Hindu', sourceUrl: 'https://www.thehindu.com/business/Economy/sri-lanka-upgraded-to-upper-middle-income-economy-by-world-bank/article71173142.ece', sourceSnippet: '世界銀行スリランカ — The Hindu'
+          },
+          ko: {
+            title: '세계은행, 스리랑카를 상위 중소득국으로 격상...인도는 하위 중소득국 유지',
+            desc: '세계은행이 2026년 7월 1일부로 스리랑카와 베트남을 상위 중소득국으로 격상했으나, 인도는 호황인 경제에도 불구하고 하위 중소득국에 머물렀다.',
+            content: '<p>세계은행은 2026년 7월 1일부 최신 국가 소득 분류에서 스리랑카와 베트남을 상위 중소득국으로 격상했으나, 인도는 세계에서 가장 빠르게 성장하는 경제국 중 하나임에도 하위 중소득국에 머물렀다.</p><p>스리랑카는 2019년 상위 중소득국으로 분류된 후 경제 위기로 하위 중소득국으로 돌아갔으나, 이번 복귀는 상당한 경제 회복을 반영한다.</p><p>인도는 호황인 경제에도 불구하고 막대한 인구 대비 GNI per capita가 상대적으로 낮아 하위 중소득국에 머물며, 총 경제 성장과 1인당 번영의 격차를 부각시킨다.</p>',
+            source: 'The Hindu', sourceUrl: 'https://www.thehindu.com/business/Economy/sri-lanka-upgraded-to-upper-middle-income-economy-by-world-bank/article71173142.ece', sourceSnippet: '세계은행 스리랑카 — The Hindu'
+          },
+          zh: {
+            title: '世界银行将斯里兰卡升为上中等收入国家，印度仍为下中等收入',
+            desc: '世界银行在2026年7月1日生效的最新分类中将斯里兰卡和越南升为上中等收入国家，而印度尽管经济蓬勃发展仍为下中等收入国家。',
+            content: '<p>据The Hindu和WION报道，世界银行在2026年7月1日生效的最新国家收入分类中将斯里兰卡和越南升为上中等收入国家，而印度尽管拥有全球增长最快经济体之一，仍停留在下中等收入类别。</p><p>斯里兰卡此前在2019年被分类为上中等收入国家，后因经济危机回落至下中等收入，此次回归反映了显著的经济复苏。</p><p>印度尽管经济蓬勃发展，由于相对于庞大人口的GNI人均值较低而仍为下中等收入国家，这一悖论凸显了总体经济增长与人均繁荣之间的差距。</p>',
+            source: 'The Hindu', sourceUrl: 'https://www.thehindu.com/business/Economy/sri-lanka-upgraded-to-upper-middle-income-economy-by-world-bank/article71173142.ece', sourceSnippet: '世界银行斯里兰卡 — The Hindu'
+          }
+        }
+      }
+
+      ,{
+        id: 'india-monsun-banjir-mumbai-jalan-terendam-2juli2026',
+        langs: {
+          id: {
+            title: 'Monsun Banjir Mumbai: Jalan Terendam, Pohon Tumbang, Andheri Subway Ditutup',
+            desc: 'Hujan monsun lebat menggenangi Mumbai, ibu kota finansial India, memaksa penutupan Andheri subway dan menyebabkan jalan terendam serta pohon tumbang.',
+            content: '<p>Hujan monsun lebat melanda Mumbai, ibu kota finansial India, pada 2 Juli 2026, menggenangi jalan dan trotoar serta menumbangkan pohon di seluruh kota, sebagaimana dilaporkan Reuters dan media lokal India.</p><p>Curah hujan yang persisten memicu genangan di beberapa wilayah Mumbai, memaksa penutupan Andheri subway yang merupakan jalur transportasi penting bagi para komuter, sebagaimana dilaporkan Times of India, dengan para penumpang kesulitan menavigasi jalan-jalan yang tergenang air.</p><p>IMD telah memperingatkan bahwa hujan lebat hingga sangat lebat dapat berlanjut, meningkatkan kemungkinan waterlogging di wilayah dataran rendah dan area rawan banjir di kota berpenduduk lebih dari 20 juta jiwa tersebut.</p><p>Video viral di media sosial menangkap kekacauan monsun yang akrab di India — jalan yang tergenang air, tiang listrik yang tumbang, lubang jalan terbuka yang tersembunyi di bawah air, dan saluran air terbuka yang berbahaya bagi pejalan kaki dan pengendara sepeda motor.</p><p>Kekacauan monsun tahunan di Mumbai kembali menyoroti kerentanan infrastruktur kota India yang besar di hadapan curah hujan ekstrem, dengan para ahli mengaitkan intensitas monsun yang meningkat dengan perubahan iklim yang memperburuk pola cuaca di subbenua India.</p>',
+            source: 'Reuters', sourceUrl: 'https://www.google.com/goto?url=CAEScAHuR6pNXK9s1pshCnoTxGSJJOXR4RUUiS6Zd8WtqF9tNqoZWfaLGHT3pBdSr7MQFSkgN0v8pFTXGLmoTmgxn5gCNFU2CP7Rtf3w3vrFjSrzBBO5Mh-wwkS6-6MnfburqeN5bOSRJ1HLOgsoQfvL9HI=', sourceSnippet: 'Monsoon rains inundate India financial capital Mumbai — Reuters, 2 Juli 2026',
+            source2: 'Times of India', sourceUrl2: 'https://timesofindia.indiatimes.com/city/mumbai/mumbai-rains-andheri-subway-shut-after-heavy-showers-disrupt-local-trains/aticleshow/132153321.cms', sourceSnippet2: 'Mumbai rains: Andheri subway shut after heavy showers — Times of India'
+          },
+          en: {
+            title: "Monsoon Floods Mumbai: Roads Inundated, Trees Uprooted, Andheri Subway Closed",
+            desc: "Heavy monsoon rains lashed Mumbai, India's financial capital, forcing the closure of Andheri subway and causing waterlogged roads and uprooted trees.",
+            content: "<p>Heavy monsoon rains lashed Mumbai, India's financial capital, on July 2, 2026, flooding roads and pavements and uprooting trees across the city, Reuters and local Indian media reported.</p><p>Persistent rainfall triggered waterlogging in several parts of Mumbai, forcing the closure of the Andheri subway — a key transport route for commuters — Times of India reported, with passengers struggling to navigate waterlogged streets.</p><p>The IMD has warned that heavy to very heavy rainfall could continue, increasing the likelihood of waterlogging in low-lying areas and flood-prone zones in the city of over 20 million people.</p><p>Viral videos on social media captured the familiar monsoon chaos in India — waterlogged roads, fallen power poles, hidden potholes under water, and open drains posing dangers to pedestrians and motorcyclists.</p><p>Mumbai's annual monsoon chaos again highlights the vulnerability of major Indian city infrastructure to extreme rainfall, with experts linking increasing monsoon intensity to climate change exacerbating weather patterns across the Indian subcontinent.</p>",
+            source: 'Reuters', sourceUrl: 'https://www.google.com/goto?url=CAEScAHuR6pNXK9s1pshCnoTxGSJJOXR4RUUiS6Zd8WtqF9tNqoZWfaLGHT3pBdSr7MQFSkgN0v8pFTXGLmoTmgxn5gCNFU2CP7Rtf3w3vrFjSrzBBO5Mh-wwkS6-6MnfburqeN5bOSRJ1HLOgsoQfvL9HI=', sourceSnippet: 'Monsoon rains inundate Mumbai — Reuters, July 2, 2026',
+            source2: 'Times of India', sourceUrl2: 'https://timesofindia.indiatimes.com/city/mumbai/mumbai-rains-andheri-subway-shut-after-heavy-showers-disrupt-local-trains/aticleshow/132153321.cms', sourceSnippet2: 'Mumbai rains: Andheri subway shut — Times of India'
+          },
+          ja: {
+            title: 'モンスーン洪水がムンバイを襲う：道路冠水、樹木倒伏、アンベリ地下道閉鎖',
+            desc: '豪雨モンスーンがインドの金融首都ムンバイを襲い、アンベリ地下道の閉鎖を余儀なくし、道路冠水と樹木の倒伏を引き起こした。',
+            content: '<p>2026年7月2日、豪雨モンスーンがインドの金融首都ムンバイを襲い、市内全域で道路と歩道を冠水させ、樹木を倒伏させました。</p><p>持続的な降雨はムンバイの複数地域で冠水を引き起こし、通勤者の重要ルートであるアンベリ地下道の閉鎖を余儀なくしました。</p><p>IMDは非常に激しい雨が続く可能性を警告し、2000万人以上の人口を抱える都市の低地地域での水浸しの可能性を高めています。</p>',
+            source: 'Reuters', sourceUrl: 'https://www.google.com/goto?url=CAEScAHuR6pNXK9s1pshCnoTxGSJJOXR4RUUiS6Zd8WtqF9tNqoZWfaLGHT3pBdSr7MQFSkgN0v8pFTXGLmoTmgxn5gCNFU2CP7Rtf3w3vrFjSrzBBO5Mh-wwkS6-6MnfburqeN5bOSRJ1HLOgsoQfvL9HI=', sourceSnippet: 'モンスーン洪水ムンバイ — ロイター'
+          },
+          ko: {
+            title: '몬순 홍수 뭄바이 강타: 도로 침수, 나무 쓰러짐, 안데리 지하도 폐쇄',
+            desc: '강한 몬순 비가 인도 금융 수도 뭄바이를 강타하여 안데리 지하도 폐쇄를 강제하고 도로 침수와 나무 쓰러짐을 일으켰다.',
+            content: '<p>2026년 7월 2일 강한 몬순 비가 인도 금융 수도 뭄바이를 강타하여 도로와 인도를 침수시키고 시내 전역에 나무를 쓰러뜨렸다.</p><p>지속적인 강우는 뭄바이 여러 지역에 침수를 유발하여 출퇴근자의 핵심 교통로인 안데리 지하도 폐쇄를 강제했다.</p><p>IMD는 매우 강한 비가 계속될 수 있다고 경고하며 2000만 명 이상 인구 도시의 저지대 침수 가능성을 높이고 있다.</p>',
+            source: 'Reuters', sourceUrl: 'https://www.google.com/goto?url=CAEScAHuR6pNXK9s1pshCnoTxGSJJOXR4RUUiS6Zd8WtqF9tNqoZWfaLGHT3pBdSr7MQFSkgN0v8pFTXGLmoTmgxn5gCNFU2CP7Rtf3w3vrFjSrzBBO5Mh-wwkS6-6MnfburqeN5bOSRJ1HLOgsoQfvL9HI=', sourceSnippet: '몬순 홍수 뭄바이 — 로이터'
+          },
+          zh: {
+            title: '季风洪水袭击孟买：道路被淹、树木被刮倒、Andheri地下通道关闭',
+            desc: '强季风降雨袭击印度金融首都孟买，迫使Andheri地下通道关闭，造成道路积水和树木倒伏。',
+            content: '<p>2026年7月2日，强季风降雨袭击印度金融首都孟买，全城道路和人行道被淹，树木被刮倒。</p><p>持续降雨引发孟买多处积水，迫使通勤者重要通道Andheri地下通道关闭。</p><p>印度气象局警告大到暴雨可能持续，增加这座2000万人口城市低洼地区积水的可能性。</p>',
+            source: 'Reuters', sourceUrl: 'https://www.google.com/goto?url=CAEScAHuR6pNXK9s1pshCnoTxGSJJOXR4RUUiS6Zd8WtqF9tNqoZWfaLGHT3pBdSr7MQFSkgN0v8pFTXGLmoTmgxn5gCNFU2CP7Rtf3w3vrFjSrzBBO5Mh-wwkS6-6MnfburqeN5bOSRJ1HLOgsoQfvL9HI=', sourceSnippet: '季风洪水孟买 — 路透社'
+          }
+        }
+      }
+
+      ,{
+        id: 'india-ekonomi-stabil-gejolak-global-guncangan-energi-4juli2026',
+        langs: {
+          id: {
+            title: 'Ekonomi India Stabil di Tengah Gejolak Global dan Guncangan Energi',
+            desc: 'Ekonomi India tetap stabil dengan indikator kunci menunjukkan ekspansi yang kuat meskipun konflik Asia Barat dan guncangan energi global.',
+            content: '<p>Ekonomi India tetap stabil dengan indikator kunci yang menunjukkan tanda-tanda ekspansi yang kuat meskipun konflik Asia Barat dan guncangan energi global, sebagaimana dilaporkan Moneycontrol pada 4 Juli 2026, menunjukkan ketahanan ekonomi terbesar kelima di dunia.</p><p>Ketahanan ekonomi India datamg di tengah ketidakpastian global yang tinggi, termasuk konflik di Timur Tengah yang telah mengganggu rantai pasok energi global dan menyebabkan volatilitas harga minyak yang berdampak pada negara pengimpor minyak seperti India.</p><p>Data ekonomi terbaru menunjukkan bahwa konsumsi domestik dan investasi infrastruktur menjadi pendorong utama pertumbuhan India, dengan sektor jasa yang meski melambat tetap berada di zona ekspansi dengan PMI di atas 57.</p><p>India yang merupakan salah satu importir minyak terbesar di dunia telah berupaya diversifikasi sumber energi dan memperkuat cadangan strategisnya untuk meminimalkan dampak guncangan harga minyak akibat konflik regional.</p><p>Stabilitas ekonomi India di tengah gejolak global memperkuat posisi negara tersebut sebagai salah satu ekonomi dengan pertumbuhan tercepat di dunia, dengan PDB yang diperkirakan tumbuh 7,8% di Q4 FY26 — jauh di atas ekonomi maju lainnya yang banyak mengalami stagnasi atau resesi.</p>',
+            source: 'Moneycontrol', sourceUrl: 'https://www.moneycontrol.com/news/business/economy/india-s-economy-holds-steady-amid-global-turmoil-energy-shock-13965238.html', sourceSnippet: "India's economy holds steady amid global turmoil, energy shock — Moneycontrol, 4 Juli 2026"
+          },
+          en: {
+            title: "India's Economy Holds Steady Amid Global Turmoil and Energy Shock",
+            desc: "India's economy has remained steady, with key indicators showing signs of robust expansion despite the West Asia conflict and global energy shock.",
+            content: "<p>India's economy has remained steady with key indicators showing signs of robust expansion despite the West Asia conflict and global energy shock, Moneycontrol reported on July 4, 2026, demonstrating the resilience of the world's fifth-largest economy.</p><p>India's economic resilience comes amid high global uncertainty, including the Middle East conflict that has disrupted global energy supply chains and caused oil price volatility impacting oil-importing nations like India.</p><p>Recent economic data shows that domestic consumption and infrastructure investment are the primary drivers of India's growth, with the services sector although slowing still in expansion territory with a PMI above 57.</p><p>India, one of the world's largest oil importers, has been diversifying its energy sources and strengthening strategic reserves to minimize the impact of oil price shocks from regional conflicts.</p><p>India's economic stability amid global turmoil reinforces its position as one of the world's fastest-growing economies, with GDP estimated to grow 7.8% in Q4 FY26 — far above developed economies many of which are experiencing stagnation or recession.</p>",
+            source: 'Moneycontrol', sourceUrl: 'https://www.moneycontrol.com/news/business/economy/india-s-economy-holds-steady-amid-global-turmoil-energy-shock-13965238.html', sourceSnippet: "India's economy holds steady amid global turmoil — Moneycontrol, July 4, 2026"
+          },
+          ja: {
+            title: 'インド経済、世界的混乱とエネルギーショックの中で安定維持',
+            desc: 'インド経済は西アジア紛争と世界的エネルギーショックにもかかわらず、堅調な拡大の兆しを示す主要指標とともに安定している。',
+            content: '<p>インド経済は西アジア紛争と世界的エネルギーショックにもかかわらず、堅調な拡大の兆しを示す主要指標とともに安定しており、世界第5位の経済の回復力を示しています。</p><p>インドは世界最大級の原油輸入国の一つであり、地域紛争による原油価格ショックの影響を最小限に抑えるためエネルギー源の多様化を進めています。</p><p>インドの経済的安定性は、世界の混乱の中で世界最速クラスの成長経済としての地位を強化しています。</p>',
+            source: 'Moneycontrol', sourceUrl: 'https://www.moneycontrol.com/news/business/economy/india-s-economy-holds-steady-amid-global-turmoil-energy-shock-13965238.html', sourceSnippet: 'インド経済安定 — Moneycontrol'
+          },
+          ko: {
+            title: '인도 경제, 글로벌 혼란과 에너지 충격 속에서 안정 유지',
+            desc: '인도 경제가 서아시아 분쟁과 글로벌 에너지 충격에도 불구하고 견고한 확장 징후를 보이는 주요 지표와 함께 안정을 유지하고 있다.',
+            content: '<p>인도 경제가 서아시아 분쟁과 글로벌 에너지 충격에도 불구하고 견고한 확장 징후를 보이는 주요 지표와 함께 안정을 유지하고 있어 세계 5위 경제의 회복력을 보여준다.</p><p>인도는 세계 최대 원유 수입국 중 하나이며 지역 분쟁으로 인한 유가 충격 영향을 최소화하기 위해 에너지원 다각화를 추진하고 있다.</p><p>인도의 경제적 안정성은 글로벌 혼란 속에서 세계 최고 속도 성장 경제로서의 위치를 강화한다.</p>',
+            source: 'Moneycontrol', sourceUrl: 'https://www.moneycontrol.com/news/business/economy/india-s-economy-holds-steady-amid-global-turmoil-energy-shock-13965238.html', sourceSnippet: '인도 경제 안정 — Moneycontrol'
+          },
+          zh: {
+            title: '印度经济在全球动荡和能源冲击中保持稳定',
+            desc: '尽管西亚冲突和全球能源冲击，印度经济仍保持稳定，关键指标显示强劲扩张迹象。',
+            content: '<p>据Moneycontrol 2026年7月4日报道，尽管西亚冲突和全球能源冲击，印度经济仍保持稳定，关键指标显示强劲扩张迹象，展现了世界第五大经济体的韧性。</p><p>印度是全球最大石油进口国之一，一直在推进能源来源多元化并加强战略储备，以最小化地区冲突引发的油价冲击影响。</p><p>印度在全球动荡中的经济稳定性巩固了其作为全球增长最快经济体之一的地位，Q4 FY26 GDP预计增长7.8%。</p>',
+            source: 'Moneycontrol', sourceUrl: 'https://www.moneycontrol.com/news/business/economy/india-s-economy-holds-steady-amid-global-turmoil-energy-shock-13965238.html', sourceSnippet: '印度经济稳定 — Moneycontrol'
+          }
+        }
+      }
 
     ]
   };
