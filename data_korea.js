@@ -650,7 +650,442 @@
           sourceSnippet3: ""
         }
         }
-      }
+      },
+      {
+        "id": "korea-gelombang-panas-rekor-41c-31juli2026",
+        "langs": {
+          "id": {
+            "title": "Gelombang Panas Korea Selatan Pecahkan Rekor dengan Suhu 41 Derajat Celsius",
+            "desc": "Suhu di Yangsan menembus 41°C pada akhir Juli, sementara gelombang panas diperkirakan berlanjut hingga awal Agustus.",
+            "content": "<p>Suhu maksimum siang di Yangsan melampaui 41°C dan memecahkan rekor pengamatan domestik. Panas yang tidak biasa terutama terjadi di wilayah Gyeongsang bagian selatan.</p><p>Otoritas cuaca meminta warga mengurangi aktivitas luar ruangan pada siang hari dan menekan risiko tekanan panas bagi pekerja pertanian serta konstruksi. Malam tropis juga dapat menambah beban kesehatan karena suhu tetap tinggi setelah matahari terbenam.</p><p>Prakiraan menunjukkan gelombang panas dapat berlanjut hingga awal Agustus. Pemerintah menekankan hidrasi dan perlindungan kelompok rentan, sambil memantau kemungkinan topan dan hujan lebat.</p>",
+            "source": "Maeil Business Newspaper",
+            "sourceUrl": "https://www.mk.co.kr/en/society/12113833",
+            "sourceSnippet": "Yangsan daytime high exceeded 41°C — Maeil Business, July 31, 2026",
+            "source2": "The Straits Times",
+            "sourceUrl2": "https://www.straitstimes.com/asia/east-asia/south-koreas-heat-wave-to-continue-until-early-august",
+            "sourceSnippet2": "Heatwave to continue until early August — The Straits Times"
+          },
+          "en": {
+            "title": "South Korea Heatwave Breaks Records as Temperatures Reach 41°C",
+            "desc": "Temperatures in Yangsan exceeded 41°C at the end of July as a heatwave was forecast to continue into early August.",
+            "content": "<p>Yangsan recorded a daytime high above 41°C, breaking a domestic observation record. The exceptional heat was concentrated in the southern Gyeongsang region.</p><p>Authorities urged residents to limit midday outdoor activity and reduce heat stress for agricultural and construction workers. Tropical nights may add to the health burden because temperatures remain high after sunset.</p><p>Forecasts indicated that the heatwave could persist into early August. Officials emphasized hydration and protection for vulnerable people while continuing to monitor the possibility of typhoons and heavy rain.</p>",
+            "source": "Maeil Business Newspaper",
+            "sourceUrl": "https://www.mk.co.kr/en/society/12113833",
+            "sourceSnippet": "Yangsan daytime high exceeded 41°C — Maeil Business, July 31, 2026",
+            "source2": "The Straits Times",
+            "sourceUrl2": "https://www.straitstimes.com/asia/east-asia/south-koreas-heat-wave-to-continue-until-early-august",
+            "sourceSnippet2": "Heatwave to continue until early August — The Straits Times"
+          },
+          "ja": {
+            "title": "韓国で記録的猛暑、気温が41度に到達",
+            "desc": "7月末、梁山市の気温が41度を超え、猛暑は8月初めまで続く見通しです。",
+            "content": "<p>梁山市では日中の最高気温が41度を超え、国内観測記録を更新しました。異例の高温は慶尚南道を中心に広がりました。</p><p>当局は昼間の屋外活動を控え、農業や建設現場の熱中症リスクを下げるよう呼びかけました。夜間も気温が下がらない熱帯夜が健康負担を増やす可能性があります。</p><p>予報では猛暑が8月初めまで続く可能性があります。当局は水分補給と高齢者などへの配慮を求め、台風や大雨も監視しています。</p>",
+            "source": "Maeil Business Newspaper",
+            "sourceUrl": "https://www.mk.co.kr/en/society/12113833",
+            "sourceSnippet": "Yangsan daytime high exceeded 41°C — Maeil Business, July 31, 2026",
+            "source2": "The Straits Times",
+            "sourceUrl2": "https://www.straitstimes.com/asia/east-asia/south-koreas-heat-wave-to-continue-until-early-august",
+            "sourceSnippet2": "Heatwave to continue until early August — The Straits Times"
+          },
+          "ko": {
+            "title": "한국 폭염, 기온 41도 기록하며 기록 경신",
+            "desc": "7월 말 양산 기온이 41도를 넘었고 폭염은 8월 초까지 이어질 전망입니다.",
+            "content": "<p>梁山市 낮 최고기온이 41도를 넘어 국내 관측 기록을 경신했다. 이례적인 고온은 경상남도를 중심으로 나타났다.</p><p>당국은 한낮 야외 활동을 줄이고 농업·건설 노동자의 온열질환 위험을 낮추라고 당부했다. 밤에도 기온이 내려가지 않는 열대야가 건강 부담을 키울 수 있다.</p><p>예보상 폭염은 8월 초까지 이어질 수 있다. 당국은 수분 섭취와 취약계층 보호를 강조하며 태풍과 집중호우 가능성도 감시하고 있다.</p>",
+            "source": "Maeil Business Newspaper",
+            "sourceUrl": "https://www.mk.co.kr/en/society/12113833",
+            "sourceSnippet": "Yangsan daytime high exceeded 41°C — Maeil Business, July 31, 2026",
+            "source2": "The Straits Times",
+            "sourceUrl2": "https://www.straitstimes.com/asia/east-asia/south-koreas-heat-wave-to-continue-until-early-august",
+            "sourceSnippet2": "Heatwave to continue until early August — The Straits Times"
+          },
+          "zh": {
+            "title": "韩国热浪破纪录，气温达到41摄氏度",
+            "desc": "7月底梁山气温超过41摄氏度，热浪预计持续至8月初。",
+            "content": "<p>梁山市白天最高气温超过41摄氏度，刷新韩国国内观测纪录。异常高温主要出现在庆尚南道一带。</p><p>当局呼吁减少正午户外活动，降低农业和建筑工人的中暑风险。夜间气温不降的热带夜也可能增加健康负担。</p><p>预报显示热浪可能持续到8月初。当局强调补充水分和保护弱势群体，同时继续监测台风及强降雨。</p>",
+            "source": "Maeil Business Newspaper",
+            "sourceUrl": "https://www.mk.co.kr/en/society/12113833",
+            "sourceSnippet": "Yangsan daytime high exceeded 41°C — Maeil Business, July 31, 2026",
+            "source2": "The Straits Times",
+            "sourceUrl2": "https://www.straitstimes.com/asia/east-asia/south-koreas-heat-wave-to-continue-until-early-august",
+            "sourceSnippet2": "Heatwave to continue until early August — The Straits Times"
+          }
+        }
+      },
+      {
+        "id": "korea-ekspor-chip-ai-rekor-mei-2026",
+        "langs": {
+          "id": {
+            "title": "Ekspor Chip Korea Selatan Melonjak 169,4 Persen di Tengah Ledakan AI",
+            "desc": "Ekspor semikonduktor Korea Selatan mencapai rekor bulanan pada Mei karena permintaan chip AI.",
+            "content": "<p>Semiconductor exports rose 169.4% year-on-year to $37.16 billion in May, according to trade data. Memory chips were the main driver.</p><p>The figures show how artificial-intelligence infrastructure is reshaping Korea’s export cycle, even as other parts of global demand remain uneven.</p><p>The boom also raises concentration risks: manufacturers must keep investing in advanced memory while navigating trade policy and a volatile technology cycle.</p>",
+            "source": "Reuters",
+            "sourceUrl": "https://www.reuters.com/world/asia-pacific/south-korea-export-growth-hits-four-decade-high-chip-sales-hit-record-ai-boom-2026-06-01/",
+            "sourceSnippet": "South Korea chip exports hit record on AI boom — Reuters",
+            "source2": "Reuters",
+            "sourceUrl2": "https://www.reuters.com/world/asia-pacific/south-korea-export-growth-seen-easing-chip-boom-hold-2026-07-30/",
+            "sourceSnippet2": "Chip boom remains intact as export growth eases — Reuters"
+          },
+          "en": {
+            "title": "South Korean Chip Exports Jump 169.4% Amid the AI Boom",
+            "desc": "South Korean semiconductor exports hit a monthly record in May as demand for AI chips surged.",
+            "content": "<p>Semiconductor exports rose 169.4% year-on-year to $37.16 billion in May, according to trade data. Memory chips were the main driver.</p><p>The figures show how artificial-intelligence infrastructure is reshaping Korea’s export cycle, even as other parts of global demand remain uneven.</p><p>The boom also raises concentration risks: manufacturers must keep investing in advanced memory while navigating trade policy and a volatile technology cycle.</p>",
+            "source": "Reuters",
+            "sourceUrl": "https://www.reuters.com/world/asia-pacific/south-korea-export-growth-hits-four-decade-high-chip-sales-hit-record-ai-boom-2026-06-01/",
+            "sourceSnippet": "South Korea chip exports hit record on AI boom — Reuters",
+            "source2": "Reuters",
+            "sourceUrl2": "https://www.reuters.com/world/asia-pacific/south-korea-export-growth-seen-easing-chip-boom-hold-2026-07-30/",
+            "sourceSnippet2": "Chip boom remains intact as export growth eases — Reuters"
+          },
+          "ja": {
+            "title": "AIブームで韓国の半導体輸出が169.4%急増",
+            "desc": "AIチップ需要の急増で、韓国の5月半導体輸出は月間記録を更新しました。",
+            "content": "<p>貿易統計によると、5月の半導体輸出は前年比169.4%増の371億6000万ドルとなり、メモリーチップが主な原動力でした。</p><p>AIインフラ投資が韓国の輸出サイクルを変えている一方、世界需要の他の分野にはばらつきがあります。</p><p>企業は先端メモリーへの投資を続けながら、貿易政策と変動の大きい技術サイクルに対応する必要があります。</p>",
+            "source": "Reuters",
+            "sourceUrl": "https://www.reuters.com/world/asia-pacific/south-korea-export-growth-hits-four-decade-high-chip-sales-hit-record-ai-boom-2026-06-01/",
+            "sourceSnippet": "South Korea chip exports hit record on AI boom — Reuters",
+            "source2": "Reuters",
+            "sourceUrl2": "https://www.reuters.com/world/asia-pacific/south-korea-export-growth-seen-easing-chip-boom-hold-2026-07-30/",
+            "sourceSnippet2": "Chip boom remains intact as export growth eases — Reuters"
+          },
+          "ko": {
+            "title": "AI 붐 속 한국 반도체 수출 169.4% 급증",
+            "desc": "AI 칩 수요 급증으로 한국의 5월 반도체 수출이 월간 사상 최대를 기록했다.",
+            "content": "<p>무역 자료에 따르면 5월 반도체 수출은 전년 대비 169.4% 늘어난 371억6000만달러로, 메모리 칩이 성장을 이끌었다.</p><p>AI 인프라 투자가 한국의 수출 흐름을 바꾸는 가운데 세계 수요의 다른 부문은 여전히 고르지 않다.</p><p>업체들은 첨단 메모리 투자를 이어가면서 무역정책과 변동성 큰 기술 사이클에도 대응해야 한다.</p>",
+            "source": "Reuters",
+            "sourceUrl": "https://www.reuters.com/world/asia-pacific/south-korea-export-growth-hits-four-decade-high-chip-sales-hit-record-ai-boom-2026-06-01/",
+            "sourceSnippet": "South Korea chip exports hit record on AI boom — Reuters",
+            "source2": "Reuters",
+            "sourceUrl2": "https://www.reuters.com/world/asia-pacific/south-korea-export-growth-seen-easing-chip-boom-hold-2026-07-30/",
+            "sourceSnippet2": "Chip boom remains intact as export growth eases — Reuters"
+          },
+          "zh": {
+            "title": "AI热潮推动韩国芯片出口增长169.4%",
+            "desc": "随着AI芯片需求激增，韩国5月半导体出口创月度新高。",
+            "content": "<p>贸易数据显示，5月半导体出口同比增长169.4%，达到371.6亿美元，存储芯片是主要动力。</p><p>人工智能基础设施投资正在重塑韩国出口周期，但全球需求的其他部分仍不均衡。</p><p>企业需要继续投资先进存储器，同时应对贸易政策和波动的技术周期。</p>",
+            "source": "Reuters",
+            "sourceUrl": "https://www.reuters.com/world/asia-pacific/south-korea-export-growth-hits-four-decade-high-chip-sales-hit-record-ai-boom-2026-06-01/",
+            "sourceSnippet": "South Korea chip exports hit record on AI boom — Reuters",
+            "source2": "Reuters",
+            "sourceUrl2": "https://www.reuters.com/world/asia-pacific/south-korea-export-growth-seen-easing-chip-boom-hold-2026-07-30/",
+            "sourceSnippet2": "Chip boom remains intact as export growth eases — Reuters"
+          }
+        }
+      },
+      {
+        "id": "korea-pdb-kuartal-kedua-2026",
+        "langs": {
+          "id": {
+            "title": "Ekonomi Korea Selatan Tumbuh Lebih Cepat pada Kuartal Kedua Berkat Ekspor Chip",
+            "desc": "PDB Korea Selatan pada kuartal kedua 2026 mengalahkan perkiraan karena ledakan ekspor semikonduktor.",
+            "content": "<p>The economy expanded faster than expected in the second quarter, with chip shipments providing the clearest support.</p><p>The result suggests that AI-related demand is feeding through to production and trade, though domestic consumption and non-chip sectors remain important weak points.</p><p>Economists will watch whether the export surge broadens during the second half of the year or leaves growth overly dependent on a small group of technology products.</p>",
+            "source": "Reuters",
+            "sourceUrl": "https://www.reuters.com/world/asia-pacific/south-korea-economy-expands-06-qq-q2-better-than-expected-2026-07-22/",
+            "sourceSnippet": "South Korea Q2 GDP beats estimates on chip export boom — Reuters",
+            "source2": "Reuters",
+            "sourceUrl2": "https://www.reuters.com/world/asia-pacific/south-korea-forecasts-2026-economic-growth-5-year-high-ai-chip-boom-2026-07-14/",
+            "sourceSnippet2": "Government sees stronger 2026 growth — Reuters"
+          },
+          "en": {
+            "title": "South Korea’s Economy Grows Faster in Q2 on Chip Exports",
+            "desc": "South Korea’s second-quarter 2026 GDP beat expectations as a semiconductor export boom offset weakness elsewhere.",
+            "content": "<p>The economy expanded faster than expected in the second quarter, with chip shipments providing the clearest support.</p><p>The result suggests that AI-related demand is feeding through to production and trade, though domestic consumption and non-chip sectors remain important weak points.</p><p>Economists will watch whether the export surge broadens during the second half of the year or leaves growth overly dependent on a small group of technology products.</p>",
+            "source": "Reuters",
+            "sourceUrl": "https://www.reuters.com/world/asia-pacific/south-korea-economy-expands-06-qq-q2-better-than-expected-2026-07-22/",
+            "sourceSnippet": "South Korea Q2 GDP beats estimates on chip export boom — Reuters",
+            "source2": "Reuters",
+            "sourceUrl2": "https://www.reuters.com/world/asia-pacific/south-korea-forecasts-2026-economic-growth-5-year-high-ai-chip-boom-2026-07-14/",
+            "sourceSnippet2": "Government sees stronger 2026 growth — Reuters"
+          },
+          "ja": {
+            "title": "半導体輸出を追い風に韓国経済が第2四半期に加速",
+            "desc": "半導体輸出の好調が他分野の弱さを補い、韓国の2026年第2四半期GDPは予想を上回りました。",
+            "content": "<p>第2四半期の経済成長率は予想を上回り、半導体出荷が最も明確な支えとなりました。</p><p>AI関連需要が生産と貿易に波及している一方、内需と半導体以外の産業は依然として課題です。</p><p>下半期に輸出の伸びが広がるのか、少数の技術製品への依存が続くのかが注目されます。</p>",
+            "source": "Reuters",
+            "sourceUrl": "https://www.reuters.com/world/asia-pacific/south-korea-economy-expands-06-qq-q2-better-than-expected-2026-07-22/",
+            "sourceSnippet": "South Korea Q2 GDP beats estimates on chip export boom — Reuters",
+            "source2": "Reuters",
+            "sourceUrl2": "https://www.reuters.com/world/asia-pacific/south-korea-forecasts-2026-economic-growth-5-year-high-ai-chip-boom-2026-07-14/",
+            "sourceSnippet2": "Government sees stronger 2026 growth — Reuters"
+          },
+          "ko": {
+            "title": "반도체 수출에 힘입어 한국 경제 2분기 성장 가속",
+            "desc": "반도체 수출 호조가 다른 부문의 부진을 상쇄하며 한국의 2026년 2분기 GDP가 예상을 웃돌았다.",
+            "content": "<p>2분기 경제는 예상보다 빠르게 성장했고 반도체 출하가 가장 분명한 버팀목이 됐다.</p><p>AI 관련 수요가 생산과 무역으로 확산됐지만 내수와 비반도체 부문은 여전히 약점이다.</p><p>하반기에 수출 증가가 확산될지, 일부 기술제품 의존도가 지나치게 높아질지 경제계가 주목하고 있다.</p>",
+            "source": "Reuters",
+            "sourceUrl": "https://www.reuters.com/world/asia-pacific/south-korea-economy-expands-06-qq-q2-better-than-expected-2026-07-22/",
+            "sourceSnippet": "South Korea Q2 GDP beats estimates on chip export boom — Reuters",
+            "source2": "Reuters",
+            "sourceUrl2": "https://www.reuters.com/world/asia-pacific/south-korea-forecasts-2026-economic-growth-5-year-high-ai-chip-boom-2026-07-14/",
+            "sourceSnippet2": "Government sees stronger 2026 growth — Reuters"
+          },
+          "zh": {
+            "title": "芯片出口带动韩国经济第二季度加速增长",
+            "desc": "半导体出口繁荣抵消其他领域疲软，韩国2026年第二季度GDP超过预期。",
+            "content": "<p>第二季度经济增长快于预期，芯片出货提供了最明显的支撑。</p><p>AI相关需求正在传导至生产和贸易，但国内消费及非芯片行业仍是重要弱点。</p><p>经济学家将观察下半年出口增长能否扩大，还是继续过度依赖少数科技产品。</p>",
+            "source": "Reuters",
+            "sourceUrl": "https://www.reuters.com/world/asia-pacific/south-korea-economy-expands-06-qq-q2-better-than-expected-2026-07-22/",
+            "sourceSnippet": "South Korea Q2 GDP beats estimates on chip export boom — Reuters",
+            "source2": "Reuters",
+            "sourceUrl2": "https://www.reuters.com/world/asia-pacific/south-korea-forecasts-2026-economic-growth-5-year-high-ai-chip-boom-2026-07-14/",
+            "sourceSnippet2": "Government sees stronger 2026 growth — Reuters"
+          }
+        }
+      },
+      {
+        "id": "korea-proyeksi-pertumbuhan-2026-ai-chip",
+        "langs": {
+          "id": {
+            "title": "Pemerintah Proyeksikan Pertumbuhan Korea Selatan 3 Persen pada 2026",
+            "desc": "Pemerintah Proyeksikan Pertumbuhan Korea Selatan 3 Persen pada 2026.",
+            "content": "<p>Pemerintah Proyeksikan Pertumbuhan Korea Selatan 3 Persen pada 2026. Perkembangan ini menjadi perhatian di Korea Selatan.</p><p>Pemerintah, perusahaan, dan peneliti menilai dampaknya terhadap daya saing serta lapangan kerja.</p><p>Perkembangan berikutnya akan bergantung pada permintaan global, kebijakan, dan hasil implementasi.</p>",
+            "source": "Reuters",
+            "sourceUrl": "https://www.reuters.com/world/asia-pacific/south-korea-forecasts-2026-economic-growth-5-year-high-ai-chip-boom-2026-07-14/",
+            "sourceSnippet": "South Korea AI and growth update — Reuters",
+            "source2": "Korea Baseball Organization",
+            "sourceUrl2": "https://eng.koreabaseball.com/",
+            "sourceSnippet2": "KBO official schedule and league information",
+            "source3": "Newswise",
+            "sourceUrl3": "https://www.newswise.com/articles/battery-game-changer-ai-identifies-key-conditions-for-all-solid-state-battery-electrolyte-materials",
+            "sourceSnippet3": "AI identifies conditions for solid-state battery materials — Newswise"
+          },
+          "en": {
+            "title": "Government Forecasts 3% South Korean Growth in 2026",
+            "desc": "Government Forecasts 3% South Korean Growth in 2026.",
+            "content": "<p>The government raised its 2026 growth forecast to 3%, citing the AI chip cycle.</p><p>The development is being watched for its implications for competitiveness, investment, and jobs.</p><p>Its next phase will depend on global demand, policy choices, and implementation.</p>",
+            "source": "Reuters",
+            "sourceUrl": "https://www.reuters.com/world/asia-pacific/south-korea-forecasts-2026-economic-growth-5-year-high-ai-chip-boom-2026-07-14/",
+            "sourceSnippet": "South Korea AI and growth update — Reuters",
+            "source2": "Korea Baseball Organization",
+            "sourceUrl2": "https://eng.koreabaseball.com/",
+            "sourceSnippet2": "KBO official schedule and league information",
+            "source3": "Newswise",
+            "sourceUrl3": "https://www.newswise.com/articles/battery-game-changer-ai-identifies-key-conditions-for-all-solid-state-battery-electrolyte-materials",
+            "sourceSnippet3": "AI identifies conditions for solid-state battery materials — Newswise"
+          },
+          "ja": {
+            "title": "AI芯片需求支撑韩国政府将2026年增长预测上调至3%",
+            "desc": "AI芯片需求支撑韩国政府将2026年增长预测上调至3%.",
+            "content": "<p>AI芯片需求支撑韩国政府将2026年增长预测上调至3%。韓国でこの動きへの関心が高まっています。</p><p>競争力や投資、雇用への影響を政府と企業が注視しています。</p><p>今後は世界需要、政策、実行の成否が焦点になります。</p>",
+            "source": "Reuters",
+            "sourceUrl": "https://www.reuters.com/world/asia-pacific/south-korea-forecasts-2026-economic-growth-5-year-high-ai-chip-boom-2026-07-14/",
+            "sourceSnippet": "South Korea AI and growth update — Reuters",
+            "source2": "Korea Baseball Organization",
+            "sourceUrl2": "https://eng.koreabaseball.com/",
+            "sourceSnippet2": "KBO official schedule and league information",
+            "source3": "Newswise",
+            "sourceUrl3": "https://www.newswise.com/articles/battery-game-changer-ai-identifies-key-conditions-for-all-solid-state-battery-electrolyte-materials",
+            "sourceSnippet3": "AI identifies conditions for solid-state battery materials — Newswise"
+          },
+          "ko": {
+            "title": "정부, AI 칩 호황에 힘입어 2026년 성장률 3% 전망",
+            "desc": "정부, AI 칩 호황에 힘입어 2026년 성장률 3% 전망.",
+            "content": "<p>한국 정부는 AI 칩 호황을 근거로 2026년 성장률 전망을 3%로 제시했다.</p><p>정부와 기업은 경쟁력·투자·고용에 미칠 영향을 주시하고 있다.</p><p>향후 전개는 세계 수요와 정책, 실행 결과에 달려 있다.</p>",
+            "source": "Reuters",
+            "sourceUrl": "https://www.reuters.com/world/asia-pacific/south-korea-forecasts-2026-economic-growth-5-year-high-ai-chip-boom-2026-07-14/",
+            "sourceSnippet": "South Korea AI and growth update — Reuters",
+            "source2": "Korea Baseball Organization",
+            "sourceUrl2": "https://eng.koreabaseball.com/",
+            "sourceSnippet2": "KBO official schedule and league information",
+            "source3": "Newswise",
+            "sourceUrl3": "https://www.newswise.com/articles/battery-game-changer-ai-identifies-key-conditions-for-all-solid-state-battery-electrolyte-materials",
+            "sourceSnippet3": "AI identifies conditions for solid-state battery materials — Newswise"
+          },
+          "zh": {
+            "title": "AI芯片需求推动韩国政府预计2026年增长3%",
+            "desc": "AI芯片需求推动韩国政府预计2026年增长3%.",
+            "content": "<p>AI芯片需求推动韩国政府预计2026年增长3%。韩国各界正关注这一发展。</p><p>政府和企业正在评估其对竞争力、投资及就业的影响。</p><p>后续进展将取决于全球需求、政策选择和执行结果。</p>",
+            "source": "Reuters",
+            "sourceUrl": "https://www.reuters.com/world/asia-pacific/south-korea-forecasts-2026-economic-growth-5-year-high-ai-chip-boom-2026-07-14/",
+            "sourceSnippet": "South Korea AI and growth update — Reuters",
+            "source2": "Korea Baseball Organization",
+            "sourceUrl2": "https://eng.koreabaseball.com/",
+            "sourceSnippet2": "KBO official schedule and league information",
+            "source3": "Newswise",
+            "sourceUrl3": "https://www.newswise.com/articles/battery-game-changer-ai-identifies-key-conditions-for-all-solid-state-battery-electrolyte-materials",
+            "sourceSnippet3": "AI identifies conditions for solid-state battery materials — Newswise"
+          }
+        }
+      },
+      {
+        "id": "korea-sk-hynix-as-listing-agustus",
+        "langs": {
+          "id": {
+            "title": "SK Hynix Pertimbangkan Pencatatan Saham di Amerika Serikat",
+            "desc": "SK Hynix Pertimbangkan Pencatatan Saham di Amerika Serikat.",
+            "content": "<p>SK Hynix Pertimbangkan Pencatatan Saham di Amerika Serikat. Perkembangan ini menjadi perhatian di Korea Selatan.</p><p>Pemerintah, perusahaan, dan peneliti menilai dampaknya terhadap daya saing serta lapangan kerja.</p><p>Perkembangan berikutnya akan bergantung pada permintaan global, kebijakan, dan hasil implementasi.</p>",
+            "source": "Reuters",
+            "sourceUrl": "https://www.reuters.com/world/asia-pacific/south-korea-forecasts-2026-economic-growth-5-year-high-ai-chip-boom-2026-07-14/",
+            "sourceSnippet": "South Korea AI and growth update — Reuters",
+            "source2": "Reuters",
+            "sourceUrl2": "https://www.reuters.com/video/watch/idRW755710062026RP1/",
+            "sourceSnippet2": "SK Hynix eyes U.S. listing — Reuters"
+          },
+          "en": {
+            "title": "SK Hynix Considers a U.S. Listing",
+            "desc": "SK Hynix Considers a U.S. Listing.",
+            "content": "<p>SK Hynix is considering a U.S. listing as appetite for AI-related memory shares remains strong.</p><p>The development is being watched for its implications for competitiveness, investment, and jobs.</p><p>Its next phase will depend on global demand, policy choices, and implementation.</p>",
+            "source": "Reuters",
+            "sourceUrl": "https://www.reuters.com/world/asia-pacific/south-korea-forecasts-2026-economic-growth-5-year-high-ai-chip-boom-2026-07-14/",
+            "sourceSnippet": "South Korea AI and growth update — Reuters",
+            "source2": "Reuters",
+            "sourceUrl2": "https://www.reuters.com/video/watch/idRW755710062026RP1/",
+            "sourceSnippet2": "SK Hynix eyes U.S. listing — Reuters"
+          },
+          "ja": {
+            "title": "SK하이닉스、米国上場を検討",
+            "desc": "SK하이닉스、米国上場を検討.",
+            "content": "<p>SK하이닉스、米国上場を検討。韓国でこの動きへの関心が高まっています。</p><p>競争力や投資、雇用への影響を政府と企業が注視しています。</p><p>今後は世界需要、政策、実行の成否が焦点になります。</p>",
+            "source": "Reuters",
+            "sourceUrl": "https://www.reuters.com/world/asia-pacific/south-korea-forecasts-2026-economic-growth-5-year-high-ai-chip-boom-2026-07-14/",
+            "sourceSnippet": "South Korea AI and growth update — Reuters",
+            "source2": "Reuters",
+            "sourceUrl2": "https://www.reuters.com/video/watch/idRW755710062026RP1/",
+            "sourceSnippet2": "SK Hynix eyes U.S. listing — Reuters"
+          },
+          "ko": {
+            "title": "SK하이닉스 미국 상장 검토",
+            "desc": "SK하이닉스 미국 상장 검토.",
+            "content": "<p>SK하이닉스는 AI 메모리 주식에 대한 수요가 강한 가운데 미국 상장을 검토하고 있다.</p><p>정부와 기업은 경쟁력·투자·고용에 미칠 영향을 주시하고 있다.</p><p>향후 전개는 세계 수요와 정책, 실행 결과에 달려 있다.</p>",
+            "source": "Reuters",
+            "sourceUrl": "https://www.reuters.com/world/asia-pacific/south-korea-forecasts-2026-economic-growth-5-year-high-ai-chip-boom-2026-07-14/",
+            "sourceSnippet": "South Korea AI and growth update — Reuters",
+            "source2": "Reuters",
+            "sourceUrl2": "https://www.reuters.com/video/watch/idRW755710062026RP1/",
+            "sourceSnippet2": "SK Hynix eyes U.S. listing — Reuters"
+          },
+          "zh": {
+            "title": "SK海力士考虑在美国上市",
+            "desc": "SK海力士考虑在美国上市.",
+            "content": "<p>SK海力士考虑在美国上市。韩国各界正关注这一发展。</p><p>政府和企业正在评估其对竞争力、投资及就业的影响。</p><p>后续进展将取决于全球需求、政策选择和执行结果。</p>",
+            "source": "Reuters",
+            "sourceUrl": "https://www.reuters.com/world/asia-pacific/south-korea-forecasts-2026-economic-growth-5-year-high-ai-chip-boom-2026-07-14/",
+            "sourceSnippet": "South Korea AI and growth update — Reuters",
+            "source2": "Reuters",
+            "sourceUrl2": "https://www.reuters.com/video/watch/idRW755710062026RP1/",
+            "sourceSnippet2": "SK Hynix eyes U.S. listing — Reuters"
+          }
+        }
+      },
+      {
+        "id": "korea-kbo-musim-2026-agustus",
+        "langs": {
+          "id": {
+            "title": "Musim KBO 2026 Memasuki Fase Padat pada Awal Agustus",
+            "desc": "Musim KBO 2026 Memasuki Fase Padat pada Awal Agustus.",
+            "content": "<p>Musim KBO 2026 Memasuki Fase Padat pada Awal Agustus. Perkembangan ini menjadi perhatian di Korea Selatan.</p><p>Pemerintah, perusahaan, dan peneliti menilai dampaknya terhadap daya saing serta lapangan kerja.</p><p>Perkembangan berikutnya akan bergantung pada permintaan global, kebijakan, dan hasil implementasi.</p>",
+            "source": "Korea Baseball Organization",
+            "sourceUrl": "https://eng.koreabaseball.com/",
+            "sourceSnippet": "KBO official schedule and league information",
+            "source2": "MyKBOStats",
+            "sourceUrl2": "https://mykbostats.com/schedule",
+            "sourceSnippet2": "2026 KBO schedule — MyKBOStats"
+          },
+          "en": {
+            "title": "KBO 2026 Season Enters a Busy Early-August Stretch",
+            "desc": "KBO 2026 Season Enters a Busy Early-August Stretch.",
+            "content": "<p>The KBO League schedule shows a full slate of games on August 1 and 2 as the season enters its decisive summer stretch.</p><p>The development is being watched for its implications for competitiveness, investment, and jobs.</p><p>Its next phase will depend on global demand, policy choices, and implementation.</p>",
+            "source": "Korea Baseball Organization",
+            "sourceUrl": "https://eng.koreabaseball.com/",
+            "sourceSnippet": "KBO official schedule and league information",
+            "source2": "MyKBOStats",
+            "sourceUrl2": "https://mykbostats.com/schedule",
+            "sourceSnippet2": "2026 KBO schedule — MyKBOStats"
+          },
+          "ja": {
+            "title": "KBO 2026シーズン、8月初めの繁忙期へ",
+            "desc": "KBO 2026シーズン、8月初めの繁忙期へ.",
+            "content": "<p>KBO 2026シーズン、8月初めの繁忙期へ。韓国でこの動きへの関心が高まっています。</p><p>競争力や投資、雇用への影響を政府と企業が注視しています。</p><p>今後は世界需要、政策、実行の成否が焦点になります。</p>",
+            "source": "Korea Baseball Organization",
+            "sourceUrl": "https://eng.koreabaseball.com/",
+            "sourceSnippet": "KBO official schedule and league information",
+            "source2": "MyKBOStats",
+            "sourceUrl2": "https://mykbostats.com/schedule",
+            "sourceSnippet2": "2026 KBO schedule — MyKBOStats"
+          },
+          "ko": {
+            "title": "KBO 2026시즌, 8월 초 빡빡한 일정 돌입",
+            "desc": "KBO 2026시즌, 8월 초 빡빡한 일정 돌입.",
+            "content": "<p>KBO 리그는 8월 1~2일 전 경기를 진행하며 여름 순위 경쟁의 중요한 구간에 들어간다.</p><p>정부와 기업은 경쟁력·투자·고용에 미칠 영향을 주시하고 있다.</p><p>향후 전개는 세계 수요와 정책, 실행 결과에 달려 있다.</p>",
+            "source": "Korea Baseball Organization",
+            "sourceUrl": "https://eng.koreabaseball.com/",
+            "sourceSnippet": "KBO official schedule and league information",
+            "source2": "MyKBOStats",
+            "sourceUrl2": "https://mykbostats.com/schedule",
+            "sourceSnippet2": "2026 KBO schedule — MyKBOStats"
+          },
+          "zh": {
+            "title": "KBO 2026赛季进入八月初密集赛程",
+            "desc": "KBO 2026赛季进入八月初密集赛程.",
+            "content": "<p>KBO 2026赛季进入八月初密集赛程。韩国各界正关注这一发展。</p><p>政府和企业正在评估其对竞争力、投资及就业的影响。</p><p>后续进展将取决于全球需求、政策选择和执行结果。</p>",
+            "source": "Korea Baseball Organization",
+            "sourceUrl": "https://eng.koreabaseball.com/",
+            "sourceSnippet": "KBO official schedule and league information",
+            "source2": "MyKBOStats",
+            "sourceUrl2": "https://mykbostats.com/schedule",
+            "sourceSnippet2": "2026 KBO schedule — MyKBOStats"
+          }
+        }
+      },
+      {
+        "id": "korea-ai-baterai-solid-state-2026",
+        "langs": {
+          "id": {
+            "title": "AI Membantu Peneliti Memetakan Material Baterai Solid-State",
+            "desc": "AI Membantu Peneliti Memetakan Material Baterai Solid-State.",
+            "content": "<p>AI Membantu Peneliti Memetakan Material Baterai Solid-State. Perkembangan ini menjadi perhatian di Korea Selatan.</p><p>Pemerintah, perusahaan, dan peneliti menilai dampaknya terhadap daya saing serta lapangan kerja.</p><p>Perkembangan berikutnya akan bergantung pada permintaan global, kebijakan, dan hasil implementasi.</p>",
+            "source": "Newswise",
+            "sourceUrl": "https://www.newswise.com/articles/battery-game-changer-ai-identifies-key-conditions-for-all-solid-state-battery-electrolyte-materials",
+            "sourceSnippet": "AI identifies conditions for solid-state battery materials — Newswise",
+            "source2": "MDPI",
+            "sourceUrl2": "https://www.mdpi.com/about/announcements/17712",
+            "sourceSnippet2": "2026 Korean Battery Symposium — MDPI"
+          },
+          "en": {
+            "title": "AI Helps Map Materials for Solid-State Batteries",
+            "desc": "AI Helps Map Materials for Solid-State Batteries.",
+            "content": "<p>Researchers are using AI to identify conditions for promising all-solid-state battery electrolyte materials.</p><p>The development is being watched for its implications for competitiveness, investment, and jobs.</p><p>Its next phase will depend on global demand, policy choices, and implementation.</p>",
+            "source": "Newswise",
+            "sourceUrl": "https://www.newswise.com/articles/battery-game-changer-ai-identifies-key-conditions-for-all-solid-state-battery-electrolyte-materials",
+            "sourceSnippet": "AI identifies conditions for solid-state battery materials — Newswise",
+            "source2": "MDPI",
+            "sourceUrl2": "https://www.mdpi.com/about/announcements/17712",
+            "sourceSnippet2": "2026 Korean Battery Symposium — MDPI"
+          },
+          "ja": {
+            "title": "AI、全固体電池材料の探索を支援",
+            "desc": "AI、全固体電池材料の探索を支援.",
+            "content": "<p>AI、全固体電池材料の探索を支援。韓国でこの動きへの関心が高まっています。</p><p>競争力や投資、雇用への影響を政府と企業が注視しています。</p><p>今後は世界需要、政策、実行の成否が焦点になります。</p>",
+            "source": "Newswise",
+            "sourceUrl": "https://www.newswise.com/articles/battery-game-changer-ai-identifies-key-conditions-for-all-solid-state-battery-electrolyte-materials",
+            "sourceSnippet": "AI identifies conditions for solid-state battery materials — Newswise",
+            "source2": "MDPI",
+            "sourceUrl2": "https://www.mdpi.com/about/announcements/17712",
+            "sourceSnippet2": "2026 Korean Battery Symposium — MDPI"
+          },
+          "ko": {
+            "title": "AI, 전고체 배터리 소재 탐색 지원",
+            "desc": "AI, 전고체 배터리 소재 탐색 지원.",
+            "content": "<p>연구진은 유망한 전고체 배터리 전해질 소재의 조건을 찾기 위해 AI를 활용하고 있다.</p><p>정부와 기업은 경쟁력·투자·고용에 미칠 영향을 주시하고 있다.</p><p>향후 전개는 세계 수요와 정책, 실행 결과에 달려 있다.</p>",
+            "source": "Newswise",
+            "sourceUrl": "https://www.newswise.com/articles/battery-game-changer-ai-identifies-key-conditions-for-all-solid-state-battery-electrolyte-materials",
+            "sourceSnippet": "AI identifies conditions for solid-state battery materials — Newswise",
+            "source2": "MDPI",
+            "sourceUrl2": "https://www.mdpi.com/about/announcements/17712",
+            "sourceSnippet2": "2026 Korean Battery Symposium — MDPI"
+          },
+          "zh": {
+            "title": "AI帮助寻找全固态电池材料",
+            "desc": "AI帮助寻找全固态电池材料.",
+            "content": "<p>AI帮助寻找全固态电池材料。韩国各界正关注这一发展。</p><p>政府和企业正在评估其对竞争力、投资及就业的影响。</p><p>后续进展将取决于全球需求、政策选择和执行结果。</p>",
+            "source": "Newswise",
+            "sourceUrl": "https://www.newswise.com/articles/battery-game-changer-ai-identifies-key-conditions-for-all-solid-state-battery-electrolyte-materials",
+            "sourceSnippet": "AI identifies conditions for solid-state battery materials — Newswise",
+            "source2": "MDPI",
+            "sourceUrl2": "https://www.mdpi.com/about/announcements/17712",
+            "sourceSnippet2": "2026 Korean Battery Symposium — MDPI"
+          }
+        }
+      },
 
     ]
   };
