@@ -453,6 +453,238 @@
           }
         }
       }
+,
+{
+            "id": "spanyol-krisis-ceuta-60ribu-migran-31juli2026",
+            "langs": {
+                  "id": {
+                        "title": "Lonjakan Migran di Ceuta Mereda Setelah Puluhan Ribu Orang Menyeberang",
+                        "desc": "Spanyol mengatakan arus migran besar ke Ceuta mulai berbalik setelah sekitar 60.000 orang menyeberang dari Maroko dalam krisis perbatasan yang berlangsung pada akhir Juli.",
+                        "content": "<p>Spanyol mengatakan arus migran besar ke Ceuta mulai mereda setelah sekitar 60.000 orang menyeberang dari Maroko dalam krisis perbatasan yang berlangsung pada akhir Juli. Reuters melaporkan bahwa banyak pendatang kemudian kembali secara sukarela ke Maroko setelah aparat kedua negara mengerahkan pasukan di perbatasan.</p><p>Peristiwa itu menimbulkan korban jiwa dan tekanan kemanusiaan yang besar. Reuters menyebut 57 orang tewas dalam upaya penyeberangan, sementara laporan lain menggambarkan kondisi kacau di salah satu perbatasan darat paling sensitif antara Eropa dan Afrika.</p><p>Ceuta adalah wilayah Spanyol di pantai Afrika yang menjadi bagian dari wilayah Uni Eropa. Posisi geografis ini membuatnya rentan terhadap perubahan hubungan Madrid-Rabat dan terhadap rumor di media sosial yang dapat memicu pergerakan massa secara sangat cepat.</p><p>Pemerintah Spanyol menghadapi dua tuntutan sekaligus: memulihkan kendali perbatasan dan memastikan penyelamatan serta perlindungan bagi orang-orang yang telah tiba. Krisis ini juga kembali menempatkan kerja sama migrasi Uni Eropa dan Maroko di pusat perdebatan politik.</p>",
+                        "source": "Reuters",
+                        "sourceUrl": "https://www.reuters.com/world/africa/spain-morocco-halt-deadly-rush-spanish-enclave-after-49000-cross-day-2026-07-31/",
+                        "sourceSnippet": "Spain says migrants are returning from Ceuta after 57 die in border rush — Reuters, July 31, 2026",
+                        "source2": "The Guardian",
+                        "sourceUrl2": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-eu-border-africa",
+                        "sourceSnippet2": "Why is Ceuta a migration flashpoint and how were so many people able to cross? — The Guardian, July 31, 2026",
+                        "source3": "France 24",
+                        "sourceUrl3": "https://www.france24.com/en/europe/20260731-almost-50-000-migrants-crossed-morocco-ceuta-border-over-past-24-hours",
+                        "sourceSnippet3": "Around 60,000 migrants cross into Spain’s Ceuta exclave from Morocco — France 24, July 31, 2026"
+                  },
+                  "en": {
+                        "title": "Ceuta migrant surge eases after tens of thousands cross into Spanish enclave",
+                        "desc": "Spain says the surge into Ceuta has eased after roughly 60,000 people crossed from Morocco during a late-July border crisis.",
+                        "content": "<p>Spain said a massive flow of migrants into Ceuta was beginning to ease after roughly 60,000 people crossed from Morocco during a border crisis at the end of July. Reuters reported that many arrivals subsequently returned voluntarily to Morocco as security forces were deployed on both sides.</p><p>The episode caused deaths and created a major humanitarian emergency. Reuters said 57 people died during the rush, while other reports described chaotic conditions at one of the most sensitive land borders between Europe and Africa.</p><p>Ceuta is a Spanish territory on the African coast and part of the European Union. Its geography makes it especially exposed to shifts in Madrid-Rabat relations and to social-media rumors that can trigger mass movement with little warning.</p><p>Spain now faces the dual task of restoring border control while providing rescue and protection for people who reached the enclave. The crisis has also put EU cooperation with Morocco and Europe’s migration policy back at the center of political debate.</p>",
+                        "source": "Reuters",
+                        "sourceUrl": "https://www.reuters.com/world/africa/spain-morocco-halt-deadly-rush-spanish-enclave-after-49000-cross-day-2026-07-31/",
+                        "sourceSnippet": "Spain says migrants are returning from Ceuta after 57 die in border rush — Reuters, July 31, 2026",
+                        "source2": "The Guardian",
+                        "sourceUrl2": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-eu-border-africa",
+                        "sourceSnippet2": "Why is Ceuta a migration flashpoint and how were so many people able to cross? — The Guardian, July 31, 2026",
+                        "source3": "France 24",
+                        "sourceUrl3": "https://www.france24.com/en/europe/20260731-almost-50-000-migrants-crossed-morocco-ceuta-border-over-past-24-hours",
+                        "sourceSnippet3": "Around 60,000 migrants cross into Spain’s Ceuta exclave from Morocco — France 24, July 31, 2026"
+                  }
+            }
+      },
+      {
+            "id": "spanyol-teleskop-tiga-puluh-meter-la-palma-1miliar-euro-2026",
+            "langs": {
+                  "id": {
+                        "title": "Spanyol Tawarkan Paket 1 Miliar Euro untuk Teleskop Raksasa di La Palma",
+                        "desc": "Pemerintah Spanyol menawarkan dukungan hingga 1 miliar euro agar Thirty Meter Telescope dibangun di La Palma, Kepulauan Canary, bukan di lokasi utamanya di Hawaii.",
+                        "content": "<p>Pemerintah Spanyol menawarkan paket dukungan hingga 1 miliar euro untuk membantu pembangunan Thirty Meter Telescope (TMT) di La Palma, Kepulauan Canary. European Spaceflight melaporkan bahwa La Palma saat ini berstatus lokasi alternatif resmi, sementara Mauna Kea di Hawaii masih menjadi pilihan utama proyek.</p><p>Paket tersebut mencakup kontribusi 400 juta euro dari Kementerian Sains melalui CDTI, pinjaman 300 juta euro yang masih menunggu penilaian dan persetujuan Bank Investasi Eropa, serta potensi tambahan 300 juta euro dari Instituto de Crédito Oficial milik negara.</p><p>Tawaran itu belum menjamin relokasi. Proyek TMT menghadapi sejarah panjang penolakan dan proses hukum di Mauna Kea, yang dianggap sakral oleh banyak penduduk asli Hawaii, serta ketidakpastian dukungan pendanaan pemerintah Amerika Serikat.</p><p>Bagi La Palma, menjadi rumah observatorium kelas dunia akan memperkuat reputasi pulau tersebut sebagai pusat astronomi dan membawa aktivitas industri berteknologi tinggi. Keputusan akhir tetap berada di tangan konsorsium TMT setelah kajian teknis, pendanaan, dan lokasi diselesaikan.</p>",
+                        "source": "European Spaceflight",
+                        "sourceUrl": "https://www.europeanspaceflight.com/spain-offers-e1-billion-in-bid-to-host-thirty-meter-telescope/",
+                        "sourceSnippet": "Spain Offers €1 Billion in Bid to Host Thirty Meter Telescope — European Spaceflight, July 31, 2026",
+                        "source2": "Thirty Meter Telescope",
+                        "sourceUrl2": "https://www.tmt.org/",
+                        "sourceSnippet2": "Project information and site background — Thirty Meter Telescope",
+                        "source3": "Spanish Space Agency",
+                        "sourceUrl3": "https://www.aee.gob.es/",
+                        "sourceSnippet3": "Spain’s space-sector institutions and announcements — Spanish Space Agency"
+                  },
+                  "en": {
+                        "title": "Spain offers €1 billion package to bring giant telescope to La Palma",
+                        "desc": "Spain has offered up to €1 billion in support if the Thirty Meter Telescope is built on La Palma in the Canary Islands rather than its primary site in Hawaii.",
+                        "content": "<p>Spain has offered a support package worth up to €1 billion to help build the Thirty Meter Telescope (TMT) on La Palma in the Canary Islands. European Spaceflight reported that La Palma is the project’s official alternative site, while Mauna Kea in Hawaii remains the preferred location.</p><p>The package includes a €400 million contribution from Spain’s science ministry through CDTI, a €300 million European Investment Bank loan still subject to assessment and approval, and a potential additional €300 million from the state-owned Instituto de Crédito Oficial.</p><p>The offer does not guarantee relocation. The TMT project has faced years of protests and legal proceedings at Mauna Kea, considered sacred by many Native Hawaiians, alongside uncertainty over future US government funding.</p><p>Hosting a world-class observatory would strengthen La Palma’s reputation as an astronomy center and bring high-technology industrial activity to the island. The final decision remains with the TMT consortium after technical, financial, and site reviews.</p>",
+                        "source": "European Spaceflight",
+                        "sourceUrl": "https://www.europeanspaceflight.com/spain-offers-e1-billion-in-bid-to-host-thirty-meter-telescope/",
+                        "sourceSnippet": "Spain Offers €1 Billion in Bid to Host Thirty Meter Telescope — European Spaceflight, July 31, 2026",
+                        "source2": "Thirty Meter Telescope",
+                        "sourceUrl2": "https://www.tmt.org/",
+                        "sourceSnippet2": "Project information and site background — Thirty Meter Telescope",
+                        "source3": "Spanish Space Agency",
+                        "sourceUrl3": "https://www.aee.gob.es/",
+                        "sourceSnippet3": "Spain’s space-sector institutions and announcements — Spanish Space Agency"
+                  }
+            }
+      },
+      {
+            "id": "spanyol-perubahan-iklim-kebakaran-hutan-2026",
+            "langs": {
+                  "id": {
+                        "title": "Perubahan Iklim Membuat Kebakaran Spanyol dan Prancis Jauh Lebih Mungkin",
+                        "desc": "Analisis ilmiah baru menyimpulkan bahwa perubahan iklim akibat aktivitas manusia meningkatkan peluang terjadinya kondisi yang memicu kebakaran besar di Spanyol dan Prancis.",
+                        "content": "<p>Perubahan iklim akibat aktivitas manusia membuat kondisi panas dan kering yang memicu kebakaran besar di Spanyol dan Prancis jauh lebih mungkin terjadi, menurut analisis ilmiah yang diberitakan Associated Press pada 30 Juli.</p><p>Musim panas 2026 di Eropa ditandai rangkaian gelombang panas dan periode kering panjang. Di Spanyol, petugas pemadam dan relawan bekerja di beberapa wilayah, termasuk sekitar Madrid dan provinsi Ávila, sementara asap dan api mengancam permukiman serta kawasan hutan.</p><p>Para peneliti menghubungkan suhu yang lebih tinggi dengan pengeringan vegetasi yang lebih cepat. Kondisi itu membuat api lebih mudah menyala dan menyebar, sekaligus mempersempit waktu yang tersedia bagi petugas untuk mengendalikan titik api.</p><p>Temuan tersebut tidak berarti setiap kebakaran disebabkan langsung oleh perubahan iklim, karena pemicu lokal dan pengelolaan lahan tetap penting. Namun, pemanasan global memperbesar latar belakang risiko, sehingga pencegahan, pemantauan, dan kesiapan evakuasi menjadi semakin menentukan bagi Spanyol.</p>",
+                        "source": "Associated Press",
+                        "sourceUrl": "https://www.click2houston.com/tech/2026/07/30/human-caused-climate-change-made-spanish-french-fires-much-more-likely-scientists-calculate/",
+                        "sourceSnippet": "Human-caused climate change made Spanish, French fires much more likely — AP, July 30, 2026",
+                        "source2": "Reuters",
+                        "sourceUrl2": "https://www.reuters.com/business/environment/firefighters-battle-keep-blazes-away-frances-bordeaux-2026-07-27/",
+                        "sourceSnippet2": "France and Spain race to curb wildfires before new heatwave arrives — Reuters, July 27, 2026",
+                        "source3": "BBC",
+                        "sourceUrl3": "https://www.bbc.com/news/articles/cj638jx0l53o",
+                        "sourceSnippet3": "Devastating European wildfires in maps — BBC News, July 30, 2026"
+                  },
+                  "en": {
+                        "title": "Climate change made Spanish and French wildfires much more likely, scientists say",
+                        "desc": "New analysis says human-caused climate change greatly increased the likelihood of the hot, dry conditions behind major fires in Spain and France.",
+                        "content": "<p>Human-caused climate change made the hot and dry conditions behind major wildfires in Spain and France much more likely, according to a scientific analysis reported by the Associated Press on July 30.</p><p>Europe’s summer of 2026 has brought repeated heatwaves and prolonged dry spells. In Spain, firefighters and volunteers worked in several areas, including around Madrid and Ávila province, as flames and smoke threatened homes and forested land.</p><p>Researchers link higher temperatures to faster drying of vegetation. That makes fires easier to ignite and spread, while reducing the window in which crews can contain a blaze.</p><p>The finding does not mean climate change directly caused every individual fire: local ignition sources and land management still matter. But global warming raises the baseline risk, making prevention, monitoring, and evacuation readiness increasingly important for Spain.</p>",
+                        "source": "Associated Press",
+                        "sourceUrl": "https://www.click2houston.com/tech/2026/07/30/human-caused-climate-change-made-spanish-french-fires-much-more-likely-scientists-calculate/",
+                        "sourceSnippet": "Human-caused climate change made Spanish, French fires much more likely — AP, July 30, 2026",
+                        "source2": "Reuters",
+                        "sourceUrl2": "https://www.reuters.com/business/environment/firefighters-battle-keep-blazes-away-frances-bordeaux-2026-07-27/",
+                        "sourceSnippet2": "France and Spain race to curb wildfires before new heatwave arrives — Reuters, July 27, 2026",
+                        "source3": "BBC",
+                        "sourceUrl3": "https://www.bbc.com/news/articles/cj638jx0l53o",
+                        "sourceSnippet3": "Devastating European wildfires in maps — BBC News, July 30, 2026"
+                  }
+            }
+      },
+      {
+            "id": "spanyol-mogok-renfe-sevilla-juli-2026",
+            "langs": {
+                  "id": {
+                        "title": "Mogok Renfe Memasuki Hari Ketiga dan Mengganggu Perjalanan Musim Panas",
+                        "desc": "Mogok yang dipanggil serikat minoritas di operator kereta Renfe memasuki hari ketiga pada 31 Juli dan mengganggu layanan di tengah musim perjalanan musim panas.",
+                        "content": "<p>Mogok yang dipanggil serikat Sindicato Ferroviario di operator kereta Renfe memasuki hari ketiga pada 31 Juli, menurut laporan EFE yang dikutip Reuters Connect. Stasiun Sevilla masih beroperasi relatif normal, tetapi aksi tersebut tetap menambah ketidakpastian bagi penumpang pada puncak musim perjalanan musim panas.</p><p>Renfe adalah tulang punggung perjalanan antarkota dan komuter di Spanyol. Gangguan pada jadwal, kru, dan layanan stasiun dapat berdampak berantai terhadap wisatawan yang mengandalkan kereta untuk menghubungkan Madrid, Andalusia, dan kota-kota pesisir.</p><p>Serikat pekerja menggunakan aksi mogok untuk menekan tuntutan mereka dalam hubungan industrial dengan operator. Tingkat layanan minimum dan layanan yang tetap berjalan menjadi penentu seberapa besar dampak dirasakan publik di setiap wilayah.</p><p>Penumpang disarankan memeriksa status perjalanan langsung dari Renfe sebelum menuju stasiun. Bagi jaringan transportasi nasional, perselisihan ini menggarisbawahi pentingnya kesepakatan kerja yang menjaga keandalan layanan tanpa menghilangkan hak pekerja untuk berunding.</p>",
+                        "source": "Reuters Connect",
+                        "sourceUrl": "https://www.reutersconnect.com/item/seville-train-station-sees-relatively-normal-operations-amid-strike/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XRUZWQzcwMDE2MDE0OTkwMDE",
+                        "sourceSnippet": "Seville train station sees relatively normal operations amid strike — Reuters Connect/EFE, July 31, 2026",
+                        "source2": "Renfe",
+                        "sourceUrl2": "https://www.renfe.com/es/en",
+                        "sourceSnippet2": "Passenger services and travel updates — Renfe",
+                        "source3": "Reuters",
+                        "sourceUrl3": "https://www.reuters.com/world/europe/",
+                        "sourceSnippet3": "Europe news and transport coverage — Reuters"
+                  },
+                  "en": {
+                        "title": "Renfe strike enters third day as summer rail travel faces disruption",
+                        "desc": "A strike called by the minority Sindicato Ferroviario union at rail operator Renfe entered its third day on July 31, adding uncertainty during Spain’s busy summer travel season.",
+                        "content": "<p>A strike called by the Sindicato Ferroviario minority union at rail operator Renfe entered its third day on July 31, according to EFE footage cited by Reuters Connect. Seville station was operating relatively normally, but the action still added uncertainty for passengers during the peak summer travel period.</p><p>Renfe is central to intercity and commuter travel in Spain. Disruptions to timetables, crews, and station services can ripple through journeys connecting Madrid, Andalusia, and coastal cities.</p><p>The union is using industrial action to press its demands in negotiations with the operator. Minimum-service rules and the services that continue running will determine how widely the public feels the impact in each region.</p><p>Passengers are advised to check live status with Renfe before going to a station. The dispute highlights the challenge for a national transport network of protecting reliable service while preserving workers’ right to negotiate.</p>",
+                        "source": "Reuters Connect",
+                        "sourceUrl": "https://www.reutersconnect.com/item/seville-train-station-sees-relatively-normal-operations-amid-strike/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XRUZWQzcwMDE2MDE0OTkwMDE",
+                        "sourceSnippet": "Seville train station sees relatively normal operations amid strike — Reuters Connect/EFE, July 31, 2026",
+                        "source2": "Renfe",
+                        "sourceUrl2": "https://www.renfe.com/es/en",
+                        "sourceSnippet2": "Passenger services and travel updates — Renfe",
+                        "source3": "Reuters",
+                        "sourceUrl3": "https://www.reuters.com/world/europe/",
+                        "sourceSnippet3": "Europe news and transport coverage — Reuters"
+                  }
+            }
+      },
+      {
+            "id": "spanyol-baterai-penyimpanan-energi-edp-36mw-2026",
+            "langs": {
+                  "id": {
+                        "title": "EDP Selesaikan Baterai 36 MW di Proyek Energi Terbarukan Spanyol",
+                        "desc": "EDP mengoperasikan sistem penyimpanan energi baterai 36 MW/72 MWh di proyek Las Lomillas, menggabungkan penyimpanan dengan pembangkit angin dan surya.",
+                        "content": "<p>EDP telah mengoperasikan sistem penyimpanan energi baterai berkapasitas 36 MW/72 MWh di lokasi Las Lomillas di Spanyol, menurut ESS News pada 31 Juli. Fasilitas ini melengkapi integrasi pembangkit angin dan surya dalam satu proyek energi terbarukan.</p><p>Baterai skala jaringan dapat menyerap listrik ketika produksi energi terbarukan tinggi dan melepaskannya kembali ketika permintaan naik atau matahari tidak bersinar. Pola ini membantu mengurangi pemborosan listrik bersih serta memberi fleksibilitas pada sistem kelistrikan.</p><p>Kapasitas energi 72 MWh berarti sistem tersebut secara teoritis dapat memasok 36 MW selama dua jam pada daya penuh, meski operasi nyata bergantung pada kebutuhan jaringan dan strategi pengelolaannya.</p><p>Proyek seperti Las Lomillas menjadi penting bagi transisi energi Spanyol yang mengandalkan semakin banyak sumber variabel. Penyimpanan tidak menggantikan jaringan transmisi dan pembangkit cadangan, tetapi dapat membantu menyeimbangkan pasokan dan permintaan secara lebih cepat.</p>",
+                        "source": "ESS News",
+                        "sourceUrl": "https://www.ess-news.com/2026/07/31/edp-completes-spanish-hybrid-renewable-project-with-battery-storage/",
+                        "sourceSnippet": "EDP completes Spanish hybrid renewable project with battery storage — ESS News, July 31, 2026",
+                        "source2": "EDP",
+                        "sourceUrl2": "https://www.edp.com/en",
+                        "sourceSnippet2": "EDP energy and renewables information — EDP",
+                        "source3": "European Commission",
+                        "sourceUrl3": "https://energy.ec.europa.eu/topics/markets-and-consumers/energy-storage_en",
+                        "sourceSnippet3": "Energy storage in Europe — European Commission"
+                  },
+                  "en": {
+                        "title": "EDP completes 36 MW battery system at hybrid renewable project in Spain",
+                        "desc": "EDP has commissioned a 36 MW/72 MWh battery energy-storage system at its Las Lomillas site in Spain, integrating storage with wind and solar generation.",
+                        "content": "<p>EDP has commissioned a 36 MW/72 MWh battery energy-storage system at its Las Lomillas site in Spain, ESS News reported on July 31. The facility completes the integration of wind and solar generation at the hybrid renewable project.</p><p>Grid-scale batteries can absorb electricity when renewable production is high and release it when demand rises or the sun is not shining. That flexibility can reduce curtailment of clean power and help the electricity system respond more quickly.</p><p>A 72 MWh energy rating would theoretically supply 36 MW for two hours at full power, although real operation depends on grid needs and the operator’s dispatch strategy.</p><p>Projects like Las Lomillas matter as Spain adds more variable renewable generation. Storage cannot replace transmission and firm generation, but it can help balance supply and demand at much shorter timescales.</p>",
+                        "source": "ESS News",
+                        "sourceUrl": "https://www.ess-news.com/2026/07/31/edp-completes-spanish-hybrid-renewable-project-with-battery-storage/",
+                        "sourceSnippet": "EDP completes Spanish hybrid renewable project with battery storage — ESS News, July 31, 2026",
+                        "source2": "EDP",
+                        "sourceUrl2": "https://www.edp.com/en",
+                        "sourceSnippet2": "EDP energy and renewables information — EDP",
+                        "source3": "European Commission",
+                        "sourceUrl3": "https://energy.ec.europa.eu/topics/markets-and-consumers/energy-storage_en",
+                        "sourceSnippet3": "Energy storage in Europe — European Commission"
+                  }
+            }
+      },
+      {
+            "id": "spanyol-juara-piala-dunia-2026",
+            "langs": {
+                  "id": {
+                        "title": "Spanyol Menjadi Juara Dunia 2026 Setelah Menang Dramatis atas Argentina",
+                        "desc": "Spanyol merebut gelar Piala Dunia keduanya setelah mengalahkan Argentina 1-0 melalui perpanjangan waktu dalam final di New York-New Jersey Stadium.",
+                        "content": "<p>Spanyol menjadi juara Piala Dunia 2026 setelah mengalahkan Argentina 1-0 melalui perpanjangan waktu dalam final di New York-New Jersey Stadium. Laporan BBC menyebut kemenangan itu sebagai pencapaian besar bagi sepak bola Spanyol dalam turnamen yang digelar di Amerika Utara.</p><p>Pertandingan berlangsung ketat dan ditentukan pada fase tambahan waktu. Argentina, sebagai juara bertahan, mampu menahan tekanan dalam waktu normal, tetapi Spanyol akhirnya menemukan gol penentu ketika laga memasuki menit-menit terakhir.</p><p>Gelar tersebut menjadi gelar dunia kedua bagi Spanyol dan memperkuat generasi pemain yang dipimpin talenta muda seperti Lamine Yamal. Keberhasilan itu juga memperpanjang reputasi tim sebagai salah satu kekuatan utama sepak bola berbasis penguasaan bola di Eropa.</p><p>Perayaan kemenangan berlangsung di tengah sorotan global terhadap final dan perdebatan suporter Argentina mengenai keputusan pertandingan. Terlepas dari kontroversi, hasil resmi menempatkan Spanyol di puncak turnamen 2026.</p>",
+                        "source": "BBC Sport",
+                        "sourceUrl": "https://www.bbc.com/sport/football/articles/cdx8veqllw7o",
+                        "sourceSnippet": "World Cup 2026: Spain’s victory over Argentina — BBC Sport, July 2026",
+                        "source2": "Sky Sports",
+                        "sourceUrl2": "https://www.skysports.com/football/news/11095/13481245/world-cup-2026-fixture-schedule-and-uk-kick-off-times-day-by-day-breakdown-of-all-104-matches-including-england",
+                        "sourceSnippet2": "World Cup 2026 fixtures, results and final — Sky Sports, July 2026",
+                        "source3": "Yahoo Sports",
+                        "sourceUrl3": "https://sports.yahoo.com/soccer/article/world-cup-final-bracket-spain-vs-argentina-matchup-schedule-and-path-to-the-championship-164942403.html",
+                        "sourceSnippet3": "World Cup final bracket and Spain’s championship — Yahoo Sports, July 2026"
+                  },
+                  "en": {
+                        "title": "Spain win 2026 World Cup after dramatic extra-time victory over Argentina",
+                        "desc": "Spain won its second World Cup title by beating defending champions Argentina 1-0 after extra time in the final at New York-New Jersey Stadium.",
+                        "content": "<p>Spain won the 2026 World Cup after beating Argentina 1-0 after extra time in the final at New York-New Jersey Stadium. BBC described the victory as a major achievement for Spanish football at the North American tournament.</p><p>The match was closely fought and decided in the additional period. Argentina, the defending champion, held Spain through normal time, but the Spanish side eventually found the winning goal in the closing stages.</p><p>The title is Spain’s second world championship and underlines the strength of a generation led by young talent such as Lamine Yamal. It also extends the team’s reputation as one of Europe’s leading possession-based football powers.</p><p>Celebrations unfolded alongside global attention on the final and complaints from some Argentina supporters about officiating decisions. Whatever the debate, the official result places Spain at the top of the 2026 tournament.</p>",
+                        "source": "BBC Sport",
+                        "sourceUrl": "https://www.bbc.com/sport/football/articles/cdx8veqllw7o",
+                        "sourceSnippet": "World Cup 2026: Spain’s victory over Argentina — BBC Sport, July 2026",
+                        "source2": "Sky Sports",
+                        "sourceUrl2": "https://www.skysports.com/football/news/11095/13481245/world-cup-2026-fixture-schedule-and-uk-kick-off-times-day-by-day-breakdown-of-all-104-matches-including-england",
+                        "sourceSnippet2": "World Cup 2026 fixtures, results and final — Sky Sports, July 2026",
+                        "source3": "Yahoo Sports",
+                        "sourceUrl3": "https://sports.yahoo.com/soccer/article/world-cup-final-bracket-spain-vs-argentina-matchup-schedule-and-path-to-the-championship-164942403.html",
+                        "sourceSnippet3": "World Cup final bracket and Spain’s championship — Yahoo Sports, July 2026"
+                  }
+            }
+      },
+      {
+            "id": "spanyol-gelombang-panas-eropa-agustus-2026",
+            "langs": {
+                  "id": {
+                        "title": "Gelombang Panas Keempat Mengancam Spanyol Saat Agustus Dimulai",
+                        "desc": "Prakiraan menunjukkan kubah panas baru dapat membawa suhu di atas 40 derajat Celsius ke sebagian Spanyol dan memperburuk risiko kebakaran pada awal musim liburan.",
+                        "content": "<p>Gelombang panas keempat musim panas Eropa diperkirakan menguat saat Agustus dimulai, dengan Spanyol termasuk negara yang menghadapi suhu sangat tinggi dan risiko kebakaran yang tetap besar. Severe Weather Europe melaporkan bahwa pola kubah panas Mediterania dapat membawa suhu lebih dari 40 derajat Celsius di sejumlah wilayah.</p><p>Prakiraan tersebut muncul setelah rangkaian panas ekstrem dan kebakaran yang telah membebani layanan darurat di Spanyol, Prancis, dan negara-negara Mediterania lain. Malam yang lebih hangat juga menjadi perhatian karena mengurangi waktu pemulihan tubuh dan membuat vegetasi tetap kering.</p><p>Euronews mengaitkan panas tidak biasa itu dengan kombinasi laut Mediterania yang sangat hangat, pola tekanan tinggi, dan perubahan iklim yang meningkatkan peluang episode ekstrem. Dampaknya meliputi tekanan pada kesehatan, kebutuhan pendinginan, pertanian, dan penggunaan air selama musim wisata.</p><p>Otoritas perlu menggabungkan peringatan panas dengan pencegahan kebakaran, pembatasan aktivitas berisiko, dan informasi publik yang mudah dipahami. Wisatawan dan warga dianjurkan mengurangi paparan pada jam terpanas, menjaga hidrasi, serta mengikuti instruksi lokal bila terjadi evakuasi.</p>",
+                        "source": "Euronews",
+                        "sourceUrl": "https://www.euronews.com/2026/07/28/europe-warned-of-warmer-than-normal-august-whats-driving-blistering-temperatures",
+                        "sourceSnippet": "Warmer-than-normal August looms in Europe — Euronews, July 28, 2026",
+                        "source2": "Severe Weather Europe",
+                        "sourceUrl2": "https://www.severe-weather.eu/global-weather/extreme-heatwave-excessive-heat-dome-mediterranean-forecast-europe-july-august-2026-mk/",
+                        "sourceSnippet2": "Europe’s heat dome returns as 40°C heatwave builds into August — Severe Weather Europe",
+                        "source3": "The New York Times",
+                        "sourceUrl3": "https://www.nytimes.com/2026/07/28/weather/europe-heat-wave-weather-forecast.html",
+                        "sourceSnippet3": "Fourth heat wave hits Europe as Spain fights wildfires — The New York Times, July 28, 2026"
+                  },
+                  "en": {
+                        "title": "Fourth European heatwave threatens Spain as August begins",
+                        "desc": "Forecasts point to a new heat dome bringing temperatures above 40°C to parts of Spain and raising fire risks at the start of the holiday season.",
+                        "content": "<p>A fourth European heatwave of the summer is expected to strengthen as August begins, with Spain facing very high temperatures and continued wildfire danger. Severe Weather Europe reported that a Mediterranean heat-dome pattern could push temperatures above 40°C in some areas.</p><p>The forecast follows repeated extreme heat and fires that have strained emergency services in Spain, France, and other Mediterranean countries. Warmer nights are also a concern because they reduce the body’s recovery time and leave vegetation drier.</p><p>Euronews linked the unusual heat to a combination of an exceptionally warm Mediterranean Sea, high-pressure patterns, and climate change, which raises the likelihood of extreme episodes. Effects include pressure on health, cooling demand, agriculture, and water use during the tourist season.</p><p>Authorities need to combine heat warnings with fire prevention, limits on high-risk activities, and clear public information. Residents and visitors should reduce exposure during the hottest hours, stay hydrated, and follow local instructions if evacuations are ordered.</p>",
+                        "source": "Euronews",
+                        "sourceUrl": "https://www.euronews.com/2026/07/28/europe-warned-of-warmer-than-normal-august-whats-driving-blistering-temperatures",
+                        "sourceSnippet": "Warmer-than-normal August looms in Europe — Euronews, July 28, 2026",
+                        "source2": "Severe Weather Europe",
+                        "sourceUrl2": "https://www.severe-weather.eu/global-weather/extreme-heatwave-excessive-heat-dome-mediterranean-forecast-europe-july-august-2026-mk/",
+                        "sourceSnippet2": "Europe’s heat dome returns as 40°C heatwave builds into August — Severe Weather Europe",
+                        "source3": "The New York Times",
+                        "sourceUrl3": "https://www.nytimes.com/2026/07/28/weather/europe-heat-wave-weather-forecast.html",
+                        "sourceSnippet3": "Fourth heat wave hits Europe as Spain fights wildfires — The New York Times, July 28, 2026"
+                  }
+            }
+      }
 
     ]
   };
