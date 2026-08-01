@@ -640,7 +640,534 @@
         }
         }
       }
-
+,
+[
+  {
+    "id": "jepang-gempa-kyushu-ganggu-pabrik-otomotif-chip-31juli2026",
+    "langs": {
+      "id": {
+        "title": "Gempa 7,1 di Kyushu Ganggu Produksi Otomotif dan Chip Jepang",
+        "desc": "Gempa kuat di Kyushu menghentikan sementara operasi sejumlah pabrik mobil dan semikonduktor, menguji ketahanan rantai pasok Jepang.",
+        "content": "<p>Gempa berkekuatan 7,1 yang mengguncang Kyushu pada akhir Juli memaksa sejumlah pabrik otomotif dan semikonduktor menghentikan operasi sementara. Toyota, Renesas, Sony, dan perusahaan lain melakukan pemeriksaan keselamatan sebelum memulai kembali produksi secara bertahap.</p><p>Gangguan ini penting bagi industri global karena Kyushu merupakan salah satu pusat produksi chip, sensor, dan komponen kendaraan Jepang. Penghentian beberapa hari dapat memengaruhi jadwal perakitan apabila persediaan komponen tidak segera dipulihkan.</p><p>Pemerintah dan perusahaan memprioritaskan pencarian korban, pemeriksaan infrastruktur, dan pemulihan listrik. Peristiwa ini kembali mendorong diversifikasi pemasok serta investasi pada sistem pemantauan gempa dan rencana kesinambungan bisnis.</p>",
+        "source": "Reuters",
+        "sourceUrl": "https://www.reuters.com/world/asia-pacific/death-toll-japan-earthquake-rises-34-2026-07-31/",
+        "sourceSnippet": "Japan quake halts auto and chip plants",
+        "source2": "Reuters",
+        "sourceUrl2": "https://www.reuters.com/world/asia-pacific/toyota-halt-operations-3-southern-japan-plants-through-friday-after-earthquake-2026-07-29/",
+        "sourceSnippet2": "Japan earthquake rocks auto and chip manufacturing supply chain",
+        "source3": "Reuters",
+        "sourceUrl3": "https://www.reuters.com/world/asia-pacific/tsmc-says-japan-plant-gradually-resuming-operations-after-earthquake-2026-07-28/",
+        "sourceSnippet3": "TSMC says Japan plant gradually resuming operations"
+      },
+      "en": {
+        "title": "7.1-Magnitude Kyushu Quake Disrupts Japan’s Auto and Chip Production",
+        "desc": "A powerful Kyushu earthquake temporarily halted several auto and semiconductor plants, testing Japan’s supply-chain resilience.",
+        "content": "<p>A magnitude 7.1 earthquake in Kyushu in late July forced several automotive and semiconductor plants to suspend operations. Toyota, Renesas, Sony and other companies began safety inspections before gradually restarting production.</p><p>The disruption matters globally because Kyushu is a major Japanese hub for chips, sensors and vehicle components. Even a short shutdown could affect assembly schedules if inventories are not replenished quickly.</p><p>Authorities and companies are prioritizing rescue work, infrastructure checks and power restoration. The event is renewing pressure to diversify suppliers and invest in earthquake monitoring and business-continuity systems.</p>",
+        "source": "Reuters",
+        "sourceUrl": "https://www.reuters.com/world/asia-pacific/death-toll-japan-earthquake-rises-34-2026-07-31/",
+        "sourceSnippet": "Japan quake halts auto and chip plants",
+        "source2": "Reuters",
+        "sourceUrl2": "https://www.reuters.com/world/asia-pacific/toyota-halt-operations-3-southern-japan-plants-through-friday-after-earthquake-2026-07-29/",
+        "sourceSnippet2": "Japan earthquake rocks auto and chip manufacturing supply chain",
+        "source3": "Reuters",
+        "sourceUrl3": "https://www.reuters.com/world/asia-pacific/tsmc-says-japan-plant-gradually-resuming-operations-after-earthquake-2026-07-28/",
+        "sourceSnippet3": "TSMC says Japan plant gradually resuming operations"
+      },
+      "ja": {
+        "title": "九州のマグニチュード7.1地震、自動車・半導体生産に影響",
+        "desc": "九州を襲った強い地震で複数の自動車・半導体工場が一時停止し、日本のサプライチェーンの強靭性が試されています。",
+        "content": "<p>7月下旬に九州で発生したマグニチュード7.1の地震により、自動車や半導体の工場が一時操業を停止しました。トヨタ、ルネサス、ソニーなどは安全確認を進め、段階的な再開を始めています。</p><p>九州はチップ、センサー、自動車部品の主要生産拠点で、短期間の停止でも在庫が戻らなければ組立計画に影響する可能性があります。</p><p>政府と企業は救助、インフラ点検、電力復旧を優先しています。今回の被害は、調達先の分散と地震監視、事業継続計画への投資の重要性を改めて示しました。</p>",
+        "source": "Reuters",
+        "sourceUrl": "https://www.reuters.com/world/asia-pacific/death-toll-japan-earthquake-rises-34-2026-07-31/",
+        "sourceSnippet": "Japan quake halts auto and chip plants",
+        "source2": "Reuters",
+        "sourceUrl2": "https://www.reuters.com/world/asia-pacific/toyota-halt-operations-3-southern-japan-plants-through-friday-after-earthquake-2026-07-29/",
+        "sourceSnippet2": "Japan earthquake rocks auto and chip manufacturing supply chain",
+        "source3": "Reuters",
+        "sourceUrl3": "https://www.reuters.com/world/asia-pacific/tsmc-says-japan-plant-gradually-resuming-operations-after-earthquake-2026-07-28/",
+        "sourceSnippet3": "TSMC says Japan plant gradually resuming operations"
+      },
+      "ko": {
+        "title": "규슈 규모 7.1 지진, 일본 자동차·반도체 생산 차질",
+        "desc": "규슈를 강타한 강한 지진으로 여러 자동차와 반도체 공장이 일시 중단되며 일본 공급망의 회복력이 시험대에 올랐습니다.",
+        "content": "<p>7월 말 규슈에서 규모 7.1 지진이 발생해 자동차와 반도체 공장들이 일시적으로 가동을 멈췄습니다. 도요타, 르네사스, 소니 등은 안전 점검 후 생산을 단계적으로 재개하고 있습니다.</p><p>규슈는 칩과 센서, 자동차 부품의 핵심 생산지여서 재고가 빠르게 회복되지 않으면 세계 조립 일정에도 영향이 생길 수 있습니다.</p><p>정부와 기업은 구조 활동, 기반시설 점검, 전력 복구를 우선하고 있습니다. 이번 사태는 공급처 다변화와 지진 감시, 업무 연속성 투자 필요성을 다시 부각했습니다.</p>",
+        "source": "Reuters",
+        "sourceUrl": "https://www.reuters.com/world/asia-pacific/death-toll-japan-earthquake-rises-34-2026-07-31/",
+        "sourceSnippet": "Japan quake halts auto and chip plants",
+        "source2": "Reuters",
+        "sourceUrl2": "https://www.reuters.com/world/asia-pacific/toyota-halt-operations-3-southern-japan-plants-through-friday-after-earthquake-2026-07-29/",
+        "sourceSnippet2": "Japan earthquake rocks auto and chip manufacturing supply chain",
+        "source3": "Reuters",
+        "sourceUrl3": "https://www.reuters.com/world/asia-pacific/tsmc-says-japan-plant-gradually-resuming-operations-after-earthquake-2026-07-28/",
+        "sourceSnippet3": "TSMC says Japan plant gradually resuming operations"
+      },
+      "zh": {
+        "title": "九州7.1级地震冲击日本汽车和芯片生产",
+        "desc": "九州强震导致多家汽车和半导体工厂暂时停产，考验日本供应链的韧性。",
+        "content": "<p>7月下旬九州发生7.1级地震，多家汽车和半导体工厂被迫暂时停产。丰田、瑞萨、索尼等企业在完成安全检查后逐步恢复生产。</p><p>九州是日本芯片、传感器和汽车零部件的重要基地。若库存不能迅速补充，短暂停工也可能影响全球组装计划。</p><p>政府和企业把救援、基础设施检查及电力恢复放在首位。这次事件再次凸显分散供应商、加强地震监测和业务连续性投资的重要性。</p>",
+        "source": "Reuters",
+        "sourceUrl": "https://www.reuters.com/world/asia-pacific/death-toll-japan-earthquake-rises-34-2026-07-31/",
+        "sourceSnippet": "Japan quake halts auto and chip plants",
+        "source2": "Reuters",
+        "sourceUrl2": "https://www.reuters.com/world/asia-pacific/toyota-halt-operations-3-southern-japan-plants-through-friday-after-earthquake-2026-07-29/",
+        "sourceSnippet2": "Japan earthquake rocks auto and chip manufacturing supply chain",
+        "source3": "Reuters",
+        "sourceUrl3": "https://www.reuters.com/world/asia-pacific/tsmc-says-japan-plant-gradually-resuming-operations-after-earthquake-2026-07-28/",
+        "sourceSnippet3": "TSMC says Japan plant gradually resuming operations"
+      }
+    }
+  },
+  {
+    "id": "jepang-boj-pertahankan-suku-bunga-1persen-juli2026",
+    "langs": {
+      "id": {
+        "title": "BOJ Pertahankan Suku Bunga 1 Persen, Tetap Buka Ruang Kenaikan",
+        "desc": "Bank of Japan menahan suku bunga acuannya pada 1 persen sambil mempertahankan sinyal bahwa kenaikan berikutnya masih mungkin dilakukan.",
+        "content": "<p>Bank of Japan mempertahankan suku bunga jangka pendek di 1 persen dalam keputusan akhir Juli. Pemungutan suara berlangsung 8-1, dengan satu anggota menginginkan kenaikan menjadi 1,25 persen.</p><p>Bank sentral menilai inflasi dan kenaikan upah masih perlu dipantau, sementara biaya energi dan ketidakpastian perdagangan menekan prospek pertumbuhan. BOJ tetap menyatakan siap menaikkan suku bunga apabila tekanan harga dan ekonomi berkembang sesuai proyeksi.</p><p>Keputusan tersebut memberi jeda bagi rumah tangga dan perusahaan yang menghadapi biaya pinjaman lebih tinggi, tetapi yen dan pasar obligasi tetap sensitif terhadap setiap perubahan komunikasi. Investor kini menunggu data upah, konsumsi, dan inflasi berikutnya.</p>",
+        "source": "Reuters",
+        "sourceUrl": "https://www.reuters.com/world/asia-pacific/view-investors-react-bojs-decision-hold-rates-2026-07-31/",
+        "sourceSnippet": "Investors react to BOJ decision",
+        "source2": "Bank of Japan",
+        "sourceUrl2": "https://www.boj.or.jp/en/mopo/outlook/gor2607a.pdf",
+        "sourceSnippet2": "Outlook for Economic Activity and Prices, July 2026",
+        "source3": "Reuters",
+        "sourceUrl3": "https://www.reuters.com/world/asia-pacific/japan-cuts-this-years-growth-outlook-higher-energy-costs-weigh-2026-07-30/",
+        "sourceSnippet3": "Japan cuts growth outlook"
+      },
+      "en": {
+        "title": "BOJ Holds Rate at 1%, Keeps Door Open to Further Hikes",
+        "desc": "The Bank of Japan kept its policy rate at 1% while maintaining that another increase remains possible.",
+        "content": "<p>The Bank of Japan kept its short-term rate at 1% at its late-July meeting. The vote was 8-1, with one board member calling for a rise to 1.25%.</p><p>The central bank said inflation and wage growth require monitoring as energy costs and trade uncertainty weigh on the growth outlook. It maintained that rates could rise if prices and the economy develop as projected.</p><p>The pause gives households and companies a brief reprieve from higher borrowing costs, but the yen and bond markets remain sensitive to policy signals. Investors are watching wage, consumption and inflation data next.</p>",
+        "source": "Reuters",
+        "sourceUrl": "https://www.reuters.com/world/asia-pacific/view-investors-react-bojs-decision-hold-rates-2026-07-31/",
+        "sourceSnippet": "Investors react to BOJ decision",
+        "source2": "Bank of Japan",
+        "sourceUrl2": "https://www.boj.or.jp/en/mopo/outlook/gor2607a.pdf",
+        "sourceSnippet2": "Outlook for Economic Activity and Prices, July 2026",
+        "source3": "Reuters",
+        "sourceUrl3": "https://www.reuters.com/world/asia-pacific/japan-cuts-this-years-growth-outlook-higher-energy-costs-weigh-2026-07-30/",
+        "sourceSnippet3": "Japan cuts growth outlook"
+      },
+      "ja": {
+        "title": "日銀、政策金利1％を維持　追加利上げの余地は残す",
+        "desc": "日本銀行は政策金利を1％に据え置く一方、次の利上げの可能性を残しました。",
+        "content": "<p>日本銀行は7月末の金融政策決定会合で、短期政策金利を1％に据え置きました。採決は8対1で、1人の委員は1.25％への引き上げを主張しました。</p><p>日銀は、エネルギーコストや貿易不安が成長見通しを圧迫するなか、物価と賃金の動向を見極める必要があると説明しました。経済と物価が見通し通り進めば、追加利上げも可能だとしています。</p><p>今回の据え置きは借入コスト上昇に直面する家計や企業に一息を与えますが、円相場と国債市場は今後の発言に敏感です。市場は賃金、消費、物価のデータを注視しています。</p>",
+        "source": "Reuters",
+        "sourceUrl": "https://www.reuters.com/world/asia-pacific/view-investors-react-bojs-decision-hold-rates-2026-07-31/",
+        "sourceSnippet": "Investors react to BOJ decision",
+        "source2": "Bank of Japan",
+        "sourceUrl2": "https://www.boj.or.jp/en/mopo/outlook/gor2607a.pdf",
+        "sourceSnippet2": "Outlook for Economic Activity and Prices, July 2026",
+        "source3": "Reuters",
+        "sourceUrl3": "https://www.reuters.com/world/asia-pacific/japan-cuts-this-years-growth-outlook-higher-energy-costs-weigh-2026-07-30/",
+        "sourceSnippet3": "Japan cuts growth outlook"
+      },
+      "ko": {
+        "title": "일본은행, 기준금리 1% 유지…추가 인상 여지 남겨",
+        "desc": "일본은행이 정책금리를 1%로 유지하면서도 다음 금리 인상 가능성은 열어뒀습니다.",
+        "content": "<p>일본은행은 7월 말 회의에서 단기 정책금리를 1%로 동결했습니다. 표결은 8대1이었고, 한 위원은 1.25% 인상을 주장했습니다.</p><p>중앙은행은 에너지 비용과 무역 불확실성이 성장 전망을 압박하는 가운데 물가와 임금 흐름을 지켜봐야 한다고 밝혔습니다. 경제와 물가가 예상대로 움직이면 추가 인상이 가능하다는 입장입니다.</p><p>이번 동결은 높은 대출 비용에 직면한 가계와 기업에 잠시 여유를 주지만 엔화와 채권시장은 정책 신호에 민감하게 반응하고 있습니다. 시장은 임금, 소비, 물가 지표를 주시합니다.</p>",
+        "source": "Reuters",
+        "sourceUrl": "https://www.reuters.com/world/asia-pacific/view-investors-react-bojs-decision-hold-rates-2026-07-31/",
+        "sourceSnippet": "Investors react to BOJ decision",
+        "source2": "Bank of Japan",
+        "sourceUrl2": "https://www.boj.or.jp/en/mopo/outlook/gor2607a.pdf",
+        "sourceSnippet2": "Outlook for Economic Activity and Prices, July 2026",
+        "source3": "Reuters",
+        "sourceUrl3": "https://www.reuters.com/world/asia-pacific/japan-cuts-this-years-growth-outlook-higher-energy-costs-weigh-2026-07-30/",
+        "sourceSnippet3": "Japan cuts growth outlook"
+      },
+      "zh": {
+        "title": "日本央行维持1%利率，仍保留加息空间",
+        "desc": "日本央行把政策利率维持在1%，同时表示如果经济和物价符合预期，仍可能继续加息。",
+        "content": "<p>日本央行在7月底的会议上把短期政策利率维持在1%。表决结果为8比1，一名委员主张升至1.25%。</p><p>央行表示，在能源成本和贸易不确定性拖累增长前景之际，仍需观察通胀和工资增长。如果经济与物价按预期发展，央行仍可能加息。</p><p>暂停加息让面临借贷成本上升的家庭和企业得到短暂喘息，但日元和债券市场仍对政策信号敏感。投资者接下来关注工资、消费和通胀数据。</p>",
+        "source": "Reuters",
+        "sourceUrl": "https://www.reuters.com/world/asia-pacific/view-investors-react-bojs-decision-hold-rates-2026-07-31/",
+        "sourceSnippet": "Investors react to BOJ decision",
+        "source2": "Bank of Japan",
+        "sourceUrl2": "https://www.boj.or.jp/en/mopo/outlook/gor2607a.pdf",
+        "sourceSnippet2": "Outlook for Economic Activity and Prices, July 2026",
+        "source3": "Reuters",
+        "sourceUrl3": "https://www.reuters.com/world/asia-pacific/japan-cuts-this-years-growth-outlook-higher-energy-costs-weigh-2026-07-30/",
+        "sourceSnippet3": "Japan cuts growth outlook"
+      }
+    }
+  },
+  {
+    "id": "jepang-target-10juta-robot-ai-2040",
+    "langs": {
+      "id": {
+        "title": "Jepang Targetkan 10 Juta Robot Berbasis AI pada 2040",
+        "desc": "Pemerintah Jepang menargetkan penggunaan sekitar 10 juta robot berkemampuan AI di 18 sektor untuk mengatasi kekurangan tenaga kerja.",
+        "content": "<p>Kementerian Perindustrian Jepang menyusun target untuk memperkenalkan sekitar 10 juta robot yang dilengkapi kecerdasan buatan di 18 sektor pada 2040. Rencana itu mencakup manufaktur, logistik, perawatan lansia, pertanian, dan layanan publik.</p><p>Pemerintah melihat robot sebagai cara untuk menjaga produktivitas ketika populasi usia kerja menyusut. Fokusnya bukan hanya robot industri, tetapi juga mesin yang dapat belajar dari lingkungan dan membantu pekerja dalam tugas berulang atau berbahaya.</p><p>Target tersebut akan membutuhkan model AI domestik, standar keselamatan, pelatihan tenaga kerja, dan pembiayaan bagi usaha kecil. Pengamat juga memperingatkan bahwa adopsi cepat harus disertai aturan mengenai keamanan data dan tanggung jawab ketika sistem otonom melakukan kesalahan.</p>",
+        "source": "NHK World",
+        "sourceUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20260630_21/",
+        "sourceSnippet": "Japan aims to deploy 10 million AI robots by 2040",
+        "source2": "JapanGov",
+        "sourceUrl2": "https://www.japan.go.jp/",
+        "sourceSnippet2": "Japan Government policy and innovation information",
+        "source3": "Reuters",
+        "sourceUrl3": "https://www.reuters.com/business/media-telecom/robot-ai-company-noetra-is-last-chance-japan-ceo-says-2026-07-22/",
+        "sourceSnippet3": "Robot AI company says Japan faces a decisive moment"
+      },
+      "en": {
+        "title": "Japan Targets 10 Million AI Robots by 2040",
+        "desc": "Japan’s government wants about 10 million AI-equipped robots deployed across 18 sectors to address labor shortages.",
+        "content": "<p>Japan’s industry ministry has set a goal of introducing about 10 million AI-equipped robots across 18 sectors by 2040. The plan covers manufacturing, logistics, elder care, agriculture and public services.</p><p>The government sees robotics as a way to protect productivity as the working-age population shrinks. The focus is moving beyond factory machines to systems that learn from their surroundings and assist with repetitive or dangerous tasks.</p><p>Reaching the target will require domestic AI models, safety standards, workforce training and financing for small businesses. Analysts also warn that rapid adoption must address data security and liability when autonomous systems fail.</p>",
+        "source": "NHK World",
+        "sourceUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20260630_21/",
+        "sourceSnippet": "Japan aims to deploy 10 million AI robots by 2040",
+        "source2": "JapanGov",
+        "sourceUrl2": "https://www.japan.go.jp/",
+        "sourceSnippet2": "Japan Government policy and innovation information",
+        "source3": "Reuters",
+        "sourceUrl3": "https://www.reuters.com/business/media-telecom/robot-ai-company-noetra-is-last-chance-japan-ceo-says-2026-07-22/",
+        "sourceSnippet3": "Robot AI company says Japan faces a decisive moment"
+      },
+      "ja": {
+        "title": "日本、2040年までにAIロボット1000万台を目標",
+        "desc": "日本政府は人手不足への対応として、18分野でAI搭載ロボット約1000万台の導入を目指します。",
+        "content": "<p>経済産業省は2040年までに18分野でAI搭載ロボット約1000万台を導入する目標を掲げました。製造、物流、介護、農業、公共サービスなどが対象です。</p><p>政府は生産年齢人口が減少するなか、生産性を維持する手段としてロボットを位置付けています。工場用機械だけでなく、環境を学習し、反復作業や危険な作業を支援するシステムが重視されています。</p><p>目標達成には国産AIモデル、安全基準、人材教育、中小企業向けの資金が必要です。自律システムが誤作動した場合のデータ保護と責任のルールも課題になります。</p>",
+        "source": "NHK World",
+        "sourceUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20260630_21/",
+        "sourceSnippet": "Japan aims to deploy 10 million AI robots by 2040",
+        "source2": "JapanGov",
+        "sourceUrl2": "https://www.japan.go.jp/",
+        "sourceSnippet2": "Japan Government policy and innovation information",
+        "source3": "Reuters",
+        "sourceUrl3": "https://www.reuters.com/business/media-telecom/robot-ai-company-noetra-is-last-chance-japan-ceo-says-2026-07-22/",
+        "sourceSnippet3": "Robot AI company says Japan faces a decisive moment"
+      },
+      "ko": {
+        "title": "일본, 2040년까지 AI 로봇 1천만 대 목표",
+        "desc": "일본 정부가 노동력 부족에 대응하기 위해 18개 분야에 AI 로봇 약 1천만 대를 배치한다는 목표를 세웠습니다.",
+        "content": "<p>일본 산업성은 2040년까지 제조, 물류, 고령자 돌봄, 농업, 공공서비스 등 18개 분야에 AI 탑재 로봇 약 1천만 대를 도입하는 목표를 제시했습니다.</p><p>생산가능인구 감소 속에서 생산성을 지키려는 구상입니다. 공장용 기계뿐 아니라 환경을 학습하고 반복적이거나 위험한 업무를 돕는 시스템이 대상입니다.</p><p>국산 AI 모델, 안전 기준, 인력 교육, 중소기업 금융이 필요합니다. 자율 시스템의 오류가 발생할 때 데이터 보안과 책임 문제도 함께 정리해야 합니다.</p>",
+        "source": "NHK World",
+        "sourceUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20260630_21/",
+        "sourceSnippet": "Japan aims to deploy 10 million AI robots by 2040",
+        "source2": "JapanGov",
+        "sourceUrl2": "https://www.japan.go.jp/",
+        "sourceSnippet2": "Japan Government policy and innovation information",
+        "source3": "Reuters",
+        "sourceUrl3": "https://www.reuters.com/business/media-telecom/robot-ai-company-noetra-is-last-chance-japan-ceo-says-2026-07-22/",
+        "sourceSnippet3": "Robot AI company says Japan faces a decisive moment"
+      },
+      "zh": {
+        "title": "日本目标2040年部署1000万台人工智能机器人",
+        "desc": "日本政府计划在18个领域部署约1000万台人工智能机器人，以应对劳动力短缺。",
+        "content": "<p>日本经济产业省提出，到2040年在制造、物流、养老护理、农业和公共服务等18个领域引入约1000万台人工智能机器人。</p><p>在人口劳动年龄段缩小的情况下，政府希望借助机器人维持生产率。重点不只在工厂设备，也包括能够感知环境并协助完成重复或危险工作的系统。</p><p>实现目标需要国产AI模型、安全标准、人才培训和面向中小企业的融资。分析人士还提醒，快速普及必须解决数据安全以及自主系统出错时的责任问题。</p>",
+        "source": "NHK World",
+        "sourceUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20260630_21/",
+        "sourceSnippet": "Japan aims to deploy 10 million AI robots by 2040",
+        "source2": "JapanGov",
+        "sourceUrl2": "https://www.japan.go.jp/",
+        "sourceSnippet2": "Japan Government policy and innovation information",
+        "source3": "Reuters",
+        "sourceUrl3": "https://www.reuters.com/business/media-telecom/robot-ai-company-noetra-is-last-chance-japan-ceo-says-2026-07-22/",
+        "sourceSnippet3": "Robot AI company says Japan faces a decisive moment"
+      }
+    }
+  },
+  {
+    "id": "jepang-gelombang-panas-ekstrem-juli2026",
+    "langs": {
+      "id": {
+        "title": "Gelombang Panas Ekstrem Melanda Jepang, Peringatan Heatstroke Diperluas",
+        "desc": "Suhu sangat tinggi memicu peringatan sengatan panas di banyak prefektur Jepang ketika badai tropis turut membuat cuaca tidak stabil.",
+        "content": "<p>Gelombang panas kembali melanda Jepang pada Juli, dengan sejumlah wilayah mencatat suhu mendekati atau melampaui 40 derajat Celsius. Badan cuaca memperluas peringatan heatstroke dan meminta warga mengurangi aktivitas luar ruangan pada siang hari.</p><p>Cuaca panas muncul bersamaan dengan pengaruh badai tropis yang membawa hujan deras dan risiko longsor di wilayah lain. Perbedaan kondisi ini menyulitkan pemerintah daerah dalam menyiapkan layanan darurat dan perlindungan bagi lansia.</p><p>Dokter mengingatkan bahwa pendingin ruangan, minum teratur, dan pemeriksaan terhadap tetangga yang tinggal sendiri sangat penting. Perusahaan juga didorong mengubah jadwal kerja agar paparan panas bagi pekerja luar ruangan berkurang.</p>",
+        "source": "The Japan Times",
+        "sourceUrl": "https://www.japantimes.co.jp/news/2026/07/13/japan/extreme-heat-july/",
+        "sourceSnippet": "Extreme heat grips Japan with potential double storm",
+        "source2": "Japan Weather Association",
+        "sourceUrl2": "https://weather-jwa.jp/en/news/articles/post10508",
+        "sourceSnippet2": "Japan weather outlook for 2026",
+        "source3": "Japan Meteorological Agency",
+        "sourceUrl3": "https://www.jma.go.jp/jma/en/Activities/heatstroke.html",
+        "sourceSnippet3": "Heatstroke information and warnings"
+      },
+      "en": {
+        "title": "Extreme Heat Grips Japan as Heatstroke Alerts Expand",
+        "desc": "Very high temperatures have triggered heatstroke alerts across Japan while tropical storms add heavy rain and landslide risks elsewhere.",
+        "content": "<p>Another heatwave swept Japan in July, with several areas recording temperatures near or above 40 Celsius. Weather officials expanded heatstroke alerts and urged people to limit outdoor activity during the afternoon.</p><p>The heat arrived alongside tropical-storm effects that brought heavy rain and landslide risks to other regions. The contrast is complicating emergency preparation and protection for older residents.</p><p>Doctors say air conditioning, regular hydration and checking on people who live alone are essential. Employers are also being urged to adjust schedules to reduce heat exposure for outdoor workers.</p>",
+        "source": "The Japan Times",
+        "sourceUrl": "https://www.japantimes.co.jp/news/2026/07/13/japan/extreme-heat-july/",
+        "sourceSnippet": "Extreme heat grips Japan with potential double storm",
+        "source2": "Japan Weather Association",
+        "sourceUrl2": "https://weather-jwa.jp/en/news/articles/post10508",
+        "sourceSnippet2": "Japan weather outlook for 2026",
+        "source3": "Japan Meteorological Agency",
+        "sourceUrl3": "https://www.jma.go.jp/jma/en/Activities/heatstroke.html",
+        "sourceSnippet3": "Heatstroke information and warnings"
+      },
+      "ja": {
+        "title": "日本で記録的暑さ、熱中症警戒が拡大",
+        "desc": "非常に高い気温が日本各地を覆い、熱帯低気圧の影響による大雨と合わせて警戒が強まっています。",
+        "content": "<p>7月の日本では再び猛暑となり、複数の地域で気温が40度前後、またはそれを上回りました。気象当局は熱中症警戒を広げ、午後の屋外活動を控えるよう呼びかけています。</p><p>一方で熱帯低気圧の影響により、別の地域では大雨や土砂災害のリスクが高まっています。自治体は高齢者の保護と緊急対応の準備を同時に進めています。</p><p>医師は冷房、こまめな水分補給、一人暮らしの人への声かけが重要だと説明しています。屋外作業者の暑熱曝露を減らす勤務時間の見直しも求められています。</p>",
+        "source": "The Japan Times",
+        "sourceUrl": "https://www.japantimes.co.jp/news/2026/07/13/japan/extreme-heat-july/",
+        "sourceSnippet": "Extreme heat grips Japan with potential double storm",
+        "source2": "Japan Weather Association",
+        "sourceUrl2": "https://weather-jwa.jp/en/news/articles/post10508",
+        "sourceSnippet2": "Japan weather outlook for 2026",
+        "source3": "Japan Meteorological Agency",
+        "sourceUrl3": "https://www.jma.go.jp/jma/en/Activities/heatstroke.html",
+        "sourceSnippet3": "Heatstroke information and warnings"
+      },
+      "ko": {
+        "title": "일본 폭염 지속…열사병 경보 확대",
+        "desc": "일본 전역의 고온으로 열사병 경보가 확대됐고, 열대성 폭풍은 다른 지역에 폭우와 산사태 위험을 더했습니다.",
+        "content": "<p>7월 일본에 다시 폭염이 찾아오며 여러 지역의 기온이 40도 안팎 또는 그 이상으로 올랐습니다. 기상 당국은 열사병 경보를 확대하고 오후 야외활동을 줄여 달라고 당부했습니다.</p><p>열대성 폭풍의 영향으로 다른 지역에서는 폭우와 산사태 위험도 커졌습니다. 지자체들은 고령자 보호와 비상 대응을 동시에 준비하고 있습니다.</p><p>의료진은 냉방, 충분한 수분 섭취, 독거 주민 확인이 중요하다고 강조합니다. 야외 노동자의 열 노출을 줄이도록 근무시간을 조정해야 한다는 목소리도 나옵니다.</p>",
+        "source": "The Japan Times",
+        "sourceUrl": "https://www.japantimes.co.jp/news/2026/07/13/japan/extreme-heat-july/",
+        "sourceSnippet": "Extreme heat grips Japan with potential double storm",
+        "source2": "Japan Weather Association",
+        "sourceUrl2": "https://weather-jwa.jp/en/news/articles/post10508",
+        "sourceSnippet2": "Japan weather outlook for 2026",
+        "source3": "Japan Meteorological Agency",
+        "sourceUrl3": "https://www.jma.go.jp/jma/en/Activities/heatstroke.html",
+        "sourceSnippet3": "Heatstroke information and warnings"
+      },
+      "zh": {
+        "title": "日本极端高温持续，热射病警报扩大",
+        "desc": "日本多地高温引发热射病警报，同时热带风暴给其他地区带来暴雨和山体滑坡风险。",
+        "content": "<p>7月日本再次遭遇热浪，多地气温接近或超过40摄氏度。气象部门扩大了中暑警报范围，并呼吁居民减少午后户外活动。</p><p>热浪与热带风暴影响同时出现，其他地区面临暴雨和山体滑坡风险。地方政府需要同时做好紧急救援和老年人保护工作。</p><p>医生提醒，使用空调、及时补水以及照看独居居民都很重要。企业也被要求调整工作时间，减少户外劳动者暴露在高温中的时间。</p>",
+        "source": "The Japan Times",
+        "sourceUrl": "https://www.japantimes.co.jp/news/2026/07/13/japan/extreme-heat-july/",
+        "sourceSnippet": "Extreme heat grips Japan with potential double storm",
+        "source2": "Japan Weather Association",
+        "sourceUrl2": "https://weather-jwa.jp/en/news/articles/post10508",
+        "sourceSnippet2": "Japan weather outlook for 2026",
+        "source3": "Japan Meteorological Agency",
+        "sourceUrl3": "https://www.jma.go.jp/jma/en/Activities/heatstroke.html",
+        "sourceSnippet3": "Heatstroke information and warnings"
+      }
+    }
+  },
+  {
+    "id": "jepang-naomi-osaka-perempatfinal-wimbledon-2026",
+    "langs": {
+      "id": {
+        "title": "Naomi Osaka Capai Perempat Final Wimbledon untuk Pertama Kalinya",
+        "desc": "Naomi Osaka menembus perempat final Wimbledon untuk pertama kali sebelum perjalanannya berakhir melawan Karolina Muchova.",
+        "content": "<p>Naomi Osaka mencatat pencapaian terbaiknya di Wimbledon dengan mencapai perempat final pada awal Juli. Petenis Jepang itu mengalahkan sejumlah lawan kuat sebelum kalah dua set dari Karolina Muchova.</p><p>Perjalanan tersebut menunjukkan kebangkitan Osaka setelah beberapa musim yang terganggu cedera dan penyesuaian sebagai ibu. Ia mengatakan kondisi fisik, termasuk rasa sakit pada kaki, menjadi tantangan yang harus dikelola sepanjang turnamen.</p><p>Hasil di London memberi Osaka dorongan dalam persiapan menuju tur lapangan keras dan agenda Piala Billie Jean King. Penampilannya juga memperbarui perhatian terhadap perkembangan tenis putri Jepang.</p>",
+        "source": "AP News",
+        "sourceUrl": "https://apnews.com/article/wimbledon-naomi-osaka-2fccdf2f6aa572352613e6735eb73a2e",
+        "sourceSnippet": "Naomi Osaka laments sore feet after Wimbledon run",
+        "source2": "Wimbledon",
+        "sourceUrl2": "https://www.wimbledon.com/en_GB/news/articles/2026-07-07/osaka_run_ends_in_quarterfinal.html",
+        "sourceSnippet2": "Wimbledon tournament coverage",
+        "source3": "WTA",
+        "sourceUrl3": "https://www.wtatennis.com/players/318033/naomi-osaka",
+        "sourceSnippet3": "Naomi Osaka player profile"
+      },
+      "en": {
+        "title": "Naomi Osaka Reaches First Wimbledon Quarterfinal",
+        "desc": "Naomi Osaka reached her first Wimbledon quarterfinal before losing to Karolina Muchova.",
+        "content": "<p>Naomi Osaka posted her best Wimbledon result by reaching the quarterfinals in early July. The Japanese player defeated several strong opponents before losing to Karolina Muchova in straight sets.</p><p>The run marked progress after seasons disrupted by injuries and the adjustment to motherhood. Osaka said managing her physical condition, including foot soreness, remained a challenge throughout the tournament.</p><p>The London result gives Osaka momentum for the hard-court season and Billie Jean King Cup plans. It also renewed attention on the development of women’s tennis in Japan.</p>",
+        "source": "AP News",
+        "sourceUrl": "https://apnews.com/article/wimbledon-naomi-osaka-2fccdf2f6aa572352613e6735eb73a2e",
+        "sourceSnippet": "Naomi Osaka laments sore feet after Wimbledon run",
+        "source2": "Wimbledon",
+        "sourceUrl2": "https://www.wimbledon.com/en_GB/news/articles/2026-07-07/osaka_run_ends_in_quarterfinal.html",
+        "sourceSnippet2": "Wimbledon tournament coverage",
+        "source3": "WTA",
+        "sourceUrl3": "https://www.wtatennis.com/players/318033/naomi-osaka",
+        "sourceSnippet3": "Naomi Osaka player profile"
+      },
+      "ja": {
+        "title": "大坂なおみ、ウィンブルドン初の準々決勝進出",
+        "desc": "大坂なおみはウィンブルドンで初めて準々決勝に進出し、カロリーナ・ムホバに敗れました。",
+        "content": "<p>大坂なおみは7月上旬、ウィンブルドンで自己最高となる準々決勝進出を果たしました。強豪を破った後、カロリーナ・ムホバにストレートで敗れました。</p><p>今回の快進撃は、けがや出産後の調整に悩まされた数シーズンを経た前進です。大会中は足の痛みを含む体調管理が課題だったと話しました。</p><p>ロンドンでの結果は、ハードコートシーズンとビリー・ジーン・キング杯に向けた弾みとなります。日本女子テニスの成長にも改めて注目が集まりました。</p>",
+        "source": "AP News",
+        "sourceUrl": "https://apnews.com/article/wimbledon-naomi-osaka-2fccdf2f6aa572352613e6735eb73a2e",
+        "sourceSnippet": "Naomi Osaka laments sore feet after Wimbledon run",
+        "source2": "Wimbledon",
+        "sourceUrl2": "https://www.wimbledon.com/en_GB/news/articles/2026-07-07/osaka_run_ends_in_quarterfinal.html",
+        "sourceSnippet2": "Wimbledon tournament coverage",
+        "source3": "WTA",
+        "sourceUrl3": "https://www.wtatennis.com/players/318033/naomi-osaka",
+        "sourceSnippet3": "Naomi Osaka player profile"
+      },
+      "ko": {
+        "title": "오사카 나오미, 윔블던 첫 8강 진출",
+        "desc": "오사카 나오미가 윔블던에서 처음으로 8강에 올랐지만 카롤리나 무호바에게 패했습니다.",
+        "content": "<p>오사카 나오미는 7월 초 윔블던에서 개인 최고 성적인 8강 진출을 기록했습니다. 강호들을 꺾은 뒤 카롤리나 무호바에게 두 세트로 졌습니다.</p><p>부상과 출산 후 적응으로 어려움을 겪은 시즌들을 지나 거둔 진전입니다. 오사카는 대회 내내 발 통증을 포함한 몸 상태 관리가 과제였다고 말했습니다.</p><p>런던에서의 성과는 하드코트 시즌과 빌리 진 킹컵을 앞두고 자신감을 줬습니다. 일본 여자 테니스의 성장에도 다시 관심이 모였습니다.</p>",
+        "source": "AP News",
+        "sourceUrl": "https://apnews.com/article/wimbledon-naomi-osaka-2fccdf2f6aa572352613e6735eb73a2e",
+        "sourceSnippet": "Naomi Osaka laments sore feet after Wimbledon run",
+        "source2": "Wimbledon",
+        "sourceUrl2": "https://www.wimbledon.com/en_GB/news/articles/2026-07-07/osaka_run_ends_in_quarterfinal.html",
+        "sourceSnippet2": "Wimbledon tournament coverage",
+        "source3": "WTA",
+        "sourceUrl3": "https://www.wtatennis.com/players/318033/naomi-osaka",
+        "sourceSnippet3": "Naomi Osaka player profile"
+      },
+      "zh": {
+        "title": "大坂直美首次打进温网八强",
+        "desc": "大坂直美首次进入温网四分之一决赛，随后直落两盘不敌卡罗琳娜·穆霍娃。",
+        "content": "<p>大坂直美在7月初取得温网最佳战绩，首次晋级四分之一决赛。她击败几名强劲对手后，直落两盘输给卡罗琳娜·穆霍娃。</p><p>这次表现是她在伤病以及成为母亲后的调整过程中取得的进步。大坂表示，包括脚部疼痛在内的身体状况管理一直是赛事挑战。</p><p>伦敦的成绩为硬地赛季和比莉·简·金杯计划增添动力，也让外界再次关注日本女子网球的发展。</p>",
+        "source": "AP News",
+        "sourceUrl": "https://apnews.com/article/wimbledon-naomi-osaka-2fccdf2f6aa572352613e6735eb73a2e",
+        "sourceSnippet": "Naomi Osaka laments sore feet after Wimbledon run",
+        "source2": "Wimbledon",
+        "sourceUrl2": "https://www.wimbledon.com/en_GB/news/articles/2026-07-07/osaka_run_ends_in_quarterfinal.html",
+        "sourceSnippet2": "Wimbledon tournament coverage",
+        "source3": "WTA",
+        "sourceUrl3": "https://www.wtatennis.com/players/318033/naomi-osaka",
+        "sourceSnippet3": "Naomi Osaka player profile"
+      }
+    }
+  },
+  {
+    "id": "jepang-wisatawan-asing-turun-paruh-pertama-2026",
+    "langs": {
+      "id": {
+        "title": "Jumlah Wisatawan Asing ke Jepang Turun pada Paruh Pertama 2026",
+        "desc": "Kunjungan wisatawan asing Jepang turun pada Juni dan paruh pertama tahun ini, meski totalnya masih menembus lebih dari 21 juta.",
+        "content": "<p>Jepang menerima sekitar 21,08 juta wisatawan asing pada Januari hingga Juni 2026. Namun, jumlah kunjungan Juni turun 6,8 persen dibandingkan tahun sebelumnya, menjadi penurunan bulanan ketiga berturut-turut.</p><p>Perlambatan terjadi setelah periode rekor, ketika kapasitas penerbangan, harga akomodasi, dan kepadatan destinasi menjadi perhatian. Perubahan jumlah wisatawan dari beberapa pasar Asia juga memengaruhi komposisi pengunjung.</p><p>Pemerintah tetap menargetkan pariwisata bernilai tinggi dan penyebaran pengunjung ke daerah di luar Tokyo, Kyoto, dan Osaka. Industri perjalanan perlu menyeimbangkan pendapatan dengan tekanan terhadap transportasi, perumahan, dan lingkungan lokal.</p>",
+        "source": "JNTO",
+        "sourceUrl": "https://statistics.jnto.go.jp/en/graph/",
+        "sourceSnippet": "Japan Tourism Statistics",
+        "source2": "The Japan Times",
+        "sourceUrl2": "https://www.japantimes.co.jp/news/2026/07/16/japan/society/japan-visitor-number-down/",
+        "sourceSnippet2": "Japan sees drop in foreign visitors in first half",
+        "source3": "Japan Tourism Research Institute",
+        "sourceUrl3": "https://www.tourism.jp/en/tourism-statistics/inbound-travel-statistics/",
+        "sourceSnippet3": "Foreign Visitors to Japan statistics"
+      },
+      "en": {
+        "title": "Foreign Arrivals to Japan Slip in First Half of 2026",
+        "desc": "Japan still welcomed more than 21 million visitors in the first half, but arrivals fell in June for a third straight month.",
+        "content": "<p>Japan received an estimated 21.08 million foreign visitors from January through June 2026. June arrivals nevertheless fell 6.8% from a year earlier, the third consecutive monthly decline.</p><p>The slowdown follows a record period in which flight capacity, accommodation prices and crowding became concerns. Shifts in arrivals from several Asian markets also changed the visitor mix.</p><p>The government is still targeting higher-value tourism and dispersing visitors beyond Tokyo, Kyoto and Osaka. The industry must balance revenue with pressure on transport, housing and local environments.</p>",
+        "source": "JNTO",
+        "sourceUrl": "https://statistics.jnto.go.jp/en/graph/",
+        "sourceSnippet": "Japan Tourism Statistics",
+        "source2": "The Japan Times",
+        "sourceUrl2": "https://www.japantimes.co.jp/news/2026/07/16/japan/society/japan-visitor-number-down/",
+        "sourceSnippet2": "Japan sees drop in foreign visitors in first half",
+        "source3": "Japan Tourism Research Institute",
+        "sourceUrl3": "https://www.tourism.jp/en/tourism-statistics/inbound-travel-statistics/",
+        "sourceSnippet3": "Foreign Visitors to Japan statistics"
+      },
+      "ja": {
+        "title": "2026年上半期の訪日客、6月に3か月連続減少",
+        "desc": "上半期の訪日客は2100万人を超えましたが、6月の訪問者数は前年同月比で減少しました。",
+        "content": "<p>2026年1月から6月までに日本を訪れた外国人は推計2108万人となりました。一方、6月の訪日客は前年同月比6.8％減少し、3か月連続の減少となりました。</p><p>記録的な訪日が続いた後、航空座席、宿泊料金、観光地の混雑が課題になっています。アジアの一部市場からの訪問者の変化も旅行者構成に影響しました。</p><p>政府は高付加価値観光と、東京・京都・大阪以外への誘客を目指しています。旅行業界には収益と交通、住宅、地域環境への負荷の両立が求められます。</p>",
+        "source": "JNTO",
+        "sourceUrl": "https://statistics.jnto.go.jp/en/graph/",
+        "sourceSnippet": "Japan Tourism Statistics",
+        "source2": "The Japan Times",
+        "sourceUrl2": "https://www.japantimes.co.jp/news/2026/07/16/japan/society/japan-visitor-number-down/",
+        "sourceSnippet2": "Japan sees drop in foreign visitors in first half",
+        "source3": "Japan Tourism Research Institute",
+        "sourceUrl3": "https://www.tourism.jp/en/tourism-statistics/inbound-travel-statistics/",
+        "sourceSnippet3": "Foreign Visitors to Japan statistics"
+      },
+      "ko": {
+        "title": "2026년 상반기 일본 외국인 관광객 감소",
+        "desc": "상반기 일본을 찾은 외국인은 2,100만 명을 넘었지만 6월 방문객은 3개월 연속 줄었습니다.",
+        "content": "<p>2026년 1월부터 6월까지 일본을 방문한 외국인은 약 2,108만 명으로 추산됩니다. 그러나 6월 방문객은 전년보다 6.8% 줄어 3개월 연속 감소했습니다.</p><p>기록적인 관광 붐 이후 항공 좌석, 숙박료, 관광지 혼잡이 문제로 떠올랐습니다. 아시아 일부 시장의 방문객 변화도 관광객 구성을 바꿨습니다.</p><p>정부는 고부가가치 관광과 도쿄·교토·오사카 외 지역으로의 분산을 추진합니다. 관광업계는 수익과 교통·주거·지역환경 부담의 균형을 찾아야 합니다.</p>",
+        "source": "JNTO",
+        "sourceUrl": "https://statistics.jnto.go.jp/en/graph/",
+        "sourceSnippet": "Japan Tourism Statistics",
+        "source2": "The Japan Times",
+        "sourceUrl2": "https://www.japantimes.co.jp/news/2026/07/16/japan/society/japan-visitor-number-down/",
+        "sourceSnippet2": "Japan sees drop in foreign visitors in first half",
+        "source3": "Japan Tourism Research Institute",
+        "sourceUrl3": "https://www.tourism.jp/en/tourism-statistics/inbound-travel-statistics/",
+        "sourceSnippet3": "Foreign Visitors to Japan statistics"
+      },
+      "zh": {
+        "title": "2026年上半年赴日游客数量回落",
+        "desc": "上半年赴日游客仍超过2100万人，但6月访日人数连续第三个月下降。",
+        "content": "<p>2026年1月至6月，日本接待外国游客约2108万人。不过6月访日人数同比下降6.8%，连续第三个月减少。</p><p>在创纪录的旅游热潮之后，航班运力、住宿价格和景区拥挤成为关注点。部分亚洲市场游客数量变化也改变了访客结构。</p><p>日本政府仍计划发展高价值旅游，并把游客分散到东京、京都和大阪以外。旅游业需要平衡收入与交通、住房和地方环境压力。</p>",
+        "source": "JNTO",
+        "sourceUrl": "https://statistics.jnto.go.jp/en/graph/",
+        "sourceSnippet": "Japan Tourism Statistics",
+        "source2": "The Japan Times",
+        "sourceUrl2": "https://www.japantimes.co.jp/news/2026/07/16/japan/society/japan-visitor-number-down/",
+        "sourceSnippet2": "Japan sees drop in foreign visitors in first half",
+        "source3": "Japan Tourism Research Institute",
+        "sourceUrl3": "https://www.tourism.jp/en/tourism-statistics/inbound-travel-statistics/",
+        "sourceSnippet3": "Foreign Visitors to Japan statistics"
+      }
+    }
+  },
+  {
+    "id": "jepang-impor-lng-as-juli2026",
+    "langs": {
+      "id": {
+        "title": "Impor LNG Amerika Serikat Jepang Naik di Tengah Ketidakpastian Pasokan",
+        "desc": "Jepang meningkatkan impor LNG dari Amerika Serikat ketika pasar energi Asia berusaha mengamankan pasokan dan menghadapi risiko gangguan pengiriman.",
+        "content": "<p>Impor LNG Jepang dari Amerika Serikat diperkirakan mencapai sekitar 940.000 ton pada Juli, salah satu angka bulanan tertinggi yang pernah dicatat. Peningkatan itu terjadi ketika pembeli Asia berusaha mengamankan kargo di tengah ketidakpastian pasokan global.</p><p>LNG penting bagi Jepang karena pembangkit gas membantu menjaga listrik ketika permintaan naik akibat cuaca panas. Namun, ketergantungan pada impor membuat konsumen rentan terhadap harga, biaya pengiriman, dan gangguan geopolitik.</p><p>Perusahaan listrik dan pemerintah terus menyeimbangkan kontrak jangka panjang, stok darurat, energi terbarukan, dan pengoperasian kembali pembangkit nuklir. Strategi tersebut menentukan seberapa besar risiko energi dapat ditekan menjelang musim dingin.</p>",
+        "source": "Reuters",
+        "sourceUrl": "https://www.reuters.com/commentary/reuters-open-interest/asias-lng-imports-recover-drawing-cargoes-needy-europe-2026-07-13/",
+        "sourceSnippet": "Asia LNG imports recover",
+        "source2": "Reuters",
+        "sourceUrl2": "https://www.reuters.com/business/energy/japan-risks-summer-power-crunch-due-middle-east-lng-disruptions-ieej-analyst-2026-04-13/",
+        "sourceSnippet2": "Japan risks summer power crunch",
+        "source3": "Reuters",
+        "sourceUrl3": "https://www.reuters.com/business/energy/global-lng-trade-hit-record-2025-middle-east-conflict-clouds-outlook-igu-says-2026-07-07/",
+        "sourceSnippet3": "Global LNG trade outlook"
+      },
+      "en": {
+        "title": "Japan Boosts U.S. LNG Imports Amid Supply Uncertainty",
+        "desc": "Japan’s imports of U.S. liquefied natural gas are rising as Asian buyers secure supplies amid global shipping and geopolitical risks.",
+        "content": "<p>Japan’s imports of U.S. LNG are expected to reach about 940,000 tonnes in July, among the highest monthly totals on record. The increase comes as Asian buyers secure cargoes amid uncertainty in global supply.</p><p>LNG is important because gas-fired plants help protect Japan’s electricity system when hot weather lifts demand. But import dependence leaves consumers exposed to prices, freight costs and geopolitical disruptions.</p><p>Utilities and policymakers are balancing long-term contracts, emergency inventories, renewables and the restart of nuclear plants. That mix will shape energy risks ahead of winter.</p>",
+        "source": "Reuters",
+        "sourceUrl": "https://www.reuters.com/commentary/reuters-open-interest/asias-lng-imports-recover-drawing-cargoes-needy-europe-2026-07-13/",
+        "sourceSnippet": "Asia LNG imports recover",
+        "source2": "Reuters",
+        "sourceUrl2": "https://www.reuters.com/business/energy/japan-risks-summer-power-crunch-due-middle-east-lng-disruptions-ieej-analyst-2026-04-13/",
+        "sourceSnippet2": "Japan risks summer power crunch",
+        "source3": "Reuters",
+        "sourceUrl3": "https://www.reuters.com/business/energy/global-lng-trade-hit-record-2025-middle-east-conflict-clouds-outlook-igu-says-2026-07-07/",
+        "sourceSnippet3": "Global LNG trade outlook"
+      },
+      "ja": {
+        "title": "供給不安のなか、日本の米国産LNG輸入が増加",
+        "desc": "日本は世界の供給や輸送をめぐる不確実性を背景に、米国産液化天然ガスの輸入を増やしています。",
+        "content": "<p>7月の日本の米国産LNG輸入量は約94万トンに達し、月間として過去最高水準の一つになる見通しです。アジアの買い手が世界の供給不安を受けて貨物を確保しています。</p><p>猛暑で電力需要が高まる際、ガス火力は電力網を支える重要な役割を担います。一方、輸入依存は価格、輸送費、地政学的な混乱の影響を受けやすくします。</p><p>電力会社と政府は長期契約、備蓄、再生可能エネルギー、原発再稼働を組み合わせています。この構成が冬に向けたエネルギーリスクを左右します。</p>",
+        "source": "Reuters",
+        "sourceUrl": "https://www.reuters.com/commentary/reuters-open-interest/asias-lng-imports-recover-drawing-cargoes-needy-europe-2026-07-13/",
+        "sourceSnippet": "Asia LNG imports recover",
+        "source2": "Reuters",
+        "sourceUrl2": "https://www.reuters.com/business/energy/japan-risks-summer-power-crunch-due-middle-east-lng-disruptions-ieej-analyst-2026-04-13/",
+        "sourceSnippet2": "Japan risks summer power crunch",
+        "source3": "Reuters",
+        "sourceUrl3": "https://www.reuters.com/business/energy/global-lng-trade-hit-record-2025-middle-east-conflict-clouds-outlook-igu-says-2026-07-07/",
+        "sourceSnippet3": "Global LNG trade outlook"
+      },
+      "ko": {
+        "title": "공급 불확실성 속 일본의 미국산 LNG 수입 증가",
+        "desc": "일본이 글로벌 공급과 해상 운송 불확실성 속에서 미국산 액화천연가스 수입을 늘리고 있습니다.",
+        "content": "<p>7월 일본의 미국산 LNG 수입량은 약 94만 톤으로 월간 기준 사상 최고 수준 중 하나가 될 전망입니다. 아시아 구매자들이 세계 공급 불확실성에 대비해 물량을 확보하고 있습니다.</p><p>더운 날씨로 전력 수요가 늘 때 가스 발전은 일본 전력망을 지탱합니다. 하지만 수입 의존도는 가격과 운송비, 지정학적 충격에 대한 취약성을 키웁니다.</p><p>전력회사와 정부는 장기계약, 비축, 재생에너지, 원전 재가동을 함께 검토하고 있습니다. 이 조합이 겨울철 에너지 위험을 결정할 전망입니다.</p>",
+        "source": "Reuters",
+        "sourceUrl": "https://www.reuters.com/commentary/reuters-open-interest/asias-lng-imports-recover-drawing-cargoes-needy-europe-2026-07-13/",
+        "sourceSnippet": "Asia LNG imports recover",
+        "source2": "Reuters",
+        "sourceUrl2": "https://www.reuters.com/business/energy/japan-risks-summer-power-crunch-due-middle-east-lng-disruptions-ieej-analyst-2026-04-13/",
+        "sourceSnippet2": "Japan risks summer power crunch",
+        "source3": "Reuters",
+        "sourceUrl3": "https://www.reuters.com/business/energy/global-lng-trade-hit-record-2025-middle-east-conflict-clouds-outlook-igu-says-2026-07-07/",
+        "sourceSnippet3": "Global LNG trade outlook"
+      },
+      "zh": {
+        "title": "供应不确定性下日本增加美国液化天然气进口",
+        "desc": "在全球供应和航运存在不确定性的情况下，日本正在增加美国液化天然气进口。",
+        "content": "<p>预计日本7月进口美国液化天然气约94万吨，接近历史最高月度水平。亚洲买家正趁全球供应不确定之际锁定货物。</p><p>天气炎热、用电需求上升时，燃气电厂对日本电网很重要。但依赖进口也让消费者暴露在价格、运费和地缘政治冲击之下。</p><p>电力公司和政府正在平衡长期合同、应急库存、可再生能源以及核电站重启。这一组合将决定冬季前的能源风险。</p>",
+        "source": "Reuters",
+        "sourceUrl": "https://www.reuters.com/commentary/reuters-open-interest/asias-lng-imports-recover-drawing-cargoes-needy-europe-2026-07-13/",
+        "sourceSnippet": "Asia LNG imports recover",
+        "source2": "Reuters",
+        "sourceUrl2": "https://www.reuters.com/business/energy/japan-risks-summer-power-crunch-due-middle-east-lng-disruptions-ieej-analyst-2026-04-13/",
+        "sourceSnippet2": "Japan risks summer power crunch",
+        "source3": "Reuters",
+        "sourceUrl3": "https://www.reuters.com/business/energy/global-lng-trade-hit-record-2025-middle-east-conflict-clouds-outlook-igu-says-2026-07-07/",
+        "sourceSnippet3": "Global LNG trade outlook"
+      }
+    }
+  }
+]
     ]
   };
   window.countries = window.countryDataFiles;
