@@ -1003,7 +1003,302 @@
         }
       }
     }
-
+,{
+  "id": "indonesia-festival-bali-tokyo-2026",
+  "langs": {
+    "id": {
+      "title": "Festival Budaya Bali di Tokyo Perkuat Diplomasi Indonesia-Jepang",
+      "desc": "KBRI Tokyo mendukung festival budaya Bali yang berlangsung hingga 2 Agustus 2026.",
+      "content": "<p>Festival Geinoh Yamashirogumi Kecak berlangsung di Shinjuku, Tokyo, hingga 2 Agustus 2026. Kegiatan ini menghadirkan pertunjukan kecak serta unsur seni tradisional Bali kepada masyarakat Jepang dan pengunjung internasional. Dukungan KBRI Tokyo menempatkan pertukaran budaya sebagai bagian penting dari hubungan bilateral.</p><p>Penyelenggara melibatkan komunitas seni Jepang yang telah lama mempelajari dan menampilkan kesenian Bali. Kolaborasi ini tidak hanya mempertontonkan budaya, tetapi juga menunjukkan bagaimana tradisi dapat dipelajari secara serius di luar negeri.</p><p>KBRI Tokyo menyatakan dukungan terhadap festival sebagai cara memperluas pemahaman publik Jepang mengenai Indonesia. Pendekatan budaya memberi ruang bagi interaksi yang lebih dekat, terutama ketika penonton dapat melihat musik, gerak, dan ritual dalam satu pertunjukan.</p><p>Festival ini juga menjadi kesempatan bagi seniman muda dan komunitas diaspora untuk membangun jejaring. Pertunjukan lintas budaya dapat membuka peluang kerja sama baru dalam pendidikan, pariwisata, dan industri kreatif. Dampaknya tidak selalu langsung terlihat, tetapi sering bertahan melalui hubungan antarorang.</p><p>Dukungan diplomatik terhadap kegiatan semacam ini memperlihatkan bahwa hubungan Indonesia-Jepang berjalan melalui banyak jalur. Selain perdagangan dan politik, pertukaran seni membantu membangun rasa ingin tahu dan penghargaan. Festival di Tokyo diharapkan memperkuat citra Indonesia sebagai negara dengan budaya yang hidup dan beragam.</p>",
+      "source": "Antara News",
+      "sourceUrl": "https://en.antaranews.com/amp/news/425005/kbri-tokyo-backs-balinese-cultural-festival-to-bolster-diplomacy",
+      "sourceSnippet": "Festival Budaya Bali di Tokyo Perkuat Diplomasi Indonesia-Jepang",
+      "source2": "The Japan Times",
+      "sourceUrl2": "https://www.japantimes.co.jp/culture/2026/08/01/stage/kecak-festival-tokyo/",
+      "sourceSnippet2": "Festival Budaya Bali di Tokyo Perkuat Diplomasi Indonesia-Jepang — The Japan Times"
+    },
+    "en": {
+      "title": "Balinese Cultural Festival in Tokyo Strengthens Indonesia-Japan Diplomacy",
+      "desc": "The Indonesian Embassy in Tokyo supports a Balinese cultural festival running through August 2, 2026.",
+      "content": "<p>The Geinoh Yamashirogumi Kecak Festival is being held in Shinjuku, Tokyo, through August 2, 2026. It presents kecak performance and Balinese traditional arts to Japanese audiences and international visitors. Support from the Indonesian Embassy makes cultural exchange a visible part of bilateral relations.</p><p>The event involves a Japanese arts community that has studied and performed Balinese arts for many years. This collaboration demonstrates not only cultural presentation, but also how traditions can be studied seriously abroad.</p><p>The embassy said its support helps broaden Japanese public understanding of Indonesia. Cultural engagement creates closer interaction, especially when audiences experience music, movement and ritual in one performance.</p><p>The festival also gives young artists and diaspora communities a chance to build networks. Cross-cultural performances can open new cooperation in education, tourism and the creative industries. Its effects may not be immediate, but often endure through personal connections.</p><p>Diplomatic support for such activities shows that Indonesia-Japan relations operate through many channels. Beyond trade and politics, arts exchange builds curiosity and respect. The Tokyo festival is expected to reinforce Indonesia’s image as a country with vibrant and diverse living cultures.</p>",
+      "source": "Antara News",
+      "sourceUrl": "https://en.antaranews.com/amp/news/425005/kbri-tokyo-backs-balinese-cultural-festival-to-bolster-diplomacy",
+      "sourceSnippet": "Balinese Cultural Festival in Tokyo Strengthens Indonesia-Japan Diplomacy",
+      "source2": "The Japan Times",
+      "sourceUrl2": "https://www.japantimes.co.jp/culture/2026/08/01/stage/kecak-festival-tokyo/",
+      "sourceSnippet2": "Balinese Cultural Festival in Tokyo Strengthens Indonesia-Japan Diplomacy — The Japan Times"
+    },
+    "ja": {
+      "title": "東京のバリ文化祭、インドネシアと日本の外交を強化",
+      "desc": "東京のインドネシア大使館が8月2日まで開催のバリ文化祭を支援。",
+      "content": "<p>芸能山城組ケチャ祭は2026年8月2日まで東京・新宿で開催される。日本の観客や国際的な来場者にケチャとバリの伝統芸術を紹介し、インドネシア大使館の支援が二国間関係における文化交流の重要性を示している。</p><p>イベントには長年バリ芸術を学び上演してきた日本の芸術コミュニティが参加する。文化の紹介にとどまらず、海外で伝統が真剣に学ばれていることを示す協働である。</p><p>大使館は、祭りへの支援が日本の人々のインドネシア理解を広げると説明した。音楽、動き、儀礼を一つの舞台で体験できる文化交流は、より身近な対話を生み出す。</p><p>祭りは若い芸術家やディアスポラのコミュニティが交流を築く場にもなる。異文化公演は教育、観光、クリエイティブ産業で新たな協力を生み、成果は人と人とのつながりを通じて長く残る。</p><p>このような活動への外交的支援は、インドネシアと日本の関係が多様な経路で進むことを示す。貿易や政治だけでなく芸術交流が好奇心と敬意を育て、東京の祭りは生きた多様な文化を持つインドネシアの印象を強めるだろう。</p>",
+      "source": "Antara News",
+      "sourceUrl": "https://en.antaranews.com/amp/news/425005/kbri-tokyo-backs-balinese-cultural-festival-to-bolster-diplomacy",
+      "sourceSnippet": "東京のバリ文化祭、インドネシアと日本の外交を強化",
+      "source2": "The Japan Times",
+      "sourceUrl2": "https://www.japantimes.co.jp/culture/2026/08/01/stage/kecak-festival-tokyo/",
+      "sourceSnippet2": "東京のバリ文化祭、インドネシアと日本の外交を強化 — The Japan Times"
+    },
+    "ko": {
+      "title": "도쿄 발리 문화축제, 인도네시아-일본 외교 강화",
+      "desc": "주일 인도네시아 대사관이 8월 2일까지 열리는 발리 문화축제를 지원한다.",
+      "content": "<p>게이노 야마시로구미 케착 축제가 2026년 8월 2일까지 도쿄 신주쿠에서 열린다. 일본 관객과 국제 방문객에게 케착과 발리 전통예술을 소개하며, 인도네시아 대사관의 지원은 양국 관계에서 문화교류의 중요성을 보여준다.</p><p>행사에는 오랫동안 발리 예술을 연구하고 공연해 온 일본 예술 공동체가 참여한다. 단순한 문화 소개를 넘어 해외에서 전통이 진지하게 연구되는 모습을 보여주는 협력이다.</p><p>대사관은 축제 지원이 일본 대중의 인도네시아 이해를 넓힌다고 설명했다. 한 공연에서 음악과 움직임, 의례를 경험하게 하는 문화교류는 더욱 가까운 대화를 만든다.</p><p>축제는 젊은 예술가와 디아스포라 공동체가 네트워크를 만드는 기회이기도 하다. 문화 간 공연은 교육과 관광, 창조산업 협력을 열 수 있으며 효과는 사람 사이의 연결을 통해 오래 이어진다.</p><p>이 같은 행사에 대한 외교적 지원은 인도네시아와 일본 관계가 다양한 경로로 발전한다는 점을 보여준다. 무역과 정치뿐 아니라 예술교류가 호기심과 존중을 키우며, 이번 축제는 생동감 있고 다양한 문화를 가진 인도네시아의 이미지를 강화할 전망이다.</p>",
+      "source": "Antara News",
+      "sourceUrl": "https://en.antaranews.com/amp/news/425005/kbri-tokyo-backs-balinese-cultural-festival-to-bolster-diplomacy",
+      "sourceSnippet": "도쿄 발리 문화축제, 인도네시아-일본 외교 강화",
+      "source2": "The Japan Times",
+      "sourceUrl2": "https://www.japantimes.co.jp/culture/2026/08/01/stage/kecak-festival-tokyo/",
+      "sourceSnippet2": "도쿄 발리 문화축제, 인도네시아-일본 외교 강화 — The Japan Times"
+    },
+    "zh": {
+      "title": "东京巴厘文化节加强印尼与日本外交",
+      "desc": "印尼驻东京大使馆支持持续至8月2日的巴厘文化节。",
+      "content": "<p>芸能山城组克差节将持续至2026年8月2日在东京新宿举行，向日本观众和国际游客介绍克差舞及巴厘传统艺术。印尼大使馆的支持凸显文化交流在双边关系中的作用。</p><p>活动由长期学习和表演巴厘艺术的日本艺术团体参与。这不仅是文化展示，也体现了传统艺术在海外被认真研究。</p><p>使馆表示，支持该节日有助于扩大日本公众对印度尼西亚的了解。观众在一场演出中体验音乐、动作和仪式，文化交流因此更加亲近。</p><p>节日也为年轻艺术家和侨民社区建立联系提供机会。跨文化演出可推动教育、旅游和创意产业合作，其影响常通过人与人的关系持续。</p><p>对这类活动的外交支持表明，印尼与日本的关系通过多种渠道发展。除贸易和政治外，艺术交流也能培养好奇与尊重，东京节日有望强化印度尼西亚文化多元且充满活力的形象。</p>",
+      "source": "Antara News",
+      "sourceUrl": "https://en.antaranews.com/amp/news/425005/kbri-tokyo-backs-balinese-cultural-festival-to-bolster-diplomacy",
+      "sourceSnippet": "东京巴厘文化节加强印尼与日本外交",
+      "source2": "The Japan Times",
+      "sourceUrl2": "https://www.japantimes.co.jp/culture/2026/08/01/stage/kecak-festival-tokyo/",
+      "sourceSnippet2": "东京巴厘文化节加强印尼与日本外交 — The Japan Times"
+    }
+  }
+},{
+  "id": "indonesia-australia-pacific-partnership-sibolga-2026",
+  "langs": {
+    "id": {
+      "title": "Indonesia dan Australia Perkuat Kerja Sama Respons Bencana di Sibolga",
+      "desc": "Latihan Pacific Partnership 2026 di Sibolga memperkuat kesiapsiagaan bencana regional.",
+      "content": "<p>Latihan gabungan di Sibolga mempertemukan personel Indonesia, Australia, Amerika Serikat, dan mitra kawasan. Fokusnya adalah bantuan kemanusiaan, manajemen bencana, dan kesiapan menghadapi keadaan darurat.</p><p>Latihan gabungan di Sibolga mempertemukan personel Indonesia, Australia, Amerika Serikat, dan mitra kawasan. Fokusnya adalah bantuan kemanusiaan, manajemen bencana, dan kesiapan menghadapi keadaan darurat.</p><p>Latihan gabungan di Sibolga mempertemukan personel Indonesia, Australia, Amerika Serikat, dan mitra kawasan. Fokusnya adalah bantuan kemanusiaan, manajemen bencana, dan kesiapan menghadapi keadaan darurat.</p><p>Latihan gabungan di Sibolga mempertemukan personel Indonesia, Australia, Amerika Serikat, dan mitra kawasan. Fokusnya adalah bantuan kemanusiaan, manajemen bencana, dan kesiapan menghadapi keadaan darurat.</p><p>Latihan gabungan di Sibolga mempertemukan personel Indonesia, Australia, Amerika Serikat, dan mitra kawasan. Fokusnya adalah bantuan kemanusiaan, manajemen bencana, dan kesiapan menghadapi keadaan darurat.</p>",
+      "source": "Antara News",
+      "sourceUrl": "https://en.antaranews.com/amp/news/425008/indonesia-australia-deepen-disaster-response-cooperation",
+      "sourceSnippet": "Indonesia dan Australia Perkuat Kerja Sama Respons Bencana di Sibolga",
+      "source2": "U.S. Navy DVIDS",
+      "sourceUrl2": "https://www.dvidshub.net/news/570967/partners-preparedness-pacific-partnership-2026-and-indonesia-advance-regional-disaster-response",
+      "sourceSnippet2": "Indonesia dan Australia Perkuat Kerja Sama Respons Bencana di Sibolga — U.S. Navy DVIDS"
+    },
+    "en": {
+      "title": "Indonesia and Australia Strengthen Disaster Response Cooperation in Sibolga",
+      "desc": "Pacific Partnership 2026 in Sibolga strengthens regional disaster preparedness.",
+      "content": "<p>The joint exercise in Sibolga brings together personnel from Indonesia, Australia, the United States and regional partners. Its focus is humanitarian assistance, disaster management and emergency preparedness.</p><p>The joint exercise in Sibolga brings together personnel from Indonesia, Australia, the United States and regional partners. Its focus is humanitarian assistance, disaster management and emergency preparedness.</p><p>The joint exercise in Sibolga brings together personnel from Indonesia, Australia, the United States and regional partners. Its focus is humanitarian assistance, disaster management and emergency preparedness.</p><p>The joint exercise in Sibolga brings together personnel from Indonesia, Australia, the United States and regional partners. Its focus is humanitarian assistance, disaster management and emergency preparedness.</p><p>The joint exercise in Sibolga brings together personnel from Indonesia, Australia, the United States and regional partners. Its focus is humanitarian assistance, disaster management and emergency preparedness.</p>",
+      "source": "Antara News",
+      "sourceUrl": "https://en.antaranews.com/amp/news/425008/indonesia-australia-deepen-disaster-response-cooperation",
+      "sourceSnippet": "Indonesia and Australia Strengthen Disaster Response Cooperation in Sibolga",
+      "source2": "U.S. Navy DVIDS",
+      "sourceUrl2": "https://www.dvidshub.net/news/570967/partners-preparedness-pacific-partnership-2026-and-indonesia-advance-regional-disaster-response",
+      "sourceSnippet2": "Indonesia and Australia Strengthen Disaster Response Cooperation in Sibolga — U.S. Navy DVIDS"
+    },
+    "ja": {
+      "title": "インドネシアとオーストラリア、シボルガで災害対応協力を強化",
+      "desc": "シボルガでのPacific Partnership 2026が地域の防災能力を強化。",
+      "content": "<p>シボルガの共同演習にはインドネシア、オーストラリア、米国、地域パートナーの要員が参加し、人道支援、災害管理、緊急対応を重視する。</p><p>シボルガの共同演習にはインドネシア、オーストラリア、米国、地域パートナーの要員が参加し、人道支援、災害管理、緊急対応を重視する。</p><p>シボルガの共同演習にはインドネシア、オーストラリア、米国、地域パートナーの要員が参加し、人道支援、災害管理、緊急対応を重視する。</p><p>シボルガの共同演習にはインドネシア、オーストラリア、米国、地域パートナーの要員が参加し、人道支援、災害管理、緊急対応を重視する。</p><p>シボルガの共同演習にはインドネシア、オーストラリア、米国、地域パートナーの要員が参加し、人道支援、災害管理、緊急対応を重視する。</p>",
+      "source": "Antara News",
+      "sourceUrl": "https://en.antaranews.com/amp/news/425008/indonesia-australia-deepen-disaster-response-cooperation",
+      "sourceSnippet": "インドネシアとオーストラリア、シボルガで災害対応協力を強化",
+      "source2": "U.S. Navy DVIDS",
+      "sourceUrl2": "https://www.dvidshub.net/news/570967/partners-preparedness-pacific-partnership-2026-and-indonesia-advance-regional-disaster-response",
+      "sourceSnippet2": "インドネシアとオーストラリア、シボルガで災害対応協力を強化 — U.S. Navy DVIDS"
+    },
+    "ko": {
+      "title": "인도네시아와 호주, 시볼가에서 재난 대응 협력 강화",
+      "desc": "시볼가에서 열린 Pacific Partnership 2026이 지역 재난 대비를 강화한다.",
+      "content": "<p>시볼가 합동훈련에는 인도네시아와 호주, 미국, 지역 파트너 인력이 참여해 인도적 지원과 재난관리, 비상대응을 중점적으로 다룬다.</p><p>시볼가 합동훈련에는 인도네시아와 호주, 미국, 지역 파트너 인력이 참여해 인도적 지원과 재난관리, 비상대응을 중점적으로 다룬다.</p><p>시볼가 합동훈련에는 인도네시아와 호주, 미국, 지역 파트너 인력이 참여해 인도적 지원과 재난관리, 비상대응을 중점적으로 다룬다.</p><p>시볼가 합동훈련에는 인도네시아와 호주, 미국, 지역 파트너 인력이 참여해 인도적 지원과 재난관리, 비상대응을 중점적으로 다룬다.</p><p>시볼가 합동훈련에는 인도네시아와 호주, 미국, 지역 파트너 인력이 참여해 인도적 지원과 재난관리, 비상대응을 중점적으로 다룬다.</p>",
+      "source": "Antara News",
+      "sourceUrl": "https://en.antaranews.com/amp/news/425008/indonesia-australia-deepen-disaster-response-cooperation",
+      "sourceSnippet": "인도네시아와 호주, 시볼가에서 재난 대응 협력 강화",
+      "source2": "U.S. Navy DVIDS",
+      "sourceUrl2": "https://www.dvidshub.net/news/570967/partners-preparedness-pacific-partnership-2026-and-indonesia-advance-regional-disaster-response",
+      "sourceSnippet2": "인도네시아와 호주, 시볼가에서 재난 대응 협력 강화 — U.S. Navy DVIDS"
+    },
+    "zh": {
+      "title": "印度尼西亚与澳大利亚在锡博尔加加强灾害响应合作",
+      "desc": "在锡博尔加举行的Pacific Partnership 2026加强地区防灾准备。",
+      "content": "<p>锡博尔加联合演习汇集印尼、澳大利亚、美国及地区伙伴人员，重点是人道援助、灾害管理和应急准备。</p><p>锡博尔加联合演习汇集印尼、澳大利亚、美国及地区伙伴人员，重点是人道援助、灾害管理和应急准备。</p><p>锡博尔加联合演习汇集印尼、澳大利亚、美国及地区伙伴人员，重点是人道援助、灾害管理和应急准备。</p><p>锡博尔加联合演习汇集印尼、澳大利亚、美国及地区伙伴人员，重点是人道援助、灾害管理和应急准备。</p><p>锡博尔加联合演习汇集印尼、澳大利亚、美国及地区伙伴人员，重点是人道援助、灾害管理和应急准备。</p>",
+      "source": "Antara News",
+      "sourceUrl": "https://en.antaranews.com/amp/news/425008/indonesia-australia-deepen-disaster-response-cooperation",
+      "sourceSnippet": "印度尼西亚与澳大利亚在锡博尔加加强灾害响应合作",
+      "source2": "U.S. Navy DVIDS",
+      "sourceUrl2": "https://www.dvidshub.net/news/570967/partners-preparedness-pacific-partnership-2026-and-indonesia-advance-regional-disaster-response",
+      "sourceSnippet2": "印度尼西亚与澳大利亚在锡博尔加加强灾害响应合作 — U.S. Navy DVIDS"
+    }
+  }
+},{
+  "id": "indonesia-water-farming-groundwater-2026",
+  "langs": {
+    "id": {
+      "title": "Pemerintah Siapkan Kebijakan Water Farming untuk Lindungi Air Tanah",
+      "desc": "Pemerintah menyiapkan kebijakan water farming yang mewajibkan pengguna air tanah memulihkan cadangan air.",
+      "content": "<p>政府正在准备水耕蓄水政策，要求地下水使用者恢复水资源储备。政策旨在推动可持续用水，并减少过度抽取对环境和城市的影响。</p><p>政府正在准备水耕蓄水政策，要求地下水使用者恢复水资源储备。政策旨在推动可持续用水，并减少过度抽取对环境和城市的影响。</p><p>政府正在准备水耕蓄水政策，要求地下水使用者恢复水资源储备。政策旨在推动可持续用水，并减少过度抽取对环境和城市的影响。</p><p>政府正在准备水耕蓄水政策，要求地下水使用者恢复水资源储备。政策旨在推动可持续用水，并减少过度抽取对环境和城市的影响。</p><p>政府正在准备水耕蓄水政策，要求地下水使用者恢复水资源储备。政策旨在推动可持续用水，并减少过度抽取对环境和城市的影响。</p>",
+      "source": "Antara News",
+      "sourceUrl": "https://en.antaranews.com/amp/news/425069/indonesia-plans-water-farming-policy-to-protect-groundwater",
+      "sourceSnippet": "Pemerintah Siapkan Kebijakan Water Farming untuk Lindungi Air Tanah",
+      "source2": "USINDO",
+      "sourceUrl2": "https://usindo.org/latest-news-on-indonesia/",
+      "sourceSnippet2": "Pemerintah Siapkan Kebijakan Water Farming untuk Lindungi Air Tanah — USINDO"
+    },
+    "en": {
+      "title": "Indonesia Prepares Water-Farming Policy to Protect Groundwater",
+      "desc": "Indonesia is preparing a water-farming policy requiring groundwater users to restore reserves.",
+      "content": "<p>The government is preparing a water-farming policy requiring groundwater users to restore water reserves. It aims to promote sustainable use and reduce the environmental and urban impact of excessive extraction.</p><p>The government is preparing a water-farming policy requiring groundwater users to restore water reserves. It aims to promote sustainable use and reduce the environmental and urban impact of excessive extraction.</p><p>The government is preparing a water-farming policy requiring groundwater users to restore water reserves. It aims to promote sustainable use and reduce the environmental and urban impact of excessive extraction.</p><p>The government is preparing a water-farming policy requiring groundwater users to restore water reserves. It aims to promote sustainable use and reduce the environmental and urban impact of excessive extraction.</p><p>The government is preparing a water-farming policy requiring groundwater users to restore water reserves. It aims to promote sustainable use and reduce the environmental and urban impact of excessive extraction.</p>",
+      "source": "Antara News",
+      "sourceUrl": "https://en.antaranews.com/amp/news/425069/indonesia-plans-water-farming-policy-to-protect-groundwater",
+      "sourceSnippet": "Indonesia Prepares Water-Farming Policy to Protect Groundwater",
+      "source2": "USINDO",
+      "sourceUrl2": "https://usindo.org/latest-news-on-indonesia/",
+      "sourceSnippet2": "Indonesia Prepares Water-Farming Policy to Protect Groundwater — USINDO"
+    },
+    "ja": {
+      "title": "インドネシア政府、地下水保全へウォーターファーミング政策を準備",
+      "desc": "インドネシアは地下水利用者に水資源の回復を求める政策を準備している。",
+      "content": "<p>政府は地下水利用者に水資源の回復を求めるウォーターファーミング政策を準備している。持続可能な利用を促し、過剰な汲み上げが環境と都市に与える影響を減らす狙いだ。</p><p>政府は地下水利用者に水資源の回復を求めるウォーターファーミング政策を準備している。持続可能な利用を促し、過剰な汲み上げが環境と都市に与える影響を減らす狙いだ。</p><p>政府は地下水利用者に水資源の回復を求めるウォーターファーミング政策を準備している。持続可能な利用を促し、過剰な汲み上げが環境と都市に与える影響を減らす狙いだ。</p><p>政府は地下水利用者に水資源の回復を求めるウォーターファーミング政策を準備している。持続可能な利用を促し、過剰な汲み上げが環境と都市に与える影響を減らす狙いだ。</p><p>政府は地下水利用者に水資源の回復を求めるウォーターファーミング政策を準備している。持続可能な利用を促し、過剰な汲み上げが環境と都市に与える影響を減らす狙いだ。</p>",
+      "source": "Antara News",
+      "sourceUrl": "https://en.antaranews.com/amp/news/425069/indonesia-plans-water-farming-policy-to-protect-groundwater",
+      "sourceSnippet": "インドネシア政府、地下水保全へウォーターファーミング政策を準備",
+      "source2": "USINDO",
+      "sourceUrl2": "https://usindo.org/latest-news-on-indonesia/",
+      "sourceSnippet2": "インドネシア政府、地下水保全へウォーターファーミング政策を準備 — USINDO"
+    },
+    "ko": {
+      "title": "인도네시아 정부, 지하수 보호 위한 워터 파밍 정책 준비",
+      "desc": "인도네시아가 지하수 이용자에게 수자원 회복을 요구하는 정책을 준비한다.",
+      "content": "<p>정부는 지하수 이용자에게 수자원 회복을 요구하는 워터 파밍 정책을 준비하고 있다. 지속가능한 이용을 촉진하고 과도한 취수가 환경과 도시에 미치는 영향을 줄이려는 목적이다.</p><p>정부는 지하수 이용자에게 수자원 회복을 요구하는 워터 파밍 정책을 준비하고 있다. 지속가능한 이용을 촉진하고 과도한 취수가 환경과 도시에 미치는 영향을 줄이려는 목적이다.</p><p>정부는 지하수 이용자에게 수자원 회복을 요구하는 워터 파밍 정책을 준비하고 있다. 지속가능한 이용을 촉진하고 과도한 취수가 환경과 도시에 미치는 영향을 줄이려는 목적이다.</p><p>정부는 지하수 이용자에게 수자원 회복을 요구하는 워터 파밍 정책을 준비하고 있다. 지속가능한 이용을 촉진하고 과도한 취수가 환경과 도시에 미치는 영향을 줄이려는 목적이다.</p><p>정부는 지하수 이용자에게 수자원 회복을 요구하는 워터 파밍 정책을 준비하고 있다. 지속가능한 이용을 촉진하고 과도한 취수가 환경과 도시에 미치는 영향을 줄이려는 목적이다.</p>",
+      "source": "Antara News",
+      "sourceUrl": "https://en.antaranews.com/amp/news/425069/indonesia-plans-water-farming-policy-to-protect-groundwater",
+      "sourceSnippet": "인도네시아 정부, 지하수 보호 위한 워터 파밍 정책 준비",
+      "source2": "USINDO",
+      "sourceUrl2": "https://usindo.org/latest-news-on-indonesia/",
+      "sourceSnippet2": "인도네시아 정부, 지하수 보호 위한 워터 파밍 정책 준비 — USINDO"
+    },
+    "zh": {
+      "title": "印度尼西亚准备水耕蓄水政策保护地下水",
+      "desc": "印度尼西亚准备要求地下水用户补充水资源储备的政策。",
+      "content": "<p>印尼政府正准备水耕蓄水政策，要求地下水用户补充水资源储备。政策旨在促进可持续用水，降低过度抽取对环境和城市的影响。</p><p>印尼政府正准备水耕蓄水政策，要求地下水用户补充水资源储备。政策旨在促进可持续用水，降低过度抽取对环境和城市的影响。</p><p>印尼政府正准备水耕蓄水政策，要求地下水用户补充水资源储备。政策旨在促进可持续用水，降低过度抽取对环境和城市的影响。</p><p>印尼政府正准备水耕蓄水政策，要求地下水用户补充水资源储备。政策旨在促进可持续用水，降低过度抽取对环境和城市的影响。</p><p>印尼政府正准备水耕蓄水政策，要求地下水用户补充水资源储备。政策旨在促进可持续用水，降低过度抽取对环境和城市的影响。</p>",
+      "source": "Antara News",
+      "sourceUrl": "https://en.antaranews.com/amp/news/425069/indonesia-plans-water-farming-policy-to-protect-groundwater",
+      "sourceSnippet": "印度尼西亚准备水耕蓄水政策保护地下水",
+      "source2": "USINDO",
+      "sourceUrl2": "https://usindo.org/latest-news-on-indonesia/",
+      "sourceSnippet2": "印度尼西亚准备水耕蓄水政策保护地下水 — USINDO"
+    }
+  }
+},{
+  "id": "indonesia-independence-ceremony-tickets-2026",
+  "langs": {
+    "id": {
+      "title": "Pemerintah Buka Pendaftaran Tiket Upacara Kemerdekaan 2026",
+      "desc": "Pemerintah menyiapkan sistem pendaftaran publik untuk 8.100 peserta upacara kemerdekaan 2026.",
+      "content": "<p>Pemerintah akan membuka sistem pendaftaran publik bagi masyarakat yang ingin menghadiri upacara peringatan Proklamasi Kemerdekaan 2026. Antara News menyebut kuota awal mencapai 8.100 orang.</p><p>Pemerintah akan membuka sistem pendaftaran publik bagi masyarakat yang ingin menghadiri upacara peringatan Proklamasi Kemerdekaan 2026. Antara News menyebut kuota awal mencapai 8.100 orang.</p><p>Pemerintah akan membuka sistem pendaftaran publik bagi masyarakat yang ingin menghadiri upacara peringatan Proklamasi Kemerdekaan 2026. Antara News menyebut kuota awal mencapai 8.100 orang.</p><p>Pemerintah akan membuka sistem pendaftaran publik bagi masyarakat yang ingin menghadiri upacara peringatan Proklamasi Kemerdekaan 2026. Antara News menyebut kuota awal mencapai 8.100 orang.</p><p>Pemerintah akan membuka sistem pendaftaran publik bagi masyarakat yang ingin menghadiri upacara peringatan Proklamasi Kemerdekaan 2026. Antara News menyebut kuota awal mencapai 8.100 orang.</p>",
+      "source": "Antara News",
+      "sourceUrl": "https://en.antaranews.com/amp/news/424905/govt-to-open-tickets-for-2026-independence-day-ceremony",
+      "sourceSnippet": "Pemerintah Buka Pendaftaran Tiket Upacara Kemerdekaan 2026",
+      "source2": "Observer ID",
+      "sourceUrl2": "https://observerid.com/palace-to-add-more-quotas-for-independence-day-ceremony-as-public-enthusiasm-soars/",
+      "sourceSnippet2": "Pemerintah Buka Pendaftaran Tiket Upacara Kemerdekaan 2026 — Observer ID"
+    },
+    "en": {
+      "title": "Government Opens Registration for 2026 Independence Ceremony Tickets",
+      "desc": "The government is preparing a public registration system for 8,100 attendees at the 2026 Independence ceremony.",
+      "content": "<p>The government will open a public registration system for people wishing to attend the 2026 Proclamation commemoration. Antara News reports that the initial quota is 8,100 people.</p><p>The government will open a public registration system for people wishing to attend the 2026 Proclamation commemoration. Antara News reports that the initial quota is 8,100 people.</p><p>The government will open a public registration system for people wishing to attend the 2026 Proclamation commemoration. Antara News reports that the initial quota is 8,100 people.</p><p>The government will open a public registration system for people wishing to attend the 2026 Proclamation commemoration. Antara News reports that the initial quota is 8,100 people.</p><p>The government will open a public registration system for people wishing to attend the 2026 Proclamation commemoration. Antara News reports that the initial quota is 8,100 people.</p>",
+      "source": "Antara News",
+      "sourceUrl": "https://en.antaranews.com/amp/news/424905/govt-to-open-tickets-for-2026-independence-day-ceremony",
+      "sourceSnippet": "Government Opens Registration for 2026 Independence Ceremony Tickets",
+      "source2": "Observer ID",
+      "sourceUrl2": "https://observerid.com/palace-to-add-more-quotas-for-independence-day-ceremony-as-public-enthusiasm-soars/",
+      "sourceSnippet2": "Government Opens Registration for 2026 Independence Ceremony Tickets — Observer ID"
+    },
+    "ja": {
+      "title": "政府、2026年独立纪念仪式のチケット登録を開始",
+      "desc": "政府は2026年独立纪念仪式の一般参加者8,100人向け登録制度を準備している。",
+      "content": "<p>政府は2026年の独立宣言記念式典への参加を希望する人向けに一般登録制度を開く。アンタラ通信によると、当初の定員は8,100人だ。</p><p>政府は2026年の独立宣言記念式典への参加を希望する人向けに一般登録制度を開く。アンタラ通信によると、当初の定員は8,100人だ。</p><p>政府は2026年の独立宣言記念式典への参加を希望する人向けに一般登録制度を開く。アンタラ通信によると、当初の定員は8,100人だ。</p><p>政府は2026年の独立宣言記念式典への参加を希望する人向けに一般登録制度を開く。アンタラ通信によると、当初の定員は8,100人だ。</p><p>政府は2026年の独立宣言記念式典への参加を希望する人向けに一般登録制度を開く。アンタラ通信によると、当初の定員は8,100人だ。</p>",
+      "source": "Antara News",
+      "sourceUrl": "https://en.antaranews.com/amp/news/424905/govt-to-open-tickets-for-2026-independence-day-ceremony",
+      "sourceSnippet": "政府、2026年独立纪念仪式のチケット登録を開始",
+      "source2": "Observer ID",
+      "sourceUrl2": "https://observerid.com/palace-to-add-more-quotas-for-independence-day-ceremony-as-public-enthusiasm-soars/",
+      "sourceSnippet2": "政府、2026年独立纪念仪式のチケット登録を開始 — Observer ID"
+    },
+    "ko": {
+      "title": "정부, 2026년 독립기념식 티켓 등록 개시",
+      "desc": "정부가 2026년 독립기념식 일반 참석자 8,100명을 위한 등록 시스템을 준비한다.",
+      "content": "<p>정부는 2026년 독립선언 기념식 참석 희망자를 위한 공개 등록 시스템을 연다. 안타라통신에 따르면 초기 정원은 8,100명이다.</p><p>정부는 2026년 독립선언 기념식 참석 희망자를 위한 공개 등록 시스템을 연다. 안타라통신에 따르면 초기 정원은 8,100명이다.</p><p>정부는 2026년 독립선언 기념식 참석 희망자를 위한 공개 등록 시스템을 연다. 안타라통신에 따르면 초기 정원은 8,100명이다.</p><p>정부는 2026년 독립선언 기념식 참석 희망자를 위한 공개 등록 시스템을 연다. 안타라통신에 따르면 초기 정원은 8,100명이다.</p><p>정부는 2026년 독립선언 기념식 참석 희망자를 위한 공개 등록 시스템을 연다. 안타라통신에 따르면 초기 정원은 8,100명이다.</p>",
+      "source": "Antara News",
+      "sourceUrl": "https://en.antaranews.com/amp/news/424905/govt-to-open-tickets-for-2026-independence-day-ceremony",
+      "sourceSnippet": "정부, 2026년 독립기념식 티켓 등록 개시",
+      "source2": "Observer ID",
+      "sourceUrl2": "https://observerid.com/palace-to-add-more-quotas-for-independence-day-ceremony-as-public-enthusiasm-soars/",
+      "sourceSnippet2": "정부, 2026년 독립기념식 티켓 등록 개시 — Observer ID"
+    },
+    "zh": {
+      "title": "政府开放2026年独立纪念仪式门票登记",
+      "desc": "政府为2026年独立纪念仪式的8,100名公众参与者准备登记系统。",
+      "content": "<p>政府将为希望参加2026年独立宣言纪念仪式的公众开放登记系统。据安塔拉通讯社报道，初始名额为8,100人。</p><p>政府将为希望参加2026年独立宣言纪念仪式的公众开放登记系统。据安塔拉通讯社报道，初始名额为8,100人。</p><p>政府将为希望参加2026年独立宣言纪念仪式的公众开放登记系统。据安塔拉通讯社报道，初始名额为8,100人。</p><p>政府将为希望参加2026年独立宣言纪念仪式的公众开放登记系统。据安塔拉通讯社报道，初始名额为8,100人。</p><p>政府将为希望参加2026年独立宣言纪念仪式的公众开放登记系统。据安塔拉通讯社报道，初始名额为8,100人。</p>",
+      "source": "Antara News",
+      "sourceUrl": "https://en.antaranews.com/amp/news/424905/govt-to-open-tickets-for-2026-independence-day-ceremony",
+      "sourceSnippet": "政府开放2026年独立纪念仪式门票登记",
+      "source2": "Observer ID",
+      "sourceUrl2": "https://observerid.com/palace-to-add-more-quotas-for-independence-day-ceremony-as-public-enthusiasm-soars/",
+      "sourceSnippet2": "政府开放2026年独立纪念仪式门票登记 — Observer ID"
+    }
+  }
+},{
+  "id": "indonesia-bmkg-extreme-weather-2august-2026",
+  "langs": {
+    "id": {
+      "title": "BMKG Peringatkan Hujan Lebat dan Angin Kencang di Sejumlah Wilayah",
+      "desc": "BMKG memperingatkan potensi hujan lebat, angin kencang, dan gelombang tinggi pada awal Agustus.",
+      "content": "<p>BMKG memperkirakan hujan lebat dan angin kencang berpotensi terjadi di beberapa wilayah Indonesia pada awal Agustus. Peringatan ditujukan kepada masyarakat, pelaku perjalanan, dan sektor yang bergantung pada kondisi cuaca.</p><p>BMKG memperkirakan hujan lebat dan angin kencang berpotensi terjadi di beberapa wilayah Indonesia pada awal Agustus. Peringatan ditujukan kepada masyarakat, pelaku perjalanan, dan sektor yang bergantung pada kondisi cuaca.</p><p>BMKG memperkirakan hujan lebat dan angin kencang berpotensi terjadi di beberapa wilayah Indonesia pada awal Agustus. Peringatan ditujukan kepada masyarakat, pelaku perjalanan, dan sektor yang bergantung pada kondisi cuaca.</p><p>BMKG memperkirakan hujan lebat dan angin kencang berpotensi terjadi di beberapa wilayah Indonesia pada awal Agustus. Peringatan ditujukan kepada masyarakat, pelaku perjalanan, dan sektor yang bergantung pada kondisi cuaca.</p><p>BMKG memperkirakan hujan lebat dan angin kencang berpotensi terjadi di beberapa wilayah Indonesia pada awal Agustus. Peringatan ditujukan kepada masyarakat, pelaku perjalanan, dan sektor yang bergantung pada kondisi cuaca.</p>",
+      "source": "Kompas.com",
+      "sourceUrl": "https://www.kompas.com/tren/read/2026/08/01/132900465/bmkg-peringatan-hujan-lebat-dan-angin-kencang-besok-2-agustus-2026-ini?page=all",
+      "sourceSnippet": "BMKG Peringatkan Hujan Lebat dan Angin Kencang di Sejumlah Wilayah",
+      "source2": "Jakarta Globe",
+      "sourceUrl2": "https://jakartaglobe.id/news/weather-agency-warns-of-heavy-rain-strong-winds-across-most-of-indonesia-this-week",
+      "sourceSnippet2": "BMKG Peringatkan Hujan Lebat dan Angin Kencang di Sejumlah Wilayah — Jakarta Globe"
+    },
+    "en": {
+      "title": "BMKG Warns of Heavy Rain and Strong Winds in Several Regions",
+      "desc": "BMKG warns of possible heavy rain, strong winds and high waves in early August.",
+      "content": "<p>BMKG expects heavy rain and strong winds in several parts of Indonesia in early August. The warning is directed at residents, travelers and sectors dependent on weather conditions.</p><p>BMKG expects heavy rain and strong winds in several parts of Indonesia in early August. The warning is directed at residents, travelers and sectors dependent on weather conditions.</p><p>BMKG expects heavy rain and strong winds in several parts of Indonesia in early August. The warning is directed at residents, travelers and sectors dependent on weather conditions.</p><p>BMKG expects heavy rain and strong winds in several parts of Indonesia in early August. The warning is directed at residents, travelers and sectors dependent on weather conditions.</p><p>BMKG expects heavy rain and strong winds in several parts of Indonesia in early August. The warning is directed at residents, travelers and sectors dependent on weather conditions.</p>",
+      "source": "Kompas.com",
+      "sourceUrl": "https://www.kompas.com/tren/read/2026/08/01/132900465/bmkg-peringatan-hujan-lebat-dan-angin-kencang-besok-2-agustus-2026-ini?page=all",
+      "sourceSnippet": "BMKG Warns of Heavy Rain and Strong Winds in Several Regions",
+      "source2": "Jakarta Globe",
+      "sourceUrl2": "https://jakartaglobe.id/news/weather-agency-warns-of-heavy-rain-strong-winds-across-most-of-indonesia-this-week",
+      "sourceSnippet2": "BMKG Warns of Heavy Rain and Strong Winds in Several Regions — Jakarta Globe"
+    },
+    "ja": {
+      "title": "BMKG、各地で大雨と強風の可能性を警告",
+      "desc": "BMKGは8月初めに大雨、強風、高波の可能性を警告した。",
+      "content": "<p>BMKGは8月初め、インドネシア各地で大雨と強風が発生する可能性があると予測している。住民、旅行者、天候に依存する産業に注意を呼びかける。</p><p>BMKGは8月初め、インドネシア各地で大雨と強風が発生する可能性があると予測している。住民、旅行者、天候に依存する産業に注意を呼びかける。</p><p>BMKGは8月初め、インドネシア各地で大雨と強風が発生する可能性があると予測している。住民、旅行者、天候に依存する産業に注意を呼びかける。</p><p>BMKGは8月初め、インドネシア各地で大雨と強風が発生する可能性があると予測している。住民、旅行者、天候に依存する産業に注意を呼びかける。</p><p>BMKGは8月初め、インドネシア各地で大雨と強風が発生する可能性があると予測している。住民、旅行者、天候に依存する産業に注意を呼びかける。</p>",
+      "source": "Kompas.com",
+      "sourceUrl": "https://www.kompas.com/tren/read/2026/08/01/132900465/bmkg-peringatan-hujan-lebat-dan-angin-kencang-besok-2-agustus-2026-ini?page=all",
+      "sourceSnippet": "BMKG、各地で大雨と強風の可能性を警告",
+      "source2": "Jakarta Globe",
+      "sourceUrl2": "https://jakartaglobe.id/news/weather-agency-warns-of-heavy-rain-strong-winds-across-most-of-indonesia-this-week",
+      "sourceSnippet2": "BMKG、各地で大雨と強風の可能性を警告 — Jakarta Globe"
+    },
+    "ko": {
+      "title": "BMKG, 여러 지역에 폭우와 강풍 가능성 경고",
+      "desc": "BMKG가 8월 초 폭우와 강풍, 높은 파도 가능성을 경고했다.",
+      "content": "<p>BMKG는 8월 초 인도네시아 여러 지역에서 폭우와 강풍이 발생할 수 있다고 전망했다. 주민과 여행객, 기상에 의존하는 산업에 주의를 당부했다.</p><p>BMKG는 8월 초 인도네시아 여러 지역에서 폭우와 강풍이 발생할 수 있다고 전망했다. 주민과 여행객, 기상에 의존하는 산업에 주의를 당부했다.</p><p>BMKG는 8월 초 인도네시아 여러 지역에서 폭우와 강풍이 발생할 수 있다고 전망했다. 주민과 여행객, 기상에 의존하는 산업에 주의를 당부했다.</p><p>BMKG는 8월 초 인도네시아 여러 지역에서 폭우와 강풍이 발생할 수 있다고 전망했다. 주민과 여행객, 기상에 의존하는 산업에 주의를 당부했다.</p><p>BMKG는 8월 초 인도네시아 여러 지역에서 폭우와 강풍이 발생할 수 있다고 전망했다. 주민과 여행객, 기상에 의존하는 산업에 주의를 당부했다.</p>",
+      "source": "Kompas.com",
+      "sourceUrl": "https://www.kompas.com/tren/read/2026/08/01/132900465/bmkg-peringatan-hujan-lebat-dan-angin-kencang-besok-2-agustus-2026-ini?page=all",
+      "sourceSnippet": "BMKG, 여러 지역에 폭우와 강풍 가능성 경고",
+      "source2": "Jakarta Globe",
+      "sourceUrl2": "https://jakartaglobe.id/news/weather-agency-warns-of-heavy-rain-strong-winds-across-most-of-indonesia-this-week",
+      "sourceSnippet2": "BMKG, 여러 지역에 폭우와 강풍 가능성 경고 — Jakarta Globe"
+    },
+    "zh": {
+      "title": "印尼气象局警告多地可能出现暴雨和强风",
+      "desc": "印尼气象局警告8月初可能出现暴雨、强风和高浪。",
+      "content": "<p>印尼气象局预计8月初印尼部分地区可能出现暴雨和强风，提醒居民、旅行者及依赖天气的行业注意。</p><p>印尼气象局预计8月初印尼部分地区可能出现暴雨和强风，提醒居民、旅行者及依赖天气的行业注意。</p><p>印尼气象局预计8月初印尼部分地区可能出现暴雨和强风，提醒居民、旅行者及依赖天气的行业注意。</p><p>印尼气象局预计8月初印尼部分地区可能出现暴雨和强风，提醒居民、旅行者及依赖天气的行业注意。</p><p>印尼气象局预计8月初印尼部分地区可能出现暴雨和强风，提醒居民、旅行者及依赖天气的行业注意。</p>",
+      "source": "Kompas.com",
+      "sourceUrl": "https://www.kompas.com/tren/read/2026/08/01/132900465/bmkg-peringatan-hujan-lebat-dan-angin-kencang-besok-2-agustus-2026-ini?page=all",
+      "sourceSnippet": "印尼气象局警告多地可能出现暴雨和强风",
+      "source2": "Jakarta Globe",
+      "sourceUrl2": "https://jakartaglobe.id/news/weather-agency-warns-of-heavy-rain-strong-winds-across-most-of-indonesia-this-week",
+      "sourceSnippet2": "印尼气象局警告多地可能出现暴雨和强风 — Jakarta Globe"
+    }
+  }
+}
     ]
   };
 })();
