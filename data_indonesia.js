@@ -1298,7 +1298,7 @@
       "sourceSnippet2": "印尼气象局警告多地可能出现暴雨和强风 — Jakarta Globe"
     }
   }
-}
+},
 {
       id: "indonesia-ferry-fire-sumenep-2026-08-03",
       langs: {
