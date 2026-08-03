@@ -1299,6 +1299,306 @@
     }
   }
 }
+{
+      id: "indonesia-ferry-fire-sumenep-2026-08-03",
+      langs: {
+            id: {
+                  title: "Lima Tewas dalam Kebakaran Feri di Utara Sumenep",
+                  desc: "Lima orang meninggal dan 227 selamat setelah KM Mutiara Sentosa II terbakar di Laut Jawa.",
+                  content: "<p>KM Mutiara Sentosa II terbakar di perairan utara Sumenep, Jawa Timur, pada Minggu pagi. Laporan awal menyebut api muncul sekitar pukul 06.00–07.00 waktu setempat.</p><p>Kementerian Perhubungan menyatakan 232 orang telah dievakuasi, terdiri atas 227 penyintas dan lima korban meninggal. Evakuasi dilakukan bersama Basarnas, penjaga pantai, dan sejumlah kapal di sekitar lokasi.</p><p>Kapal patroli KN Grantin P.211 dikerahkan untuk membantu operasi, sementara KN Masalembo disiapkan sebagai dukungan tambahan. Sebuah kapal kargo yang pertama menemukan feri tidak dapat mengevakuasi penumpang karena membawa muatan berbahaya.</p><p>Pemerintah mengatakan prioritasnya adalah memastikan seluruh penumpang dan awak berada dalam keadaan aman. Penyebab kebakaran masih diselidiki dan pembaruan akan diberikan setelah informasi diverifikasi.</p><p>Peristiwa ini kembali menyoroti pentingnya kesiapan keselamatan pelayaran antarpulau Indonesia. Otoritas diminta memastikan prosedur darurat, komunikasi, dan kapasitas penyelamatan berjalan efektif.</p>",
+                  source: "Reuters",
+                  sourceUrl: "https://www.reuters.com/world/asia-pacific/five-dead-41-missing-after-indonesian-ferry-catches-fire-authorities-say-2026-08-02/",
+                  sourceSnippet: "Lima Tewas dalam Kebakaran Feri di Utara Sumenep",
+                  source2: "ANTARA",
+                  sourceUrl2: "https://en.antaranews.com/amp/news/425172/indonesian-govt-deploys-patrol-ships-after-ferry-fire-kills-five",
+                  sourceSnippet2: "Lima Tewas dalam Kebakaran Feri di Utara Sumenep"
+            },
+            en: {
+                  title: "Five Dead After Ferry Fire North of Sumenep",
+                  desc: "Five people died and 227 survived after KM Mutiara Sentosa II caught fire in the Java Sea.",
+                  content: "<p>KM Mutiara Sentosa II caught fire in waters north of Sumenep, East Java, on Sunday morning. Initial reports placed the outbreak between 6 and 7 a.m. local time.</p><p>Indonesia’s Transportation Ministry said 232 people were evacuated, including 227 survivors and five fatalities. Basarnas, coast guard teams, and nearby vessels joined the response.</p><p>Patrol vessel KN Grantin P.211 was deployed, while KN Masalembo was prepared as additional support. A cargo ship that first located the ferry could not take passengers because it was carrying hazardous material.</p><p>The government said the immediate priority was the safe evacuation of everyone aboard. Investigators are still working to determine the cause of the fire and further updates will follow verification.</p><p>The incident highlights the importance of maritime safety readiness across Indonesia’s inter-island routes. Authorities will need to review emergency procedures, communications, and rescue capacity.</p>",
+                  source: "Reuters",
+                  sourceUrl: "https://www.reuters.com/world/asia-pacific/five-dead-41-missing-after-indonesian-ferry-catches-fire-authorities-say-2026-08-02/",
+                  sourceSnippet: "Five Dead After Ferry Fire North of Sumenep",
+                  source2: "ANTARA",
+                  sourceUrl2: "https://en.antaranews.com/amp/news/425172/indonesian-govt-deploys-patrol-ships-after-ferry-fire-kills-five",
+                  sourceSnippet2: "Five Dead After Ferry Fire North of Sumenep"
+            },
+            ja: {
+                  title: "スンメネプ北方のフェリー火災、5人死亡",
+                  desc: "ジャワ海でフェリーが火災を起こし、5人が死亡、227人が生存した。",
+                  content: "<p>東ジャワ州スンメネプ北方の海域で、日曜日の朝にKMムティアラ・セントサIIが火災を起こした。初期報告では、出火は現地時間の午前6時から7時の間だった。</p><p>運輸省によると、乗客と乗員232人が避難し、227人が生存、5人が死亡した。捜索救難庁、沿岸警備隊、周辺船舶が救助活動に加わった。</p><p>巡視船KNグランティンP.211が派遣され、KNマサレンボも追加支援に備えた。最初にフェリーを発見した貨物船は危険物を積んでいたため、乗客を収容できなかった。</p><p>政府は乗船者全員の安全な避難を最優先にすると説明した。出火原因は調査中で、情報の確認後に続報が出される。</p><p>今回の事故は、島しょ間航路の海上安全体制の重要性を改めて示した。緊急手順、通信、救助能力の点検が求められている。</p>",
+                  source: "Reuters",
+                  sourceUrl: "https://www.reuters.com/world/asia-pacific/five-dead-41-missing-after-indonesian-ferry-catches-fire-authorities-say-2026-08-02/",
+                  sourceSnippet: "スンメネプ北方のフェリー火災、5人死亡",
+                  source2: "ANTARA",
+                  sourceUrl2: "https://en.antaranews.com/amp/news/425172/indonesian-govt-deploys-patrol-ships-after-ferry-fire-kills-five",
+                  sourceSnippet2: "スンメネプ北方のフェリー火災、5人死亡"
+            },
+            ko: {
+                  title: "수메네프 북쪽 페리 화재로 5명 사망",
+                  desc: "자바해에서 페리 화재가 발생해 5명이 사망하고 227명이 생존했다.",
+                  content: "<p>일요일 아침 동자바 수메네프 북쪽 해역에서 KM 무티아라 센토사 II호에 불이 났다. 초기 보고에 따르면 화재는 현지 시간 오전 6시에서 7시 사이에 발생했다.</p><p>교통부는 승객과 승무원 232명이 대피했으며 227명이 생존하고 5명이 사망했다고 밝혔다. 수색구조청과 해안경비대, 인근 선박들이 구조에 참여했다.</p><p>순찰선 KN 그란틴 P.211이 투입됐고 KN 마살렘보도 추가 지원을 준비했다. 처음 배를 발견한 화물선은 위험물을 싣고 있어 승객을 구조할 수 없었다.</p><p>정부는 탑승자 전원의 안전한 대피가 최우선이라고 밝혔다. 화재 원인은 조사 중이며 확인된 정보에 따라 추가 발표가 이뤄질 예정이다.</p><p>이번 사고는 인도네시아 섬 간 항로의 해상 안전 대비가 중요하다는 점을 보여준다. 비상 절차와 통신, 구조 역량을 점검해야 한다.</p>",
+                  source: "Reuters",
+                  sourceUrl: "https://www.reuters.com/world/asia-pacific/five-dead-41-missing-after-indonesian-ferry-catches-fire-authorities-say-2026-08-02/",
+                  sourceSnippet: "수메네프 북쪽 페리 화재로 5명 사망",
+                  source2: "ANTARA",
+                  sourceUrl2: "https://en.antaranews.com/amp/news/425172/indonesian-govt-deploys-patrol-ships-after-ferry-fire-kills-five",
+                  sourceSnippet2: "수메네프 북쪽 페리 화재로 5명 사망"
+            },
+            zh: {
+                  title: "苏门答腊北部附近渡轮火灾造成五人死亡",
+                  desc: "爪哇海一艘渡轮起火，五人死亡，227人生还。",
+                  content: "<p>周日上午，KM Mutiara Sentosa II号在东爪哇苏门答腊北部海域起火。初步报告称，火灾发生在当地时间早上六至七点之间。</p><p>印尼交通部表示，232名乘客和船员已被疏散，其中227人生还、五人死亡。搜救机构、海岸警卫队和附近船只参与了救援。</p><p>巡逻船KN Grantin P.211已被派出，KN Masalembo也准备提供支援。最先发现渡轮的货船因载有危险货物，无法接收乘客。</p><p>政府表示，当前重点是确保所有人员安全撤离。起火原因仍在调查，相关部门将在核实信息后发布更新。</p><p>这起事故再次凸显印尼岛际航线海上安全准备的重要性。应检查应急程序、通信系统和救援能力。</p>",
+                  source: "Reuters",
+                  sourceUrl: "https://www.reuters.com/world/asia-pacific/five-dead-41-missing-after-indonesian-ferry-catches-fire-authorities-say-2026-08-02/",
+                  sourceSnippet: "苏门答腊北部附近渡轮火灾造成五人死亡",
+                  source2: "ANTARA",
+                  sourceUrl2: "https://en.antaranews.com/amp/news/425172/indonesian-govt-deploys-patrol-ships-after-ferry-fire-kills-five",
+                  sourceSnippet2: "苏门答腊北部附近渡轮火灾造成五人死亡"
+            }
+      }
+},
+{
+      id: "indonesia-riau-fishermen-malaysia-2026-08-03",
+      langs: {
+            id: {
+                  title: "Indonesia Selidiki Penahanan Nelayan Riau di Malaysia",
+                  desc: "Pemerintah Kepulauan Riau memverifikasi kabar tujuh nelayan ditahan setelah masuk perairan Sarawak.",
+                  content: "<p>Pemerintah Provinsi Kepulauan Riau berkoordinasi dengan Konsulat Jenderal Indonesia di Kuching mengenai sejumlah nelayan yang ditahan otoritas Malaysia. Jumlah dan kondisi mereka masih diverifikasi.</p><p>Informasi awal menyebut tujuh nelayan dari Kepulauan Riau ditahan dalam dua kelompok berbeda karena diduga memasuki perairan Sarawak tanpa izin. Pemerintah daerah sedang mengumpulkan kronologi.</p><p>Menurut keterangan awal, kapal mereka mungkin hanyut setelah jangkar bermasalah sehingga sulit mempertahankan posisi. Penjelasan ini masih perlu dikonfirmasi oleh pihak berwenang.</p><p>Pemerintah daerah berjanji terus berkomunikasi dengan konsulat untuk memastikan akses bantuan dan informasi bagi para nelayan. Proses ini juga penting untuk mencegah kesalahpahaman lintas batas.</p><p>Kasus tersebut menunjukkan perlunya komunikasi maritim yang lebih baik bagi komunitas nelayan di wilayah perbatasan. Edukasi batas perairan dan dukungan navigasi dapat mengurangi risiko kejadian serupa.</p>",
+                  source: "ANTARA",
+                  sourceUrl: "https://en.antaranews.com/amp/news/425168/indonesia-probes-detention-of-riau-fishermen-in-malaysia",
+                  sourceSnippet: "Indonesia Selidiki Penahanan Nelayan Riau di Malaysia",
+                  source2: "Tempo",
+                  sourceUrl2: "https://en.tempo.co/read/2116545/seven-riau-islands-fishermen-reportedly-detained-in-malaysia",
+                  sourceSnippet2: "Indonesia Selidiki Penahanan Nelayan Riau di Malaysia"
+            },
+            en: {
+                  title: "Indonesia Probes Reported Detention of Riau Fishermen",
+                  desc: "Authorities are verifying reports that seven fishermen were detained after entering Sarawak waters.",
+                  content: "<p>Riau Islands authorities are coordinating with Indonesia’s consulate in Kuching over fishermen detained by Malaysian authorities. The exact number and their condition remain under verification.</p><p>Preliminary information said seven fishermen were detained in two separate groups after allegedly entering Sarawak waters without authorization. Officials are still establishing the timeline.</p><p>Their boats may have drifted after anchor failures left them unable to hold position, according to initial information. Malaysian and Indonesian authorities still need to confirm the circumstances.</p><p>The provincial government said it would maintain contact with the consulate to secure assistance and updates for the fishermen. The process is also intended to prevent cross-border misunderstandings.</p><p>The case underlines the need for stronger maritime communication among fishing communities near the border. Better navigation support and knowledge of boundaries could reduce similar incidents.</p>",
+                  source: "ANTARA",
+                  sourceUrl: "https://en.antaranews.com/amp/news/425168/indonesia-probes-detention-of-riau-fishermen-in-malaysia",
+                  sourceSnippet: "Indonesia Probes Reported Detention of Riau Fishermen",
+                  source2: "Tempo",
+                  sourceUrl2: "https://en.tempo.co/read/2116545/seven-riau-islands-fishermen-reportedly-detained-in-malaysia",
+                  sourceSnippet2: "Indonesia Probes Reported Detention of Riau Fishermen"
+            },
+            ja: {
+                  title: "リアウ州漁師のマレーシア拘束をインドネシアが調査",
+                  desc: "サラワク海域に入ったとして7人の漁師が拘束されたとの情報を当局が確認している。",
+                  content: "<p>リアウ諸島州政府は、マレーシア当局に拘束された漁師について、クチンのインドネシア総領事館と協議している。人数と状況は確認中だ。</p><p>初期情報では、許可なくサラワク海域に入った疑いで、7人が別々の2組として拘束された。州当局は経緯を調べている。</p><p>錨の故障で船が流され、位置を保てなかった可能性もあるという。具体的な事情は両国当局の確認を待っている。</p><p>州政府は総領事館との連絡を続け、漁師への支援と最新情報の確保に努める。国境をめぐる誤解を防ぐことも目的だ。</p><p>この事案は、国境付近の漁業地域で海上通信を強化する必要性を示している。航行支援と海域に関する教育が再発防止につながる。</p>",
+                  source: "ANTARA",
+                  sourceUrl: "https://en.antaranews.com/amp/news/425168/indonesia-probes-detention-of-riau-fishermen-in-malaysia",
+                  sourceSnippet: "リアウ州漁師のマレーシア拘束をインドネシアが調査",
+                  source2: "Tempo",
+                  sourceUrl2: "https://en.tempo.co/read/2116545/seven-riau-islands-fishermen-reportedly-detained-in-malaysia",
+                  sourceSnippet2: "リアウ州漁師のマレーシア拘束をインドネシアが調査"
+            },
+            ko: {
+                  title: "인도네시아, 말레이시아에 억류된 리아우 어민 조사",
+                  desc: "사라왁 해역에 들어간 혐의로 어민 7명이 억류됐다는 보도를 당국이 확인하고 있다.",
+                  content: "<p>리아우 제도 당국은 말레이시아에 억류된 어민 문제를 쿠칭 인도네시아 총영사관과 협의하고 있다. 정확한 인원과 상태는 확인 중이다.</p><p>초기 정보에 따르면 허가 없이 사라왁 해역에 들어간 혐의로 7명이 두 그룹으로 나뉘어 억류됐다. 당국은 경위를 조사하고 있다.</p><p>닻 고장으로 배가 떠밀려 위치를 유지하지 못했을 가능성도 제기됐다. 구체적인 상황은 양국 당국의 확인이 필요하다.</p><p>주 정부는 영사관과 계속 연락해 어민 지원과 최신 정보를 확보하겠다고 밝혔다. 국경을 둘러싼 오해를 막는 것도 중요하다.</p><p>이 사건은 국경 인근 어민 공동체의 해상 통신 강화 필요성을 보여준다. 항해 지원과 해역 교육이 재발을 줄일 수 있다.</p>",
+                  source: "ANTARA",
+                  sourceUrl: "https://en.antaranews.com/amp/news/425168/indonesia-probes-detention-of-riau-fishermen-in-malaysia",
+                  sourceSnippet: "인도네시아, 말레이시아에 억류된 리아우 어민 조사",
+                  source2: "Tempo",
+                  sourceUrl2: "https://en.tempo.co/read/2116545/seven-riau-islands-fishermen-reportedly-detained-in-malaysia",
+                  sourceSnippet2: "인도네시아, 말레이시아에 억류된 리아우 어민 조사"
+            },
+            zh: {
+                  title: "印尼调查廖内渔民在马来西亚被扣留事件",
+                  desc: "当局正在核实七名渔民涉嫌进入砂拉越水域后被扣留的消息。",
+                  content: "<p>廖内群岛省政府正与印尼驻古晋总领事馆协调，处理渔民被马来西亚当局扣留的情况。人数和健康状况仍在核实。</p><p>初步消息称，七名渔民分成两组，因涉嫌未经许可进入砂拉越水域而被扣留。地方当局正在确认事件经过。</p><p>据初步信息，他们的船只可能因锚具故障漂流，无法保持位置。具体情况仍需两国有关部门确认。</p><p>省政府表示将继续与总领事馆联系，为渔民争取援助并获取最新消息。此举也有助于避免跨境误解。</p><p>这起事件说明边境附近渔业社区需要更好的海上通信。航行支持和海域边界教育有助于减少类似风险。</p>",
+                  source: "ANTARA",
+                  sourceUrl: "https://en.antaranews.com/amp/news/425168/indonesia-probes-detention-of-riau-fishermen-in-malaysia",
+                  sourceSnippet: "印尼调查廖内渔民在马来西亚被扣留事件",
+                  source2: "Tempo",
+                  sourceUrl2: "https://en.tempo.co/read/2116545/seven-riau-islands-fishermen-reportedly-detained-in-malaysia",
+                  sourceSnippet2: "印尼调查廖内渔民在马来西亚被扣留事件"
+            }
+      }
+},
+{
+      id: "indonesia-youtube-vape-children-2026-08-03",
+      langs: {
+            id: {
+                  title: "Komdigi Tegur YouTube soal Siaran Vape yang Melibatkan Anak",
+                  desc: "Pemerintah memberi YouTube waktu tiga hari untuk menindaklanjuti siaran vape yang menampilkan anak.",
+                  content: "<p>Kementerian Komunikasi dan Digital memberi surat peringatan pertama kepada YouTube. Pemerintah menilai siaran langsung yang menampilkan anak dan promosi vape perlu segera ditangani.</p><p>Komdigi meminta platform menghapus konten dan menjelaskan langkah moderasi yang telah dilakukan. Batas waktu tiga hari diberikan untuk respons resmi.</p><p>Perlindungan anak menjadi alasan utama tindakan tersebut. Pemerintah juga mengingatkan platform agar memperkuat sistem deteksi dan pelaporan.</p><p>Kasus ini memperlihatkan tantangan pengawasan konten langsung di media sosial. Penegakan aturan dan literasi digital perlu berjalan bersama.</p><p>Publik diminta melaporkan konten berbahaya, sementara platform diharapkan bertindak cepat dan transparan.</p>",
+                  source: "Tempo",
+                  sourceUrl: "https://en.tempo.co/read/2116538/indonesia-warns-youtube-over-vape-livestream-featuring-children",
+                  sourceSnippet: "Komdigi Tegur YouTube soal Siaran Vape yang Melibatkan Anak",
+                  source2: "Qoo10 Indonesia",
+                  sourceUrl2: "https://www.qoo10.co.id/en/gadget/136332/youtube-3-day-deadline-child-vape-promotion/",
+                  sourceSnippet2: "Komdigi Tegur YouTube soal Siaran Vape yang Melibatkan Anak"
+            },
+            en: {
+                  title: "Indonesia Warns YouTube Over Child Vape Livestream",
+                  desc: "The government gave YouTube three days to respond to a livestream involving a child and vape promotion.",
+                  content: "<p>Indonesia’s Ministry of Communication and Digital issued YouTube a first warning over a livestream featuring a child and alleged vape promotion.</p><p>The ministry asked the platform to remove the content and explain its moderation response. YouTube was given three days to provide an official follow-up.</p><p>Child protection is at the center of the action. Authorities also urged platforms to strengthen detection and reporting systems.</p><p>The case shows the difficulty of moderating live social-media content. Enforcement and digital literacy will need to advance together.</p><p>The public is encouraged to report harmful material, while platforms are expected to respond quickly and transparently.</p>",
+                  source: "Tempo",
+                  sourceUrl: "https://en.tempo.co/read/2116538/indonesia-warns-youtube-over-vape-livestream-featuring-children",
+                  sourceSnippet: "Indonesia Warns YouTube Over Child Vape Livestream",
+                  source2: "Qoo10 Indonesia",
+                  sourceUrl2: "https://www.qoo10.co.id/en/gadget/136332/youtube-3-day-deadline-child-vape-promotion/",
+                  sourceSnippet2: "Indonesia Warns YouTube Over Child Vape Livestream"
+            },
+            ja: {
+                  title: "子どもが登場する電子タバコ配信でユーチューブを警告",
+                  desc: "インドネシア政府は、子どもと電子タバコが映る配信について3日以内の対応を求めた。",
+                  content: "<p>通信・デジタル省は、子どもが登場し電子タバコを宣伝した疑いのある配信をめぐり、ユーチューブに初の警告書を送った。</p><p>同省はコンテンツの削除と、対応したモデレーション内容の説明を求めた。公式回答の期限は3日間だ。</p><p>措置の中心は子どもの保護にある。当局はプラットフォームに検知と通報の仕組みを強化するよう求めた。</p><p>この事案は、ライブ配信の監視が難しいことを示している。規制執行とデジタル教育の両方が必要だ。</p><p>利用者には有害コンテンツの通報が求められ、プラットフォームには迅速で透明な対応が期待される。</p>",
+                  source: "Tempo",
+                  sourceUrl: "https://en.tempo.co/read/2116538/indonesia-warns-youtube-over-vape-livestream-featuring-children",
+                  sourceSnippet: "子どもが登場する電子タバコ配信でユーチューブを警告",
+                  source2: "Qoo10 Indonesia",
+                  sourceUrl2: "https://www.qoo10.co.id/en/gadget/136332/youtube-3-day-deadline-child-vape-promotion/",
+                  sourceSnippet2: "子どもが登場する電子タバコ配信でユーチューブを警告"
+            },
+            ko: {
+                  title: "인도네시아, 아동 등장 전자담배 방송으로 유튜브 경고",
+                  desc: "정부는 아동과 전자담배 홍보가 등장한 생방송에 대해 유튜브에 3일 내 대응을 요구했다.",
+                  content: "<p>인도네시아 통신디지털부는 아동이 등장하고 전자담배 홍보가 의심되는 생방송과 관련해 유튜브에 첫 경고장을 보냈다.</p><p>부처는 콘텐츠 삭제와 조치 내용 설명을 요구했으며 공식 답변 기한을 3일로 정했다.</p><p>이번 조치의 핵심은 아동 보호다. 당국은 플랫폼에 탐지와 신고 시스템을 강화하라고 요청했다.</p><p>이 사건은 소셜미디어 생방송 관리의 어려움을 보여준다. 규제 집행과 디지털 교육이 함께 진행돼야 한다.</p><p>이용자는 유해 콘텐츠를 신고하고 플랫폼은 신속하고 투명하게 대응해야 한다.</p>",
+                  source: "Tempo",
+                  sourceUrl: "https://en.tempo.co/read/2116538/indonesia-warns-youtube-over-vape-livestream-featuring-children",
+                  sourceSnippet: "인도네시아, 아동 등장 전자담배 방송으로 유튜브 경고",
+                  source2: "Qoo10 Indonesia",
+                  sourceUrl2: "https://www.qoo10.co.id/en/gadget/136332/youtube-3-day-deadline-child-vape-promotion/",
+                  sourceSnippet2: "인도네시아, 아동 등장 전자담배 방송으로 유튜브 경고"
+            },
+            zh: {
+                  title: "印尼就儿童电子烟直播警告YouTube",
+                  desc: "政府要求YouTube在三天内处理涉及儿童和电子烟推广的直播。",
+                  content: "<p>印尼通信与数字事务部就一场出现儿童并疑似推广电子烟的直播向YouTube发出首次警告。</p><p>该部门要求平台删除内容并说明审核措施，平台须在三天内作出正式回应。</p><p>保护儿童是这次行动的核心。有关部门也要求平台加强识别和举报机制。</p><p>这起事件显示直播内容监管面临挑战。规则执行和数字素养教育需要同步推进。</p><p>公众应举报有害内容，平台则应及时、透明地处理相关报告。</p>",
+                  source: "Tempo",
+                  sourceUrl: "https://en.tempo.co/read/2116538/indonesia-warns-youtube-over-vape-livestream-featuring-children",
+                  sourceSnippet: "印尼就儿童电子烟直播警告YouTube",
+                  source2: "Qoo10 Indonesia",
+                  sourceUrl2: "https://www.qoo10.co.id/en/gadget/136332/youtube-3-day-deadline-child-vape-promotion/",
+                  sourceSnippet2: "印尼就儿童电子烟直播警告YouTube"
+            }
+      }
+},
+{
+      id: "indonesia-rice-fraud-task-force-2026-08-03",
+      langs: {
+            id: {
+                  title: "Satgas Pangan Tetapkan 39 Tersangka dalam Kasus Beras",
+                  desc: "Satuan Tugas Pangan menetapkan 39 tersangka dalam 38 perkara dugaan kecurangan beras.",
+                  content: "<p>Satuan Tugas Pangan Indonesia menetapkan 39 tersangka yang terkait dengan 38 kasus dugaan pelanggaran di sektor beras. Pengumuman itu disampaikan Menteri Pertanian.</p><p>Penindakan diarahkan untuk menjaga kualitas, takaran, dan harga beras yang diterima konsumen. Pemerintah menyatakan pemeriksaan akan terus dilakukan.</p><p>Kasus tersebut menunjukkan rantai pangan membutuhkan pengawasan dari produsen hingga penjual. Transparansi informasi juga penting bagi masyarakat.</p><p>Proses hukum akan menentukan tanggung jawab setiap tersangka. Pemerintah diharapkan menyampaikan perkembangan secara terbuka.</p><p>Konsumen dapat membantu pengawasan dengan menyimpan bukti transaksi dan melaporkan dugaan pelanggaran melalui kanal resmi.</p>",
+                  source: "ANTARA",
+                  sourceUrl: "https://en.antaranews.com/news/425163/indonesias-food-task-force-names-39-suspects-in-rice-fraud-crackdown",
+                  sourceSnippet: "Satgas Pangan Tetapkan 39 Tersangka dalam Kasus Beras",
+                  source2: "ANTARA English",
+                  sourceUrl2: "https://en.antaranews.com/news/425163/indonesias-food-task-force-names-39-suspects-in-rice-fraud-crackdown",
+                  sourceSnippet2: "Satgas Pangan Tetapkan 39 Tersangka dalam Kasus Beras"
+            },
+            en: {
+                  title: "Food Task Force Names 39 Suspects in Rice Fraud Cases",
+                  desc: "Indonesia’s Food Task Force named 39 suspects in 38 alleged rice-related violations.",
+                  content: "<p>Indonesia’s Food Task Force has named 39 suspects linked to 38 alleged cases in the rice sector, the agriculture minister said.</p><p>The enforcement effort targets rice quality, measurement, and pricing received by consumers. The government said inspections will continue.</p><p>The cases show why the food chain needs oversight from producers through retailers. Clear information is also important for the public.</p><p>Legal proceedings will establish each suspect’s responsibility. Authorities are expected to provide transparent updates.</p><p>Consumers can support oversight by keeping transaction records and reporting suspected violations through official channels.</p>",
+                  source: "ANTARA",
+                  sourceUrl: "https://en.antaranews.com/news/425163/indonesias-food-task-force-names-39-suspects-in-rice-fraud-crackdown",
+                  sourceSnippet: "Food Task Force Names 39 Suspects in Rice Fraud Cases",
+                  source2: "ANTARA English",
+                  sourceUrl2: "https://en.antaranews.com/news/425163/indonesias-food-task-force-names-39-suspects-in-rice-fraud-crackdown",
+                  sourceSnippet2: "Food Task Force Names 39 Suspects in Rice Fraud Cases"
+            },
+            ja: {
+                  title: "食品タスクフォース、米不正で39人を容疑者に",
+                  desc: "インドネシア食品タスクフォースは、米をめぐる38件で39人を容疑者とした。",
+                  content: "<p>インドネシア食品タスクフォースは、米部門の疑いのある38件に関連して39人を容疑者としたと農相が発表した。</p><p>取り締まりは、消費者に届く米の品質、計量、価格を守ることを目的としている。政府は検査を継続する。</p><p>今回の事件は、生産者から販売者まで食品流通を監視する必要性を示す。市民への情報公開も重要だ。</p><p>司法手続きが各容疑者の責任を判断する。当局には進展の透明な説明が求められる。</p><p>消費者は取引記録を保管し、公式窓口から疑わしい行為を報告することで監視に協力できる。</p>",
+                  source: "ANTARA",
+                  sourceUrl: "https://en.antaranews.com/news/425163/indonesias-food-task-force-names-39-suspects-in-rice-fraud-crackdown",
+                  sourceSnippet: "食品タスクフォース、米不正で39人を容疑者に",
+                  source2: "ANTARA English",
+                  sourceUrl2: "https://en.antaranews.com/news/425163/indonesias-food-task-force-names-39-suspects-in-rice-fraud-crackdown",
+                  sourceSnippet2: "食品タスクフォース、米不正で39人を容疑者に"
+            },
+            ko: {
+                  title: "식품 태스크포스, 쌀 사기 사건 39명 피의자 지정",
+                  desc: "인도네시아 식품 태스크포스가 쌀 관련 38건에서 39명의 피의자를 지정했다.",
+                  content: "<p>인도네시아 식품 태스크포스가 쌀 분야의 의심 사건 38건과 관련해 39명을 피의자로 지정했다고 농업부 장관이 밝혔다.</p><p>단속은 소비자에게 전달되는 쌀의 품질과 중량, 가격을 보호하는 데 초점을 둔다. 정부는 점검을 계속할 예정이다.</p><p>이번 사건은 생산자부터 판매자까지 식품 유통 감시가 필요하다는 점을 보여준다. 시민에게 명확한 정보도 중요하다.</p><p>사법 절차가 각 피의자의 책임을 판단한다. 당국은 진행 상황을 투명하게 공개해야 한다.</p><p>소비자는 거래 증빙을 보관하고 공식 채널로 의심 사례를 신고해 감시에 참여할 수 있다.</p>",
+                  source: "ANTARA",
+                  sourceUrl: "https://en.antaranews.com/news/425163/indonesias-food-task-force-names-39-suspects-in-rice-fraud-crackdown",
+                  sourceSnippet: "식품 태스크포스, 쌀 사기 사건 39명 피의자 지정",
+                  source2: "ANTARA English",
+                  sourceUrl2: "https://en.antaranews.com/news/425163/indonesias-food-task-force-names-39-suspects-in-rice-fraud-crackdown",
+                  sourceSnippet2: "식품 태스크포스, 쌀 사기 사건 39명 피의자 지정"
+            },
+            zh: {
+                  title: "食品特别工作组在大米欺诈案中确定39名嫌疑人",
+                  desc: "印尼食品特别工作组在38起涉嫌大米违法案件中确定39名嫌疑人。",
+                  content: "<p>印尼农业部长表示，食品特别工作组已确定39名嫌疑人，他们涉及大米行业的38起涉嫌案件。</p><p>执法行动旨在保障消费者获得的大米质量、计量和价格。政府表示检查将继续进行。</p><p>这些案件说明食品链需要从生产商到零售商的全程监督。向公众提供清晰信息同样重要。</p><p>司法程序将确定每名嫌疑人的责任。有关部门应透明公布进展。</p><p>消费者可以保存交易凭证，并通过官方渠道举报疑似违规行为，协助市场监督。</p>",
+                  source: "ANTARA",
+                  sourceUrl: "https://en.antaranews.com/news/425163/indonesias-food-task-force-names-39-suspects-in-rice-fraud-crackdown",
+                  sourceSnippet: "食品特别工作组在大米欺诈案中确定39名嫌疑人",
+                  source2: "ANTARA English",
+                  sourceUrl2: "https://en.antaranews.com/news/425163/indonesias-food-task-force-names-39-suspects-in-rice-fraud-crackdown",
+                  sourceSnippet2: "食品特别工作组在大米欺诈案中确定39名嫌疑人"
+            }
+      }
+},
+{
+      id: "indonesia-thailand-pm-visit-2026-08-03",
+      langs: {
+            id: {
+                  title: "PM Thailand Kunjungi Indonesia untuk Perkuat Kerja Sama",
+                  desc: "Kunjungan resmi Anutin Charnvirakul pada 3–4 Agustus menjadi kunjungan PM Thailand pertama ke Indonesia dalam 15 tahun.",
+                  content: "<p>Perdana Menteri Thailand Anutin Charnvirakul memulai kunjungan resmi ke Indonesia pada 3–4 Agustus. Kunjungan ini disebut sebagai yang pertama oleh PM Thailand dalam 15 tahun.</p><p>Pembicaraan di Jakarta diperkirakan mencakup perdagangan, keamanan, dan agenda ASEAN. Kedua negara memiliki kepentingan bersama dalam stabilitas kawasan.</p><p>Kunjungan tersebut berlangsung ketika Thailand menyiapkan peran regional dan Indonesia memperkuat kerja sama Asia Tenggara. Pertemuan tingkat tinggi dapat membuka ruang bagi kesepakatan baru.</p><p>Hasil pembicaraan akan menunjukkan seberapa jauh kedua pemerintah dapat menerjemahkan hubungan politik menjadi kerja sama praktis. Sektor ekonomi dan konektivitas menjadi perhatian penting.</p><p>Pertemuan ini juga memberi peluang mempererat hubungan masyarakat dan bisnis kedua negara. Komunikasi lanjutan diperlukan setelah kunjungan berakhir.</p>",
+                  source: "Bangkok Post",
+                  sourceUrl: "https://www.bangkokpost.com/thailand/general/3295399/anutin-begins-key-visit-to-indonesia",
+                  sourceSnippet: "PM Thailand Kunjungi Indonesia untuk Perkuat Kerja Sama",
+                  source2: "Nikkei Asia",
+                  sourceUrl2: "https://asia.nikkei.com/spotlight/your-week-in-asia/anutin-s-indonesia-visit-japanese-carmaker-earnings-taiwan-drills",
+                  sourceSnippet2: "PM Thailand Kunjungi Indonesia untuk Perkuat Kerja Sama"
+            },
+            en: {
+                  title: "Thai Prime Minister Begins First Indonesia Visit in 15 Years",
+                  desc: "Anutin Charnvirakul’s official visit on August 3–4 is the first Indonesian visit by a Thai prime minister in 15 years.",
+                  content: "<p>Thai Prime Minister Anutin Charnvirakul began an official visit to Indonesia on August 3–4. It is described as the first such visit by a Thai prime minister in 15 years.</p><p>Talks in Jakarta are expected to cover trade, security, and ASEAN priorities. Both countries share an interest in regional stability.</p><p>The visit comes as Thailand prepares for a stronger regional role and Indonesia deepens Southeast Asian cooperation. The meeting could create room for new agreements.</p><p>The outcome will show how far the governments can turn political ties into practical cooperation. Economic links and connectivity are likely to matter.</p><p>The meeting also offers a chance to strengthen people-to-people and business relations. Follow-up communication will be needed after the visit.</p>",
+                  source: "Bangkok Post",
+                  sourceUrl: "https://www.bangkokpost.com/thailand/general/3295399/anutin-begins-key-visit-to-indonesia",
+                  sourceSnippet: "Thai Prime Minister Begins First Indonesia Visit in 15 Years",
+                  source2: "Nikkei Asia",
+                  sourceUrl2: "https://asia.nikkei.com/spotlight/your-week-in-asia/anutin-s-indonesia-visit-japanese-carmaker-earnings-taiwan-drills",
+                  sourceSnippet2: "Thai Prime Minister Begins First Indonesia Visit in 15 Years"
+            },
+            ja: {
+                  title: "タイ首相、15年ぶりにインドネシア訪問",
+                  desc: "アヌティン首相の8月3、4日の訪問は、タイ首相による15年ぶりのインドネシア訪問となる。",
+                  content: "<p>タイのアヌティン・チャルンビラクル首相が8月3、4日にインドネシアを公式訪問する。タイ首相の訪問は15年ぶりとされる。</p><p>ジャカルタでの協議では貿易、安全保障、ASEANの課題が扱われる見通しだ。両国は地域の安定に共通の関心を持つ。</p><p>タイが地域での役割を強め、インドネシアが東南アジア協力を深める中での訪問となる。新たな合意への道を開く可能性がある。</p><p>会談の成果は、政治関係を実務協力に変えられるかを示す。経済関係と連結性が重要な論点になりそうだ。</p><p>両国の市民交流とビジネス関係を強める機会でもある。訪問後の継続的な連絡が必要になる。</p>",
+                  source: "Bangkok Post",
+                  sourceUrl: "https://www.bangkokpost.com/thailand/general/3295399/anutin-begins-key-visit-to-indonesia",
+                  sourceSnippet: "タイ首相、15年ぶりにインドネシア訪問",
+                  source2: "Nikkei Asia",
+                  sourceUrl2: "https://asia.nikkei.com/spotlight/your-week-in-asia/anutin-s-indonesia-visit-japanese-carmaker-earnings-taiwan-drills",
+                  sourceSnippet2: "タイ首相、15年ぶりにインドネシア訪問"
+            },
+            ko: {
+                  title: "태국 총리, 15년 만에 인도네시아 방문",
+                  desc: "아누틴 총리의 8월 3~4일 공식 방문은 태국 총리의 15년 만 인도네시아 방문이다.",
+                  content: "<p>아누틴 차른비라꾼 태국 총리가 8월 3~4일 인도네시아를 공식 방문한다. 태국 총리의 방문은 15년 만이라고 전해졌다.</p><p>자카르타 회담에서는 무역과 안보, 아세안 의제가 논의될 전망이다. 양국은 역내 안정에 공통 관심을 갖고 있다.</p><p>태국이 지역 역할을 준비하고 인도네시아가 동남아 협력을 강화하는 시점의 방문이다. 새로운 합의의 계기가 될 수 있다.</p><p>회담 결과는 정치적 관계를 실질 협력으로 전환할 수 있는지를 보여줄 것이다. 경제 연계와 연결성이 중요한 의제가 될 가능성이 크다.</p><p>양국 국민과 기업 간 관계를 강화할 기회이기도 하다. 방문 이후 후속 소통이 필요하다.</p>",
+                  source: "Bangkok Post",
+                  sourceUrl: "https://www.bangkokpost.com/thailand/general/3295399/anutin-begins-key-visit-to-indonesia",
+                  sourceSnippet: "태국 총리, 15년 만에 인도네시아 방문",
+                  source2: "Nikkei Asia",
+                  sourceUrl2: "https://asia.nikkei.com/spotlight/your-week-in-asia/anutin-s-indonesia-visit-japanese-carmaker-earnings-taiwan-drills",
+                  sourceSnippet2: "태국 총리, 15년 만에 인도네시아 방문"
+            },
+            zh: {
+                  title: "泰国总理开始15年来首次印尼之行",
+                  desc: "阿努廷总理8月3日至4日的正式访问，是泰国总理15年来首次访问印尼。",
+                  content: "<p>泰国总理阿努廷·查恩维拉库尔于8月3日至4日对印尼进行正式访问。据报道，这是泰国总理15年来首次访问印尼。</p><p>预计雅加达会谈将涉及贸易、安全和东盟议题。两国都关心地区稳定。</p><p>访问正值泰国准备扩大地区作用、印尼加强东南亚合作之际。双方会议可能为新协议创造空间。</p><p>会谈成果将显示两国能否把政治关系转化为实际合作。经济联系和互联互通可能成为重点。</p><p>此次访问也有助于加强两国民间与商业关系。访问结束后仍需要持续沟通。</p>",
+                  source: "Bangkok Post",
+                  sourceUrl: "https://www.bangkokpost.com/thailand/general/3295399/anutin-begins-key-visit-to-indonesia",
+                  sourceSnippet: "泰国总理开始15年来首次印尼之行",
+                  source2: "Nikkei Asia",
+                  sourceUrl2: "https://asia.nikkei.com/spotlight/your-week-in-asia/anutin-s-indonesia-visit-japanese-carmaker-earnings-taiwan-drills",
+                  sourceSnippet2: "泰国总理开始15年来首次印尼之行"
+            }
+      }
+},
     ]
   };
 })();
